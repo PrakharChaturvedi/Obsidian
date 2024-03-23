@@ -1,0 +1,89 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiCompass",
+      "LiCode2",
+      "LiSprout",
+      "🧠",
+      "🫀"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "icon": "LiCog",
+        "rule": "Coding Concepts\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 0,
+        "useFilePath": true
+      },
+      {
+        "icon": "💀",
+        "rule": "Obsedian Book/Soft Computing\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 1,
+        "useFilePath": true
+      },
+      {
+        "icon": "LiCode2",
+        "rule": "Obsedian Book/Codec\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 2,
+        "useFilePath": true
+      },
+      {
+        "icon": "🫀",
+        "rule": "Habit Tracker Calendar.md\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 3,
+        "useFilePath": true
+      },
+      {
+        "icon": "LiClover",
+        "rule": "Obsedian Book/Cryptography and network security\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 4,
+        "useFilePath": true
+      },
+      {
+        "icon": "LiSnail",
+        "rule": "Obsedian Book/Artificial intelligence\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 5,
+        "useFilePath": true
+      },
+      {
+        "icon": "LiCircleDollarSign",
+        "rule": "Obsedian Book/Machine learning\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 6,
+        "useFilePath": true
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Daily Note.md": "🧠",
+  "Imp's/Path-To-Sucess.md": "⭐",
+  "Imp's/Internships Summer 25.md": "LiSprout",
+  "Obsedian Book/Machine learning": "LiCircleDollarSign",
+  "Obsedian Book/Artificial intelligence": "LiSnail",
+  "Obsedian Book/Cryptography and network security": "LiClover",
+  "Habit Tracker Calendar.md": "🫀",
+  "Obsedian Book/Codec": "LiCode2",
+  "Obsedian Book/Soft Computing": "LiCompass"
+}

@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "b36dc984ffc27372",
+    "type": "split",
+    "children": [
+      {
+        "id": "eea30762b3512f2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d79f2ca8a373b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cryptography and network security/Ciphers.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be9f9404cfddcbba",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e57a1e10a1bce9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79c72e1a1bf6fe1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b7ee9143f8e4c87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fed6dac13dc4f3d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "29fb8238f0168a1e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f2d0c1ea3f7c86f",
+    "type": "split",
+    "children": [
+      {
+        "id": "97c8fd13a9d20e51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32982152701e42ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cryptography and network security/Ciphers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "86e17528cc0a299e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cryptography and network security/Ciphers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c7421fae2eb1c4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7f35868e0d4bac04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cryptography and network security/Ciphers.md"
+              }
+            }
+          },
+          {
+            "id": "4f5ed547376c187c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "74bd4151b707451e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 383.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "spreadsheets:New Spreadsheet": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "1d79f2ca8a373b5f",
+  "lastOpenFiles": [
+    "Cryptography and network security/Pasted image 20230921130054.png",
+    "Cryptography and network security/Pasted image 20230921132448.png",
+    "Cryptography and network security/Ciphers.md",
+    "Pasted image 20230921125217.png",
+    "Cryptography and network security/Chapter 1.md",
+    "Engineers Day Quiz.md",
+    "Atharva Bhaiya.md",
+    "ImageAPI for rendering.md",
+    "Internships Summer 25.md",
+    "Untitled 1.md",
+    "Untitled.sheet",
+    "S-Box Encryption.md",
+    "Adole/plan/michel/today.md",
+    "Adole/plan/prakhar/Today.md",
+    "Adole/plan/prakhar/Tasks Remaining.md",
+    "Excalidraw/Drawing 2023-09-20 16.59.06.excalidraw.md",
+    "Cryptography and network security/Syllabus and To-Do list.md",
+    "Machine learning/Chapter 2 - Classifiers.md",
+    "Theory of computation/Toc Notes.md",
+    "Theory of computation/Syllabus and To-Do list.md",
+    "Theory of computation/Questions.md",
+    "Excalidraw/Drawing 2023-09-20 10.21.08.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-20 10.19.47.excalidraw.md",
+    "Machine learning/Chapter 1.md",
+    "Adole/plan/michel/refs/endpoints.md",
+    "Adole/plan/michel/refs",
+    "Adole/debug.yml",
+    "Adole/plan/README.md",
+    "Adole/plan/michel/notes.md",
+    "Adole/plan/michel/endpoints.md",
+    "Adole/plan/michel/workprocess.md",
+    "Adole/plan/prakhar",
+    "Adole/plan/michel",
+    "Adole/plan",
+    "Adole/optimize",
+    "Adole/design/sea-of-pics",
+    "Adole/design/diagrams",
+    "Adole/design/assets/images/Drawing 2023-06-19 traceableAI example.png",
+    "Adole/design/assets/images/AdoHybrid.png",
+    "Adole/design/assets/images/2023-06-19 traceableAI example.png",
+    "Adole/design/assets/images/2023-05-01 15.41 paper tech.png",
+    "Adole/design/assets/images/2023-04-07 17.31 logo.png",
+    "Adole/design/assets/images/2023-04-06 16.17 AdoLE.svg",
+    "Adole/design/assets/images/2023-01-10 01.49 3 pillars of health.png",
+    "Adole/design/assets/images",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

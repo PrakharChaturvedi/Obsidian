@@ -1,0 +1,23 @@
+- Simple Linear Regression 
+	- No. of rooms -> House price 
+	- independent variable - > Dependent variable
+	- X -> Y
+	- y = mx+c+E or y = b0+b1x+E
+		- Where b0 -> y intercept
+- Multiple Linear Regression
+	- No. of rooms, Area, Age , Locality -> House Price
+	- x1 ,x2, x3 , x4 -> y (Continious)
+	- y = m1x1 + m2x2 + m3x3 + m4x4+ C + E or y=b0+b1x1+b2x2+b3x3+b4x4+E
+	- Sometimes coefficient will be +Ve and some time they will be -Ve.
+	- It is a lengthy process with as many iterations as no. of variables. 
+	- It is also a 
+- Logistic regression 
+	- It has a S curve called Sigmoid Curve.
+	- It is a curve equations having only extreme values of coefficients.
+	- It is solved and plotted using a log.
+	- It is not possible to solve this on paper we need a machine to solve it.
+- Support Vector Machine 
+	- High-> Low - > Medium 
+	- We classify the data into certain classes. 
+	- We try to find the unlabeled data using supporting vectors.
+

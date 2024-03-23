@@ -1,0 +1,10 @@
+{
+  "accentColor": "#09989a",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Arial Rounded MT",
+  "textFontFamily": "Cascadia Code",
+  "baseFontSize": 18,
+  "cssTheme": "Things",
+  "translucency": false,
+  "nativeMenus": true
+}
