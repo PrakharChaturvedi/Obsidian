@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-03-23.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afc67c6e80870952",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsedian Book/Soft Computing/2 Notes.md",
+                "file": "Untitled/Khao pio moj karo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-03-23.md",
+                "file": "Untitled/Khao pio moj karo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-03-23.md",
+                "file": "Untitled/Khao pio moj karo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-03-23.md"
+                "file": "Untitled/Khao pio moj karo.md"
               }
             }
           },
@@ -182,28 +169,38 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "excel:Create Excel File": false
     }
   },
   "active": "c3af757a7d6792de",
   "lastOpenFiles": [
+    "Untitled/Untitled.md",
+    "Untitled/Khao pio moj karo.md",
+    "Obsedian Book/IOT/Notes 2.md",
+    "Untitled",
+    "Obsedian Book/IOT/7 Markers.md",
+    "Obsedian Book/DSA/Stack and Queue.md",
+    "Obsedian Book/DSA/Array and Array List.md",
+    "Habit Tracker Calendar.md",
+    "Imp's/Path-To-Sucess.md",
+    "Obsedian Book/Soft Computing/2 Notes.md",
+    "Daily Note/2024-03-23.md",
     "Obsedian Book/Machine learning/My Notes 2.md",
     "Obsedian Book/Machine learning/My notes 1.md",
-    "Obsedian Book/Soft Computing/2 Notes.md",
     "Obsedian Book/Soft Computing/Convolutional Parameters.md",
     "Obsedian Book/Soft Computing/Drawing 2024-03-19 20.57.07.excalidraw.md",
     "Obsedian Book/Soft Computing/Images/Excel 2024-03-11 09.50.25.sheet.md",
     "Obsedian Book/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md",
     "Obsedian Book/Soft Computing/Class Notes.md",
     "Obsedian Book/Cloud Computing/Notes 1.md",
-    "Daily Note/2024-03-23.md",
     "AWS IIT.md",
     "Obsedian Book/Cloud Computing/Notes 2.md",
     "Daily Note/2024-03-22.md",
     "Obsedian Book/Programming Updates.md",
     "Cloud/Daily notes.md",
     "Obsedian Book/Cloud Computing/Images/Pasted image 20240321225821.png",
-    "Obsedian Book/IOT/Notes 2.md",
     "Obsedian Book/IOT/IOT questions.md",
     "Obsedian Book/Cloud Computing/Images",
     "Obsedian Book/Cloud Computing/Images/Pasted image 20240321205824.png",
@@ -212,14 +209,7 @@
     "Obsedian Book/IOT/Pasted image 20240320215317.png",
     "Obsedian Book/IOT/Pasted image 20240320145620.png",
     "Daily Note/2024-03-21.md",
-    "Obsedian Book/IOT/7 Markers.md",
     "Daily Note/2024-03-20.md",
-    "Daily Note/2024-03-19.md",
-    "Daily Note.md",
-    "Obsedian Book/Machine learning/My notes 3.md",
-    "Adole/plan/prakhar/Tasks Remaining.md",
-    "Adole/plan/prakhar/Graph API updates.md",
-    "Adole/design/README.md",
     "Adole/design/assets/images/2023-04-06 16.17 AdoLE.svg",
     "Adole/design/assets/images/2023-04-07 17.31 logo.png",
     "Adole/design/assets/images/2023-05-01 15.41 paper tech.png",
@@ -232,7 +222,6 @@
     "Obsedian Book/IOT",
     "Cloud/Untitled",
     "Cloud",
-    "FlutterProjectDetails",
     "To_doList/Untitled.canvas",
     "Untitled 1.canvas"
   ]
