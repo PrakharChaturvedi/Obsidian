@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsedian Book/Machine learning/My notes 3.md",
+                "file": "Daily Note/2024-03-23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsedian Book/Machine learning/My notes 3.md",
+                "file": "Daily Note/2024-03-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsedian Book/Machine learning/My notes 3.md",
+                "file": "Daily Note/2024-03-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsedian Book/Machine learning/My notes 3.md"
+                "file": "Daily Note/2024-03-23.md"
               }
             }
           },
@@ -182,9 +182,7 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "excel:Create Excel File": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "c3af757a7d6792de",
