@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/Khao pio moj karo.md",
+                "file": "GIt/Khao pio moj karo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/Khao pio moj karo.md",
+                "file": "GIt/Khao pio moj karo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/Khao pio moj karo.md",
+                "file": "GIt/Khao pio moj karo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/Khao pio moj karo.md"
+                "file": "GIt/Khao pio moj karo.md"
               }
             }
           },
@@ -177,9 +177,9 @@
   "active": "c3af757a7d6792de",
   "lastOpenFiles": [
     "Untitled/Untitled.md",
-    "Untitled/Khao pio moj karo.md",
+    "GIt/Khao pio moj karo.md",
     "Obsedian Book/IOT/Notes 2.md",
-    "Untitled",
+    "GIt",
     "Obsedian Book/IOT/7 Markers.md",
     "Obsedian Book/DSA/Stack and Queue.md",
     "Obsedian Book/DSA/Array and Array List.md",
