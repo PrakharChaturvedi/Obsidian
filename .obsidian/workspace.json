@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ab8af062e17b4fa",
+        "id": "9e6a80dc0edc4cd7",
         "type": "tabs",
         "children": [
           {
-            "id": "c3af757a7d6792de",
+            "id": "cab3c2d7a6e248b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "GIt/Khao pio moj karo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Imp's/Self-Driving Car.md"
               }
             }
           }
@@ -102,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIt/Khao pio moj karo.md",
+                "file": "Imp's/Self-Driving Car.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIt/Khao pio moj karo.md",
+                "file": "Imp's/Self-Driving Car.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIt/Khao pio moj karo.md"
+                "file": "Imp's/Self-Driving Car.md"
               }
             }
           },
@@ -174,10 +171,14 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "c3af757a7d6792de",
+  "active": "cab3c2d7a6e248b9",
   "lastOpenFiles": [
-    "Untitled/Untitled.md",
+    "Pasted Image 20240324195758_672.png",
+    "Imp's/Self-Driving Car.md",
+    "Imp's/Untitled.md",
+    "Daily Note/2024-03-24.md",
     "GIt/Khao pio moj karo.md",
+    "Untitled/Untitled.md",
     "Obsedian Book/IOT/Notes 2.md",
     "GIt",
     "Obsedian Book/IOT/7 Markers.md",
@@ -199,17 +200,13 @@
     "Obsedian Book/Cloud Computing/Notes 2.md",
     "Daily Note/2024-03-22.md",
     "Obsedian Book/Programming Updates.md",
-    "Cloud/Daily notes.md",
     "Obsedian Book/Cloud Computing/Images/Pasted image 20240321225821.png",
-    "Obsedian Book/IOT/IOT questions.md",
     "Obsedian Book/Cloud Computing/Images",
     "Obsedian Book/Cloud Computing/Images/Pasted image 20240321205824.png",
     "Obsedian Book/IOT/WhatsApp Image 2024-03-20 at 21.20.24_61479122.jpg",
     "Obsedian Book/IOT/Pasted image 20240320215526.png",
     "Obsedian Book/IOT/Pasted image 20240320215317.png",
     "Obsedian Book/IOT/Pasted image 20240320145620.png",
-    "Daily Note/2024-03-21.md",
-    "Daily Note/2024-03-20.md",
     "Adole/design/assets/images/2023-04-06 16.17 AdoLE.svg",
     "Adole/design/assets/images/2023-04-07 17.31 logo.png",
     "Adole/design/assets/images/2023-05-01 15.41 paper tech.png",
