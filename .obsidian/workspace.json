@@ -11,9 +11,12 @@
             "id": "cab3c2d7a6e248b9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Imp's/Self-Driving Car.md"
+                "file": "Imp's/Finance Project.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -67,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "07ec4f66eb7b26f8",
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imp's/Self-Driving Car.md",
+                "file": "Imp's/Finance Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imp's/Self-Driving Car.md",
+                "file": "Imp's/Finance Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imp's/Self-Driving Car.md"
+                "file": "Imp's/Finance Project.md"
               }
             }
           },
@@ -174,9 +176,10 @@
   },
   "active": "cab3c2d7a6e248b9",
   "lastOpenFiles": [
-    "Pasted Image 20240324195758_672.png",
     "Imp's/Self-Driving Car.md",
-    "Imp's/Untitled.md",
+    "Imp's/Finance Project.md",
+    "Daily Note/2024-03-25.md",
+    "Pasted Image 20240324195758_672.png",
     "Daily Note/2024-03-24.md",
     "GIt/Khao pio moj karo.md",
     "Untitled/Untitled.md",
@@ -211,7 +214,6 @@
     "Adole/design/assets/images/2023-04-06 16.17 AdoLE.svg",
     "Adole/design/assets/images/2023-04-07 17.31 logo.png",
     "Adole/design/assets/images/2023-05-01 15.41 paper tech.png",
-    "Adole/design/assets/images/2023-01-10 01.49 3 pillars of health.png",
     "Coding Concepts",
     "Obsedian Book/Cloud Computing",
     "Obsedian Book/Soft Computing/Images",

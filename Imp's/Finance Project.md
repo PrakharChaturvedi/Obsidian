@@ -1,0 +1,14 @@
+## Requirements
+- Admin app side
+	- all client info 
+		- Phone number
+		- Email
+		- Name
+		- PAN 
+	- Personal Branded Image
+	- SIP report
+	- Calculator and tools
+	- MF Corner 
+- Client app side
+	- PNL report
+	- Tax Report 
