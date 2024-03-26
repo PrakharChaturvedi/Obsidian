@@ -11,9 +11,12 @@
             "id": "cab3c2d7a6e248b9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Imp's/Self-Driving Car.md"
+                "file": "Daily Note/2024-03-26.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -99,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imp's/Self-Driving Car.md",
+                "file": "Daily Note/2024-03-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imp's/Self-Driving Car.md",
+                "file": "Daily Note/2024-03-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imp's/Self-Driving Car.md"
+                "file": "Daily Note/2024-03-26.md"
               }
             }
           },
@@ -173,8 +176,9 @@
   },
   "active": "cab3c2d7a6e248b9",
   "lastOpenFiles": [
-    "Imp's/Finance Project.md",
     "Imp's/Self-Driving Car.md",
+    "Daily Note/2024-03-26.md",
+    "Imp's/Finance Project.md",
     "Daily Note/2024-03-25.md",
     "Pasted Image 20240324195758_672.png",
     "Daily Note/2024-03-24.md",
@@ -200,7 +204,6 @@
     "AWS IIT.md",
     "Obsedian Book/Cloud Computing/Notes 2.md",
     "Daily Note/2024-03-22.md",
-    "Obsedian Book/Programming Updates.md",
     "Obsedian Book/Cloud Computing/Images/Pasted image 20240321225821.png",
     "Obsedian Book/Cloud Computing/Images",
     "Obsedian Book/Cloud Computing/Images/Pasted image 20240321205824.png",
