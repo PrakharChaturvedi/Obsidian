@@ -46,9 +46,26 @@ Database (MongoDB)
 ```
 
 
-###### Application Information - How MVC (model view controller) is working 
+##### Application Information - How MVC (model view controller) is working 
 - The `ApiClient` class handles API requests, the `PopularProductRepo` acts as a repository for fetching and handling data, and the `PopularProductController` manages the application logic related to popular products. The `Product` and `ProductModel` classes represent the structure of the data being handled in the application. 
 
+###### Features 
+- Home page
+- Sign in and Sign up
+- Shopping Cart
+- Local cart history page
+- Server cart history page
+- Profile Page
+- Popular Food Page
+- Recommended Food Page
+- Order more function
+- Go to Sign in page
+- Address page
+- Google map page
+- Search Address
+- Backend (Backend shows users orders, total orders, users' info, payment info, etc...)
+- Creating new items
+- UPI Payment page with database sync 
 
 
 

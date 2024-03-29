@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "⛈",
       "LiCompass",
       "LiCode2",
       "LiSprout",
-      "🧠",
-      "🫀"
+      "🧠"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -80,10 +80,11 @@
   "Daily Note.md": "🧠",
   "Imp's/Path-To-Sucess.md": "⭐",
   "Imp's/Internships Summer 25.md": "LiSprout",
-  "Obsedian Book/Machine learning": "LiCircleDollarSign",
-  "Obsedian Book/Artificial intelligence": "LiSnail",
-  "Obsedian Book/Cryptography and network security": "LiClover",
   "Habit Tracker Calendar.md": "🫀",
-  "Obsedian Book/Codec": "LiCode2",
-  "Obsedian Book/Soft Computing": "LiCompass"
+  "THE VAULT/Artificial intelligence": "LiSnail",
+  "THE VAULT/Codec": "LiCode2",
+  "THE VAULT/Cryptography and network security": "LiClover",
+  "THE VAULT/Machine learning": "LiCircleDollarSign",
+  "THE VAULT/Soft Computing": "LiCompass",
+  "THE VAULT/API Notes": "⛈"
 }
