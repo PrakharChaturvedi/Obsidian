@@ -11,8 +11,13 @@
             "id": "311c177db3021e3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Note/2024-03-28.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Note/2024-03-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Note/2024-03-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Note/2024-03-28.md"
+              }
             }
           },
           {
@@ -167,6 +176,7 @@
   },
   "active": "311c177db3021e3e",
   "lastOpenFiles": [
+    "Daily Note/2024-03-28.md",
     "Daily Note/2024-03-26.md",
     "Habit Tracker Calendar.md",
     "Imp's/Self-Driving Car.md",
@@ -194,7 +204,6 @@
     "Obsedian Book/Cloud Computing/Notes 1.md",
     "AWS IIT.md",
     "Obsedian Book/Cloud Computing/Notes 2.md",
-    "Daily Note/2024-03-22.md",
     "Obsedian Book/Cloud Computing/Images/Pasted image 20240321225821.png",
     "Obsedian Book/Cloud Computing/Images",
     "Obsedian Book/Cloud Computing/Images/Pasted image 20240321205824.png",
