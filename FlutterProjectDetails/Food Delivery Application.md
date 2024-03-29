@@ -1,19 +1,5 @@
-### Back End Information - How MVC (model view controller) is working 
-- The `ApiClient` class handles API requests, the `PopularProductRepo` acts as a repository for fetching and handling data, and the `PopularProductController` manages the application logic related to popular products. The `Product` and `ProductModel` classes represent the structure of the data being handled in the application. 
-
-### In which file I have what?
-- main.dart -> Mail file of the whole project
-- MainFoodPage.dart -> Main screen of application 
-	- Calls the following
-		- _FoodPageBody.dart -> Has page view container for both Recommended and product list of dishes or items.
-		- AppColumn.dart -> Has rating and details about the items/products. 
-
-
-
-
-## File Structure of Food App :
-
-``` markdown-tree File St
+##### File Structure of Food App :
+``` markdown-tree File Structure
 Client (Flutter Application) => 
 	 lib :
 		 Controllers
@@ -24,8 +10,46 @@ Client (Flutter Application) =>
 			Repository 
 				popular_product_repo.dart
 		 Helper
+			 Dependencies.dart
 		 Models
+			 product_model.dart
 		 Pages
+			 Food
+				 popular_food_details.dart
+				 recommended_food.dart
+			 Home
+				 food_page_body.dart
+				 main_food_page.dart
+		 Routes
+			 route_helper.dart
 		 Testing_Servers
+			 testing_api.dart
 		 Utils   
+			 app_constants.dart
+			 colors.dart
+			 dimensions.dart
+		Widgets 
+			app_column.dart
+			app_icon.dart
+			big_text.dart
+			expandable_text.dart
+			icon_and_text_widget.dart
+			small_text.dart
+	main.dart
+
+
+Server (Node.js)
+	Node.js
+
+Database (MongoDB)
+	Products (Tables)
 ```
+
+
+###### Application Information - How MVC (model view controller) is working 
+- The `ApiClient` class handles API requests, the `PopularProductRepo` acts as a repository for fetching and handling data, and the `PopularProductController` manages the application logic related to popular products. The `Product` and `ProductModel` classes represent the structure of the data being handled in the application. 
+
+
+
+
+
