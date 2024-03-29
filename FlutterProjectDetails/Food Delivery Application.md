@@ -7,4 +7,25 @@
 	- Calls the following
 		- _FoodPageBody.dart -> Has page view container for both Recommended and product list of dishes or items.
 		- AppColumn.dart -> Has rating and details about the items/products. 
-- 
+
+
+
+
+## File Structure of Food App :
+
+``` markdown-tree File St
+Client (Flutter Application) => 
+	 lib :
+		 Controllers
+			 popular_product_repo.dart
+		 Data
+			 API
+				 api_client.dart
+			Repository 
+				popular_product_repo.dart
+		 Helper
+		 Models
+		 Pages
+		 Testing_Servers
+		 Utils   
+```
