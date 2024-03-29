@@ -42,7 +42,7 @@ Server (Node.js)
 	Node.js
 
 Database (MongoDB)
-	Products (Tables)
+	Products [Table 1 stores prduct details]
 ```
 
 
