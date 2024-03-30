@@ -18,7 +18,7 @@
 
 - BSON :
 	- Binary Structure encodes type and length information, which allows it to be traversed much more quickly compared to JSON.
-
+- Note : Every Document in MongoDB has a size limit of 16 mb. 
 ## Some basic commands for monogsh shell :
 - `show dbs` : Shows all the databases, displays a list of all the available databases.
 - `use database_name` : The command creates a new database if it doesn't exists, otherwise it will return the existing database.
@@ -171,4 +171,113 @@
 
 
 
-## 
+## Embedded documents in MongoDB
+- Embedded documents are an efficient and clean way to store related data, specially data that's regularly accessed together.
+- Should prefer this style as default. The more often a given workload can retrieve a single document and have all the data it needs, the more consistently high-performance your application will be.
+
+## Projection in MongoDB
+- In projection :
+	- 1 -> show
+	- 0 -> hide
+- Examples : 
+	- If you want to see a specific document filed as output then you can do that as, 
+		`db.students.find({},{name : 1})` -> This shows both objectID and name, rest assumes that other fields are '0'.
+	- `db.students.find({},{name:1, _id : 0, age : 0})` -> Only shows name field in terminal output.
+
+## Datatypes in MongoDB
+- Text : 'String' or "String"
+- Boolean : true or false
+- Number 
+	- Integer -> 32 bits
+	- NumberLong -> 64 bits
+	- NumberDecimal -> In decimal
+- ObjectId : Already covered
+- ISODate : new Data() -> ISO object, a single international standard
+- TimeStamp : 
+	- new TimeStamp -> Object to find time to the second
+	- It also gives a second filed i to find exactly the order of time stamp update in the whole database.
+- Array : [] -> A new list inside a document.
+- Embedded document : Already covered
+
+## Validations 
+- Schema validation let's you create validation riles for your fields, such as allowed data types and value ranges.
+- MongoDB uses a flexible schema model, which means that the documents in a collection do not need to have the same fields or data types by default. Once you've established an application schema, you can use schema validation to ensure there are no unintended schema changes or improper data types.
+- Example : 
+```
+db.createCollection ( 
+"nonfiction", {
+	validator : { ------> for validation
+		$jsonSchema : {
+			required : ['name', 'price'], ------> fields that must be entered
+			properties : {
+				name : { ------> for name
+					bsonType : 'String',
+					description : 'must be a String'
+				},
+				price : { ------> for price
+					bsonType : 'number',
+					description : 'must be a number'
+				} 
+			}
+		}
+	}
+	validation Action : 'error' ------> for error/warning
+}
+)
+```
+- To modify validation of an existing collection we use collmod.
+```
+db.runCommand({
+	collmod : "NonFinction",
+	validator : {
+		// Same as last Example
+		author : {
+			bsonType : 'array',
+			description : 'must be an array',
+			items : {
+				bsonType : 'object',
+				required : ['name','email'],
+				properties : [........]
+			}
+		}
+	}
+})
+```
+
+
+## Operations
+- It is the second argument in that contains two optional field-and-value pairs : 
+	- Write Concern : 
+		- It specifies the write concern. If you omit it, the insertMany() method will use the default write concern.
+		- `{w : <value>, j : <boolean>, wtimeout : <number>}`
+			- wtimeout : Time limit for a write operation.
+			- j (journal) : If you write operation is stopped/terminated for some reason. Once the operations start again server can refer to journal to verify that the write operation was completed or not.
+			- w (acknowledgement) : If 0 server does not wait for acknowledgement and vice versa
+		- If w and j are false and 0 then the operations are faster.
+	- Ordered :
+		- It is a Boolean value that determines whether MongoDB should perform an ordered or unordered insert. 
+		- Example : `db.documents.insertMany({},oredered.false)`
+
+#### Atomicity :
+- In MongoDB, a write operation is atomic on the level of a single document, even if the operation modifies embedded document within a single document. 
+
+#### Mongo Import
+- If you want to import and use a json file in you mongo shell, this can be done by mongo import.
+- Steps :
+	- Open cmd and write :
+		- `mongoimport "Path_to_jsonFile" --d DatabaseName -c CollectionName --jsonArray --drop`
+		- drop : If collection already exists then mongoDB will drop it.
+		- jsonArray : If we dont mention jsonArray then MongoDB will take this as a single document.
+
+## Operators
+- Comparison operators : 
+	- `$eq` : Equal to
+	- `$ne` : Not equal to 
+	- `$lt` : less than
+	- `$gt` : greater than 
+	- `$lte` : less than equal to 
+	- `$gte` : greater than equal to 
+	- `$in` : in           -|  Used for sepecifying 
+	- `$nin` : not in   -|            a list
+	- Example :
+		- `db.students.find`
