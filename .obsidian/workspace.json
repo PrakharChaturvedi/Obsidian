@@ -6,6 +6,7 @@
       {
         "id": "b64742426c516bfe",
         "type": "tabs",
+        "dimension": 53.65659777424483,
         "children": [
           {
             "id": "6e6b63ac73f9ec05",
@@ -13,11 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Imp's/Acumen Decisions.md",
+                "file": "THE VAULT/Mongo DB/Mongo DB Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f32509a9502d60ce",
+        "type": "tabs",
+        "dimension": 46.34340222575516,
+        "children": [
+          {
+            "id": "05219062dc49215b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -102,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imp's/Acumen Decisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imp's/Acumen Decisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Imp's/Acumen Decisions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,14 +186,14 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "6e6b63ac73f9ec05",
+  "active": "05219062dc49215b",
   "lastOpenFiles": [
-    "Daily Note/2024-03-30.md",
     "THE VAULT/Mongo DB/Mongo DB Notes.md",
+    "Imp's/Acumen Decisions.md",
+    "Daily Note/2024-03-30.md",
     "THE VAULT/API Notes/API notes 1.md",
     "THE VAULT/Untitled",
     "THE VAULT/API Notes",
-    "Imp's/Acumen Decisions.md",
     "FlutterProjectDetails/Food Delivery Application.md",
     "THE VAULT/Programming Updates.md",
     "Habit Tracker Calendar.md",
