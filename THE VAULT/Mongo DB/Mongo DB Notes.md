@@ -280,4 +280,27 @@ db.runCommand({
 	- `$in` : in           -|  Used for sepecifying 
 	- `$nin` : not in   -|            a list
 	- Example :
-		- `db.students.find`
+		- `db.students.find({age : {$eq : 5}})` : finds students aged = 5.
+		- `db.students.find({age : {age : $nin : [5,12]}})` 
+- Logical operators : 
+	- Four logical operators :
+		- `$and`
+		- `$or`
+		- `$nor`
+		- `$not` 
+		- Example :  ```
+```
+			db.students.find(
+				{$or : [{age : {$lte : 10}},
+				{age : {$gte : 12}}
+				]})
+			-> Comma seperated list of conditions
+```
+- Element query operator : 
+	- Returns data based on fields existence or data types.
+	- $exists : Matches documents that have the specified field.
+	- 
+
+
+
+
