@@ -277,7 +277,7 @@ db.runCommand({
 	- `$gt` : greater than 
 	- `$lte` : less than equal to 
 	- `$gte` : greater than equal to 
-	- `$in` : in           -|  Used for sepecifying 
+	- `$in` : in           -|  Used for specifying 
 	- `$nin` : not in   -|            a list
 	- Example :
 		- `db.students.find({age : {$eq : 5}})` : finds students aged = 5.
@@ -298,9 +298,13 @@ db.runCommand({
 ```
 - Element query operator : 
 	- Returns data based on fields existence or data types.
-	- $exists : Matches documents that have the specified field.
-	- 
-
-
-
-
+	- `$exists` : Matches documents that have the specified field.
+	- `$type` : Selects documents if a field is of the specified type.
+	- Example : 
+		- `db.students.find(hasMacbook : {$exists : true})` : returns the document which satisfies condition.
+		- ```db.students.find(hasMacBook : {
+			    exixts : ture,
+				$type : "bool" 
+				}})```
+- Evaluation operators : 
+	- `$expr` : It takes a MongoDB expression as its argument and returns, the result of expression. You can use this operator to perform comparis   
