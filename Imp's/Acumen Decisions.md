@@ -9,7 +9,7 @@
 - [ ] Learn React Native framework 
 
 - Make E-notes of :
-	- [ ] Mongo DB
+	- [x] Mongo DB
 	- [ ] SQL
 	- [ ] API's
 	- [ ] Java for interviews (Do some DSA for placements)
