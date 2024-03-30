@@ -307,4 +307,35 @@ db.runCommand({
 				$type : "bool" 
 				}})```
 - Evaluation operators : 
-	- `$expr` : It takes a MongoDB expression as its argument and returns, the result of expression. You can use this operator to perform comparis   
+	- `$expr` : It takes a MongoDB expression as its argument and returns, the result of expression. You can use this operator to perform comparison, arithmetic operations, and other types of repressions within the query pipeline.
+		- Example :
+			- ```db.collection.find({$expr : { 
+					 $gt : ["price", {$avg : "$price"}]
+				 }) -> Price > Average Price```
+	- `$jsonSchema` : Validate documents against the given JSON schema. 
+	- `$regex` : Selects documents where values matches a specified regular expression.
+		- ```db.collection.find({name : { 
+					 {$regex : /^A/}
+				 })```
+	- `$text` : You must create a test index on the field(s) you want to search. A test index allows mongoDB to search for specific words and phrases in the indexed fields and return documents that match the search criteria.
+		- Example :
+			- ```db.collection.find({$text : { 
+					 $search : "RED SHIRT"
+				 }}) 
+				 -> returns documents which has text indexed and has "RED SHIRT". Exact match of red shirt is not nexesarry```
+	- `$mod` : modulus
+		- Example :
+			- ```db.collection.find({
+			 quantity : { 
+					 $mod : [3,0]
+				 }) 
+				 -> Returns documents which has field quantity, when that quantity is devided by 3 it gives 0 remainder
+				 ```
+- Some more operators (Advance update) 
+	- `$inc` : increment operator
+	- `$min` : to decrease
+	- `$max` : to increase 
+	- `$mul` : multiply, to multiply document field with any integer 
+	- `$unset` : to remove a field from document
+	- `$rename` : to rename a field in a document 
+	- `$upsert` : to insert and update the value in any operation
