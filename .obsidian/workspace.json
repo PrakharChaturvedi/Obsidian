@@ -6,38 +6,14 @@
       {
         "id": "b64742426c516bfe",
         "type": "tabs",
-        "dimension": 53.65659777424483,
         "children": [
           {
             "id": "6e6b63ac73f9ec05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "THE VAULT/Soft Computing/2 Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f32509a9502d60ce",
-        "type": "tabs",
-        "dimension": 46.34340222575516,
-        "children": [
-          {
-            "id": "05219062dc49215b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Imp's/Acumen Decisions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Imp's/Self-Driving Car.md"
               }
             }
           }
@@ -123,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Soft Computing/2 Notes.md",
+                "file": "Imp's/Self-Driving Car.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Soft Computing/2 Notes.md",
+                "file": "Imp's/Self-Driving Car.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Soft Computing/2 Notes.md"
+                "file": "Imp's/Self-Driving Car.md"
               }
             }
           },
@@ -197,11 +173,12 @@
   },
   "active": "6e6b63ac73f9ec05",
   "lastOpenFiles": [
+    "Imp's/Engineers Day Quiz.md",
     "THE VAULT/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md",
-    "THE VAULT/Soft Computing/Class Notes.md",
-    "THE VAULT/Soft Computing/Drawing 2024-03-19 20.57.07.excalidraw.md",
     "THE VAULT/Soft Computing/Convolutional Parameters.md",
+    "THE VAULT/Soft Computing/Drawing 2024-03-19 20.57.07.excalidraw.md",
     "THE VAULT/Soft Computing/2 Notes.md",
+    "THE VAULT/Soft Computing/Class Notes.md",
     "FlutterProjectDetails/Food Delivery Application.md",
     "Daily Note/2024-04-03.md",
     "Coding Concepts/Dynamic Programming.md",
@@ -224,7 +201,6 @@
     "Daily Note/2024-03-29.md",
     "Daily Note/2024-03-28.md",
     "Daily Note/2024-03-26.md",
-    "Daily Note/2024-03-25.md",
     "Pasted Image 20240324195758_672.png",
     "GIt",
     "THE VAULT/Cloud Computing/Images/Pasted image 20240321225821.png",
