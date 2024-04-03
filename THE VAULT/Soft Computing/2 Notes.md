@@ -213,6 +213,8 @@
 	4. **Backward Pass (Gradient Calculation)**: Propagate the error backward through the network to calculate the gradient of the loss function with respect to each weight and bias parameter. This is done using the chain rule of calculus, computing the partial derivatives of the loss function with respect to each parameter.
 	5. **Update Parameters**: Adjust the weights and biases of the network in the opposite direction of the gradient, scaled by a factor called the learning rate. This step aims to minimize the loss function. The updated weights and biases are calculated using the gradient descent update rule:
 		- <font color="#92d050">New Weight = Old Weight − Learning Rate × Gradient of Loss with respect to Weight</font>
+			- New Weight = old weight - λ △J(θ) 
+			- Here, λ = learning rate, △ = gradient, θ = loss function. 
 		- <font color="#92d050">New Bias = Old Bias − Learning Rate × Gradient of Loss with respect to Bias.</font>
 	6. **Repeat**: Repeat steps 2-5 for a fixed number of iterations (epochs) or until the loss converges to a satisfactory level.
 

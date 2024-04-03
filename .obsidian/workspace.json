@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding Concepts/Dynamic Programming.md",
-                "mode": "preview",
+                "file": "THE VAULT/Soft Computing/2 Notes.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Dynamic Programming.md",
+                "file": "THE VAULT/Soft Computing/2 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Dynamic Programming.md",
+                "file": "THE VAULT/Soft Computing/2 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Dynamic Programming.md"
+                "file": "THE VAULT/Soft Computing/2 Notes.md"
               }
             }
           },
@@ -197,10 +197,12 @@
   },
   "active": "6e6b63ac73f9ec05",
   "lastOpenFiles": [
+    "FlutterProjectDetails/Food Delivery Application.md",
+    "Daily Note/2024-04-03.md",
+    "Coding Concepts/Dynamic Programming.md",
     "GIt/Khao pio moj karo.md",
     "Daily Note.md",
     "AWS IIT.md",
-    "FlutterProjectDetails/Food Delivery Application.md",
     "THE VAULT/Mongo DB/Mongo DB Notes.md",
     "Imp's/Acumen Decisions.md",
     "Daily Note/2024-04-02.md",
@@ -225,8 +227,6 @@
     "GIt",
     "THE VAULT/IOT/7 Markers.md",
     "THE VAULT/DSA/Stack and Queue.md",
-    "THE VAULT/DSA/Array and Array List.md",
-    "THE VAULT/Soft Computing/2 Notes.md",
     "THE VAULT/Cloud Computing/Images/Pasted image 20240321225821.png",
     "THE VAULT/Cloud Computing/Images",
     "THE VAULT/Cloud Computing/Images/Pasted image 20240321205824.png",
