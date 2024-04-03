@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/Mongo DB/Mongo DB Notes.md",
-                "mode": "source",
+                "file": "Coding Concepts/Dynamic Programming.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -32,8 +32,13 @@
             "id": "05219062dc49215b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Imp's/Acumen Decisions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -118,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Coding Concepts/Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Coding Concepts/Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Coding Concepts/Dynamic Programming.md"
+              }
             }
           },
           {
@@ -186,19 +195,21 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "05219062dc49215b",
+  "active": "6e6b63ac73f9ec05",
   "lastOpenFiles": [
+    "GIt/Khao pio moj karo.md",
+    "Daily Note.md",
+    "AWS IIT.md",
+    "FlutterProjectDetails/Food Delivery Application.md",
     "THE VAULT/Mongo DB/Mongo DB Notes.md",
     "Imp's/Acumen Decisions.md",
+    "Daily Note/2024-04-02.md",
     "Daily Note/2024-03-30.md",
     "THE VAULT/API Notes/API notes 1.md",
     "THE VAULT/Untitled",
     "THE VAULT/API Notes",
-    "FlutterProjectDetails/Food Delivery Application.md",
     "THE VAULT/Programming Updates.md",
     "Habit Tracker Calendar.md",
-    "Daily Note.md",
-    "AWS IIT.md",
     "Imp's/Finance Project.md",
     "Imp's/Internships Summer 25.md",
     "Imp's/Self-Driving Car.md",
@@ -209,7 +220,6 @@
     "Daily Note/2024-03-25.md",
     "Pasted Image 20240324195758_672.png",
     "Daily Note/2024-03-24.md",
-    "GIt/Khao pio moj karo.md",
     "Untitled/Untitled.md",
     "THE VAULT/IOT/Notes 2.md",
     "GIt",
@@ -217,7 +227,6 @@
     "THE VAULT/DSA/Stack and Queue.md",
     "THE VAULT/DSA/Array and Array List.md",
     "THE VAULT/Soft Computing/2 Notes.md",
-    "Daily Note/2024-03-23.md",
     "THE VAULT/Cloud Computing/Images/Pasted image 20240321225821.png",
     "THE VAULT/Cloud Computing/Images",
     "THE VAULT/Cloud Computing/Images/Pasted image 20240321205824.png",

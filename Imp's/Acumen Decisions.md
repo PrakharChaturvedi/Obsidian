@@ -22,5 +22,7 @@
 - Self-Driving car with UI 
 - Find an idea for major project Prakhar it's high time!! 
 
-
 ----------------------------------------------------------------- 
+## Ideas
+- Make a AR application to learn and understand concepts of physics, biology and chemistry. The app may also have a VR headset feature.
+- 
