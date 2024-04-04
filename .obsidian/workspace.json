@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "646d5097e507ec41",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-04 11.57.18.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-04-04.md",
+                "file": "Excalidraw/Drawing 2024-04-04 11.57.18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-04-04.md",
+                "file": "Excalidraw/Drawing 2024-04-04 11.57.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-04-04.md"
+                "file": "Excalidraw/Drawing 2024-04-04 11.57.18.excalidraw.md"
               }
             }
           },
@@ -174,8 +185,10 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "6e6b63ac73f9ec05",
+  "active": "646d5097e507ec41",
   "lastOpenFiles": [
+    "Daily Note/2024-04-04.md",
+    "Excalidraw/Drawing 2024-04-04 11.57.18.excalidraw.md",
     "PDF Vanshika.md",
     "WhatsApp Image 2024-04-04 at 10.43.26_c1c79666.jpg",
     "WhatsApp Image 2024-04-04 at 10.43.26_88d46b68.jpg",
@@ -184,7 +197,6 @@
     "WhatsApp Image 2024-04-04 at 10.43.26_8928a676.jpg",
     "WhatsApp Image 2024-04-04 at 10.43.26_0d3675db.jpg",
     "WhatsApp Image 2024-04-04 at 10.43.26_2ae85fbc.jpg",
-    "Daily Note/2024-04-04.md",
     "Imp's/Self-Driving Car.md",
     "Imp's/Engineers Day Quiz.md",
     "THE VAULT/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md",
