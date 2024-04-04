@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-04-04.md",
+                "file": "THE VAULT/Soft Computing/2 Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,15 @@
             }
           },
           {
-            "id": "646d5097e507ec41",
+            "id": "8890b3c27d5fe8d4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-04 11.57.18.excalidraw.md"
+                "file": "THE VAULT/Soft Computing/Class Notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -113,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-04 11.57.18.excalidraw.md",
+                "file": "THE VAULT/Soft Computing/Class Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-04 11.57.18.excalidraw.md",
+                "file": "THE VAULT/Soft Computing/Class Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-04 11.57.18.excalidraw.md"
+                "file": "THE VAULT/Soft Computing/Class Notes.md"
               }
             }
           },
@@ -185,8 +188,12 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "646d5097e507ec41",
+  "active": "8890b3c27d5fe8d4",
   "lastOpenFiles": [
+    "THE VAULT/Soft Computing/2 Notes.md",
+    "THE VAULT/Soft Computing/Class Notes.md",
+    "THE VAULT/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md",
+    "THE VAULT/Soft Computing/Drawing 2024-03-19 20.57.07.excalidraw.md",
     "Daily Note/2024-04-04.md",
     "Excalidraw/Drawing 2024-04-04 11.57.18.excalidraw.md",
     "PDF Vanshika.md",
@@ -199,11 +206,7 @@
     "WhatsApp Image 2024-04-04 at 10.43.26_2ae85fbc.jpg",
     "Imp's/Self-Driving Car.md",
     "Imp's/Engineers Day Quiz.md",
-    "THE VAULT/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md",
-    "THE VAULT/Soft Computing/Convolutional Parameters.md",
-    "THE VAULT/Soft Computing/Drawing 2024-03-19 20.57.07.excalidraw.md",
-    "THE VAULT/Soft Computing/2 Notes.md",
-    "THE VAULT/Soft Computing/Class Notes.md",
+    "THE VAULT/Soft Computing/Images/Convolutional Parameters.md",
     "FlutterProjectDetails/Food Delivery Application.md",
     "Daily Note/2024-04-03.md",
     "Coding Concepts/Dynamic Programming.md",

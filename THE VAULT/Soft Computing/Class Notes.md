@@ -38,3 +38,12 @@
 
 - Stride in CNN : How many pixels you need to shift 
 
+
+
+## RNN 
+- 2 types :
+	- Feed forward neural network
+		- Used for problems with constantly updating data (Continuous data)
+		- Draw the diagram of the same for better grades. 
+	- Feed backward neural network
+		- 
