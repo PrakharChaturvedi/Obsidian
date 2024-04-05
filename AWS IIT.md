@@ -73,6 +73,10 @@
 		- Time based cloud watch event -> Lambda function triggered -> EC2 instance stopped.
 	- Start instance of example :
 		- Time based CloudWatch event -> Lambda function triggered -> EC2 instance starts. 
+- Steps :
+	- AWS Console Active
+	- Services
+	- Console
 
 ## AWS Elastic Beanstalk
 - Serverless
@@ -98,4 +102,6 @@
 - Amazon RDS console
 - Amazon DynamoDB console
 - 
+
+
 
