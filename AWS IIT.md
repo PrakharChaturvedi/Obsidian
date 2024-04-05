@@ -55,4 +55,21 @@
 		- AWS EC2
 	- Kubernetes : open source, software for container architecture.
 - ECR : Elastic Container Registry 
-	- 
+	- ...
+
+
+## AWS Lambda 
+- It is a example of PAAS architecture.
+- In here we do not manage the server it is managed by AWS, we just have to mage the code part (Client End).
+- It is a serverless compute service.
+- We just have to pay for the compute time used. 
+	- Upload code -> Code compute (Run your code on a schedule or in response to events) -> Code runs (only when it is triggered) -> Pay only for the compute time that you use. 
+- Benefits :
+	- Pay-per-use.
+	- Supports multiple programming language.
+	- Completely automated administrator.
+- Schedule-based lambda function example :
+	- Stop instance of example :
+		- Time based cloud watch event -> Lambda function triggered -> EC2 instance stopped.
+	- Start instance of example :
+		- Time based CloudWatch event -> Lambda function triggered -> EC2 instance starts. 
