@@ -93,8 +93,9 @@
 - Amazon RDS - DIL
 - Amazon DynamoDB - DIL
 - Amazon Redshift - DIL
-- Amazon Aurora 
+- Amazon Aurora - DIL (5x faster than SQL) 
 ## Demos 
 - Amazon RDS console
 - Amazon DynamoDB console
+- 
 
