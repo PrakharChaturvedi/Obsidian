@@ -73,3 +73,29 @@
 		- Time based cloud watch event -> Lambda function triggered -> EC2 instance stopped.
 	- Start instance of example :
 		- Time based CloudWatch event -> Lambda function triggered -> EC2 instance starts. 
+
+## AWS Elastic Beanstalk
+- Serverless
+- PAAS with a difference that it is just an easy way to get web applications ip and running from AWS Lambda.
+- Managed services :
+	- Deployment
+		- Java
+		- .Net
+		- Node
+		- Express
+		- Microsoft SQL server 
+	- Load balancing 
+	- Automatic scaling
+	- Health monitoring
+	- etc....
+
+## Module overview :
+- Amazon RDS 
+- Amazon DynamoDB
+- Amazon Redshift
+- Amazon Aurora
+## Demos 
+- Amazon RDS console
+- Amazon DynamoDB console
+
+## 
