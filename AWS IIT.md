@@ -90,12 +90,11 @@
 	- etc....
 
 ## Module overview :
-- Amazon RDS 
-- Amazon DynamoDB
-- Amazon Redshift
-- Amazon Aurora
+- Amazon RDS - DIL
+- Amazon DynamoDB - DIL
+- Amazon Redshift - DIL
+- Amazon Aurora 
 ## Demos 
 - Amazon RDS console
 - Amazon DynamoDB console
 
-## 
