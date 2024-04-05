@@ -45,5 +45,14 @@
 		(4) |      Infrastructure     |
 	-  Virtual Machine Architecture:
 		- [[[Notes 1]]]
-	- Docker Container :
-	- ![[Pasted image 20240405110302.png]]
+	- Docker Container : ![[Pasted image 20240405110302.png]]
+
+- Note : Tester uses software called JBoss for java applications. Then application is uploaded to cloud. As JBoss was unable to work on all the VM's, we had to install it every time for a new Machine (Its a problem which is time and resource consuming).
+- ECS : Elastic container Service 
+	- A highly scalable, fast, container management service.
+	- ECS cluster options:
+		- AWS Fargate
+		- AWS EC2
+	- Kubernetes : open source, software for container architecture.
+- ECR : Elastic Container Registry 
+	- 
