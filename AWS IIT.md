@@ -29,3 +29,21 @@
 	- A key pair consists of -
 		- A public key that AWS store.
 		- A private key file that you store.
+
+
+
+## Docker 
+- Define :
+	- Docker is an open source platform that helps a user to package an application and its dependencies into a Docker Container for the development and deployment of software. 
+- Flow :
+	- Developer -> Docker Container -> Tester
+- Types of machine layer :
+	- Standard Machine (Layered)  :
+		(1) |App A| |App B| |App C|
+		(2) |       Bins/ Libs            | 
+		(3) |        Host OS             |
+		(4) |      Infrastructure     |
+	-  Virtual Machine Architecture:
+		- [[[Notes 1]]]
+	- Docker Container :
+	- ![[Pasted image 20240405110302.png]]
