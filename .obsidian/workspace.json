@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-04-05.md",
-                "mode": "source",
+                "file": "THE VAULT/Mongo DB/Mongo DB Notes.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 234.5,
+    "collapsed": true
   },
   "right": {
     "id": "07ec4f66eb7b26f8",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-04-05.md",
+                "file": "THE VAULT/Mongo DB/Mongo DB Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-04-05.md",
+                "file": "THE VAULT/Mongo DB/Mongo DB Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-04-05.md"
+                "file": "THE VAULT/Mongo DB/Mongo DB Notes.md"
               }
             }
           },
@@ -176,6 +177,7 @@
   },
   "active": "daaa35c61f6e1bca",
   "lastOpenFiles": [
+    "Daily Note/2024-04-07.md",
     "Daily Note/2024-04-05.md",
     "THE VAULT/Mongo DB/Mongo DB Notes.md",
     "AWS IIT.md",
@@ -211,7 +213,6 @@
     "THE VAULT/API Notes/API notes 1.md",
     "THE VAULT/Untitled",
     "THE VAULT/API Notes",
-    "THE VAULT/Programming Updates.md",
     "Pasted Image 20240324195758_672.png",
     "GIt",
     "THE VAULT/Cloud Computing/Images/Pasted image 20240321225821.png",
