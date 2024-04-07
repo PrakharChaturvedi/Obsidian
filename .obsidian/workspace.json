@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/Mongo DB/Mongo DB Notes.md",
-                "mode": "preview",
+                "file": "Daily Note/2024-04-07.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "07ec4f66eb7b26f8",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Mongo DB/Mongo DB Notes.md",
+                "file": "Daily Note/2024-04-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Mongo DB/Mongo DB Notes.md",
+                "file": "Daily Note/2024-04-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Mongo DB/Mongo DB Notes.md"
+                "file": "Daily Note/2024-04-07.md"
               }
             }
           },
