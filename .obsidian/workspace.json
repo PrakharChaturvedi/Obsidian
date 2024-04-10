@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-04-10.md",
+                "file": "THE VAULT/IOT/Notes 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "4a6ac9789d3392b8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 14.45.43.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 14.45.43.excalidraw.md",
+                "file": "THE VAULT/IOT/Notes 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 14.45.43.excalidraw.md",
+                "file": "THE VAULT/IOT/Notes 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 14.45.43.excalidraw.md"
+                "file": "THE VAULT/IOT/Notes 2.md"
               }
             }
           },
@@ -185,8 +174,15 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "4a6ac9789d3392b8",
+  "active": "d4e8ee7bbe1d73b4",
   "lastOpenFiles": [
+    "-.md",
+    "THE VAULT/IOT/Notes 2.md",
+    "Habit Tracker Calendar.md",
+    "Daily Note.md",
+    "Untitled.md",
+    "Imp's/Self-Driving Car.md",
+    "Imp's/Meet 37 (Anant).md",
     "Daily Note/2024-04-10.md",
     "Excalidraw/Drawing 2024-04-10 14.45.43.excalidraw.md",
     "Project.md",
@@ -199,7 +195,6 @@
     "Daily Note/2024-04-05.md",
     "THE VAULT/Mongo DB/Mongo DB Notes.md",
     "AWS IIT.md",
-    "Habit Tracker Calendar.md",
     "THE VAULT/Soft Computing/Drawing 2024-03-19 20.57.07.excalidraw.md",
     "THE VAULT/Cloud Computing/Notes 1.md",
     "Pasted image 20240405110302.png",
@@ -211,17 +206,11 @@
     "THE VAULT/Soft Computing/Class Notes.md",
     "THE VAULT/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md",
     "Daily Note/2024-04-04.md",
-    "Excalidraw/Drawing 2024-04-04 11.57.18.excalidraw.md",
     "WhatsApp Image 2024-04-04 at 10.43.26_86a1161d.jpg",
     "WhatsApp Image 2024-04-04 at 10.43.26_21fadb66.jpg",
     "WhatsApp Image 2024-04-04 at 10.43.26_8928a676.jpg",
     "WhatsApp Image 2024-04-04 at 10.43.26_0d3675db.jpg",
     "WhatsApp Image 2024-04-04 at 10.43.26_2ae85fbc.jpg",
-    "Imp's/Self-Driving Car.md",
-    "Imp's/Engineers Day Quiz.md",
-    "THE VAULT/Soft Computing/Images/Convolutional Parameters.md",
-    "Projects/FlutterProjectDetails/Food Delivery Application.md",
-    "Daily Note/2024-04-03.md",
     "THE VAULT/Untitled",
     "THE VAULT/API Notes",
     "Pasted Image 20240324195758_672.png",
