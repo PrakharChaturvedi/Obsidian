@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-04-08.md",
+                "file": "Imp's/Finance Project.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-04-08.md",
+                "file": "Imp's/Finance Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-04-08.md",
+                "file": "Imp's/Finance Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-04-08.md"
+                "file": "Imp's/Finance Project.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "d4e8ee7bbe1d73b4",
   "lastOpenFiles": [
+    "Daily Note/2024-04-10.md",
     "Daily Note/2024-04-08.md",
     "THE VAULT/Soft Computing/Drawing 2024-04-08 10.15.28.excalidraw.md",
     "Projects/Start Gazer for moon.md",
@@ -210,7 +211,6 @@
     "Coding Concepts/Dynamic Programming.md",
     "GIt/Khao pio moj karo.md",
     "Daily Note.md",
-    "Imp's/Acumen Decisions.md",
     "THE VAULT/Untitled",
     "THE VAULT/API Notes",
     "Pasted Image 20240324195758_672.png",
