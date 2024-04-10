@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7715123b303d618e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "THE VAULT/Soft Computing/Drawing 2024-04-08 10.15.28.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Soft Computing/Drawing 2024-04-08 10.15.28.excalidraw.md",
+                "file": "Daily Note/2024-04-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Soft Computing/Drawing 2024-04-08 10.15.28.excalidraw.md",
+                "file": "Daily Note/2024-04-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Soft Computing/Drawing 2024-04-08 10.15.28.excalidraw.md"
+                "file": "Daily Note/2024-04-08.md"
               }
             }
           },
@@ -185,7 +174,7 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "7715123b303d618e",
+  "active": "d4e8ee7bbe1d73b4",
   "lastOpenFiles": [
     "Daily Note/2024-04-08.md",
     "THE VAULT/Soft Computing/Drawing 2024-04-08 10.15.28.excalidraw.md",
