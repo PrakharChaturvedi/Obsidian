@@ -20,7 +20,7 @@
 - Food Delivery Application Using Flutter, Node.js and Mongo DB
 - Finance Application for mutual funds (Sell it to over 5 clients for 50k Rs)
 - Self-Driving car with UI 
-- Find an idea for major project Prakhar it's high time!! 
+- Find an idea for major project Prakhar it's high time!!
 
 ----------------------------------------------------------------- 
 ## Ideas

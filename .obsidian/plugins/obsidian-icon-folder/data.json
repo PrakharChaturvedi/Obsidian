@@ -75,7 +75,9 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
-    "iconIdentifier": ":"
+    "iconIdentifier": ":",
+    "iconsInLinksEnabled": true,
+    "debugMode": false
   },
   "Daily Note.md": "🧠",
   "Imp's/Path-To-Sucess.md": "⭐",
