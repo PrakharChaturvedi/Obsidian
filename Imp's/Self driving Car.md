@@ -1,0 +1,9 @@
+- Models : 
+	- Lane
+	- Car
+	- Anime/People 
+	- Signs
+	- Signal
+- 5 model ->> Compile :- matrix [n x n]
+- Decision : Right, Left, Acceleration slow, Brake, Reverse! 
+	- Video pe show ho jaye ...                                                    
