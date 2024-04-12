@@ -103,5 +103,11 @@
 - Amazon DynamoDB console
 - 
 
+## 12/04/2024
+## Amazon EBS
+- Enables you to create individual storage volumes and attach them to an Amazon EC2 instance.
+- Snapshots
+- Data transfer
+- 
 
 
