@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "475c8550eef7d3c6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Imp's/Self-Driving Car.md"
-              }
-            }
-          },
-          {
             "id": "b5db4e86334943b6",
             "type": "leaf",
             "state": {
@@ -181,11 +171,12 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "475c8550eef7d3c6",
+  "active": "b5db4e86334943b6",
   "lastOpenFiles": [
+    "Daily Note/2024-04-13.md",
+    "Imp's/Self-Driving Car.md",
     "Imp's/Acumen Decisions.md",
     "Imp's/Self driving Car.md",
-    "Imp's/Self-Driving Car.md",
     "AWS IIT.md",
     "Excalidraw/Drawing 2024-04-12 11.08.51.excalidraw.md",
     "Excel 2024-04-12 11.08.48.sheet.md",
@@ -212,7 +203,6 @@
     "Projects",
     "Daily Note/2024-04-07.md",
     "Daily Note/2024-04-05.md",
-    "THE VAULT/Mongo DB/Mongo DB Notes.md",
     "WhatsApp Image 2024-04-04 at 10.43.26_88d46b68.jpg",
     "WhatsApp Image 2024-04-04 at 10.43.26_c1c79666.jpg",
     "WhatsApp Image 2024-04-04 at 10.43.26_86a1161d.jpg",
