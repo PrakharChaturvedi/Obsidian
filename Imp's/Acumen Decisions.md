@@ -25,4 +25,27 @@
 ----------------------------------------------------------------- 
 ## Ideas
 - Make a AR application to learn and understand concepts of physics, biology and chemistry. The app may also have a VR headset feature.
-- 
+
+
+- 3.05 to 5.05 pm -> Indore to Bangalore  
+
+-----------------------------------------------------------------
+
+## Journals and reports (Sem VI)
+- Practical's
+	- [ ] Cloud Practical 
+	- [ ] Agile Practical
+	- [ ] DAUR Practical
+	- [ ] Soft-Computing Practical
+	- [x] IOT Practical
+- Skill's 
+	- [ ] Cloud Skill
+	- [ ] Agile Skill
+	- [ ] DAUR Skill
+	- [ ] Soft-Computing Skill
+	- [x] IOT Skill
+	- [ ] IDSC Skill
+- Assignment 
+	- [ ] Soft Computing Project
+	- [ ] Soft Computing Assignment 
+	- [ ] IOT Assignment
