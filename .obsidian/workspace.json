@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Imp's/Acumen Decisions.md",
+                "file": "Daily Note/2024-04-18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "d81100ffcec3d27f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Imp's/Drawing 2024-04-18 19.18.05.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imp's/Acumen Decisions.md",
+                "file": "Imp's/Drawing 2024-04-18 19.18.05.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imp's/Acumen Decisions.md",
+                "file": "Imp's/Drawing 2024-04-18 19.18.05.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imp's/Acumen Decisions.md"
+                "file": "Imp's/Drawing 2024-04-18 19.18.05.excalidraw.md"
               }
             }
           },
@@ -174,12 +185,14 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "b5db4e86334943b6",
+  "active": "d81100ffcec3d27f",
   "lastOpenFiles": [
+    "Daily Note/2024-04-18.md",
+    "Imp's/Drawing 2024-04-18 19.18.05.excalidraw.md",
+    "Imp's/Acumen Decisions.md",
     "Daily Note/2024-04-15.md",
     "Imp's/Self driving Car.md",
     "Imp's/Finance Project.md",
-    "Imp's/Acumen Decisions.md",
     "Imp's/Gate Syllabus.md",
     "Imp's/Self-Driving Car.md",
     "Daily Note/2024-04-13.md",
@@ -203,9 +216,7 @@
     "Project.md",
     "Daily Note/2024-04-08.md",
     "THE VAULT/Soft Computing/Drawing 2024-04-08 10.15.28.excalidraw.md",
-    "Projects/Start Gazer for moon.md",
     "Projects",
-    "Daily Note/2024-04-07.md",
     "WhatsApp Image 2024-04-04 at 10.43.26_88d46b68.jpg",
     "WhatsApp Image 2024-04-04 at 10.43.26_c1c79666.jpg",
     "WhatsApp Image 2024-04-04 at 10.43.26_86a1161d.jpg",
