@@ -72,7 +72,50 @@
 	3. **Performance :**  
 		- Both GRUs and LSTMs perform well on various sequence modeling tasks, and their performance can depend on the specific dataset and problem.
 		- In some tasks, LSTMs may perform slightly better due to their ability to maintain long-term dependencies, while GRUs may be faster to train and less prone to overfitting.
-	4.  **Training Efficiency : **
+	4.  **Training Efficiency :**
 	    - GRUs are generally faster to train and require fewer parameters than LSTMs because of their simpler architecture. This can be advantageous when working with limited computational resources.
 	5. **Applications :**
-		- - LSTMs are widely used in applications requiring long-term dependencies, such as language modeling and time series prediction.
+		- LSTMs are widely used in applications requiring long-term dependencies, such as language modeling and time series prediction.
+		- GRUs can be more suitable for tasks where computational efficiency is important, such as real-time applications and edge devices.
+- In summary, while both LSTMs and GRUs are powerful architectures for sequence modeling, GRUs offer a simpler and faster alternative to LSTMs, though LSTMs may have a slight edge in tasks requiring long-term memory. The choice between them often depends on the specific problem, dataset, and resource constraints.
+
+## Vanishing Gradient 
+- **Definition** 
+	- The vanishing gradient problem occurs when the gradients (i.e., partial derivatives of the loss function with respect to the model's parameters) become very small as they are propagated back through the network.
+- **Effect** 
+	- When gradients vanish, the weights in earlier layers or earlier time steps are updated very slowly, if at all. This can lead to slow or stalled training and difficulty learning long-range dependencies in the data.
+- **Solution**
+	- Architectures like LSTMs and GRUs are designed to mitigate the vanishing gradient problem by using gating mechanisms that control the flow of information and help maintain gradients over time.
+
+## **Exploding Gradient**:
+- **Definition** 
+	- The exploding gradient problem occurs when the gradients become very large during backpropagation, causing large updates to the model's parameters.
+- **Effect** 
+	- When gradients explode, the model's parameters may change drastically with each training step, leading to instability and potentially causing the model to diverge or become unable to converge to a good solution.
+- **Solution**
+	- Techniques such as gradient clipping, where the gradients are limited to a specific range, can help prevent exploding gradients and maintain stable training.
+
+## Keras 
+- Keras is a high-level deep learning library, you can build various neural network architectures for tasks such as image classification, sequence modeling, and more. Here are explanations of the common functions and layers you mentioned :
+	- **`Sequential`**
+		- The `Sequential` class in Keras is a simple and linear stack of layers. You can create a neural network by adding layers one after another in sequence.
+		- Example : 
+			- <font color="#3dbf1c">from keras.models import Sequential</font> 
+			- <font color="#3dbf1c">model = Sequential()</font>
+	- **`Dense` function**
+		- The `Dense` layer is a fully connected layer in which each neuron is connected to every neuron in the previous layer. It applies a linear transformation to the input and then a non-linear activation function.
+		- Example : 
+			- <font color="#3dbf1c">from keras.layers import Dense</font>
+			- <font color="#3dbf1c">model.add(Dense(units=64, activation='relu', input_shape=(input_shape,)))</font>
+	- **`Conv2D` layer**
+		- The `Conv2D` layer is a convolutional layer that applies 2D convolution operations on images or spatial data. It is commonly used in image processing and computer vision tasks.
+		- Example : 
+			- <font color="#3dbf1c">from keras.layers import Conv2D</font>
+			- <font color="#3dbf1c">model.add(Conv2D(filters=32, kernel_size=(3, 3), activation='relu', input_shape=(height, width, channels)))</font>
+	- **`model.fit()`**
+		- The `fit()` method is used to train the model on the given data. It takes the input data and target labels as arguments and adjusts the model's weights through backpropagation.
+		- Example : 
+			- <font color="#3dbf1c">model.fit(X_train, y_train, epochs=10, batch_size=32, validation_data=(X_val, y_val))</font>
+<font color="#3dbf1c"> </font>
+## How deep learning used for text summarising, covid 19
+- 
