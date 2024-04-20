@@ -49,3 +49,11 @@
 	- [ ] Soft Computing Project 
 	- [ ] Soft Computing Assignment 
 	- [ ] IOT Assignment --- Not sure 
+
+
+## MST 3 
+- Soft Computing - Monday (10.30 - 11.30)
+- IOT (2.30 -3.30)
+- DAUR 
+- Agile Technology (2.30 -3.30) 
+- Cloud Infrastructure and Services
