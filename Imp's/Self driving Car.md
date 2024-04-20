@@ -6,6 +6,6 @@
 	- Signal
 - 5 model ->> Compile :- matrix [n x n]
 - Decision : Right, Left, Acceleration slow, Brake, Reverse! 
-	- Video pe show ho jaye ...                                                    \
+	- Video pe show ho jaye ...                                                    
 - Tensorflow -> SDD :- 5 model -> 1 model (Bagging and bosting).
 - 
