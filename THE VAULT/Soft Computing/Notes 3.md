@@ -11,6 +11,7 @@
 	- <font color="#ffc000">Transfer Learning : </font>
 		- AlexNet can be used with transfer learning by utilizing pre-trained weights on the ImageNet dataset to achieve exceptional performance.
 - AlexNet is a pioneering CNN architecture that revolutionized the field of computer vision, particularly in image classification tasks, by introducing deep learning techniques that significantly improved accuracy and efficiency in large-scale image recognition challenges.
+- Diagram : ![[Pasted image 20240421195205.png]]
 
 ## RNN 
 - **Definition:** 
