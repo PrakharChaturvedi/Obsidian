@@ -53,7 +53,7 @@
 
 ## MST 3 
 - [x] Soft Computing - Monday (10.30 - 11.30 Am)
-- [ ] IOT (2.30 -3.30 Pm)
+- [x] IOT (2.30 -3.30 Pm)
 - [ ] DAUR (10.30 - 11.30 Am)
 - [ ] Agile Technology (2.30 -3.30 Pm) 
 - [ ] Cloud Infrastructure and Services (10.30 - 11.30 Am)
