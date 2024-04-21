@@ -73,7 +73,7 @@
 ## GRU (Gated Recurrent Units) 
 - GRU networks offer a simpler design than LSTM while still addressing vanishing gradient problems. GRUs combine the reset and update gates to selectively update their internal state based on the input sequence, allowing them to maintain long-term dependencies.
 - **Difference b/w LSTM and GRU :**
-	- 1. <font color="#ffc000">Architecture</font> 
+	1. <font color="#ffc000">Architecture</font> 
 	    - **LSTM**: LSTMs have three gates: input, output, and forget gates, along with a cell state that maintains long-term memory. The gates control the flow of information into and out of the cell state, allowing the network to learn what information to keep and what to discard.
 	    - **GRU**: GRUs have two gates: an update gate and a reset gate. GRUs do not have a separate cell state; instead, they combine the cell state and hidden state into one state.
 	2. <font color="#ffc000">Complexity</font>  
