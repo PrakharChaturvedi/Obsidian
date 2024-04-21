@@ -33,6 +33,7 @@
 		- DNA sequence analysis
 		- Machine translation
 		- Time series prediction
+- Diagram : ![[Pasted image 20240421191659.png]]
 
 ## LSTM 
 - **Definition :**
@@ -66,6 +67,7 @@
 		- **Dropout Parameters**: You can specify the dropout rates using the `dropout` and `recurrent_dropout` parameters. In this example, both are set to 0.2 (20%).
 		- **Dense Layer**: After the LSTM layer, a dense layer is added for the final output. The activation function depends on your task (e.g., 'SoftMax' for classification).
 		- **Compile and Train**: Compile the model with an appropriate loss function and optimizer, then train it using your training data.
+- Diagram : ![[Pasted image 20240421191552.png]]
 
 ## GRU (Gated Recurrent Units) 
 - GRU networks offer a simpler design than LSTM while still addressing vanishing gradient problems. GRUs combine the reset and update gates to selectively update their internal state based on the input sequence, allowing them to maintain long-term dependencies.
@@ -85,6 +87,7 @@
 		- LSTMs are widely used in applications requiring long-term dependencies, such as language modeling and time series prediction.
 		- GRUs can be more suitable for tasks where computational efficiency is important, such as real-time applications and edge devices.
 - In summary, while both LSTMs and GRUs are powerful architectures for sequence modeling, GRUs offer a simpler and faster alternative to LSTMs, though LSTMs may have a slight edge in tasks requiring long-term memory. The choice between them often depends on the specific problem, dataset, and resource constraints.
+
 
 ## Vanishing Gradient 
 - **Definition** 
@@ -125,7 +128,8 @@
 			- <font color="#3dbf1c">model.fit(X_train, y_train, epochs=10, batch_size=32, validation_data=(X_val, y_val))</font>
 <font color="#3dbf1c"> </font>
 ## How deep learning used for text summarizing, covid 19
-- Deep learning has been widely used for text summarization, including summarizing textual data related to COVID-19. The goal of text summarization is to condense a large body of text into a shorter version while retaining the most important and relevant information. In the context of COVID-19, deep learning-based text summarization can be used to process and summarize large volumes of information such as research papers, news articles, and public health advisories.
+- Deep learning has been widely used for text summarization, including summarizing textual data related to COVID-19. The goal of text summarization is to condense a large body of text into a shorter version while retaining the most important and relevant information. 
+- In the context of COVID-19, deep learning-based text summarization can be used to process and summarize large volumes of information such as research papers, news articles, and public health advisories.
 - There are two main types of text summarization approaches: 
 	- **Extractive** :
 		- This approach involves selecting key sentences or phrases directly from the source text and concatenating them to form a summary.
@@ -142,7 +146,6 @@
 	    - Transfer learning involves using a pre-trained model and fine-tuning it on a specific dataset, such as COVID-19 literature, to improve performance.
 	- **Attention Mechanisms**:
 	    - Attention mechanisms help models focus on specific parts of the input text when generating summaries, improving the quality and coherence of the output.
-
 
 ## Inception  
 - The Inception module, introduced in Google's Inception network, utilizes multiple parallel convolutional layers with different filter sizes (e.g., 1x1, 3x3, and 5x5) to capture features at different scales simultaneously. This approach enhances the network's ability to learn diverse patterns from the input data. Additionally, it incorporates 1x1 convolutions to reduce dimensionality and maintain a manageable number of parameters, optimizing performance and efficiency.
@@ -194,3 +197,5 @@
 	7. **Reporting**: Present findings in a report, including statistics and actionable recommendations.
 	8. **Iterative Feedback**: Continuously monitor reviews and assess changes over time.
 
+## RNN unit with its unwinding diagram
+![[Pasted image 20240421185246.png]]

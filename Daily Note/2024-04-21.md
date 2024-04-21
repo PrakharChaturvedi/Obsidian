@@ -1,0 +1,8 @@
+---
+Exercise: false
+Study: 
+Reading: 0
+LeetCode: 0
+Project: false
+---
+[[Daily Note]]
