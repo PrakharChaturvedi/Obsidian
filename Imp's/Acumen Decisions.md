@@ -48,7 +48,7 @@
 - Assignment 
 	- [ ] Soft Computing Project 
 	- [ ] Soft Computing Assignment 
-	- [ ] IOT Assignment --- Not sure 
+	- [x] IOT Assignment --- Not sure 
 
 
 ## MST 3 
