@@ -64,11 +64,11 @@
 	- **Increase Revenue**: Create features that can streamline processes or offer additional functionality.
 	- **Future-Proofing**: Develop features that anticipate future trends and customer needs.
 - **Processes Involved in Feature Engineering**:
-	- 1. **Feature Creation**: Generating new features based on domain knowledge or patterns in the data.
-	1. **Feature Transformation**: Transforming features to a suitable representation for the model.
-	2. **Feature Extraction**: Creating new features from existing ones to provide more relevant information.
-	3. **Feature Selection**: Selecting a subset of relevant features for a machine learning model.
-	4. **Feature Scaling**: Transforming features so that they have a similar scale.
+	1. **Feature Creation**: Generating new features based on domain knowledge or patterns in the data.
+	2. **Feature Transformation**: Transforming features to a suitable representation for the model.
+	3. **Feature Extraction**: Creating new features from existing ones to provide more relevant information.
+	4. **Feature Selection**: Selecting a subset of relevant features for a machine learning model.
+	5. **Feature Scaling**: Transforming features so that they have a similar scale.
 - **Steps in Feature Engineering**:
 	- 1. Data Cleansing: Identifying and correcting errors in the dataset.
 	1. Data Transformation: Transforming data to be more suitable for the model.
