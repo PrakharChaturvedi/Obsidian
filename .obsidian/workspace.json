@@ -8,6 +8,19 @@
         "type": "tabs",
         "children": [
           {
+            "id": "977c32d7321b9221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "THE VAULT/Agile/Agile MST 3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a030c5b3e5e4e6b4",
             "type": "leaf",
             "state": {
@@ -19,21 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "977c32d7321b9221",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THE VAULT/Agile/Agile MST 3.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,9 +191,10 @@
   "active": "a030c5b3e5e4e6b4",
   "lastOpenFiles": [
     "THE VAULT/Agile/Agile MST 3.md",
-    "THE VAULT/IOT/IOT questions.md",
     "Pasted image 20240405110302.png",
+    "Untitled.md",
     "THE VAULT/R/Notes 3.md",
+    "THE VAULT/IOT/IOT questions.md",
     "THE VAULT/R/Images/Pasted image 20240422203808.png",
     "THE VAULT/R/Images",
     "THE VAULT/R/Images/Pasted image 20240422204004.png",
@@ -224,8 +226,6 @@
     "Imp's/Drawing 2024-04-18 19.18.05.excalidraw.md",
     "Daily Note/2024-04-18.md",
     "AWS IIT.md",
-    "Daily Note/2024-04-19.md",
-    "Daily Note/2024-04-15.md",
     "Projects",
     "THE VAULT/Untitled",
     "THE VAULT/API Notes",
