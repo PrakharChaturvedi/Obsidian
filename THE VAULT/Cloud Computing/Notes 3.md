@@ -80,4 +80,124 @@
 		- **Monitor Jobs**: Track the status of jobs using APIs and optionally receive notifications via Amazon SNS when jobs complete.
 	- **Pay for Usage**: Monthly billing is based on the amount of data stored and transferred.
 - **Storage Gateway**
+	- Amazon Storage Gateway is a hybrid cloud storage service provided by Amazon Web Services (AWS) that connects on-premises environments with cloud storage, allowing businesses to leverage the scalability and cost-effectiveness of the cloud while maintaining local performance and latency. 
+	- Storage Gateway offers three types of gateways to meet different storage needs: 
+		- **File Gateway**: Translates on-premises file-based data to object storage in Amazon S3, providing a local file share while storing data in S3.
+		- **Volume Gateway**: Offers block storage volumes that are backed by Amazon S3, either as cached volumes (storing data locally and in the cloud) or stored volumes (keeping full data copies on-premises and in the cloud).
+		- **Tape Gateway**: Provides a virtual tape library interface that enables businesses to move tape backups to the cloud, using Amazon S3 and Amazon S3 Glacier for data archiving.
+	- Storage gateway service connects an on-premise software appliance with cloud-based storage.
+	- Use case : 
+		- Backup/Restore on-premise data.
+		- Setting up test/dev environments with production data.
+		- Migrating applications to the cloud. 
+		- On-premise DR/COOP to AWS.
+
+## IAM (Identity and access management)
+- AWS IAM enables you to securely control access to AWS services and resources for your users. IAM enables you to create and manage users in AWS, and it also enables you to grant access to AWS resources for users managed outside of AWS in your corporate directory. IAM offers greater security, flexibility, and control when using AWS.
+- IAM enables identity federation between your corporate directory and AWS services. This enables you to use your existing corporate identities to grant secure and direct access to AWS resources, such as Amazon S3 buckets, without creating a new AWS identity for those users. 
+- Allows customers to 
+	- Create users
+	- Assign individual passwords, access keys, multi-factor authentication devices.
+	- Grant fine-grained permissions
+	- Optimally grant them access to the AWS console.
+	- Organize users in groups.
+
+
+## Database 
+- **DynamoDB**
+	- **Managed NoSQL Database**: Amazon DynamoDB is a fully managed NoSQL database service that provides fast and predictable performance with seamless scalability.
+	- **High Performance**: Offers low-latency, high-throughput read and write operations for applications.
+	- **Automatic Scaling**: Supports on-demand and provisioned capacity modes for automatic scaling of throughput and storage.
+	- **Security**: Provides data encryption at rest and in transit, and integrates with AWS Identity and Access Management (IAM) for access control.
+	- **Backup and Recovery**: Offers point-in-time recovery and continuous backups for data protection.
+	- **Global Tables**: Allows you to create globally distributed tables for low-latency access across multiple regions.
+- **ElasticCache**
+	- **Managed In-Memory Data Store**: Amazon ElastiCache is a managed service that provides in-memory caching and data storage using Redis or Memcached.
+    - **High Performance**: Delivers sub-millisecond latency, ideal for accelerating application performance.
+    - **Scalable**: Automatically scales the data store according to demand.
+    - **Data Persistence**: Supports persistence and backup options for Redis clusters.
+    - **Security**: Offers data encryption, VPC support, and integration with IAM for secure access.
+- **RDS**
+	- **Managed Relational Database**: Amazon Relational Database Service (RDS) is a managed service that offers various relational database engines, such as MySQL, PostgreSQL, SQL Server, Oracle, and MariaDB.
+	- **Automated Management**: Handles tasks such as backups, patching, and monitoring automatically.
+	- **Scalability**: Supports read replicas and automatic scaling for enhanced performance.
+	- **High Availability**: Provides multi-AZ deployments for improved availability and durability.
+	- **Security**: Offers data encryption at rest and in transit, and integrates with IAM for access control.
+- **SimpleDB**
+	- **NoSQL Database**: Amazon SimpleDB is a NoSQL database service designed for simpler data storage and retrieval with a focus on ease of use.
+	- **Schema-Free**: Allows you to store data in a flexible, schema-free format.
+	- **Querying and Indexing**: Supports simple querying and automatic indexing for quick data retrieval.
+	- **Scalability**: Automatically scales to handle varying data loads.
+	- **Cost-Effective**: Offers a pay-as-you-go pricing model based on usage.
+- **Redshift**
+	- **Data Warehousing**: Amazon Redshift is a managed data warehousing service designed for analytics and business intelligence.
+	- **Scalable**: Provides scalable data storage and query processing capabilities.
+	- **High Performance**: Delivers fast query performance using columnar storage and parallel processing.
+	- **Data Integration**: Supports data loading from various sources, such as S3, DynamoDB, and on-premises databases.
+	- **Security**: Offers data encryption, VPC support, and integration with IAM for secure access.
+	- **Cost-Effective**: Offers different pricing options, including on-demand and reserved instances, for cost-effective usage.
+
+## Amazon CloudFront 
+- It is a web service for content delivery. It integrates with other amazon web services to give developers and business and easy way  to distribute content to end users with low latency, high data transfer speeds, and no commitments.
+- Supports download, streaming, live streaming, and dynamic content.
+- Use cases : 
+	- Video and rich media, online gaming, Interactive agencies, software downloads, static websites.
+	- Static web content that must be delivered to global user base at highest bandwidth/ lower latency / lowest cost.
+
+## Application Services 
+- **SNS** (Simple Notification Service):
+    - **Messaging Service**: Amazon SNS is a fully managed pub/sub messaging service that enables you to send messages to a variety of endpoints.
+    - **Message Delivery**: Supports multiple delivery protocols, including SMS, email, and HTTP.
+    - **Flexible Messaging**: Allows you to create topics and subscribe endpoints to receive notifications.
+    - **Integration**: Easily integrates with other AWS services for automation and alerts.
+    - **Scalability**: Handles high-throughput messaging and scales with demand.
+    - **Security**: Provides access control through AWS Identity and Access Management (IAM).
+- **SQL** (Structured Query Language):
+    - **Database Language**: SQL is a programming language used for managing and querying relational databases.
+    - **Data Manipulation**: Allows you to insert, update, delete, and retrieve data from tables.
+    - **Data Definition**: Supports creating, altering, and dropping database schema objects like tables and indexes.
+    - **Standardized**: Widely adopted language for interacting with databases across various platforms.
+    - **Efficient Querying**: Provides optimized querying capabilities for large datasets.
+    - **Compatibility**: Works with different relational database management systems.
+- **SWF** (Simple Workflow Service):
+    - **Workflow Management**: Amazon SWF is a fully managed workflow service for coordinating tasks and processes across distributed applications.
+    - **Task Orchestration**: Manages and coordinates individual tasks and their dependencies.
+    - **Durability and Reliability**: Ensures tasks are completed and retried in case of failures.
+    - **Flexible**: Supports complex workflows and diverse use cases.
+    - **Visibility**: Provides visibility into workflow executions and state tracking.
+    - **Integration**: Easily integrates with other AWS services and on-premises systems.
+- **CloudSearch**:
+    - **Managed Search Service**: Amazon CloudSearch is a managed search service for quickly and easily setting up and managing search domains.
+    - **Search Features**: Offers full-text search, faceted search, and filtering capabilities.
+    - **Scalability**: Automatically scales to handle varying search loads.
+    - **Ease of Use**: Simple to set up and manage through the AWS Management Console.
+    - **Integration**: Supports data indexing from various data sources, such as S3 and DynamoDB.
+    - **Analytics**: Provides insights into search usage and performance.
+- **SES** (Simple Email Service):
+    - **Email Sending Service**: Amazon SES is a managed service for sending and receiving email.
+    - **Reliable Delivery**: Offers high deliverability rates and compliance with email best practices.
+    - **Scalable**: Handles large volumes of email with ease.
+    - **Multiple Use Cases**: Supports transactional emails, marketing campaigns, and more.
+    - **Integration**: Easily integrates with other AWS services and applications.
+    - **Cost-Effective**: Offers competitive pricing based on email usage.
+
+## EMR (Amazon Elastic MapReduce)
+- Amazon Elastic MapReduce (Amazon EMR) is a web service for processing vast amounts of data using a hosted Hadoop framework.
+- It utilizes Amazon EC2 and Amazon S3 for scalable, web-scale infrastructure.
+- EMR allows instant provisioning of capacity for data-intensive tasks such as data mining, web indexing, and scientific simulations.
+- Users can focus on data analysis without the need for complex Hadoop cluster setup or management.
+- Supports various applications, including machine learning, data warehousing, and financial analysis.
+- Integrates with Cloudera, Hive, and Karmasphere Studio, as well as other libraries such as MapR and Matlab.
+
+## Networking 
+- **ELB** (Elastic load balancing)
+	- Elastic Load Balancing helps ensure your application remains highly available and responsive to users by managing traffic and providing resilience in case of instance failures.
+	- **Traffic Distribution**: Automatically distributes incoming application traffic across multiple Amazon EC2 instances for balanced workload management.
+	- **Fault Tolerance**: Enhances fault tolerance by routing traffic only to healthy instances and bypassing unhealthy ones.
+	- **Auto-Scaling**: Seamlessly scales load balancing capacity in response to changes in incoming application traffic.
+	- **Health Monitoring**: Continuously monitors the health of instances and reroutes traffic as needed to maintain optimal performance.
+	- **Availability Zone Flexibility**: Can operate within a single Availability Zone or across multiple zones for greater consistency and resilience.
+	- **VPC Compatibility**: Can be used within an Amazon Virtual Private Cloud (VPC) to distribute traffic between different application tiers.
+- **Route 53**
 	- 
+- **VPC** 
