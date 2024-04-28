@@ -59,10 +59,25 @@
 - **S3** (Simple Storage Service)
 	- Amazon Simple Storage Service (S3) is a scalable, durable, and secure object storage service provided by Amazon Web Services (AWS). It allows you to store and retrieve any amount of data, at any time, from anywhere on the web. S3 is designed for durability and availability, ensuring that your data is protected and accessible when you need it.
 	- It's a bucket = folder, can store unlimited objects of size => 1B to 5 TB; no bucket size limit.
-	- **Features** : Scala
-
-- **SBS** (Elastic Block Store)
-
-- **Glacier** 
-
-- Storage Gateway
+	- **Features** : Scalability, durability, security, accessibility, storage classes, cost-efficient.
+	- Is accessed through HTTP/HTTPS 
+- **EBS** (Elastic Block Store)
+	- Amazon Elastic Block Store (EBS) is a scalable block storage service provided by Amazon Web Services (AWS). It offers persistent storage volumes for use with Amazon EC2 instances. EBS provides high-performance, durable storage that can be dynamically provisioned and managed to meet the storage needs of your applications.
+	- Storage Volumes = Virtual Disks, it's built to be used with AWS EC2 instance - create, attach, backup, restore and delete. These volumes behave like unformatted block devices for Linux and windows instances.
+	- **Features** : Persistent storage, scalability, performance, snapshots, security and integration with EC2.
+	- Can use to create RAID configuration for a server
+- **Glacier**
+	- Amazon Glacier is an extremely low-cost storage service that provides secure and durable storage for data archiving and backup. In order to keep costs low, Amazon Glacier is optimized for data that is infrequently accessed and for which retrieval times of several hours are suitable.
+	- **Low-Cost Archival Storage**: Provides secure and durable storage optimized for data that is infrequently accessed, with retrieval times of several hours.
+	- **Cost-Effective**: Storage costs as low as $0.01 per gigabyte per month, offering significant savings compared to on-premises solutions.
+	- **Data Storage and Organization**:
+		- **Archives**: Store data as archives, which can be a single file or a combination of files.
+		- **Vaults**: Organize archives into vaults for better data management and access control.
+	- **Data Retrieval**:
+		- **Initiate Jobs**: Retrieve data from Glacier by initiating a job, which typically completes in 3 to 5 hours.
+	- **APIs and Monitoring**:
+		- **Use APIs**: Utilize AWS Management Console or Amazon Glacier APIs to create vaults, upload, and retrieve archives.
+		- **Monitor Jobs**: Track the status of jobs using APIs and optionally receive notifications via Amazon SNS when jobs complete.
+	- **Pay for Usage**: Monthly billing is based on the amount of data stored and transferred.
+- **Storage Gateway**
+	- 
