@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "THE VAULT/Cloud Computing/Notes 3.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "07ec4f66eb7b26f8",
@@ -177,6 +176,7 @@
   },
   "active": "6b8f6d54ac3677da",
   "lastOpenFiles": [
+    "Pasted image 20240428193302.png",
     "Pasted image 20240428122014.png",
     "THE VAULT/Cloud Computing/Notes 2.md",
     "THE VAULT/Cloud Computing/Notes 3.md",
@@ -202,7 +202,6 @@
     "Pasted image 20240410193921.png",
     "THE VAULT/Soft Computing/Images/Pasted image 20240421185246.png",
     "THE VAULT/Soft Computing/Images/Pasted image 20240421191552.png",
-    "THE VAULT/Soft Computing/Images/Pasted image 20240421191659.png",
     "Daily Note/2024-04-21.md",
     "Imp's/Self-Driving Car.md",
     "Imp's/Self driving Car.md",

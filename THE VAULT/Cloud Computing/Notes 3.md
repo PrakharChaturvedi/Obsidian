@@ -199,5 +199,43 @@
 	- **Availability Zone Flexibility**: Can operate within a single Availability Zone or across multiple zones for greater consistency and resilience.
 	- **VPC Compatibility**: Can be used within an Amazon Virtual Private Cloud (VPC) to distribute traffic between different application tiers.
 - **Route 53**
-	- 
+	- Amazon Route 53 ensures efficient and reliable routing of user requests to the appropriate infrastructure, providing seamless connectivity for applications and services.
+	- **DNS Web Service**: Amazon Route 53 is a scalable and highly available Domain Name System (DNS) web service that routes end users to internet applications.
+	- **Reliable Routing**: Translates human-readable domain names into numeric IP addresses to connect user requests to infrastructure.  
+	- **AWS Integration**: Routes traffic to AWS resources such as EC2 instances, Elastic Load Balancers, and S3 buckets, as well as external infrastructure.
+	- **Latency and Weighted Round Robin Routing**: Offers different routing policies such as latency-based and weighted round robin for optimal performance and load balancing.
+	- **Fast Propagation**: Propagates updates to DNS records to its global network of authoritative DNS servers within 60 seconds under normal conditions.
 - **VPC** 
+	- Amazon Virtual Private Cloud (VPC) allows you to create a private, isolated section of the AWS Cloud.
+	- You can launch AWS resources within a virtual network you define, resembling a traditional on-premises network.
+	- Provides complete control over your networking environment, including IP address range, subnets, and route tables.
+	- Enables configuration of network gateways, such as internet gateways and NAT gateways.
+	- Offers enhanced security through network ACLs, security groups, and VPN connections.
+	- Integrates with other AWS services and supports hybrid cloud architecture with on-premises connectivity.
+
+## Deployment and management
+- **AWS Elastic Beanstalk** :
+	- It is a fully managed service that simplifies deploying and managing applications in the AWS cloud. It supports various programming languages and platforms and automatically handles deployment, scaling, monitoring, and maintenance. Developers can focus on writing code while Elastic Beanstalk manages the infrastructure.
+- **AWS CloudFormation** :
+	- It is a service that allows you to define, deploy, and manage AWS infrastructure as code using templates. It automates the provisioning and updating of AWS resources, ensuring consistent and repeatable deployments across environments. CloudFormation supports version control and rollback for easy management.
+- **AWS OpsWorks** :  
+	- It is a configuration management service that helps automate application deployment and infrastructure management. It uses Chef, a popular automation platform, to manage instances and configurations. OpsWorks offers features such as stack management, auto-scaling, and monitoring.
+- **Amazon Data Pipeline** : 
+	- It is a web service that helps you automate the movement and transformation of data between different AWS services and on-premises data sources. It enables scheduling, executing, and monitoring data workflows, making it easy to process and transfer data efficiently and reliably.
+- **Amazon CloudWatch** : 
+	- It is a monitoring and observability service that provides insights into your AWS resources and applications. It collects metrics, logs, and events, allowing you to visualize and analyze data in real time. CloudWatch also supports setting alarms and automated actions based on specified thresholds.
+
+## Architect to use cloud strengths 
+- Diagram: ![[Pasted image 20240428193302.png]]
+
+## Deployment model 
+- Use multiple availability zones.
+- Use RDS with replicas and standby.
+- Use auto-scaling groups.
+- Use elastic load balancing. 
+- Use Route53 to host DNS zones.
+- Three Services : Better together
+	- CloudWatch
+	- Auto Scaling
+	- Elastic Load Balancer
+
