@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 3.md",
-                "mode": "preview",
+                "file": "Imp's/Acumen Decisions.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 3.md",
+                "file": "Imp's/Acumen Decisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 3.md",
+                "file": "Imp's/Acumen Decisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 3.md"
+                "file": "Imp's/Acumen Decisions.md"
               }
             }
           },
@@ -176,10 +176,11 @@
   },
   "active": "6b8f6d54ac3677da",
   "lastOpenFiles": [
+    "Daily Note/2024-05-02.md",
+    "THE VAULT/Cloud Computing/Notes 3.md",
     "THE VAULT/Cloud Computing/Images/Pasted image 20240405110302.png",
     "Untitled.md",
     "THE VAULT/Cloud Computing/Images/Pasted image 20240428122014.png",
-    "THE VAULT/Cloud Computing/Notes 3.md",
     "Daily Note/2024-04-28.md",
     "THE VAULT/Cloud Computing/Images/Pasted image 20240428193302.png",
     "THE VAULT/Cloud Computing/Notes 2.md",

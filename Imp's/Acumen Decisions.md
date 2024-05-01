@@ -32,18 +32,18 @@
 ## Journals and reports (Sem VI)
 - Practical's
 	- [ ] Cloud Practical >>>>>>>>>>>>>>>>>>>> IDK 
-	- [ ] Agile Practical >>>>>>>>>>>>>>>>>>>> IDK
+	- [x] Agile Practical >>>>>>>>>>>>>>>>>>>> IDK
 	- [x] DAUR Practical
-	- [ ] Soft-Computing Practical --> DONE TILL NOW <--
+	- [x] Soft-Computing Practical --> DONE TILL NOW <--
 	- [x] IOT Practical
 	- [ ] UI practical --> DONE TILL NOW <--
 - Skill's 
 	- [ ] Cloud Skill >>>>>>>>>>>>>>>>>>>> IDK
-	- [ ] Agile Skill >>>>>>>>>>>>>>>>>>>> IDK
+	- [x] Agile Skill >>>>>>>>>>>>>>>>>>>> IDK
 	- [ ] DAUR Skill 
-	- [ ] Soft-Computing Skill --> DONE TILL NOW <--
+	- [x] Soft-Computing Skill --> DONE TILL NOW <--
 	- [x] IOT Skill
-	- [ ] IDSC Skill >>>>>>>>>>>>>>>>>>>> IDK
+	- [x] IDSC Skill >>>>>>>>>>>>>>>>>>>> IDK
 	- [ ] UI skill --> DONE TILL NOW <--
 - Assignment 
 	- [ ] Soft Computing Project 
@@ -51,9 +51,8 @@
 	- [x] IOT Assignment --- Not sure 
 
 
-## MST 3 
-- [x] Soft Computing - Monday (10.30 - 11.30 Am)
-- [x] IOT (2.30 -3.30 Pm)
-- [ ] DAUR (10.30 - 11.30 Am)
-- [ ] Agile Technology (2.30 -3.30 Pm) 
-- [ ] Cloud Infrastructure and Services (10.30 - 11.30 Am)
+## Prints : 
+ - UI/UX  
+ - IDSC -> s1, s5 and s6
+ - R -> Skill 4, 5 and Research Paper 
+ - Soft Computing -> Few Practical's and skills. 
