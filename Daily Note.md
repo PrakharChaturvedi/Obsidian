@@ -1,8 +1,8 @@
 ---
-Exercise: false
-Study: 
-Reading: 0
+Exercise: true
+Study: "[[Recursion]]"
+Reading: 25
 LeetCode: 0
-Project: false
+Project: true
 ---
 [[Daily Note]]
