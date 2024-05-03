@@ -47,12 +47,12 @@
 	- [ ] UI skill --> DONE TILL NOW <--
 - Assignment 
 	- [ ] Soft Computing Project 
-	- [ ] Soft Computing Assignment 
+	- [x] Soft Computing Assignment 
 	- [x] IOT Assignment --- Not sure 
 
 
 ## Prints : 
  - [ ] UI/UX  
- - [ ] IDSC -> s1, s5 and s6 
+ - [x] IDSC -> s1, s5 and s6 
  - [x] R -> Skill 4, 5 and Research Paper 
  - [x] Soft Computing -> Few Practical's and skills. 
