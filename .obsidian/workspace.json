@@ -11,12 +11,9 @@
             "id": "9c41f607eb9ed329",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Coding Concepts/Recursion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Coding Concepts/Recursion Board.md"
               }
             }
           }
@@ -70,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "07ec4f66eb7b26f8",
@@ -102,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Recursion.md",
+                "file": "Coding Concepts/Recursion Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Recursion.md",
+                "file": "Coding Concepts/Recursion Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Recursion.md"
+                "file": "Coding Concepts/Recursion Board.md"
               }
             }
           },
@@ -178,6 +176,7 @@
   "lastOpenFiles": [
     "Coding Concepts/Dynamic Programming.md",
     "Coding Concepts/Recursion.md",
+    "Coding Concepts/Recursion Board.md",
     "Daily Note/2024-01-01.md",
     "Daily Note.md",
     "Daily Note/2024-05-03.md",
@@ -213,7 +212,6 @@
     "Daily Note/2024-04-21.md",
     "Imp's/Self-Driving Car.md",
     "Imp's/Self driving Car.md",
-    "Daily Note/2024-04-20.md",
     "Projects",
     "THE VAULT/API Notes",
     "GIt",
