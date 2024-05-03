@@ -52,7 +52,7 @@
 
 
 ## Prints : 
- - UI/UX  
- - IDSC -> s1, s5 and s6
- - R -> Skill 4, 5 and Research Paper 
- - Soft Computing -> Few Practical's and skills. 
+ - [ ] UI/UX  
+ - [ ] IDSC -> s1, s5 and s6 
+ - [x] R -> Skill 4, 5 and Research Paper 
+ - [x] Soft Computing -> Few Practical's and skills. 
