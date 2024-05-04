@@ -8,12 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c41f607eb9ed329",
+            "id": "f4c44451197b9cde",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md"
+                "file": "Daily Note/2024-05-04.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -67,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "07ec4f66eb7b26f8",
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md",
+                "file": "Daily Note/2024-05-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md",
+                "file": "Daily Note/2024-05-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md"
+                "file": "Daily Note/2024-05-04.md"
               }
             }
           },
@@ -172,10 +174,11 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "9c41f607eb9ed329",
+  "active": "f4c44451197b9cde",
   "lastOpenFiles": [
-    "Coding Concepts/Dynamic Programming.md",
+    "Daily Note/2024-05-04.md",
     "Coding Concepts/Recursion Board.md",
+    "Coding Concepts/Dynamic Programming.md",
     "Coding Concepts/Recursion.md",
     "Daily Note/2024-01-01.md",
     "Daily Note.md",
@@ -211,7 +214,6 @@
     "THE VAULT/Soft Computing/Images/Pasted image 20240421185246.png",
     "Daily Note/2024-04-21.md",
     "Imp's/Self-Driving Car.md",
-    "Imp's/Self driving Car.md",
     "Projects",
     "THE VAULT/API Notes",
     "GIt",
