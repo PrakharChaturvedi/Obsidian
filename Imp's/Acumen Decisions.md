@@ -14,7 +14,6 @@
 	- [ ] API's
 	- [ ] Java for interviews (Do some DSA for placements)
 
-
 -----------------------------------------------------------------
 ## Projects I want to make 
 - Food Delivery Application Using Flutter, Node.js and Mongo DB
@@ -56,3 +55,6 @@
  - [x] IDSC -> s1, s5 and s6 
  - [x] R -> Skill 4, 5 and Research Paper 
  - [x] Soft Computing -> Few Practical's and skills. 
+
+
+------------------------------------------
