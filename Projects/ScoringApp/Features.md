@@ -1,0 +1,17 @@
+- User 
+	- Name
+	- Photo
+	- Email verification
+	- Phone number
+- Tournament 
+	- Tournaments among multiple teams from different teams 
+- Sports
+	- Cricket
+	- Soccer
+	- Basketball
+	- TT
+	- Golf
+- E-Sports
+	- Valorant
+	- CSGO
+	- Chess 
