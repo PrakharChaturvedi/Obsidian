@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "07ec4f66eb7b26f8",
@@ -173,8 +174,9 @@
   },
   "active": "23b184a4e4c70c8e",
   "lastOpenFiles": [
-    "Daily Note/2024-05-09.md",
+    "Daily Note/2024-05-10.md",
     "Coding Concepts/Recursion Board.md",
+    "Daily Note/2024-05-09.md",
     "Daily Note/2024-05-08.md",
     "Imp's/GamblingApp_SystemDesign.md",
     "Imp's/System.md",
@@ -201,7 +203,6 @@
     "THE VAULT/Cloud Computing/Notes 1.md",
     "Daily Note/2024-05-02.md",
     "THE VAULT/Cloud Computing/Images/Pasted image 20240405110302.png",
-    "Untitled.md",
     "THE VAULT/Cloud Computing/Images/Pasted image 20240428122014.png",
     "THE VAULT/Cloud Computing/Images/Pasted image 20240428193302.png",
     "THE VAULT/R/Images/Pasted image 20240422203808.png",
