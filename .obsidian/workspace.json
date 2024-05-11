@@ -11,9 +11,12 @@
             "id": "23b184a4e4c70c8e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md"
+                "file": "Daily Note/2024-05-11.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -100,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md",
+                "file": "Daily Note/2024-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md",
+                "file": "Daily Note/2024-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md"
+                "file": "Daily Note/2024-05-11.md"
               }
             }
           },
@@ -174,9 +177,9 @@
   },
   "active": "23b184a4e4c70c8e",
   "lastOpenFiles": [
-    "Coding Concepts/Dynamic Programming.md",
     "Coding Concepts/Recursion Board.md",
     "Daily Note/2024-05-11.md",
+    "Coding Concepts/Dynamic Programming.md",
     "Daily Note/2024-05-10.md",
     "Daily Note/2024-05-09.md",
     "Daily Note/2024-05-08.md",
