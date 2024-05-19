@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/Database Notes/Mongo DB Notes.md",
+                "file": "THE VAULT/API Notes/API notes 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Database Notes/Mongo DB Notes.md",
+                "file": "THE VAULT/API Notes/API notes 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Database Notes/Mongo DB Notes.md",
+                "file": "THE VAULT/API Notes/API notes 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Database Notes/Mongo DB Notes.md"
+                "file": "THE VAULT/API Notes/API notes 1.md"
               }
             }
           }
@@ -152,6 +152,10 @@
   "active": "8395d309368cd522",
   "lastOpenFiles": [
     "Daily Note/2024-05-19.md",
+    "THE VAULT/Soft Computing/Notes 3.md",
+    "THE VAULT/Machine learning/My notes 3.md",
+    "THE VAULT/Machine learning/My notes 1.md",
+    "THE VAULT/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md",
     "THE VAULT/Database Notes/SQL.md",
     "THE VAULT/Database Notes/Mongo DB Notes.md",
     "Projects/Start Gazer for moon.md",

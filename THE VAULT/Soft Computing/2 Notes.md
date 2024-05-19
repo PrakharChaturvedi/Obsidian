@@ -18,7 +18,7 @@
 	- <font color="#00b050">Human brain</font>: A highly intricate network of interconnected neurons responsible for complex functions like computation, storage, and learning.
 	- <font color="#00b050">Artificial Neural Networks (ANNs)</font>: Simplified computational models inspired by the structure and functioning of the brain, used for various tasks in machine learning and artificial intelligence.
 	- <font color="#00b050">Biological neuron analogy</font>: ANNs mimic the structure and behavior of biological neurons, with each component of an artificial neuron mirroring its biological counterpart.
-	- <font color="#00b050">Neuron function</font>: Biological neurons receive inputs through dendrites, integrate them at the soma, and produce output if the integrated signal surpasses a certain threshold.
+	- <font color="#00b050">Neuron function</font>: Biological neurons receive inputs through dendrites, integrate them at the soma, and produce output if the integrated signal surpasses a certain threshold. 
 	- <font color="#00b050">Synaptic weights</font>: In ANNs, weights represent the strength of connections (synapses) between neurons, with stronger connections having higher weights.
 	- <font color="#00b050">Input calculation</font>: The total input to an artificial neuron's soma is computed as the sum of the products of input values and their corresponding weights.
 	- **Function :** 
