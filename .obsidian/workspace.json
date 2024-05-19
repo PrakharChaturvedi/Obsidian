@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/API Notes/API notes 1.md",
+                "file": "Projects/NightLifeApp.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "2900e86eb2058a0f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-19 21.03.26.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ede9be9f688ac2c",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/API Notes/API notes 1.md",
+                "file": "Excalidraw/Drawing 2024-05-19 21.03.26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/API Notes/API notes 1.md",
+                "file": "Excalidraw/Drawing 2024-05-19 21.03.26.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/API Notes/API notes 1.md"
+                "file": "Excalidraw/Drawing 2024-05-19 21.03.26.excalidraw.md"
               }
             }
           }
@@ -149,8 +161,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8395d309368cd522",
+  "active": "2900e86eb2058a0f",
   "lastOpenFiles": [
+    "Projects/NightLifeApp.md",
+    "Excalidraw/Drawing 2024-05-19 21.03.26.excalidraw.md",
+    "Projects/Start Gazer for moon.md",
+    "Adole/comm/Mot-of-the-Day.md",
+    "Adole/comm/slack.md",
+    "Excalidraw/Drawing 2024-05-19 20.46.21.excalidraw.md",
+    "Projects/FlutterProjectDetails/Food Delivery Application.md",
     "Daily Note/2024-05-19.md",
     "THE VAULT/Soft Computing/Notes 3.md",
     "THE VAULT/Machine learning/My notes 3.md",
@@ -158,9 +177,7 @@
     "THE VAULT/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md",
     "THE VAULT/Database Notes/SQL.md",
     "THE VAULT/Database Notes/Mongo DB Notes.md",
-    "Projects/Start Gazer for moon.md",
     "Projects/ScoringApp/Features.md",
-    "Projects/FlutterProjectDetails/Food Delivery Application.md",
     "Coding Concepts/Recursion Board.md",
     "Coding Concepts/Dynamic Programming.md",
     "Daily Note/2024-05-18.md"
