@@ -59,7 +59,7 @@
 #### <font color="#ffc000">Create</font> 
 - `db.coll.insertOne({name: "Prakhar"})` : Insert a single document into the collection "coll" with the field "name" set to "Prakhar".
 - `db.coll.insertMany([{name: "Prakhar"}, {name:"Alex"}])`  : Insert multiple documents into the collection "coll" with the field "name" set to "Prakhar" and "Alex". The insertion is ordered, meaning if an error occurs, the operation will stop after the first error. Ordered bulk insert
-- `db.coll.insertMany([{name: "Prakhar"}, {name:"Alex"}], {ordered: false})` : Insert multiple documents into the collection "coll" with the field "name" set to "Prakhar" and "Alex".The insertion is unordered, meaning if an error occurs, the operation will continue with the remaining documents. Unordered bulk insert
+- `db.coll.insertMany([{name: "Prakhar"}, {name:"Alex"}], {ordered: false})` : Insert multiple documents into the collection "coll" with the field "name" set to "Prakhar" and "Alex". The insertion is unordered, meaning if an error occurs, the operation will continue with the remaining documents. Unordered bulk insert
 - `db.coll.insertOne({date: ISODate()})` : Insert a single document into the collection "coll" with the field "date" set to the current date and time in ISO format.
 - `db.coll.insertOne({name: "Prakhar"}, {"writeConcern": {"w": "majority", "wtimeout": 5000}})` : Insert a single document into the collection "coll" with the field "name" set to "Prakhar". Specifies a write concern with the majority level and a timeout of 5000 milliseconds.
 
