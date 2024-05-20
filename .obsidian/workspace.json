@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/Database Notes/Mongo DB Notes.md",
+                "file": "Daily Note/2024-05-20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Database Notes/Mongo DB Notes.md",
+                "file": "Daily Note/2024-05-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Database Notes/Mongo DB Notes.md",
+                "file": "Daily Note/2024-05-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Database Notes/Mongo DB Notes.md"
+                "file": "Daily Note/2024-05-20.md"
               }
             }
           }
@@ -151,6 +151,8 @@
   },
   "active": "2900e86eb2058a0f",
   "lastOpenFiles": [
+    "THE VAULT/Database Notes/Mongo DB Notes.md",
+    "Daily Note/2024-05-20.md",
     "Excalidraw/Drawing 2024-05-19 21.03.26.excalidraw.md",
     "Projects/NightLifeApp.md",
     "Projects/Start Gazer for moon.md",
@@ -164,7 +166,6 @@
     "THE VAULT/Machine learning/My notes 1.md",
     "THE VAULT/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md",
     "THE VAULT/Database Notes/SQL.md",
-    "THE VAULT/Database Notes/Mongo DB Notes.md",
     "Projects/ScoringApp/Features.md",
     "Coding Concepts/Recursion Board.md",
     "Coding Concepts/Dynamic Programming.md",
