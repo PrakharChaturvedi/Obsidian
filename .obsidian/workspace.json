@@ -8,30 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8395d309368cd522",
+            "id": "2900e86eb2058a0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/NightLifeApp.md",
+                "file": "THE VAULT/Database Notes/Mongo DB Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "2900e86eb2058a0f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-19 21.03.26.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ede9be9f688ac2c",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-19 21.03.26.excalidraw.md",
+                "file": "THE VAULT/Database Notes/Mongo DB Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-19 21.03.26.excalidraw.md",
+                "file": "THE VAULT/Database Notes/Mongo DB Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-19 21.03.26.excalidraw.md"
+                "file": "THE VAULT/Database Notes/Mongo DB Notes.md"
               }
             }
           }
@@ -163,8 +151,8 @@
   },
   "active": "2900e86eb2058a0f",
   "lastOpenFiles": [
-    "Projects/NightLifeApp.md",
     "Excalidraw/Drawing 2024-05-19 21.03.26.excalidraw.md",
+    "Projects/NightLifeApp.md",
     "Projects/Start Gazer for moon.md",
     "Adole/comm/Mot-of-the-Day.md",
     "Adole/comm/slack.md",
