@@ -91,5 +91,3 @@
 	6. **Transition Mechanisms:**
 	    - IPv6 incorporates various transition mechanisms to facilitate the coexistence and migration from IPv4 to IPv6 networks.
 	    - These transition mechanisms include dual-stack operation (running both IPv4 and IPv6 simultaneously), tunneling (encapsulating IPv6 packets within IPv4 packets for transmission over IPv4 networks), and translation (converting between IPv4 and IPv6 addresses at network boundaries).![[WhatsApp Image 2024-03-20 at 21.20.24_61479122.jpg]]
-
-- 

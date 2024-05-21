@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-05-20.md",
+                "file": "THE VAULT/IOT/Notes 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-05-20.md",
+                "file": "THE VAULT/IOT/Notes 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-05-20.md",
+                "file": "THE VAULT/IOT/Notes 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-05-20.md"
+                "file": "THE VAULT/IOT/Notes 2.md"
               }
             }
           }
@@ -151,8 +151,15 @@
   },
   "active": "2900e86eb2058a0f",
   "lastOpenFiles": [
-    "THE VAULT/Database Notes/Mongo DB Notes.md",
+    "THE VAULT/IOT/7 Markers.md",
+    "THE VAULT/IOT/Notes 2.md",
+    "THE VAULT/IOT/IOT questions.md",
+    "THE VAULT/IOT/Pasted image 20240320145620.png",
+    "THE VAULT/IOT/Pasted image 20240320215317.png",
+    "THE VAULT/IOT/Pasted image 20240320215526.png",
+    "THE VAULT/IOT/WhatsApp Image 2024-03-20 at 21.20.24_61479122.jpg",
     "Daily Note/2024-05-20.md",
+    "THE VAULT/Database Notes/Mongo DB Notes.md",
     "Excalidraw/Drawing 2024-05-19 21.03.26.excalidraw.md",
     "Projects/NightLifeApp.md",
     "Projects/Start Gazer for moon.md",
