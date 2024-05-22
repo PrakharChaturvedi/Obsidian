@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/IOT/Notes 2.md",
+                "file": "THE VAULT/Cloud Computing/Notes 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/IOT/Notes 2.md",
+                "file": "THE VAULT/Cloud Computing/Notes 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/IOT/Notes 2.md",
+                "file": "THE VAULT/Cloud Computing/Notes 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/IOT/Notes 2.md"
+                "file": "THE VAULT/Cloud Computing/Notes 3.md"
               }
             }
           }
@@ -151,8 +151,11 @@
   },
   "active": "2900e86eb2058a0f",
   "lastOpenFiles": [
-    "THE VAULT/IOT/7 Markers.md",
+    "THE VAULT/Cloud Computing/Notes 2.md",
+    "THE VAULT/Cloud Computing/Notes 1.md",
+    "Daily Note/2024-05-22.md",
     "THE VAULT/IOT/Notes 2.md",
+    "THE VAULT/IOT/7 Markers.md",
     "THE VAULT/IOT/IOT questions.md",
     "THE VAULT/IOT/Pasted image 20240320145620.png",
     "THE VAULT/IOT/Pasted image 20240320215317.png",

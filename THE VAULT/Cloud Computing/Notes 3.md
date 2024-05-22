@@ -1,6 +1,6 @@
 ## AWS Platform and infrastructure
 - Diagram : ![[Pasted image 20240428122014.png]]
-- Amazon Web Services provides highly scalable computing infrastructure that enables organizations around the world to requisition compute power, storage, and other on-demand services in the cloud.  These services are available on demand so a customer doesn’t need to think about controlling them or maintaining them.  Customers access the services when they need them and pay for only what they use.  One of the primary benefits of the AWS cloud is that it enables companies of all sizes to focus on the differentiating factors of their business as opposed to the infrastructure required to run it.
+	- Amazon Web Services provides highly scalable computing infrastructure that enables organizations around the world to requisition compute power, storage, and other on-demand services in the cloud.  These services are available on demand so a customer doesn’t need to think about controlling them or maintaining them.  Customers access the services when they need them and pay for only what they use.  One of the primary benefits of the AWS cloud is that it enables companies of all sizes to focus on the differentiating factors of their business as opposed to the infrastructure required to run it.
 - **Region :**  
 	- It is a physical location in the world which consist of availability zones. 
 	- Examples : US EAST (N. Virginia), EU (Ireland), US EAST (Ohio). 
