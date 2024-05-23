@@ -11,12 +11,9 @@
             "id": "e7f7ea5fdcb1bb14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excel-view",
               "state": {
-                "file": "Daily Note/2024-05-23.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Course Design.md"
               }
             }
           }
@@ -70,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ede9be9f688ac2c",
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-05-23.md",
+                "file": "Course Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-05-23.md",
+                "file": "Course Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-05-23.md"
+                "file": "Course Design.md"
               }
             }
           }
@@ -151,9 +149,12 @@
   },
   "active": "e7f7ea5fdcb1bb14",
   "lastOpenFiles": [
-    "Daily Note/2024-05-23.md",
+    "THE VAULT/Database Notes/Mongo DB Notes.md",
     "Excel 2024-05-23 19.38.35.sheet.md",
+    "THE VAULT/Programming Updates.md",
     "Daily Note.md",
+    "Course Design.md",
+    "Daily Note/2024-05-23.md",
     "Daily Note/2024-05-22.md",
     "Excalidraw/Drawing 2024-05-22 21.19.27.excalidraw.md",
     "THE VAULT/Cloud Computing/Notes 2.md",
@@ -166,7 +167,6 @@
     "THE VAULT/IOT/Pasted image 20240320215526.png",
     "THE VAULT/IOT/WhatsApp Image 2024-03-20 at 21.20.24_61479122.jpg",
     "Daily Note/2024-05-20.md",
-    "THE VAULT/Database Notes/Mongo DB Notes.md",
     "Excalidraw/Drawing 2024-05-19 21.03.26.excalidraw.md",
     "Projects/NightLifeApp.md",
     "Projects/Start Gazer for moon.md",
@@ -178,8 +178,6 @@
     "THE VAULT/Soft Computing/Notes 3.md",
     "THE VAULT/Machine learning/My notes 3.md",
     "THE VAULT/Machine learning/My notes 1.md",
-    "THE VAULT/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md",
-    "THE VAULT/Database Notes/SQL.md",
-    "Projects/ScoringApp/Features.md"
+    "THE VAULT/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md"
   ]
 }
