@@ -13,7 +13,7 @@
             "state": {
               "type": "excel-view",
               "state": {
-                "file": "Excel 2024-05-23 19.38.35.sheet.md"
+                "file": "Course Design.md"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ede9be9f688ac2c",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excel 2024-05-23 19.38.35.sheet.md",
+                "file": "Course Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excel 2024-05-23 19.38.35.sheet.md",
+                "file": "Course Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excel 2024-05-23 19.38.35.sheet.md"
+                "file": "Course Design.md"
               }
             }
           }
@@ -148,6 +149,7 @@
   },
   "active": "e7f7ea5fdcb1bb14",
   "lastOpenFiles": [
+    "Daily Note/2024-05-24.md",
     "Course Design.md",
     "Excel 2024-05-23 19.38.35.sheet.md",
     "AWS IIT.md",
@@ -155,7 +157,6 @@
     "Projects/Start Gazer for moon.md",
     "Coding Concepts/Recursion Board.md",
     "Coding Concepts/Dynamic Programming.md",
-    "Daily Note/2024-05-24.md",
     "Daily Note/2024-05-23.md",
     "THE VAULT/Database Notes/Mongo DB Notes.md",
     "THE VAULT/Programming Updates.md",
