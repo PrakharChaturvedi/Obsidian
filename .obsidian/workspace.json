@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md",
-                "mode": "preview",
+                "file": "THE VAULT/Soft Computing/Questions.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md",
+                "file": "THE VAULT/Soft Computing/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md",
+                "file": "THE VAULT/Soft Computing/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md"
+                "file": "THE VAULT/Soft Computing/Questions.md"
               }
             }
           }
@@ -151,6 +151,9 @@
   },
   "active": "49122ad53ed6bd4a",
   "lastOpenFiles": [
+    "THE VAULT/Soft Computing/Images/WhatsApp Image 2024-02-21 at 13.07.58_f0ced6d4.jpg",
+    "THE VAULT/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md",
+    "THE VAULT/Soft Computing/Questions.md",
     "Daily Note/2024-05-25.md",
     "Untitled.md",
     "Course Design.md",
@@ -177,9 +180,6 @@
     "THE VAULT/IOT/Pasted image 20240320215526.png",
     "THE VAULT/IOT/WhatsApp Image 2024-03-20 at 21.20.24_61479122.jpg",
     "Daily Note/2024-05-20.md",
-    "Excalidraw/Drawing 2024-05-19 21.03.26.excalidraw.md",
-    "Adole/comm/Mot-of-the-Day.md",
-    "Adole/comm/slack.md",
-    "Excalidraw/Drawing 2024-05-19 20.46.21.excalidraw.md"
+    "Excalidraw/Drawing 2024-05-19 21.03.26.excalidraw.md"
   ]
 }
