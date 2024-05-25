@@ -13,11 +13,11 @@
 - A = {(x1, 0.3). (x2, 0.5), (x3,1), (x4,0.8),(x5,0.1)} 
 - B = {(x1, 0.5). (x2, 0.2). (x3,0.7), (x4,0.4), (x5,0.6)}
 - Perform the following Fuzzy Operations on these fuzzy sets:
-	a. Algebraic sum 
-	b. Algebraic difference 
-	c. Bounded sum 
-	d. Union
-	e. Algebraic product 
-	f. Bounded difference 
-	g. Cartesian product
+	a. Algebraic sum [uA(x) + uB(x) - uA(x) * uB(x)]
+	b. Algebraic difference []
+	c. Bounded sum [uA(x) (+) uB(x) = min { 1, uA(x) + uB(x) }]
+	d. Union [uAUB(x) = max { uA(x), uB(x) }]
+	e. Algebraic product [uA.B(x) = uA(x) * uB(x )]
+	f. Bounded difference [uA(x) (-) uB(x) = max { 1, uA(x) + uB(x) }]
+	g. Cartesian product [uAxB(x,y) = min { uA(x), uB(x) }]
 ![[WhatsApp Image 2024-02-21 at 13.07.58_f0ced6d4.jpg]]

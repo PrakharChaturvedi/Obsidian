@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "244b930f2984a345",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "THE VAULT/Soft Computing/Images/WhatsApp Image 2024-02-21 at 13.07.58_f0ced6d4.jpg"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Soft Computing/Questions.md",
+                "file": "THE VAULT/Soft Computing/Images/WhatsApp Image 2024-02-21 at 13.07.58_f0ced6d4.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Soft Computing/Questions.md",
+                "file": "THE VAULT/Soft Computing/Images/WhatsApp Image 2024-02-21 at 13.07.58_f0ced6d4.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Soft Computing/Questions.md"
+                "file": "THE VAULT/Soft Computing/Images/WhatsApp Image 2024-02-21 at 13.07.58_f0ced6d4.jpg"
               }
             }
           }
@@ -149,11 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49122ad53ed6bd4a",
+  "active": "244b930f2984a345",
   "lastOpenFiles": [
+    "THE VAULT/Soft Computing/Questions.md",
     "THE VAULT/Soft Computing/Images/WhatsApp Image 2024-02-21 at 13.07.58_f0ced6d4.jpg",
     "THE VAULT/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md",
-    "THE VAULT/Soft Computing/Questions.md",
     "Daily Note/2024-05-25.md",
     "Untitled.md",
     "Course Design.md",
