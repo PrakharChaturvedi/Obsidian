@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "840fb506ebd30364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "THE VAULT/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "244b930f2984a345",
             "type": "leaf",
             "state": {
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Soft Computing/Images/WhatsApp Image 2024-02-21 at 13.07.58_f0ced6d4.jpg",
+                "file": "THE VAULT/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Soft Computing/Images/WhatsApp Image 2024-02-21 at 13.07.58_f0ced6d4.jpg",
+                "file": "THE VAULT/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Soft Computing/Images/WhatsApp Image 2024-02-21 at 13.07.58_f0ced6d4.jpg"
+                "file": "THE VAULT/Soft Computing/1 Notes - Fuzzy Sets and Fuzzy Logics.md"
               }
             }
           }
@@ -160,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "244b930f2984a345",
+  "active": "840fb506ebd30364",
   "lastOpenFiles": [
     "THE VAULT/Soft Computing/Questions.md",
     "THE VAULT/Soft Computing/Images/WhatsApp Image 2024-02-21 at 13.07.58_f0ced6d4.jpg",

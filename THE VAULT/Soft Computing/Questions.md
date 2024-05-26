@@ -10,8 +10,8 @@
 - <font color="#ffc000">Normality :</font> A fuzzy set 𝐴 is **normal** if there is at least one element in the universe of discourse 𝑋X whose membership grade is 1. In other words, the maximum membership grade in the fuzzy set is 1.
 
 ### Consider the Following membership Functions: 
-- A = {(x1, 0.3). (x2, 0.5), (x3,1), (x4,0.8),(x5,0.1)} 
-- B = {(x1, 0.5). (x2, 0.2). (x3,0.7), (x4,0.4), (x5,0.6)}
+- A = { (x1, 0.3). (x2, 0.5), (x3,1), (x4,0.8),(x5,0.1) } 
+- B = { (x1, 0.5). (x2, 0.2). (x3,0.7), (x4,0.4), (x5,0.6) }
 - Perform the following Fuzzy Operations on these fuzzy sets:
 	a. Algebraic sum [uA(x) + uB(x) - uA(x) * uB(x)]
 	b. Algebraic difference []
