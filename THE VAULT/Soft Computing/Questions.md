@@ -27,4 +27,46 @@
 - Activation functions play a critical role in soft computing, particularly in artificial neural networks (ANNs). They determine the output of a neuron given an input or set of inputs.
 - Types :
 	- Sigmoid Activation Function
-	- Hyper
+		- The sigmoid function, also known as the logistic function, is defined as:
+		- $σ(x)=1/(1+e^−x )​$
+		- Output Range: (0, 1)
+		- Shape: S-shaped curve (sigmoidal)
+		- Differentiability: Smooth and differentiable, making it suitable for backpropagation.
+	- Hyperbolic tangent (tanh) Activation Function
+		- The tanh function is defined as:
+		- $tanh(x)=e^x+e^−x/e^x−e^−x​$
+		- Output Range: (-1, 1)
+		- Shape: Similar to sigmoid but scaled and shifted.
+	- ReLU (Rectified Linear Unit Activation Function
+		- ReLU(x)=max(0,x)
+		- Output range : (0,∞)
+		- Shape: Linear for positive inputs and zero for negative inputs.
+	- Softmax Activation Function 
+		- The softmax function is often used in the output layer of neural networks for classification tasks. 
+		- Output Range: (0, 1), with all outputs summing to 1.
+		- Shape: Converts raw scores into probabilities.
+	- ELU (Exponential Linear Unit Activation Function)
+		- It's particularly effective in reducing the vanishing gradient problem during training.
+		- ELU might be computationally more expensive than ReLU due to the use of exponential function. Despite this, it's been shown to perform well in various types of neural networks, particularly in networks with deeper architectures.
+	- Diagram :![[1_RD0lIYqB5L2LrI2VTIZqGw.webp]]
+
+## LeNet Architecture :
+- 1 input layer, 3 convolutional layers, 2 pooling layers, 1 fully connected layer and one output layer
+- Layers description : 
+	- Input (grayscale image)
+	- Convolution layer 1
+	- Pooling Layer 2
+	- Convolution layer 3
+	- Pooling Layer 4
+	- Convolution layer 5
+	- Fully connected layer
+	- Output (softmax for classification)
+
+## Define regularization and droup-out regularization in short
+- Regularization
+	- Regularization is a set of techniques used in machine learning to prevent overfitting by adding additional information or constraints to a model. Overfitting occurs when a model learns the noise and details in the training data to an extent that it negatively impacts its performance on new, unseen data.
+- Dropout Regularization
+	- Dropout regularization is a technique used to prevent overfitting in neural networks by randomly "dropping out" a fraction of neurons during training. This means that each iteration of training, a different subset of the network's neurons is used, forcing the network to learn more robust features that are not reliant on specific neurons. 
+	- During testing, all neurons are used, but their outputs are scaled by the dropout rate to balance the overall activation levels. This helps to improve the generalization ability of the model.
+
+##
