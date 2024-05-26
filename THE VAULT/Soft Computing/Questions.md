@@ -69,4 +69,9 @@
 	- Dropout regularization is a technique used to prevent overfitting in neural networks by randomly "dropping out" a fraction of neurons during training. This means that each iteration of training, a different subset of the network's neurons is used, forcing the network to learn more robust features that are not reliant on specific neurons. 
 	- During testing, all neurons are used, but their outputs are scaled by the dropout rate to balance the overall activation levels. This helps to improve the generalization ability of the model.
 
-##
+## How to map human brain in ANN 
+- Mapping the human neural network using Artificial Neural Networks (ANNs) involves creating computational models that emulate the brain's structure and function. 
+- ANNs consist of layers: input, hidden, and output, analogous to sensory, processing, and motor neurons, respectively. 
+- Each artificial neuron processes inputs through weights and biases, similar to synapses in biological neurons. Training involves adjusting these weights using algorithms like backpropagation to minimize error. 
+- Activation functions enable non-linear transformations, akin to the brain's complex signal processing. Deep Neural Networks (DNNs), with many hidden layers, mirror the brain’s hierarchical processing for tasks like image recognition. 
+- This approach leverages neuroplasticity, allowing ANNs to learn and adapt, reflecting the dynamic nature of human neural networks.
