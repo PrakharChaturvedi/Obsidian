@@ -38,7 +38,7 @@
 				- φ(I) = tanh(I) = (e^(αI) - e^(αI))/(e^(αI) + e^(αI)) [tan-Sigmoid]
 				- a -> coefficient of transfer function  ![[Pasted image 20240318234728.png]]
 	- **Advantages of ANN** :
-		-  <font color="#ffc000">Mapping capabilities</font>: ANNs can map input patterns to corresponding output patterns, making them useful for various tasks.
+		- <font color="#ffc000">Mapping capabilities</font>: ANNs can map input patterns to corresponding output patterns, making them useful for various tasks.
 		- <font color="#ffc000">Learning by examples</font>: ANNs are trained with known examples of a problem before being tested on unknown instances, allowing them to identify new objects.
 		- <font color="#ffc000">Generalization</font>: ANNs can generalize, applying learned patterns to new situations where exact mathematical models are unavailable.
 		- <font color="#ffc000">Robustness and fault tolerance</font>: ANNs can recall full patterns from incomplete, partial, or noisy data, making them resilient to errors.

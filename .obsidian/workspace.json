@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/Soft Computing/1 Notes.md",
+                "file": "THE VAULT/Soft Computing/2 Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Soft Computing/1 Notes.md",
+                "file": "THE VAULT/Soft Computing/2 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Soft Computing/1 Notes.md",
+                "file": "THE VAULT/Soft Computing/2 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Soft Computing/1 Notes.md"
+                "file": "THE VAULT/Soft Computing/2 Notes.md"
               }
             }
           }
@@ -164,8 +164,8 @@
   },
   "active": "840fb506ebd30364",
   "lastOpenFiles": [
-    "THE VAULT/Soft Computing/Questions.md",
     "THE VAULT/Soft Computing/1 Notes.md",
+    "THE VAULT/Soft Computing/Questions.md",
     "THE VAULT/Soft Computing/Images/WhatsApp Image 2024-02-21 at 13.07.58_f0ced6d4.jpg",
     "Excel 2024-05-23 19.38.35.sheet.md",
     "THE VAULT/Soft Computing/Class Notes.md",
