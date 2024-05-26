@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Soft Computing/Questions.md",
+                "file": "THE VAULT/Soft Computing/Notes 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Soft Computing/Questions.md",
+                "file": "THE VAULT/Soft Computing/Notes 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Soft Computing/Questions.md"
+                "file": "THE VAULT/Soft Computing/Notes 3.md"
               }
             }
           }
@@ -173,18 +172,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7f7ea5fdcb1bb14",
+  "active": "840fb506ebd30364",
   "lastOpenFiles": [
+    "THE VAULT/Soft Computing/Images/Drawing 2024-04-08 10.15.28.excalidraw.md",
+    "THE VAULT/Soft Computing/Images/Drawing 2024-03-19 20.57.07.excalidraw.md",
     "THE VAULT/Soft Computing/Notes 3.md",
+    "THE VAULT/Soft Computing/2 Notes.md",
     "THE VAULT/Soft Computing/Questions.md",
     "THE VAULT/Soft Computing/WhatsApp Image 2024-05-26 at 13.45.36_7882bb89.jpg",
-    "THE VAULT/Soft Computing/2 Notes.md",
     "THE VAULT/Soft Computing/1 Notes.md",
     "THE VAULT/Soft Computing/Images/WhatsApp Image 2024-02-21 at 13.07.58_f0ced6d4.jpg",
     "Excel 2024-05-23 19.38.35.sheet.md",
     "THE VAULT/Soft Computing/Class Notes.md",
-    "THE VAULT/Soft Computing/Images/Drawing 2024-03-19 20.57.07.excalidraw.md",
-    "THE VAULT/Soft Computing/Images/Drawing 2024-04-08 10.15.28.excalidraw.md",
     "Daily Note/2024-05-25.md",
     "Untitled.md",
     "Course Design.md",
