@@ -21,3 +21,4 @@
 	f. Bounded difference [uA(x) (-) uB(x) = max { 1, uA(x) + uB(x) }]
 	g. Cartesian product [uAxB(x,y) = min { uA(x), uB(x) }]
 ![[WhatsApp Image 2024-02-21 at 13.07.58_f0ced6d4.jpg]]
+
