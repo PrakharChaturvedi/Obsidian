@@ -8,12 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4147e2c1b884cb69",
+            "id": "711cfd0bcb2541f5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "THE VAULT/Soft Computing/Images/Drawing 2024-03-19 20.57.07.excalidraw.md"
+                "file": "THE VAULT/Soft Computing/1 Notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -56,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "0ede9be9f688ac2c",
@@ -123,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Soft Computing/Images/Drawing 2024-03-19 20.57.07.excalidraw.md",
+                "file": "THE VAULT/Soft Computing/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Soft Computing/Images/Drawing 2024-03-19 20.57.07.excalidraw.md",
+                "file": "THE VAULT/Soft Computing/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Soft Computing/Images/Drawing 2024-03-19 20.57.07.excalidraw.md"
+                "file": "THE VAULT/Soft Computing/Questions.md"
               }
             }
           }
@@ -186,15 +189,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4147e2c1b884cb69",
+  "active": "e7f7ea5fdcb1bb14",
   "lastOpenFiles": [
-    "Pasted Image 20240526220710_256.png",
-    "THE VAULT/Soft Computing/2 Notes.md",
     "THE VAULT/Soft Computing/Notes 3.md",
-    "THE VAULT/Soft Computing/Images/Drawing 2024-03-19 20.57.07.excalidraw.md",
-    "THE VAULT/Soft Computing/Images/Drawing 2024-04-08 10.15.28.excalidraw.md",
     "THE VAULT/Soft Computing/1 Notes.md",
+    "THE VAULT/Soft Computing/2 Notes.md",
+    "THE VAULT/Soft Computing/Images/Drawing 2024-03-19 20.57.07.excalidraw.md",
     "THE VAULT/Soft Computing/Questions.md",
+    "Pasted Image 20240526221511_291.jpg",
+    "Pasted Image 20240526220710_256.png",
+    "THE VAULT/Soft Computing/Images/Drawing 2024-04-08 10.15.28.excalidraw.md",
     "THE VAULT/Soft Computing/Images/1_RD0lIYqB5L2LrI2VTIZqGw.webp",
     "softmax_function.svg",
     "THE VAULT/Soft Computing/WhatsApp Image 2024-05-26 at 13.45.36_7882bb89.jpg",
