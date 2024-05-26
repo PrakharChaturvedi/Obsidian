@@ -1,4 +1,3 @@
-![[WhatsApp Image 2024-05-26 at 13.45.36_7882bb89.jpg]]
 ### Fuzzy Sets terminologies :
 - <font color="#ffc000">Core :</font> The **core** of a fuzzy set 𝐴 is the set of all elements 𝑥 in the universe of discourse 𝑋 where the membership function 𝜇𝐴(𝑥) is equal to 1. In other words, it consists of all elements that fully belong to the fuzzy set.
 - <font color="#ffc000">Support :</font> The **support** of a fuzzy set 𝐴 is the set of all elements 𝑥 in the universe of discourse 𝑋 where the membership function 𝜇𝐴(𝑥) is greater than 0. It includes all elements that have a non-zero degree of membership in the fuzzy set.
@@ -23,3 +22,4 @@
 	g. Cartesian product [uAxB(x,y) = min { uA(x), uB(x) }]
 ![[WhatsApp Image 2024-02-21 at 13.07.58_f0ced6d4.jpg]]
 
+## 

@@ -171,7 +171,7 @@
 - <font color="#ffc000">Components</font> :
 	 1. **Convolutional Layer**: This layer applies filters (kernels) to the input image, detecting features through parameter sharing. Hyperparameters like the number of filters, stride, and padding affect the size of the output feature maps. The ReLU activation function introduces nonlinearity to the model.
 	2. **Additional Convolutional Layers**: Following the initial convolutional layer, subsequent layers create a hierarchical structure, allowing the network to recognize higher-level patterns by combining lower-level features.
-	3. **Pooling Layer**: Pooling layers perform downsampling, reducing the spatial dimensions of the input while retaining important features. Max pooling and average pooling are common pooling methods, each selecting or averaging values within a receptive field.
+	3. **Pooling Layer**: Pooling layers perform down sampling, reducing the spatial dimensions of the input while retaining important features. Max pooling and average pooling are common pooling methods, each selecting or averaging values within a receptive field.
 	4. **Fully-Connected Layer**: In this layer, every node is connected to every node in the previous layer, enabling classification based on extracted features. Typically, softmax activation is used for multi-class classification tasks, producing probability distributions over the classes.
 	These components work together to process input images, extract features at different levels of abstraction, and make predictions.
 -  <font color="#ffc000">ReLU function</font> :
