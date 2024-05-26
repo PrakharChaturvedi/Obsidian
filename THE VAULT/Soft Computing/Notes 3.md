@@ -55,11 +55,11 @@
 		- <font color="#ffc000">Equation :</font> 
 			- it ​= σ(Wi​⋅[ht−1​,xt​]+bi​), where  `W_i` and `b_i` are the weights and bias for the input gate.
 	- **Output Gate (`o_t`) :** 
-		- Controls the flow of information out of the memory cell to the hidden state. The output gate determines what information should be used as the hidden state's output. The output gate's activation function is typically a sigmoid function, which outputs a value between 0 and 1, indicating the level of information to be output from the cell state.
+		- Controls the flow of information out of the memory cell to the hidden state. The output gate determines what information should be used as the hidden state's output. The output gate's activation function is typically a <font color="#00b050">sigmoid function</font>, which outputs a value between 0 and 1, indicating the level of information to be output from the cell state.
 		- <font color="#ffc000">Equation : </font>
 			- ot ​= σ(Wo​⋅[ht−1​,xt​]+bo​)
-- **Cell Candidate:** Determines the new candidate values to be added to the cell state. The cell candidate's activation function is typically a hyperbolic tangent (tanh) function, which outputs a value between -1 and 1, indicating the level of new information to be added to the cell state.
-- **Cell State:** The cell state is the internal memory of the LSTM cell, which stores information over long periods. The cell state is updated using the input gate, forget gate, and cell candidate.
+- **Cell Candidate:** Determines the new candidate values to be added to the cell state. The cell candidate's activation function is typically a hyperbolic <font color="#00b050">tangent (tanh) function</font>, which outputs a value between -1 and 1, indicating the level of new information to be added to the cell state.
+- **Cell State:** The cell state is the internal memory of the LSTM cell, which stores information over long periods. The cell state is updated using the <font color="#00b050">input gate, forget gate, and cell candidate.</font>
 - **Hidden State:** The hidden state is the output of the LSTM cell, which is used as input for the next cell in the sequence. The hidden state is updated using the output gate and the cell state.
 - **Implantation using Keras :**
 	- In Keras, you can easily implement dropout regularization in an LSTM (Long Short-Term Memory) network by specifying dropout rates using the `dropout` and `recurrent_dropout` parameters. The `dropout` parameter controls the dropout rate for the input connections to the LSTM units, while the `recurrent_dropout` parameter controls the dropout rate for the recurrent connections (i.e., connections between LSTM units across time steps).

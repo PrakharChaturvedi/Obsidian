@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "THE VAULT/Soft Computing/Notes 3.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Soft Computing/Notes 3.md",
+                "file": "THE VAULT/Soft Computing/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Soft Computing/Notes 3.md",
+                "file": "THE VAULT/Soft Computing/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Soft Computing/Notes 3.md"
+                "file": "THE VAULT/Soft Computing/Questions.md"
               }
             }
           }
@@ -175,11 +176,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "840fb506ebd30364",
+  "active": "e7f7ea5fdcb1bb14",
   "lastOpenFiles": [
+    "THE VAULT/Soft Computing/Notes 3.md",
     "THE VAULT/Soft Computing/2 Notes.md",
     "THE VAULT/Soft Computing/Questions.md",
-    "THE VAULT/Soft Computing/Notes 3.md",
     "THE VAULT/Soft Computing/WhatsApp Image 2024-05-26 at 13.45.36_7882bb89.jpg",
     "THE VAULT/Soft Computing/Images/Drawing 2024-04-08 10.15.28.excalidraw.md",
     "THE VAULT/Soft Computing/Images/Drawing 2024-03-19 20.57.07.excalidraw.md",

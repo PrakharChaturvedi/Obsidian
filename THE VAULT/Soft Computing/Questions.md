@@ -7,6 +7,7 @@
 - <font color="#ffc000">Convexity :</font> A fuzzy set 𝐴 is **convex** if for any two elements 𝑥1x and 𝑥2​ in the universe of discourse 𝑋, and for any 𝜆∈[0,1], the membership function satisfies :
 	-> 𝜇𝐴 (𝜆𝑥1 + (1−𝜆) 𝑥2) *≥* min⁡(𝜇𝐴(𝑥1) , 𝜇𝐴(𝑥2)) 
 	This means that the membership grade of any point between 𝑥1 and 𝑥2​ should not be less than the minimum membership grade of 𝑥1​ and 𝑥2.
+- <font color="#ffc000">α-cut :</font> The α-cut of a fuzzy set is the subset of elements from the universe of discourse for which the membership degree in the fuzzy set is at least as high as the threshold 𝛼α. This operation essentially <font color="#00b050">converts a fuzzy set into a crisp set</font> by retaining only those elements whose membership degrees exceed or equal a certain level of certainty.
 - <font color="#ffc000">Normality :</font> A fuzzy set 𝐴 is **normal** if there is at least one element in the universe of discourse 𝑋 whose membership grade is 1. In other words, the maximum membership grade in the fuzzy set is 1.
 
 ### Consider the Following membership Functions: 
@@ -22,4 +23,8 @@
 	g. Cartesian product [uAxB(x,y) = min { uA(x), uB(x) }]
 ![[WhatsApp Image 2024-02-21 at 13.07.58_f0ced6d4.jpg]]
 
-## 
+## Types of activation functions :
+- Activation functions play a critical role in soft computing, particularly in artificial neural networks (ANNs). They determine the output of a neuron given an input or set of inputs.
+- Types :
+	- Sigmoid Activation Function
+	- Hyper
