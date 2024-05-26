@@ -116,6 +116,17 @@ Fuzzy Logic & Fuzzy Sets :
 	- **Applications:**
 	    - <font color="#e41c2a">Crisp Set:</font> Commonly used in classical mathematics and logic, where precise, deterministic definitions are required.
 	    - <font color="#e41c2a">Fuzzy Set:</font> Widely applied in fields such as fuzzy logic, control systems, decision support, and pattern recognition, where dealing with uncertainty is essential.
+	- **Example :**
+		- <font color="#e41c2a">Crisp Set:</font> Let's consider a set of "tall people" where we define "tall" as being 6 feet or taller.
+			- People who are 6 feet or taller: Members of the set (membership = 1)
+			- People who are shorter than 6 feet: Not members of the set (membership = 0)
+			So, if we have:
+			- John (6.2 feet) -> Member of the set (1)
+			- Mike (5.8 feet) -> Not a member of the set (0)
+		- <font color="#e41c2a">Fuzzy Set:</font> Let's again consider the set of "tall people," but this time we use a fuzzy logic approach. Here, membership is gradual.
+			- John (6.2 feet) might be considered "tall" to a high degree, say 0.9.
+			- Mike (5.8 feet) might be considered "tall" to a lesser degree, say 0.4.
+			- Tom (5.5 feet) might be considered "tall" to a very low degree, say 0.1.
 - <font color="#ffc000">Fuzzy v/s Probability</font> 
 	- **Nature of Uncertainty:**
 		- **Fuzzy Logic:** Fuzzy logic deals with uncertainty arising from vagueness or imprecision in information. It allows for the representation of degrees of truth between completely true and completely false.
@@ -194,7 +205,6 @@ Perform the following Fuzzy operations in these fuzzy sets :
 	e. Algebraic product
 	f. Multiplication of fuzzy set with crisp number
 	g. Power of fuzzy set
-
 ### Solution :
 ![[WhatsApp Image 2024-02-18 at 21.58.32_e31e7b10.jpg]]
 
