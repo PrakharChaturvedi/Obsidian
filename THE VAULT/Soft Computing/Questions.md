@@ -18,7 +18,7 @@
 	b. Algebraic difference [μA−B​(x) = max ( 0,μA​(x)−μB​(x) )]
 	c. Bounded sum [uA(x) (+) uB(x) = min { 1, uA(x) + uB(x) }]
 	d. Union [uAUB(x) = max { uA(x), uB(x) }]
-	e. Algebraic product [ uA . B(x) = uA(x) * uB(x ) ]
+	e. Algebraic product [ uA . B(x) = uA(x) * uB(x) ]
 	f. Bounded difference [ uA(x) (-) uB(x) = max { 1, uA(x) + uB(x) }]
 	g. Cartesian product [ uAxB(x,y) = min { uA(x), uB(x) }]
 ![[WhatsApp Image 2024-02-21 at 13.07.58_f0ced6d4.jpg]]
