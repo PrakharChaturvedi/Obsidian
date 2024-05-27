@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "28d56c21378e32ae",
+        "id": "3e2e5186dcf25ae3",
         "type": "tabs",
         "children": [
           {
-            "id": "711cfd0bcb2541f5",
+            "id": "32ba776716399c0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/Soft Computing/1 Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fae2540056ff577",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THE VAULT/Soft Computing/2 Notes.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "840fb506ebd30364",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THE VAULT/Soft Computing/Notes 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7f7ea5fdcb1bb14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THE VAULT/Soft Computing/Questions.md",
+                "file": "THE VAULT/IOT/Final Season.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Soft Computing/Questions.md",
+                "file": "THE VAULT/IOT/Final Season.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Soft Computing/Questions.md",
+                "file": "THE VAULT/IOT/Final Season.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Soft Computing/Questions.md"
+                "file": "THE VAULT/IOT/Final Season.md"
               }
             }
           }
@@ -189,11 +149,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7f7ea5fdcb1bb14",
+  "active": "32ba776716399c0d",
   "lastOpenFiles": [
-    "THE VAULT/Soft Computing/Notes 3.md",
-    "THE VAULT/Soft Computing/2 Notes.md",
+    "Pasted image 20240528005451.png",
+    "THE VAULT/IOT/Images/Pasted image 20240320145620.png",
+    "THE VAULT/IOT/Final Season.md",
+    "Daily Note/2024-05-28.md",
+    "THE VAULT/IOT/Images",
     "THE VAULT/Soft Computing/1 Notes.md",
+    "THE VAULT/Soft Computing/2 Notes.md",
+    "THE VAULT/Soft Computing/Notes 3.md",
     "THE VAULT/Soft Computing/Questions.md",
     "THE VAULT/Soft Computing/Images/Drawing 2024-03-19 20.57.07.excalidraw.md",
     "Pasted Image 20240526221511_291.jpg",
@@ -220,11 +185,8 @@
     "Daily Note.md",
     "Daily Note/2024-05-22.md",
     "Excalidraw/Drawing 2024-05-22 21.19.27.excalidraw.md",
-    "THE VAULT/Cloud Computing/Notes 2.md",
-    "THE VAULT/Cloud Computing/Notes 1.md",
-    "THE VAULT/IOT/Pasted image 20240320145620.png",
-    "THE VAULT/IOT/Pasted image 20240320215317.png",
-    "THE VAULT/IOT/Pasted image 20240320215526.png",
-    "THE VAULT/IOT/WhatsApp Image 2024-03-20 at 21.20.24_61479122.jpg"
+    "THE VAULT/IOT/Images/Pasted image 20240320215317.png",
+    "THE VAULT/IOT/Images/Pasted image 20240320215526.png",
+    "THE VAULT/IOT/Images/WhatsApp Image 2024-03-20 at 21.20.24_61479122.jpg"
   ]
 }
