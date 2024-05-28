@@ -191,6 +191,7 @@
 		    - **Application Logic**: Includes specific business logic tailored to the M2M application's requirements, such as data analytics, decision-making algorithms, and user interfaces.
 		    - **Service Capability Layer**: Offers standardized interfaces and services to ensure interoperability between different applications and devices, often includes functions for security, data management, and service provisioning.
 - This architecture facilitates a scalable and interoperable M2M ecosystem, enabling efficient communication and data exchange between devices, networks, and applications. 
+- ![[WhatsApp Image 2024-05-28 at 11.40.48_378741c8.jpg]]
 ![[Pasted image 20240528005451.png]]
 #### Question 5 : Specify functions of CoAP, Restful, HTTP, MQTT and XMPP in IOT applications.
 - In IoT applications, various protocols and frameworks serve distinct functions to facilitate communication and data exchange between devices. Here are the functions of CoAP, RESTful, HTTP, MQTT, and XMPP:
@@ -376,5 +377,31 @@ These services collectively make IoT development boards versatile and powerful t
 	- Improved Quality of life
 	- Sustainability
 
-#### What are the software components requ
+#### What are the software components required for connecting sensors and actuators to the internet?
+- Connecting sensors and actuators to the internet in an IoT setup requires several software components. These components facilitate data collection, processing, communication, and control. 
+- Here are the key software components involved:
+	- Device Firmware
+	- Device Drivers
+	- Communication Protocols
+	- IoT Gateway software
+	- Edge Computing software
+	- Cloud Platform Services
+	- API (**Application Programming Interfaces**)
+	- DBMS
+	- Analytics and Visualization tools
+	- Security Software
 
+#### Explain IC2 bus interface. When and where this interface is used?
+- he Inter-Integrated Circuit bus is a serial communication protocol, It is designed for communication between integrated circuits (ICs) within the same device or system.
+- I²C uses a simple two-wire interface: the Serial Data Line (SDA) and the Serial Clock Line (SCL). These lines are used for both data transfer and synchronization between devices. The protocol supports multiple masters and slaves, allowing numerous devices to be connected on the same bus. 
+- Each device is identified by a unique address, facilitating targeted communication. Data is transferred in 8-bit bytes, with an acknowledgment bit following each byte to confirm receipt.
+- **Use :**
+	- I²C is widely used in situations where short-distance communication is needed between components within an electronic device. Typical applications include connecting microcontrollers to peripheral devices like sensors, EEPROMs, real-time clocks, and DACs/ADCs. Its popularity stems from its simplicity, requiring only two wires and minimal additional circuitry, making it ideal for compact systems and embedded applications.
+
+#### Outline the benefits of using SoC with SD card for embedded  device prototyping?
+- Using a System on Chip (SoC) with an SD card for embedded device prototyping offers several benefits:
+	- **Cost-effectiveness**: SoCs are often more cost-effective compared to traditional microcontroller units (MCUs) or processors. Integrating an SD card slot allows for expandable storage without significantly increasing the cost.
+	- **Flexibility**: SD cards provide flexible and removable storage options. This allows for easy data transfer between the embedded device and other systems, as well as the ability to swap out SD cards for different configurations or data sets.
+	- **Scalability**: SoCs typically offer more processing power and resources compared to basic MCUs. Combined with the storage capacity of SD cards, this enables prototyping of more complex applications and systems with scalability in mind.
+	- **Ease of development**: Many SoCs come with comprehensive development environments and support for various programming languages, making it easier for developers to prototype and debug embedded systems. 
+	- **Expandability**: SoCs with SD card support offer the possibility of expanding storage capacity as needed, allowing for future upgrades or additions to the embedded system without requiring significant hardware changes.
