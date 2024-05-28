@@ -19,7 +19,7 @@
 	- **Innovation**: IoT opens up new possibilities for innovation and product development by enabling the creation of smart, connected devices and services that enhance user experiences and create new revenue streams.
 	- **Safety and Security**: IoT can improve safety and security by enabling real-time monitoring of critical infrastructure, assets, and environments, and facilitating rapid response to potential threats or emergencies.
 	- **Environmental Sustainability**: IoT can help organizations minimize their environmental impact by enabling smarter resource management, energy efficiency, and waste reduction.
-- IoT is transforming industries, driving innovation, and reshaping the way we interact with the world around us, making it a key enabler of the digital economy and the future of technology.
+- IoT is transforming industries, driving innovation, and reshaping the way we interact with the world around us, making it a key enabler of the digital economy and the future of technology. ![[WhatsApp Image 2024-05-28 at 11.04.50_e6e53ae7.jpg]]
 
 #### Question 3 : Explain IOT : Hardware, Middleware and Software?
 - IoT (Internet of Things) encompasses a broad ecosystem of interconnected devices, infrastructure, and software systems that work together to collect, exchange, and analyze data. 
@@ -282,4 +282,99 @@ These services collectively make IoT development boards versatile and powerful t
 	4. **Testing and Simulation**: Many IDEs provide built-in simulators or support for hardware emulation, enabling developers to test their code on virtual devices before deploying it to physical hardware. This can save time and reduce the risk of hardware damage.
 	5. **Uploading Code to Hardware**: IDEs typically include functionality for uploading compiled code to the embedded device. This is often done via USB or other communication interfaces, simplifying the process of getting the code onto the hardware.
 	6. **Libraries and Frameworks**: IDEs often come with a collection of libraries and frameworks tailored to specific platforms, which can significantly speed up development. These resources provide pre-written code for common tasks, reducing the amount of code developers need to write from scratch.
+
+## Previous year 
+##### 7 Markers
+#### How do Zigbee end point devices form a WPAN of embedded sensors, actuators, appliances, controllers or medical data systems, and how do they connect to application layer services, business process and service?
+- Zigbee is a wireless communication protocol designed for low-power, low-data-rate applications. It is commonly used in home automation, medical data systems, and other scenarios where small, battery-powered devices need to communicate with each other and with application layer services. Here's how Zigbee endpoint devices form a Wireless Personal Area Network (WPAN) and connect to application layer services, business processes, and services:
+	- Formation of a Zigbee WPAN
+		- **Network Topology**:
+		    - **Coordinator**: The network starts with a Zigbee coordinator, which initializes the network. It is responsible for managing network formation and maintenance, addressing, and security.
+		    - **Routers**: These devices extend the range of the network by relaying messages between devices. They can also connect to other routers or the coordinator.
+		    - **End Devices**: These are typically battery-powered sensors, actuators, or appliances that communicate with the coordinator or routers. They are designed to sleep and conserve energy, waking up only to send or receive data.
+		- **Network Formation**:
+		    - The coordinator starts by creating a network and broadcasting a beacon to signal its presence.
+		    - Routers and end devices search for this beacon to join the network.
+		    - Devices joining the network receive a unique network address from the coordinator or router and join the WPAN.
+		- **Communication Protocol**:
+		    - Zigbee uses the IEEE 802.15.4 standard for the physical and MAC layers.
+		    - It supports mesh, star, and tree network topologies, allowing flexible and robust network formation.
+		    - Devices communicate using a hierarchical addressing scheme, and the Zigbee protocol ensures reliable delivery of messages through mechanisms like acknowledgments and retries.
+	- Connecting to Application Layer Service:
+		- **Gateway/Hub**:
+		    - A Zigbee gateway or hub acts as a bridge between the Zigbee network and the IP-based networks (such as the Internet).
+		    - The gateway translates Zigbee messages to a format suitable for communication with application layer services and vice versa.
+		- **Protocols and Standards**:
+		    - **Zigbee Cluster Library (ZCL)**: Defines standard device behaviors and data formats. Clusters are groups of attributes and commands (e.g., On/Off, Level Control) that devices use to communicate.
+		    - **Application Profiles**: Pre-defined sets of clusters and device types designed for specific application domains (e.g., home automation, healthcare).
+		- **Middleware and Platforms**:
+		    - Middleware platforms (e.g., IoT platforms) provide services like data aggregation, storage, analysis, and visualization.
+		    - They often include APIs and SDKs for developers to create applications that interact with Zigbee devices.
+		- **Integration with Business Processes**:
+		    - Data from Zigbee devices is collected by the gateway and sent to cloud services or local servers.
+		    - Business processes can be integrated through APIs, allowing systems to use real-time data for monitoring, control, and automation.
+		- **Service Orchestration**:
+		    - Services like IFTTT (If This Then That) or custom scripts can be used to create complex workflows and automations.
+		    - Machine learning and AI services can analyze data trends and predict maintenance needs or optimize resource usage.
+
+##### 5 Marker
+#### What is MEMS? What are the physical entities which are sensed using MEMS? 
+- MEMS stands for Micro-Electro-Mechanical Systems. It is a technology that combines miniaturized mechanical and electrical components. These components are integrated on a common silicon substrate through microfabrication technology. 
+- MEMS devices can range in size from a few micrometers to several millimeters and can function as sensors, actuators, or microelectronics. MEMS sensors are capable of detecting a variety of physical phenomena. 
+- Here are some of the most common entities that MEMS sensors can measure:
+	- **Acceleration**:
+	    - **Accelerometers**: Measure linear acceleration along one or multiple axes. Used in applications such as inertial navigation, automotive airbag systems, and smartphone motion detection.
+	- **Rotation**:
+	    - **Gyroscopes**: Measure angular rate or rotational motion. Commonly used in automotive stability control systems, drones, and smartphones for orientation detection.
+	- **Pressure**:
+	    - **Pressure Sensors**: Detect changes in atmospheric or fluid pressure. Applications include weather monitoring, medical devices (e.g., blood pressure monitors), and industrial process control.
+	- **Temperature**:
+	    - **Temperature Sensors**: Measure the ambient or surface temperature. These are used in climate control systems, industrial processes, and medical thermometers.
+	- **Magnetic Fields**:
+	    - **Magnetometers**: Measure the strength and direction of magnetic fields. Used in electronic compasses, automotive navigation systems, and metal detection.
+	- **Light**:
+	    - **Optical Sensors**: Detect light intensity and wavelengths. Applications include optical communication, environmental sensing, and imaging systems.
+	- **Chemical Properties**:
+	    - **Chemical Sensors**: Detect specific chemical compositions or concentrations. Used in gas detectors, environmental monitoring, and medical diagnostics.
+	- **Force and Strain**:
+	    - **Force Sensors**: Measure mechanical force or load. These sensors are used in robotics, industrial automation, and structural health monitoring.
+	    - **Strain Gauges**: Detect strain (deformation) in materials. Used in stress analysis and structural engineering.
+	- **Sound**:
+	    - **Microphones**: Convert sound waves into electrical signals. MEMS microphones are used in consumer electronics, hearing aids, and communication devices.
+	- **Humidity**:
+	    - **Humidity Sensors**: Measure moisture levels in the air. These sensors are utilized in HVAC systems, weather stations, and agricultural applications.
+
+##### 3 Markers
+#### What is QR code? How do you use QR code in application of Internet of Things?
+- A QR code (Quick Response code) is a type of matrix barcode (or two-dimensional barcode) invented in 1994 by the Japanese company Denso Wave. Unlike traditional barcodes, which store data in a series of vertical lines, QR codes store data in a pattern of black squares on a white background, allowing them to hold significantly more information. QR codes can be scanned by a variety of devices, including smartphones, tablets, and dedicated QR code readers, which makes them highly versatile.
+- Use in Internet of Things (IoT) :
+	- Device Pairing and Configuration 
+	- Accessing device information
+	- Inventory and asset management
+	- Enhanced user experience
+- Examples of real world application :
+	- Smart Home
+	- Healthcare
+	- Retail
+
+#### How do you sense the things and identify product information using a barcode reader? What are the applications of IOT when using barcode sensors?
+- A barcode reader uses light sensors to scan and decode barcodes on products. The reader emits a laser or LED light that reflects off the barcode. The reflected light is captured by the reader's sensor, which detects the pattern of black and white bars. 
+- The reader converts this pattern into an electrical signal, which is then processed into digital data representing the encoded information. This data, such as product ID, price, and manufacturer details, is sent to a computer system for further processing and retrieval.
+- Applications of IoT Using Barcode Sensors : 
+	- **Inventory Management**: IoT-enabled barcode sensors provide real-time inventory tracking, reducing errors and optimizing stock levels.
+	- **Supply Chain Tracking**: Barcodes scanned at different stages of the supply chain provide real-time updates on product location and status, enhancing logistics.
+	- **Retail Automation**: In smart retail environments, barcode sensors enable automated checkout systems and dynamic pricing adjustments based on scanned product data.
+	- **Healthcare**: IoT-connected barcode readers ensure accurate tracking of medications and medical supplies, improving patient safety and inventory control.
+
+##### 2 markers
+#### Define IOT? What is the vision of IOT?
+- The Internet of Things (IoT) refers to the network of physical objects—devices, vehicles, buildings, and other items—embedded with sensors, software, and other technologies that enable them to collect and exchange data over the internet. These objects, often called "smart" devices, can be remotely monitored and controlled, making them integral to modern automation and data-driven decision-making.
+- The vision of IoT is to create an interconnected world where everyday objects seamlessly communicate and collaborate to improve efficiency, convenience, and quality of life. Key aspects of this vision include:
+	- Automation
+	- Data-Driven Insights
+	- Enhanced Connectivity
+	- Improved Quality of life
+	- Sustainability
+
+#### What are the software components requ
 
