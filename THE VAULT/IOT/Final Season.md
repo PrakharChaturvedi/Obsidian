@@ -134,10 +134,10 @@
 		- Temperature sensors measure the temperature of their surroundings by detecting changes in electrical properties, such as resistance or voltage, which vary with temperature. 
 		- Common types of temperature sensors include thermistors, which use the change in resistance with temperature, and integrated circuit (IC) temperature sensors, which generate a voltage proportional to temperature.
 	2. **Pressure Sensor**: 
-		 - Pressure sensors detect changes in pressure and convert them into electrical signals. They often utilize piezoelectric materials or strain gauges to measure pressure-induced changes in mechanical properties. 
+		 - Pressure sensors detect changes in pressure and convert them into electrical signals. They often utilize <font color="#ffc000">piezoelectric materials or strain gauges</font> to measure pressure-induced changes in mechanical properties. 
 		 - These changes are then converted into electrical signals proportional to the pressure.
 	3. **Humidity Sensor**: 
-		- Humidity sensors measure the moisture content in the air. Capacitive humidity sensors are commonly used, where the dielectric properties of a humidity-sensitive material change with humidity levels, leading to changes in capacitance.
+		- Humidity sensors measure the moisture content in the air. Capacitive humidity sensors are commonly used, where the dielectric properties of a humidity-sensitive material change with humidity levels, leading to <font color="#ffc000">changes in capacitance.</font>
 		- This capacitance change is then converted into an electrical signal representing the relative humidity.
 - Once these sensors have collected data, they can communicate it on the internet through various means:
 	- **Wired Connections**: Sensors can connect directly to a gateway device or network router via Ethernet or USB cables. The gateway device then transmits the data to the internet through wired connections.
