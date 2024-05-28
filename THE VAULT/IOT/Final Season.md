@@ -158,11 +158,11 @@
 	4. **Data Transfer**: Once the connection is established, the device transfers the relevant data or instructions to the Bluetooth or Wi-Fi interface for further processing or communication. For internet-based services, the device may use the information obtained from NFC to authenticate and establish a connection with the internet.
 
 ##### 3 Markers
-#### Question 4 : Draw ETSI M2M domains and high-level architecture. List the capabilities and functions of each domain. 
+#### Question 4 : Draw ETSI M2M domains and high-level architecture. List the capabilities and functions of each domain. <span style="background:#b1ffff">(DNSMA)</span>
 - The ETSI (European Telecommunications Standards Institute) M2M (Machine-to-Machine) high-level architecture comprises three primary domains:
 	1. **Device Domain**
-	2. **Network Domain**
-	3. **Application Domain**
+	2. **Network Domain** 
+	3. **Application Domain** 
 - Capabilities and Functions of Each Domain
 	-  **Device Domain**
 		- **Capabilities**:
@@ -190,8 +190,7 @@
 		    - **Application Server**: Hosts the application logic, processes data from the device domain, and provides responses or actions based on the analysis.
 		    - **Application Logic**: Includes specific business logic tailored to the M2M application's requirements, such as data analytics, decision-making algorithms, and user interfaces.
 		    - **Service Capability Layer**: Offers standardized interfaces and services to ensure interoperability between different applications and devices, often includes functions for security, data management, and service provisioning.
-- This architecture facilitates a scalable and interoperable M2M ecosystem, enabling efficient communication and data exchange between devices, networks, and applications. 
-- ![[WhatsApp Image 2024-05-28 at 11.40.48_378741c8.jpg]]
+- This architecture facilitates a scalable and interoperable M2M ecosystem, enabling efficient communication and data exchange between devices, networks, and applications.![[WhatsApp Image 2024-05-28 at 11.40.48_378741c8.jpg]]
 ![[Pasted image 20240528005451.png]]
 #### Question 5 : Specify functions of CoAP, Restful, HTTP, MQTT and XMPP in IOT applications.
 - In IoT applications, various protocols and frameworks serve distinct functions to facilitate communication and data exchange between devices. Here are the functions of CoAP, RESTful, HTTP, MQTT, and XMPP:
