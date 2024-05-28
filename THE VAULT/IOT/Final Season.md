@@ -1,8 +1,8 @@
 ## MST 1 Solutions 
 ##### 7 Markers 
-#### Question 1: Draw and explain general architecture of IOT: More on architecture.
+#### Question 1: Draw and explain general architecture of IOT: More on architecture. <span style="background:#b1ffff">(PNMAB)</span>
 - The general architecture of IoT typically comprises several layers that work together to enable the connectivity, communication, and functionality of IoT systems. Here's an overview of the architecture:
-	1. **Perception Layer**: At the bottom of the architecture, the perception layer consists of sensors, actuators, and other devices that interact directly with the physical world. Sensors collect data from the environment, while actuators perform actions based on commands received from the higher layers.
+	1. **Perception Layer**: At the bottom of the architecture, the perception layer consists of sensors, actuators, and other devices that interact directly with the physical world. Sensors collect data from the environment, while actuators perform actions based on commands received from the higher layers. 
 	2. **Network Layer**: The network layer provides the infrastructure for communication between devices and systems. This layer includes technologies such as Wi-Fi, Bluetooth, Zigbee, cellular, and LPWAN (Low-Power Wide-Area Network), as well as protocols for device discovery, addressing, and routing.
 	3. **Middleware Layer**: Situated between the network and application layers, the middleware layer facilitates communication, data management, and integration within the IoT system. It includes components such as message brokers, data brokers, gateways, and device management platforms.
 	4. **Application Layer**: The application layer houses the applications and services that utilize IoT data. These applications can range from end-user applications, such as mobile apps and web portals, to backend systems for data analysis, visualization, and decision-making.
