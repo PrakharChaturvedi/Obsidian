@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/IOT/Final Season.md",
+                "file": "THE VAULT/R/Notes 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "5147d31f2d03a508",
+            "id": "0869c4a2a3969881",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/IOT/7 Markers - Prakhar.md",
+                "file": "THE VAULT/R/Notes 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/IOT/Final Season.md",
+                "file": "THE VAULT/R/Notes 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/IOT/Final Season.md",
+                "file": "THE VAULT/R/Notes 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/IOT/Final Season.md"
+                "file": "THE VAULT/R/Notes 3.md"
               }
             }
           }
@@ -162,10 +163,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32ba776716399c0d",
+  "active": "0869c4a2a3969881",
   "lastOpenFiles": [
-    "Habit Tracker Calendar.md",
+    "THE VAULT/R/Notes 1.md",
+    "THE VAULT/R/Notes 3.md",
+    "Daily Note/2024-05-29.md",
     "THE VAULT/IOT/Final Season.md",
+    "Habit Tracker Calendar.md",
     "THE VAULT/IOT/7 Markers - Prakhar.md",
     "THE VAULT/IOT/Images/WhatsApp Image 2024-05-28 at 11.40.48_378741c8.jpg",
     "THE VAULT/IOT/IOT questions.md",
@@ -197,9 +201,6 @@
     "Projects/NightLifeApp.md",
     "Projects/Start Gazer for moon.md",
     "Coding Concepts/Recursion Board.md",
-    "Coding Concepts/Dynamic Programming.md",
-    "Daily Note/2024-05-23.md",
-    "THE VAULT/Database Notes/Mongo DB Notes.md",
-    "THE VAULT/Programming Updates.md"
+    "Coding Concepts/Dynamic Programming.md"
   ]
 }
