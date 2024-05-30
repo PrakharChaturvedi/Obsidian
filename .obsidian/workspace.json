@@ -14,27 +14,13 @@
               "type": "markdown",
               "state": {
                 "file": "THE VAULT/R/Notes 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0869c4a2a3969881",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THE VAULT/R/Notes 3.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/R/Notes 3.md",
+                "file": "THE VAULT/R/Notes 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/R/Notes 3.md",
+                "file": "THE VAULT/R/Notes 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/R/Notes 3.md"
+                "file": "THE VAULT/R/Notes 1.md"
               }
             }
           }
@@ -163,10 +149,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0869c4a2a3969881",
+  "active": "32ba776716399c0d",
   "lastOpenFiles": [
-    "THE VAULT/R/Notes 1.md",
     "THE VAULT/R/Notes 3.md",
+    "THE VAULT/R/Notes 1.md",
+    "THE VAULT/R/R Daily notes.md",
+    "Daily Note/2024-05-30.md",
     "Daily Note/2024-05-29.md",
     "THE VAULT/IOT/Final Season.md",
     "Habit Tracker Calendar.md",
@@ -199,8 +187,6 @@
     "Daily Note/2024-05-24.md",
     "AWS IIT.md",
     "Projects/NightLifeApp.md",
-    "Projects/Start Gazer for moon.md",
-    "Coding Concepts/Recursion Board.md",
-    "Coding Concepts/Dynamic Programming.md"
+    "Projects/Start Gazer for moon.md"
   ]
 }

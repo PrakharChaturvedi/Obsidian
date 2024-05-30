@@ -6,7 +6,7 @@ Unit 2 : Measures of central tendency, Measures of location of dispersions, Prac
 ## Data Analytics 
 - Data analytics is the process of examining and interpreting data to find useful insights and make informed decisions. It involves cleaning and analyzing data using statistical methods and computational tools to identify patterns and trends. The goal is to extract valuable knowledge from data for practical applications across various industries.
 - Types :
-	- 1. **Descriptive Analysis:**
+	1. **Descriptive Analysis:**
 	    - **Characteristics:** Descriptive analytics focuses on summarizing and aggregating historical data to provide a comprehensive view of past events.
 	    - **Methods:** Common techniques include data summarization, aggregation, and visualization through tools like charts and graphs.
 	    - **Application:** Businesses use descriptive analytics to monitor key metrics, assess performance, and gain a broad understanding of trends over time.
