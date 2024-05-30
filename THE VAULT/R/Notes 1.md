@@ -56,7 +56,7 @@ Unit 2 : Measures of central tendency, Measures of location of dispersions, Prac
 - <font color="#ffc000">Example :</font> If you wanted to analyze the spending habits of people living in Indore, you might send out a survey to 500 people asking questions about their income, their exact location, their age, and how much they spend on various products and services. These are your variables: data that can be measured and recorded, and whose values will differ from one individual to the next
 - <font color="#ffc000">Importance :</font> Understanding the level of measurement is crucial for selecting appropriate statistical analyses, interpreting data meaningfully, choosing descriptive and inferential statistics, and guiding data treatment. It ensures accurate and relevant statistical analysis aligned with the nature of the data.
 - 4 levels of measurements :
-	- 1. **Nominal Level:**
+	1. **Nominal Level:**
 	    - Definition: Categorical data without any inherent order or ranking.
 	    - Characteristics: Categories are mutually exclusive, and there is no meaningful order among them.
 	    - Example: Colors, gender, or types of fruits.

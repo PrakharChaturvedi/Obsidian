@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/R/Notes 1.md",
+                "file": "THE VAULT/R/Notes 3.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/R/Notes 1.md",
+                "file": "THE VAULT/R/Notes 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/R/Notes 1.md",
+                "file": "THE VAULT/R/Notes 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/R/Notes 1.md"
+                "file": "THE VAULT/R/Notes 3.md"
               }
             }
           }
@@ -151,10 +151,14 @@
   },
   "active": "32ba776716399c0d",
   "lastOpenFiles": [
-    "THE VAULT/R/Notes 3.md",
     "THE VAULT/R/Notes 1.md",
-    "THE VAULT/R/R Daily notes.md",
+    "THE VAULT/R/Images/Pasted image 20240422203808.png",
+    "THE VAULT/R/Images/Pasted image 20240422203845.png",
+    "THE VAULT/R/Images/Pasted image 20240422203930.png",
+    "THE VAULT/R/Images/Pasted image 20240422204004.png",
     "Daily Note/2024-05-30.md",
+    "THE VAULT/R/Notes 3.md",
+    "THE VAULT/R/R Daily notes.md",
     "Daily Note/2024-05-29.md",
     "THE VAULT/IOT/Final Season.md",
     "Habit Tracker Calendar.md",
@@ -168,10 +172,6 @@
     "THE VAULT/IOT/Notes 2.md",
     "Daily Note/2024-05-28.md",
     "THE VAULT/IOT/Images/Pasted image 20240528012511.png",
-    "THE VAULT/IOT/Images/Pasted image 20240528012504.png",
-    "THE VAULT/IOT/Images/Pasted image 20240528012501.png",
-    "THE VAULT/IOT/Images/Pasted image 20240528012457.png",
-    "THE VAULT/IOT/Images/Pasted image 20240528005451.png",
     "THE VAULT/IOT/Images",
     "THE VAULT/Soft Computing/1 Notes.md",
     "THE VAULT/Soft Computing/2 Notes.md",
@@ -186,7 +186,6 @@
     "Course Design.md",
     "Daily Note/2024-05-24.md",
     "AWS IIT.md",
-    "Projects/NightLifeApp.md",
-    "Projects/Start Gazer for moon.md"
+    "Projects/NightLifeApp.md"
   ]
 }
