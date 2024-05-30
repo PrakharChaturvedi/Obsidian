@@ -70,11 +70,11 @@
 	4. **Feature Selection**: Selecting a subset of relevant features for a machine learning model.
 	5. **Feature Scaling**: Transforming features so that they have a similar scale.
 - **Steps in Feature Engineering**:
-	- 1. Data Cleansing: Identifying and correcting errors in the dataset.
-	1. Data Transformation: Transforming data to be more suitable for the model.
-	2. Feature Extraction: Creating new features from existing ones.
-	3. Feature Selection: Selecting the most relevant features from the dataset.
-	4. Feature Iteration: Refining and improving the features based on the model's performance.
+	1. Data Cleansing: Identifying and correcting errors in the dataset.
+	2. Data Transformation: Transforming data to be more suitable for the model.
+	3. Feature Extraction: Creating new features from existing ones.
+	4. Feature Selection: Selecting the most relevant features from the dataset.
+	5. Feature Iteration: Refining and improving the features based on the model's performance.
 - **Techniques Used in Feature Engineering**:
 	- **One-Hot Encoding**: Transforming categorical variables into binary values.
 	- **Binning**: Transforming continuous variables into categorical variables by dividing them into bins.
