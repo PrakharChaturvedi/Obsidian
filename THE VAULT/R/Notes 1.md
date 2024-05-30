@@ -134,8 +134,8 @@ Unit 2 : Measures of central tendency, Measures of location of dispersions, Prac
 	- <font color="#9d69f4">Output :</font>
 		$ `1st Quarter`
 		[1] "Jan" "Feb" "Mar"
-		$A_Matrix
-		      [,1]  [,2]  [,3]
+		$ A_Matrix
+		[,1]  [,2]  [,3]
 		[1,]   3    5   -2
 		[2,]   9    1    8
 		$`A Inner list`
@@ -188,8 +188,6 @@ Unit 2 : Measures of central tendency, Measures of location of dispersions, Prac
 		stringsAsFactors = FALSE 
 		)
 		print(my_data)
-
-
 
 ## Factors :
 - Factors are a special type of data structure in R used to represent categorical variables. They are created using the `factor()` function.
