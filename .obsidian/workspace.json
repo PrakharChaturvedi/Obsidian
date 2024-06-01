@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 1.md",
+                "file": "THE VAULT/Agile/Agile MST 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "THE VAULT/Agile/Agile MST 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "THE VAULT/Agile/Agile MST 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "THE VAULT/Agile/Agile MST 3.md"
+              }
             }
           },
           {
@@ -153,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,10 +171,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "51f79e5e58b1462e",
+  "active": "bbf74efc50429ef8",
   "lastOpenFiles": [
-    "THE VAULT/Cloud Computing/Notes 1.md",
+    "THE VAULT/Agile/Class notes.md",
+    "THE VAULT/Agile/Agile MST 3.md",
     "Daily Note/2024-06-01.md",
+    "THE VAULT/Cloud Computing/Notes 2.md",
+    "THE VAULT/Cloud Computing/Notes 1.md",
     "THE VAULT/R/Notes 1.md",
     "THE VAULT/R/Notes 3.md",
     "THE VAULT/R/R Daily notes.md",
@@ -185,7 +192,7 @@
     "THE VAULT/IOT/7 Markers - Prakhar.md",
     "THE VAULT/IOT/Images/WhatsApp Image 2024-05-28 at 11.40.48_378741c8.jpg",
     "THE VAULT/IOT/IOT questions.md",
-    "THE VAULT/Soft Computing/softmax_function.svg",
+    "THE VAULT/Soft Computing/Images/softmax_function.svg",
     "THE VAULT/IOT/Images/WhatsApp Image 2024-05-28 at 11.04.50_e6e53ae7.jpg",
     "THE VAULT/IOT/Images/WhatsApp Image 2024-05-28 at 11.04.50_c863b0f4.jpg",
     "THE VAULT/IOT/Images/Pasted Image 20240526220710_256.png",
@@ -202,9 +209,6 @@
     "Excel 2024-05-23 19.38.35.sheet.md",
     "THE VAULT/Soft Computing/Class Notes.md",
     "Daily Note/2024-05-25.md",
-    "Untitled.md",
-    "Course Design.md",
-    "Daily Note/2024-05-24.md",
-    "AWS IIT.md"
+    "Untitled.md"
   ]
 }
