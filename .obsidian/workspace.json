@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3e2e5186dcf25ae3",
+        "id": "c8dbf9aeb5618dba",
         "type": "tabs",
         "children": [
           {
-            "id": "bbf74efc50429ef8",
+            "id": "1ec5f89f4aa40029",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-06-01.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46b1935fe9f2983a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THE VAULT/Agile/Agile MST 3.md",
+                "file": "THE VAULT/Agile/Agile Notes 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Agile/Agile MST 3.md",
+                "file": "THE VAULT/Agile/Agile Notes 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Agile/Agile MST 3.md",
+                "file": "THE VAULT/Agile/Agile Notes 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Agile/Agile MST 3.md"
+                "file": "THE VAULT/Agile/Agile Notes 1.md"
               }
             }
           },
@@ -185,11 +171,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "46b1935fe9f2983a",
+  "active": "1ec5f89f4aa40029",
   "lastOpenFiles": [
-    "Daily Note/2024-06-01.md",
-    "THE VAULT/Agile/Class notes.md",
     "THE VAULT/Agile/Agile MST 3.md",
+    "THE VAULT/Agile/Agile Notes 1.md",
+    "Daily Note/2024-06-01.md",
+    "Daily Note/2024-06-02.md",
+    "THE VAULT/Agile/Class notes.md",
     "THE VAULT/Cloud Computing/Notes 2.md",
     "THE VAULT/Cloud Computing/Notes 1.md",
     "THE VAULT/R/Notes 1.md",
@@ -221,8 +209,6 @@
     "THE VAULT/Soft Computing/Images/Drawing 2024-03-19 20.57.07.excalidraw.md",
     "THE VAULT/Soft Computing/Images/Drawing 2024-04-08 10.15.28.excalidraw.md",
     "Excel 2024-05-23 19.38.35.sheet.md",
-    "THE VAULT/Soft Computing/Class Notes.md",
-    "Daily Note/2024-05-25.md",
-    "Untitled.md"
+    "THE VAULT/Soft Computing/Class Notes.md"
   ]
 }
