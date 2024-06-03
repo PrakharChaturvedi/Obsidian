@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ec5f89f4aa40029",
+            "id": "b772aa195dc57412",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,16 +172,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "1ec5f89f4aa40029",
+  "active": "b772aa195dc57412",
   "lastOpenFiles": [
+    "THE VAULT/Cloud Computing/Notes 2.md",
+    "THE VAULT/Cloud Computing/Notes 1.md",
+    "THE VAULT/Cloud Computing/Daily notes.md",
+    "THE VAULT/Cloud Computing/Notes 3.md",
+    "Daily Note/2024-06-04.md",
     "Daily Note/2024-06-03.md",
     "THE VAULT/Agile/Agile Notes 1.md",
     "THE VAULT/Agile/Agile MST 3.md",
     "Daily Note/2024-06-01.md",
     "Daily Note/2024-06-02.md",
     "THE VAULT/Agile/Class notes.md",
-    "THE VAULT/Cloud Computing/Notes 2.md",
-    "THE VAULT/Cloud Computing/Notes 1.md",
     "THE VAULT/R/Notes 1.md",
     "THE VAULT/R/Notes 3.md",
     "THE VAULT/R/R Daily notes.md",
@@ -206,9 +210,6 @@
     "THE VAULT/Soft Computing/1 Notes.md",
     "THE VAULT/Soft Computing/2 Notes.md",
     "THE VAULT/Soft Computing/Notes 3.md",
-    "THE VAULT/Soft Computing/Questions.md",
-    "THE VAULT/Soft Computing/Images/Drawing 2024-03-19 20.57.07.excalidraw.md",
-    "THE VAULT/Soft Computing/Images/Drawing 2024-04-08 10.15.28.excalidraw.md",
-    "Excel 2024-05-23 19.38.35.sheet.md"
+    "THE VAULT/Soft Computing/Questions.md"
   ]
 }
