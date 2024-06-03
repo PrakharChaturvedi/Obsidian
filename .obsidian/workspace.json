@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/Agile/Agile Notes 1.md",
-                "mode": "source",
+                "file": "THE VAULT/Cloud Computing/Notes 1.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Agile/Agile Notes 1.md",
+                "file": "THE VAULT/Cloud Computing/Notes 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Agile/Agile Notes 1.md",
+                "file": "THE VAULT/Cloud Computing/Notes 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Agile/Agile Notes 1.md"
+                "file": "THE VAULT/Cloud Computing/Notes 1.md"
               }
             }
           },
@@ -157,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +173,9 @@
   },
   "active": "1ec5f89f4aa40029",
   "lastOpenFiles": [
-    "THE VAULT/Agile/Agile MST 3.md",
+    "Daily Note/2024-06-03.md",
     "THE VAULT/Agile/Agile Notes 1.md",
+    "THE VAULT/Agile/Agile MST 3.md",
     "Daily Note/2024-06-01.md",
     "Daily Note/2024-06-02.md",
     "THE VAULT/Agile/Class notes.md",
@@ -208,7 +209,6 @@
     "THE VAULT/Soft Computing/Questions.md",
     "THE VAULT/Soft Computing/Images/Drawing 2024-03-19 20.57.07.excalidraw.md",
     "THE VAULT/Soft Computing/Images/Drawing 2024-04-08 10.15.28.excalidraw.md",
-    "Excel 2024-05-23 19.38.35.sheet.md",
-    "THE VAULT/Soft Computing/Class Notes.md"
+    "Excel 2024-05-23 19.38.35.sheet.md"
   ]
 }
