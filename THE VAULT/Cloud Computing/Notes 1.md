@@ -182,7 +182,8 @@
 		3. **Isolation Challenges:**
 		    - While containers offer isolation, it may not be as robust as the isolation provided by VMs. Processes within a container share the same kernel, which could lead to potential security risks if not properly configured.
 ## PAAS 
-- Platform as a Service (PaaS) is a cloud computing service model that provides a platform allowing customers to develop, run, and manage applications without dealing with the complexity of building and maintaining the underlying infrastructure. PaaS typically includes tools and services for application development, databases, middleware, and other necessary components.
+- Platform as a Service (PaaS) is a cloud computing service model that provides a platform allowing customers to develop, run, and manage applications without dealing with the complexity of building and maintaining the underlying infrastructure. 
+- PaaS typically includes tools and services for application development, databases, middleware, and other necessary components.
 - <font color="#ffc000">Benefits of PaaS:</font>
 	1. **Ease of Development:**
 	   - PaaS simplifies the development process by providing a ready-to-use platform with built-in tools and services. Developers can focus on coding and building applications rather than managing infrastructure.
