@@ -169,7 +169,7 @@
 
 - ***Evaluation of SAAS*** 
 	- <u>User Perspective :</u>
-		- 1. **Security Standards:**
+		1. **Security Standards:**
 		    - Assess the SaaS provider's security processes and standards to ensure compliance with organizational security requirements.
 		    - Collaborate with the vendor to establish a Service Level Agreement (SLA) for security, including penalties for service failures.
 		    - Verify disaster recovery, backup, and restore processes.
@@ -184,7 +184,7 @@
 		    - Assess the long-term viability of the SaaS provider, aiming for a stable business partner.
 		    - Look into the provider's experience in delivering SaaS solutions, financial stability, and predicted growth trajectory.
 	- <u>Vendor Perspective :</u>
-		- 1. **Financial Concerns:**
+		1. **Financial Concerns:**
 		    - Adaptation to a subscription-based revenue model necessitates a focus on customer retention to ensure consistent cash flow, given the lower switching costs for customers in the cloud model.
 		2. **Compliance Management:**
 		    - Ensure compliance with national and global regulations to meet legal requirements and maintain trust with customers.
@@ -195,7 +195,7 @@
 		    - Leverage economies of scale offered by SaaS deployment, such as multitenancy, to enhance profitability.
 		    - Establish policies governing the degree of software tailoring allowed to meet individual client needs while maintaining operational efficiency.
 
-- **Load Balancing*** :
+- **Load Balancing** :
 	- Load balancing optimizes resource utilization, throughput, latency, response time, and prevents system overload by distributing service requests across available resources.
 	- **Load Balanced Network Resources:**
 	    - Network interfaces and services (e.g., DNS, FTP, HTTP).
