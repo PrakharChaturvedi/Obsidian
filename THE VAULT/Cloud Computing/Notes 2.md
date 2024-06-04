@@ -4,7 +4,7 @@
 	- Characteristics of virtual machine : 
 		- Partitioning
 		- Isolation 
-			- Encapsulation : Encapsulation in virtual machines is like packing up a whole computer system into a single box. This box contains everything the computer needs to run - like its operating system and all the software it uses. This makes it easy to move the virtual machine around and use it on different computers without causing any problems for the main computer.
+		- Encapsulation : Encapsulation in virtual machines is like packing up a whole computer system into a single box. This box contains everything the computer needs to run - like its operating system and all the software it uses. This makes it easy to move the virtual machine around and use it on different computers without causing any problems for the main computer.
 	- Benefits : 
 		1. Easy setup of new systems.
 		2. No need to invest in additional hardware for testing and debugging setups.
