@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 2.md",
+                "file": "THE VAULT/Cloud Computing/Notes 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 2.md",
+                "file": "THE VAULT/Cloud Computing/Notes 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 2.md"
+                "file": "THE VAULT/Cloud Computing/Notes 3.md"
               }
             }
           },
@@ -199,10 +199,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8b812a062d887a34",
+  "active": "3c6a990ca3ca37ed",
   "lastOpenFiles": [
-    "THE VAULT/Cloud Computing/Notes 3.md",
     "THE VAULT/Cloud Computing/Notes 2.md",
+    "THE VAULT/Cloud Computing/Notes 3.md",
     "Untitled.md",
     "THE VAULT/Cloud Computing/Notes 1.md",
     "Daily Note/2024-06-04.md",
