@@ -4,50 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c8dbf9aeb5618dba",
+        "id": "fbcc2d64b4a84af0",
         "type": "tabs",
         "children": [
           {
-            "id": "b772aa195dc57412",
+            "id": "d20ae2d711c24344",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 1.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b812a062d887a34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 2.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c6a990ca3ca37ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 3.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "file": "Coding Concepts/Recursion Board.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 260.5,
+    "collapsed": true
   },
   "right": {
     "id": "0ede9be9f688ac2c",
@@ -113,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 3.md",
+                "file": "Coding Concepts/Recursion Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 3.md",
+                "file": "Coding Concepts/Recursion Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 3.md"
+                "file": "Coding Concepts/Recursion Board.md"
               }
             }
           },
@@ -199,9 +170,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3c6a990ca3ca37ed",
+  "active": "d20ae2d711c24344",
   "lastOpenFiles": [
+    "Coding Concepts/Dynamic Programming.md",
     "THE VAULT/Cloud Computing/Notes 2.md",
+    "Daily Note/2024-06-12.md",
     "THE VAULT/Cloud Computing/Notes 3.md",
     "Untitled.md",
     "THE VAULT/Cloud Computing/Notes 1.md",
@@ -235,8 +208,6 @@
     "Daily Note/2024-05-28.md",
     "THE VAULT/IOT/Images/Pasted image 20240528012511.png",
     "THE VAULT/IOT/Images",
-    "THE VAULT/Soft Computing/1 Notes.md",
-    "THE VAULT/Soft Computing/2 Notes.md",
-    "THE VAULT/Soft Computing/Notes 3.md"
+    "THE VAULT/Soft Computing/1 Notes.md"
   ]
 }
