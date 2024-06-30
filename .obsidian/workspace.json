@@ -13,22 +13,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Coding Concepts/CodeChef.md"
-              }
-            }
-          },
-          {
-            "id": "5500240cfafde872",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
                 "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "0ede9be9f688ac2c",
@@ -181,19 +169,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5500240cfafde872",
+  "active": "6432129131e4badb",
   "lastOpenFiles": [
-    "Pasted Image 20240630152218_477.png",
+    "Coding Concepts/CodeChef.md",
     "Pasted Image 20240630151931_533.png",
     "Pasted Image 20240630151302_473.png",
-    "Coding Concepts/WadrobeAppDesign/Images/Pasted Image 20240630150918_492.png",
+    "Pasted Image 20240630152218_477.png",
     "Coding Concepts/WadrobeAppDesign/AppFlow.md",
+    "Coding Concepts/WadrobeAppDesign/Images/Pasted Image 20240630150918_492.png",
     "Coding Concepts/WadrobeAppDesign/Images",
     "Coding Concepts/WadrobeAppDesign/Images/Pasted Image 20240630150322_476.png",
     "Coding Concepts/WadrobeAppDesign",
     "Coding Concepts/WadrobeAppDesign/Images/Pasted Image 20240630150508_650.png",
     "Coding Concepts/WadrobeAppDesign/Images/Pasted Image 20240630150423_475.png",
-    "Coding Concepts/CodeChef.md",
     "Coding Concepts/Recursion Board.md",
     "Daily Note/2024-06-30.md",
     "Coding Concepts/Excel 2024-06-29 02.01.01.sheet.md",
@@ -220,7 +208,6 @@
     "THE VAULT/R/Images/Pasted image 20240422203808.png",
     "THE VAULT/R/Images/Pasted image 20240422203845.png",
     "THE VAULT/R/Images/Pasted image 20240422203930.png",
-    "THE VAULT/R/Images/Pasted image 20240422204004.png",
     "THE VAULT/IOT/Images"
   ]
 }
