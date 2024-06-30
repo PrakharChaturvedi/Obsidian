@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md"
+                "file": "Coding Concepts/CodeChef.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md",
+                "file": "Coding Concepts/CodeChef.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md",
+                "file": "Coding Concepts/CodeChef.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md"
+                "file": "Coding Concepts/CodeChef.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "6432129131e4badb",
   "lastOpenFiles": [
+    "Coding Concepts/Recursion Board.md",
     "Coding Concepts/CodeChef.md",
     "Daily Note/2024-06-30.md",
     "Coding Concepts/WadrobeAppDesign/AppFlow.md",
@@ -183,7 +184,6 @@
     "Coding Concepts/WadrobeAppDesign",
     "Coding Concepts/WadrobeAppDesign/Images/Pasted Image 20240630150508_650.png",
     "Coding Concepts/WadrobeAppDesign/Images/Pasted Image 20240630150423_475.png",
-    "Coding Concepts/Recursion Board.md",
     "Coding Concepts/Excel 2024-06-29 02.01.01.sheet.md",
     "Coding Concepts/Untitled.md",
     "Daily Note/2024-06-29.md",
