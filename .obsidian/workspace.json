@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fbcc2d64b4a84af0",
+        "id": "1be8f0c0eecba934",
         "type": "tabs",
         "children": [
           {
-            "id": "d20ae2d711c24344",
+            "id": "6432129131e4badb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md"
+                "file": "Coding Concepts/Drawing 2024-06-29 01.53.02.excalidraw.md"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "0ede9be9f688ac2c",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md",
+                "file": "Coding Concepts/Drawing 2024-06-29 01.53.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md",
+                "file": "Coding Concepts/Drawing 2024-06-29 01.53.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md"
+                "file": "Coding Concepts/Drawing 2024-06-29 01.53.02.excalidraw.md"
               }
             }
           },
@@ -170,10 +169,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d20ae2d711c24344",
+  "active": "6432129131e4badb",
   "lastOpenFiles": [
-    "Daily Note/2024-06-21.md",
+    "Coding Concepts/Excel 2024-06-29 02.01.01.sheet.md",
+    "Coding Concepts/Drawing 2024-06-29 01.53.02.excalidraw.md",
+    "Coding Concepts/Untitled.md",
     "Coding Concepts/Recursion Board.md",
+    "Daily Note/2024-06-29.md",
+    "Daily Note/2024-06-21.md",
     "Coding Concepts/Dynamic Programming.md",
     "Daily Note/2024-06-16.md",
     "Daily Note/2024-06-14.md",
@@ -198,10 +201,6 @@
     "THE VAULT/R/Images/Pasted image 20240422203930.png",
     "THE VAULT/R/Images/Pasted image 20240422204004.png",
     "Daily Note/2024-05-30.md",
-    "Daily Note/2024-05-29.md",
-    "THE VAULT/IOT/Final Season.md",
-    "Habit Tracker Calendar.md",
-    "THE VAULT/IOT/7 Markers - Prakhar.md",
     "THE VAULT/IOT/Images/WhatsApp Image 2024-05-28 at 11.40.48_378741c8.jpg",
     "THE VAULT/Soft Computing/Images/softmax_function.svg",
     "THE VAULT/IOT/Images/WhatsApp Image 2024-05-28 at 11.04.50_e6e53ae7.jpg",
