@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md"
+                "file": "Coding Concepts/Recursion Board.md"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "0ede9be9f688ac2c",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md",
+                "file": "Coding Concepts/Recursion Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md",
+                "file": "Coding Concepts/Recursion Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md"
+                "file": "Coding Concepts/Recursion Board.md"
               }
             }
           },
@@ -172,14 +171,14 @@
   },
   "active": "6432129131e4badb",
   "lastOpenFiles": [
+    "Coding Concepts/CodeChef.md",
+    "Coding Concepts/WadrobeAppDesign/AppFlow.md",
     "Coding Concepts/WadrobeAppDesign/Images/Pasted Image 20240704215740_070.png",
     "Coding Concepts/WadrobeAppDesign/Images/Pasted Image 20240704215258_073.png",
     "Daily Note/2024-07-05.md",
-    "Coding Concepts/WadrobeAppDesign/AppFlow.md",
     "Untitled.md",
     "Daily Note/2024-07-04.md",
     "Coding Concepts/Recursion Board.md",
-    "Coding Concepts/CodeChef.md",
     "Daily Note/2024-06-30.md",
     "Pasted Image 20240630151931_533.png",
     "Pasted Image 20240630151302_473.png",
