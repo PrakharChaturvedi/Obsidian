@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md"
+                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 260.5,
+    "collapsed": true
   },
   "right": {
     "id": "0ede9be9f688ac2c",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md",
+                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md",
+                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md"
+                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md"
               }
             }
           },
@@ -171,6 +172,8 @@
   },
   "active": "6432129131e4badb",
   "lastOpenFiles": [
+    "Daily Note/2024-07-06.md",
+    "Coding Concepts/Recursion Board.md",
     "Coding Concepts/CodeChef.md",
     "Coding Concepts/WadrobeAppDesign/AppFlow.md",
     "Coding Concepts/WadrobeAppDesign/Images/Pasted Image 20240704215740_070.png",
@@ -178,7 +181,6 @@
     "Daily Note/2024-07-05.md",
     "Untitled.md",
     "Daily Note/2024-07-04.md",
-    "Coding Concepts/Recursion Board.md",
     "Daily Note/2024-06-30.md",
     "Pasted Image 20240630151931_533.png",
     "Pasted Image 20240630151302_473.png",
