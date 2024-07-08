@@ -11,9 +11,12 @@
             "id": "6432129131e4badb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md"
+                "file": "Daily Note/2024-07-08.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md",
+                "file": "Daily Note/2024-07-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md",
+                "file": "Daily Note/2024-07-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md"
+                "file": "Daily Note/2024-07-08.md"
               }
             }
           },
@@ -171,11 +174,12 @@
   },
   "active": "6432129131e4badb",
   "lastOpenFiles": [
+    "Coding Concepts/WadrobeAppDesign/AppFlow.md",
+    "Daily Note/2024-07-08.md",
     "Daily Note.md",
     "Habit Tracker Calendar.md",
     "Recursion.md",
     "Daily Note/2024-07-07.md",
-    "Coding Concepts/WadrobeAppDesign/AppFlow.md",
     "Coding Concepts/WadrobeAppDesign/Images/Pasted Image 20240630150918_492.png",
     "Daily Note/2024-07-06.md",
     "Coding Concepts/Recursion Board.md",
@@ -207,7 +211,6 @@
     "THE VAULT/Cloud Computing/Notes 1.md",
     "Daily Note/2024-06-04.md",
     "THE VAULT/Cloud Computing/Daily notes.md",
-    "Daily Note/2024-06-03.md",
     "THE VAULT/R/Images/Pasted image 20240422203808.png",
     "THE VAULT/IOT/Images"
   ]
