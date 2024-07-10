@@ -11,9 +11,12 @@
             "id": "6432129131e4badb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md"
+                "file": "Daily Note/2024-07-10.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md",
+                "file": "Daily Note/2024-07-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md",
+                "file": "Daily Note/2024-07-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md"
+                "file": "Daily Note/2024-07-10.md"
               }
             }
           },
@@ -171,8 +174,8 @@
   },
   "active": "6432129131e4badb",
   "lastOpenFiles": [
-    "Daily Note/2024-07-10.md",
     "Coding Concepts/WadrobeAppDesign/AppFlow.md",
+    "Daily Note/2024-07-10.md",
     "Daily Note/2024-07-08.md",
     "Daily Note.md",
     "Habit Tracker Calendar.md",
