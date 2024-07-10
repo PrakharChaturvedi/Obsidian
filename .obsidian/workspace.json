@@ -11,12 +11,9 @@
             "id": "6432129131e4badb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Daily Note/2024-07-10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md"
               }
             }
           }
@@ -70,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "0ede9be9f688ac2c",
@@ -87,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-07-10.md",
+                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-07-10.md",
+                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-07-10.md"
+                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md"
               }
             }
           },
@@ -175,10 +171,10 @@
   },
   "active": "6432129131e4badb",
   "lastOpenFiles": [
+    "Daily Note/2024-07-10.md",
     "Coding Concepts/WadrobeAppDesign/AppFlow.md",
     "Coding Concepts/Recursion Board.md",
     "Coding Concepts/CodeChef.md",
-    "Daily Note/2024-07-10.md",
     "Daily Note/2024-07-08.md",
     "Daily Note.md",
     "Habit Tracker Calendar.md",
