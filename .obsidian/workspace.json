@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "0ede9be9f688ac2c",
@@ -172,9 +171,10 @@
   },
   "active": "6432129131e4badb",
   "lastOpenFiles": [
+    "Daily Note/2024-07-11.md",
+    "Coding Concepts/WadrobeAppDesign/AppFlow.md",
     "Pasted Image 20240710205233_360.png",
     "Daily Note/2024-07-10.md",
-    "Coding Concepts/WadrobeAppDesign/AppFlow.md",
     "Coding Concepts/Recursion Board.md",
     "Coding Concepts/CodeChef.md",
     "Daily Note/2024-07-08.md",
@@ -209,7 +209,6 @@
     "Daily Note/2024-06-12.md",
     "THE VAULT/Cloud Computing/Notes 3.md",
     "THE VAULT/Cloud Computing/Notes 1.md",
-    "THE VAULT/R/Images/Pasted image 20240422203808.png",
     "THE VAULT/IOT/Images"
   ]
 }
