@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1be8f0c0eecba934",
+        "id": "3991cd7cc10c893d",
         "type": "tabs",
         "children": [
           {
@@ -172,8 +172,9 @@
   },
   "active": "6432129131e4badb",
   "lastOpenFiles": [
-    "Daily Note/2024-07-11.md",
+    "Daily Note/2024-07-12.md",
     "Coding Concepts/WadrobeAppDesign/AppFlow.md",
+    "Daily Note/2024-07-11.md",
     "Pasted Image 20240710205233_360.png",
     "Daily Note/2024-07-10.md",
     "Coding Concepts/Recursion Board.md",
@@ -209,7 +210,6 @@
     "THE VAULT/Cloud Computing/Notes 2.md",
     "Daily Note/2024-06-12.md",
     "THE VAULT/Cloud Computing/Notes 3.md",
-    "THE VAULT/Cloud Computing/Notes 1.md",
     "THE VAULT/IOT/Images"
   ]
 }
