@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6432129131e4badb",
+            "id": "e5c391db3045e63e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 397.5
   },
   "right": {
     "id": "0ede9be9f688ac2c",
@@ -77,6 +76,7 @@
       {
         "id": "3db87408cdacc8d0",
         "type": "tabs",
+        "dimension": 34.83796296296296,
         "children": [
           {
             "id": "d537f535c2d78a84",
@@ -142,43 +142,51 @@
       {
         "id": "7d15b2cbbab661a5",
         "type": "tabs",
+        "dimension": 65.16203703703704,
         "children": [
           {
             "id": "51f79e5e58b1462e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Note/2024-07-14.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
-    "collapsed": true
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "excel:Create Excel File": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "excel:Create Excel File": false
     }
   },
-  "active": "6432129131e4badb",
+  "active": "e5c391db3045e63e",
   "lastOpenFiles": [
-    "Daily Note/2024-07-12.md",
+    "Daily Note/2024-07-14.md",
     "Coding Concepts/WadrobeAppDesign/AppFlow.md",
-    "Daily Note/2024-07-11.md",
-    "Pasted Image 20240710205233_360.png",
-    "Daily Note/2024-07-10.md",
     "Coding Concepts/Recursion Board.md",
     "Coding Concepts/CodeChef.md",
+    "Daily Note/2024-07-13.md",
+    "Excalidraw/Drawing 2024-07-13 05.41.17.excalidraw.md",
+    "Daily Note/2024-07-12.md",
+    "Daily Note/2024-07-11.md",
+    "Coding Concepts/WadrobeAppDesign/Images/Pasted Image 20240710205233_360.png",
+    "Daily Note/2024-07-10.md",
     "Daily Note/2024-07-08.md",
     "Daily Note.md",
     "Habit Tracker Calendar.md",
@@ -207,9 +215,6 @@
     "Coding Concepts/Dynamic Programming.md",
     "Daily Note/2024-06-16.md",
     "Daily Note/2024-06-14.md",
-    "THE VAULT/Cloud Computing/Notes 2.md",
-    "Daily Note/2024-06-12.md",
-    "THE VAULT/Cloud Computing/Notes 3.md",
     "THE VAULT/IOT/Images"
   ]
 }
