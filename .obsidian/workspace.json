@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "02e88165d0f6e0cf",
+    "id": "78c92a80cc0a1cf9",
     "type": "split",
     "children": [
       {
-        "id": "3991cd7cc10c893d",
+        "id": "99604b05d2c380cc",
         "type": "tabs",
         "children": [
           {
-            "id": "e5c391db3045e63e",
+            "id": "a501f5d57ade53f8",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md"
+                "file": "Coding Concepts/LinkedList.md"
               }
             }
           }
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ae69ca944999d8e8",
+    "id": "076ccf89b02006e7",
     "type": "split",
     "children": [
       {
-        "id": "ba5154faada0e7a4",
+        "id": "054ebade0781d6ee",
         "type": "tabs",
         "children": [
           {
-            "id": "49122ad53ed6bd4a",
+            "id": "42c008426e404d21",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,7 +41,7 @@
             }
           },
           {
-            "id": "12eda21e02cb6d7c",
+            "id": "c6f0052b0011b0e4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "1c46d8ade5d5a37f",
+            "id": "9023a2e59ecae7cc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -67,25 +67,25 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
-    "id": "0ede9be9f688ac2c",
+    "id": "0d466f5acdf2c6c0",
     "type": "split",
     "children": [
       {
-        "id": "3db87408cdacc8d0",
+        "id": "0e871be1f73b84d7",
         "type": "tabs",
-        "dimension": 34.83796296296296,
         "children": [
           {
-            "id": "d537f535c2d78a84",
+            "id": "3e62ca1123bd5a81",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md",
-                "collapseAll": false,
+                "file": "Coding Concepts/LinkedList.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -96,19 +96,19 @@
             }
           },
           {
-            "id": "f8cbaa838584fc06",
+            "id": "f9c818d045fdf378",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md",
+                "file": "Coding Concepts/LinkedList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e861f20919189e93",
+            "id": "82b7456273420b53",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -119,102 +119,80 @@
             }
           },
           {
-            "id": "1ccfe9d6e0933dcf",
+            "id": "36d3213d6ef923bc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/WadrobeAppDesign/AppFlow.md"
+                "file": "Coding Concepts/LinkedList.md"
               }
             }
           },
           {
-            "id": "436c89e44e208abb",
+            "id": "035e3c86607d03c9",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "7d15b2cbbab661a5",
-        "type": "tabs",
-        "dimension": 65.16203703703704,
-        "children": [
+          },
           {
-            "id": "51f79e5e58b1462e",
+            "id": "fb5cf36f8a2bc407",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "eac79d8e8116d457",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
               "state": {
-                "file": "Daily Note/2024-07-14.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 465.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "excel:Create Excel File": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "excel:Create Excel File": false
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e5c391db3045e63e",
+  "active": "a501f5d57ade53f8",
   "lastOpenFiles": [
-    "Daily Note/2024-07-14.md",
-    "Coding Concepts/WadrobeAppDesign/AppFlow.md",
     "Coding Concepts/Recursion Board.md",
-    "Coding Concepts/CodeChef.md",
-    "Daily Note/2024-07-13.md",
-    "Excalidraw/Drawing 2024-07-13 05.41.17.excalidraw.md",
-    "Daily Note/2024-07-12.md",
-    "Daily Note/2024-07-11.md",
-    "Coding Concepts/WadrobeAppDesign/Images/Pasted Image 20240710205233_360.png",
-    "Daily Note/2024-07-10.md",
-    "Daily Note/2024-07-08.md",
+    "2024-07-29.md",
+    "Coding Concepts/LinkedList.md",
+    "To-do list.md",
     "Daily Note.md",
+    "2024-07-28.md",
     "Habit Tracker Calendar.md",
+    "Course Design.md",
+    "AWS IIT.md",
+    "2024-07-26.md",
+    "2024-07-17.md",
+    "2024-07-18.md",
     "Recursion.md",
-    "Daily Note/2024-07-07.md",
-    "Coding Concepts/WadrobeAppDesign/Images/Pasted Image 20240630150918_492.png",
-    "Daily Note/2024-07-06.md",
-    "Coding Concepts/WadrobeAppDesign/Images/Pasted Image 20240704215740_070.png",
-    "Coding Concepts/WadrobeAppDesign/Images/Pasted Image 20240704215258_073.png",
-    "Daily Note/2024-07-05.md",
-    "Untitled.md",
-    "Daily Note/2024-07-04.md",
-    "Daily Note/2024-06-30.md",
-    "Pasted Image 20240630151931_533.png",
-    "Pasted Image 20240630151302_473.png",
-    "Pasted Image 20240630152218_477.png",
-    "Coding Concepts/WadrobeAppDesign/Images",
-    "Coding Concepts/WadrobeAppDesign/Images/Pasted Image 20240630150322_476.png",
-    "Coding Concepts/WadrobeAppDesign",
-    "Coding Concepts/WadrobeAppDesign/Images/Pasted Image 20240630150508_650.png",
-    "Coding Concepts/WadrobeAppDesign/Images/Pasted Image 20240630150423_475.png",
-    "Coding Concepts/Excel 2024-06-29 02.01.01.sheet.md",
-    "Coding Concepts/Untitled.md",
-    "Daily Note/2024-06-29.md",
-    "Daily Note/2024-06-21.md",
-    "Coding Concepts/Dynamic Programming.md",
-    "Daily Note/2024-06-16.md",
-    "Daily Note/2024-06-14.md",
-    "THE VAULT/IOT/Images"
+    "Coding Concepts/CodeChef.md",
+    "Projects/WadrobeAppDesign/AppFlow.md"
   ]
 }

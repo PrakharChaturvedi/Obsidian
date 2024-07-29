@@ -1,15 +1,11 @@
 [
   "obsidian-excalidraw-plugin",
-  "editing-toolbar",
-  "dataview",
-  "obsidian-mind-map",
-  "obsidian-charts",
-  "excel",
-  "highlightr-plugin",
-  "obsidian-icon-folder",
-  "heatmap-calendar",
   "obsidian-git",
-  "markdown-tree",
-  "obsidian-plugin-toc",
-  "calendar"
+  "heatmap-calendar",
+  "calendar",
+  "excel",
+  "dataview",
+  "editing-toolbar",
+  "obsidian-icon-folder",
+  "obsidian-day-planner"
 ]
