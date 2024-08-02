@@ -14,18 +14,18 @@
 - [ ] SQL implementation using Node.js
 
 ### Dev
-- [ ] Complete Website's front end!
+- [x] Complete Website's front end!
 - [ ] Complete the flutter mobile app 
 - [ ] Design data pipelines of Stylus
 
 ### DSA Topics Revision
 - [ ] Linked-list.
-	- [ ] Fast and slow pointer method (Used in questions related to linked List Cycle).
+	- [x] Fast and slow pointer method (Used in questions related to linked List Cycle).
 - [ ] Tree's.
 - [ ] Stack & Queues.
 - [ ] OOPS (if you wanna go overboard).
 
 ### Languages and Frame-works
-- [ ] Flutter
-- [ ] Node.js
+- [x] Flutter
+- [x] Node.js
 - [ ] Express.js

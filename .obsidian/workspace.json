@@ -11,9 +11,12 @@
             "id": "a501f5d57ade53f8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Coding Concepts/LinkedList.md"
+                "file": "To-do list.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -67,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/LinkedList.md",
+                "file": "To-do list.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/LinkedList.md",
+                "file": "To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/LinkedList.md"
+                "file": "To-do list.md"
               }
             }
           },
@@ -179,14 +181,14 @@
   },
   "active": "a501f5d57ade53f8",
   "lastOpenFiles": [
+    "Course Design.md",
+    "Habit Tracker Calendar.md",
+    "Daily Note.md",
+    "Daily Note/2024-07-28.md",
+    "Daily Note/2024-07-29.md",
     "Coding Concepts/Recursion Board.md",
-    "2024-07-29.md",
     "Coding Concepts/LinkedList.md",
     "To-do list.md",
-    "Daily Note.md",
-    "2024-07-28.md",
-    "Habit Tracker Calendar.md",
-    "Course Design.md",
     "AWS IIT.md",
     "2024-07-26.md",
     "2024-07-17.md",
