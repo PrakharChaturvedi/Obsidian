@@ -7,8 +7,17 @@ tags: [excalidraw]
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
-# Drawing
-```json
-{"type":"excalidraw","version":2,"source":"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.3","elements":[],"appState":{"gridSize":null,"viewBackgroundColor":"#ffffff"}}
+# Excalidraw Data
+## Text Elements
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebTiARgAGGjoghH0EDihmbgBtAF1+CFw4OABlKKhxVFAwSHUMmogiZWlU+oZCBAoAIVxsAGtlUmEOYgBhNnw2Um4IAGIAMxXV
+
+jshsEUDsgElq/UrRwYQpmbmJBYSEK6v1iE3Sbag9jP6hkbHJ6dn5qHIOZhwXBPO4PJ4vfQAMUI+HwlRgwXmgg8oK2WWe+0ObGOAHUSOpuHxwBs0btMX9sQh4YiJMiSKjHuiIQAlYRtDjhXJoBL8EmMskZADyQOwahg3GSSV591JGIykM4UEhuH0MPF3OlYKZ+wV2XKhCMNR4UuJMv5cv0ABUsFAAIKtLgSYJLKAM8Hk4F2x5sCiSELEbgcISwzWy
+
+iEAUXGtu9vv982Boyo0uY2FGsIAGtwAKwATgAbPEs8nU9N8ABNbgAZhzcSzSTzPCzeeSlazCSb0qMbAM3DqnXoBCENQSxIAvqHzSzPhzmFz0KMhOM7iMSPrDYHg/hpSuvmde8TIL1pgGLhMc2ez5DIetIMyEMpg8D5gtwwARN9vq8QMcTp5Y47ClA7AAhuIamnAgRmMIzAAOKkKuBo1EGYGdEs5CZHe4xMIQHDKPu9SQFkuCaMEJ6oH8Q68hsRBw
+
+NwFEIFREAcCqNT0YxwhQEQHJ0aQQ4/qadgAFYINgOTlMxcAALJsMQCCRsRpHcEsBBhOA450EsMLhL2o4gKOQA===
 ```
 %%

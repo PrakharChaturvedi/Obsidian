@@ -1,7 +1,5 @@
 +- Lab of EC2
 - Virtualization : 
-
-
 ## 22/03/24
 - Module 3 : 
 	- Amazon EC2 (Elastic Compute Cloud)

@@ -6,7 +6,7 @@
 	- Models must be customized (personalized medication)
 	- Models based on huge amount of data (Genomics)
 ## *Production system* 
-- Production systems are **computer programmes that give AI**. It consists of a set of rules about behavior's and includes the mechanism required to follow those rules as the system reacts to external conditions. In AI, a production system consists of a global database, production rules, and a control system.
+- Production systems are **computer programmer that give AI**. It consists of a set of rules about behavior's and includes the mechanism required to follow those rules as the system reacts to external conditions. In AI, a production system consists of a global database, production rules, and a control system.
 - Types  
 	-  **Monotonic system** This system allows the simultaneous application of rules. This means that the application of one rule does not prevent another rule from being applied at the same time.
 	- **Partially commutative system** Here, the order of operation is important. If a given set of rules is employed to convert a start state A into a different state B, then the same results can be attained using any permutation of these production rules.
