@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Coding Concepts/LinkedList.md"
+                "file": "Coding Concepts/Recursion Board.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/LinkedList.md",
+                "file": "Coding Concepts/Recursion Board.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/LinkedList.md",
+                "file": "Coding Concepts/Recursion Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/LinkedList.md"
+                "file": "Coding Concepts/Recursion Board.md"
               }
             }
           },
@@ -178,11 +178,12 @@
   },
   "active": "a501f5d57ade53f8",
   "lastOpenFiles": [
+    "Coding Concepts/LinkedList.md",
+    "2024-08-15.md",
     "Coding Concepts/Recursion Board.md",
     "Imp's/Gate Syllabus.md",
     "Imp's/Self-Driving Car.md",
     "Imp's/Self driving Car.md",
-    "Coding Concepts/LinkedList.md",
     "Imp's/Path.md",
     "Imp's/Internships Summer 25.md",
     "Imp's/GamblingApp_SystemDesign.md",
@@ -202,7 +203,6 @@
     "THE VAULT/Machine learning/My notes 1.md",
     "AWS IIT.md",
     "Course Design.md",
-    "Habit Tracker Calendar.md",
-    "To-do list.md"
+    "Habit Tracker Calendar.md"
   ]
 }
