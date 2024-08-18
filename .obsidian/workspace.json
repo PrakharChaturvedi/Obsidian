@@ -11,24 +11,38 @@
             "id": "ea424507696c224f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md"
+                "file": "To-do list.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "159a5966d3090879",
+        "type": "tabs",
+        "children": [
           {
             "id": "d82a5dab546e9138",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "Coding Concepts/Drawing 2024-08-18 12.59.01.excalidraw.md"
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false
+                  ]
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Drawing 2024-08-18 12.59.01.excalidraw.md",
+                "file": "Untitled Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Drawing 2024-08-18 12.59.01.excalidraw.md",
+                "file": "Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Drawing 2024-08-18 12.59.01.excalidraw.md"
+                "file": "Untitled Kanban.md"
               }
             }
           },
@@ -184,12 +198,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "d82a5dab546e9138",
   "lastOpenFiles": [
+    "To-do list.md",
     "Coding Concepts/Recursion Board.md",
+    "Untitled Kanban.md",
     "Coding Concepts/Drawing 2024-08-18 12.59.01.excalidraw.md",
     "Coding Concepts/LinkedList.md",
     "MUN 2023/Mod 4 (Singapore -Adaption of AI as a new path for sustainable Development).md",
@@ -205,7 +222,6 @@
     "Imp's/Self driving Car.md",
     "Imp's/Self-Driving Car.md",
     "Imp's/Acumen Decisions.md",
-    "To-do list.md",
     "AWS IIT.md",
     "Habit Tracker Calendar.md",
     "Daily Note.md",
@@ -213,7 +229,6 @@
     "Daily Note/2024-08-15.md",
     "Daily Note/2024-08-18.md",
     "Imp's/GamblingApp_SystemDesign.md",
-    "MUN 2023/MOD 2 - UK (How the world is dealing with replacement of human jobs as AI has over powered).md",
-    "MUN 2023/Health Care.md"
+    "MUN 2023/MOD 2 - UK (How the world is dealing with replacement of human jobs as AI has over powered).md"
   ]
 }
