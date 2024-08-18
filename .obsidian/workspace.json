@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea424507696c224f",
+            "id": "e36e9b2aefa0a236",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "e36e9b2aefa0a236",
+            "id": "b2244ce610bcbc6f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md",
+                "file": "Coding Concepts/Stack Queue and Deque.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md",
+                "file": "Coding Concepts/Stack Queue and Deque.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md"
+                "file": "Coding Concepts/Stack Queue and Deque.md"
               }
             }
           },
@@ -190,8 +190,8 @@
   },
   "active": "e36e9b2aefa0a236",
   "lastOpenFiles": [
-    "Coding Concepts/Stack Queue and Deque.md",
     "Coding Concepts/Recursion Board.md",
+    "Coding Concepts/Stack Queue and Deque.md",
     "To-do list.md",
     "Untitled Kanban.md",
     "Coding Concepts/LinkedList.md",
