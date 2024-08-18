@@ -16,8 +16,19 @@
                 "file": "Coding Concepts/Recursion Board.md"
               }
             }
+          },
+          {
+            "id": "d82a5dab546e9138",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Coding Concepts/Drawing 2024-08-18 12.59.01.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md",
+                "file": "Coding Concepts/Drawing 2024-08-18 12.59.01.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md",
+                "file": "Coding Concepts/Drawing 2024-08-18 12.59.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md"
+                "file": "Coding Concepts/Drawing 2024-08-18 12.59.01.excalidraw.md"
               }
             }
           },
@@ -176,10 +187,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "ea424507696c224f",
+  "active": "d82a5dab546e9138",
   "lastOpenFiles": [
-    "Coding Concepts/LinkedList.md",
     "Coding Concepts/Recursion Board.md",
+    "Coding Concepts/Drawing 2024-08-18 12.59.01.excalidraw.md",
+    "Coding Concepts/LinkedList.md",
     "MUN 2023/Mod 4 (Singapore -Adaption of AI as a new path for sustainable Development).md",
     "MUN 2023/MOD 5  (Philippines -  Ban on Lethal autonomous Weapons).md",
     "MUN 2023/Motion Agenda Raising Lines.md",
@@ -202,7 +214,6 @@
     "Daily Note/2024-08-18.md",
     "Imp's/GamblingApp_SystemDesign.md",
     "MUN 2023/MOD 2 - UK (How the world is dealing with replacement of human jobs as AI has over powered).md",
-    "MUN 2023/Health Care.md",
-    "THE VAULT/Agile/Agile MST 3.md"
+    "MUN 2023/Health Care.md"
   ]
 }
