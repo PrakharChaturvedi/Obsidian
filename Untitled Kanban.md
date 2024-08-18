@@ -15,10 +15,15 @@ kanban-plugin: board
 
 ## Data Base
 
+- [ ] SQL Queries
+- [ ] SQL implementation using java
+- [ ] SQL implementation using Flutter
+- [ ] SQL implementation using Node.js
 
 
 ## Dev
 
+- [ ] Complete Website;s front end!
 
 
 ## DSA Topics (Ques and notes)
