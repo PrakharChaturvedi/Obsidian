@@ -16,8 +16,19 @@
                 "file": "Coding Concepts/Stack Queue and Deque.md"
               }
             }
+          },
+          {
+            "id": "e36e9b2aefa0a236",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Coding Concepts/Recursion Board.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -84,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Stack Queue and Deque.md",
+                "file": "Coding Concepts/Recursion Board.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Stack Queue and Deque.md",
+                "file": "Coding Concepts/Recursion Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Stack Queue and Deque.md"
+                "file": "Coding Concepts/Recursion Board.md"
               }
             }
           },
@@ -178,10 +188,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ea424507696c224f",
+  "active": "e36e9b2aefa0a236",
   "lastOpenFiles": [
-    "Coding Concepts/Recursion Board.md",
     "Coding Concepts/Stack Queue and Deque.md",
+    "Coding Concepts/Recursion Board.md",
     "To-do list.md",
     "Untitled Kanban.md",
     "Coding Concepts/LinkedList.md",
