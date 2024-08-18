@@ -19,11 +19,11 @@
 - [ ] Design data pipelines of Stylus
 
 ### DSA Topics Revision
-- [ ] Linked-list.
+- [x] Linked-list.
 	- [x] Fast and slow pointer method (Used in questions related to linked List Cycle).
 - [ ] Tree's.
 - [ ] Graph 
-- [ ] Stack & Queues.
+- [ ] <font color="#2DC26B">Stack & Queues</font>
 - [ ] OOPS (if you wanna go overboard).
 
 ### Languages and Frame-works

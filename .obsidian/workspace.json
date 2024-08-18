@@ -11,9 +11,12 @@
             "id": "ea424507696c224f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Coding Concepts/LinkedList.md"
+                "file": "To-do list.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/LinkedList.md",
+                "file": "To-do list.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/LinkedList.md",
+                "file": "To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/LinkedList.md"
+                "file": "To-do list.md"
               }
             }
           },
@@ -178,9 +181,15 @@
   },
   "active": "ea424507696c224f",
   "lastOpenFiles": [
-    "Coding Concepts/Recursion Board.md",
-    "2024-08-15.md",
+    "AWS IIT.md",
+    "To-do list.md",
+    "Habit Tracker Calendar.md",
+    "Daily Note.md",
+    "Course Design.md",
+    "Daily Note/2024-08-15.md",
+    "Daily Note/2024-08-18.md",
     "Coding Concepts/LinkedList.md",
+    "Coding Concepts/Recursion Board.md",
     "Imp's/Gate Syllabus.md",
     "Imp's/Self-Driving Car.md",
     "Imp's/Self driving Car.md",
@@ -197,12 +206,6 @@
     "THE VAULT/Agile/Agile Notes 1.md",
     "THE VAULT/R/Notes 3.md",
     "THE VAULT/R/Notes 1.md",
-    "THE VAULT/OOPS/OOP's Notes Interview.md",
-    "THE VAULT/Machine learning/My notes 3.md",
-    "THE VAULT/Machine learning/My Notes 2.md",
-    "THE VAULT/Machine learning/My notes 1.md",
-    "AWS IIT.md",
-    "Course Design.md",
-    "Habit Tracker Calendar.md"
+    "THE VAULT/OOPS/OOP's Notes Interview.md"
   ]
 }
