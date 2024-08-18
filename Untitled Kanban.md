@@ -1,7 +1,5 @@
 ---
-
 kanban-plugin: board
-
 ---
 
 ## System Design
@@ -24,6 +22,8 @@ kanban-plugin: board
 ## Dev
 
 - [ ] Complete Website;s front end!
+- [ ] Complete the flutter mobile app
+- [ ] Design data pipelines of Stylus
 
 
 ## DSA Topics (Ques and notes)
