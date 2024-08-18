@@ -6,45 +6,14 @@
       {
         "id": "3bd49e9461464801",
         "type": "tabs",
-        "dimension": 32.663316582914575,
         "children": [
           {
             "id": "ea424507696c224f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "To-do list.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "159a5966d3090879",
-        "type": "tabs",
-        "dimension": 67.33668341708542,
-        "children": [
-          {
-            "id": "d82a5dab546e9138",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Coding Concepts/Stack Queue and Deque.md"
               }
             }
           }
@@ -114,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "Coding Concepts/Stack Queue and Deque.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "Coding Concepts/Stack Queue and Deque.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Kanban.md"
+                "file": "Coding Concepts/Stack Queue and Deque.md"
               }
             }
           },
@@ -208,12 +177,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d82a5dab546e9138",
+  "active": "42c008426e404d21",
   "lastOpenFiles": [
+    "Coding Concepts/Recursion Board.md",
     "To-do list.md",
     "Untitled Kanban.md",
-    "Coding Concepts/Recursion Board.md",
-    "Coding Concepts/Drawing 2024-08-18 12.59.01.excalidraw.md",
+    "Coding Concepts/Stack Queue and Deque.md",
     "Coding Concepts/LinkedList.md",
     "MUN 2023/Mod 4 (Singapore -Adaption of AI as a new path for sustainable Development).md",
     "MUN 2023/MOD 5  (Philippines -  Ban on Lethal autonomous Weapons).md",
