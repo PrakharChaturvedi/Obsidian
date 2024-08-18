@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -177,12 +178,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "42c008426e404d21",
+  "active": "ea424507696c224f",
   "lastOpenFiles": [
     "Coding Concepts/Recursion Board.md",
+    "Coding Concepts/Stack Queue and Deque.md",
     "To-do list.md",
     "Untitled Kanban.md",
-    "Coding Concepts/Stack Queue and Deque.md",
     "Coding Concepts/LinkedList.md",
     "MUN 2023/Mod 4 (Singapore -Adaption of AI as a new path for sustainable Development).md",
     "MUN 2023/MOD 5  (Philippines -  Ban on Lethal autonomous Weapons).md",
