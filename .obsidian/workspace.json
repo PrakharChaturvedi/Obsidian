@@ -36,6 +36,10 @@
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
                     false
                   ]
                 }
@@ -205,8 +209,8 @@
   "active": "d82a5dab546e9138",
   "lastOpenFiles": [
     "To-do list.md",
-    "Coding Concepts/Recursion Board.md",
     "Untitled Kanban.md",
+    "Coding Concepts/Recursion Board.md",
     "Coding Concepts/Drawing 2024-08-18 12.59.01.excalidraw.md",
     "Coding Concepts/LinkedList.md",
     "MUN 2023/Mod 4 (Singapore -Adaption of AI as a new path for sustainable Development).md",
