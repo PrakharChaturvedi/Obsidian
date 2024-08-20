@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e36e9b2aefa0a236",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Coding Concepts/Stack Queue and Deque.md"
-              }
-            }
-          },
-          {
             "id": "b2244ce610bcbc6f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md"
+                "file": "Coding Concepts/Stack Queue and Deque.md"
               }
             }
           }
@@ -77,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -188,10 +177,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e36e9b2aefa0a236",
+  "active": "b2244ce610bcbc6f",
   "lastOpenFiles": [
-    "Pasted Image 20240818152131_482.png",
     "Coding Concepts/Recursion Board.md",
+    "Habit Tracker Calendar.md",
+    "Daily Note.md",
+    "Daily Note/Pasted Image 20240818152131_482.png",
+    "Daily Note/2024-08-20.md",
     "Coding Concepts/Stack Queue and Deque.md",
     "To-do list.md",
     "Untitled Kanban.md",
@@ -210,11 +202,8 @@
     "Imp's/Self-Driving Car.md",
     "Imp's/Acumen Decisions.md",
     "AWS IIT.md",
-    "Habit Tracker Calendar.md",
-    "Daily Note.md",
     "Course Design.md",
     "Daily Note/2024-08-15.md",
-    "Daily Note/2024-08-18.md",
-    "Imp's/GamblingApp_SystemDesign.md"
+    "Daily Note/2024-08-18.md"
   ]
 }

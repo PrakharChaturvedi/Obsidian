@@ -1,8 +1,8 @@
 ---
-Exercise: true
-Study: System Designs
-Reading: 25
+Exercise: false
+Study: 
+Reading: 
 LeetCode: 0
-Project: true
+Project: false
 ---
 [[Daily Note]]
