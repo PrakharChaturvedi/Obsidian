@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Coding Concepts/Stack Queue and Deque.md"
+                "file": "Projects/WadrobeAppDesign/AppFlow.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Stack Queue and Deque.md",
+                "file": "Projects/WadrobeAppDesign/AppFlow.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Stack Queue and Deque.md",
+                "file": "Projects/WadrobeAppDesign/AppFlow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Stack Queue and Deque.md"
+                "file": "Projects/WadrobeAppDesign/AppFlow.md"
               }
             }
           },
@@ -179,12 +179,17 @@
   },
   "active": "b2244ce610bcbc6f",
   "lastOpenFiles": [
+    "Projects/FlutterProjectDetails/Food Delivery Application.md",
+    "Projects/ScoringApp/Features.md",
+    "Projects/Start Gazer for moon.md",
+    "Projects/NightLifeApp.md",
+    "2024-08-27.md",
+    "Coding Concepts/Stack Queue and Deque.md",
     "Coding Concepts/Recursion Board.md",
     "Habit Tracker Calendar.md",
     "Daily Note.md",
     "Daily Note/Pasted Image 20240818152131_482.png",
     "Daily Note/2024-08-20.md",
-    "Coding Concepts/Stack Queue and Deque.md",
     "To-do list.md",
     "Untitled Kanban.md",
     "Coding Concepts/LinkedList.md",
@@ -200,10 +205,6 @@
     "Imp's/Path.md",
     "Imp's/Self driving Car.md",
     "Imp's/Self-Driving Car.md",
-    "Imp's/Acumen Decisions.md",
-    "AWS IIT.md",
-    "Course Design.md",
-    "Daily Note/2024-08-15.md",
-    "Daily Note/2024-08-18.md"
+    "Imp's/Acumen Decisions.md"
   ]
 }
