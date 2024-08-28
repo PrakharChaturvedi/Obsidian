@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-08-27.md",
+                "file": "THE VAULT/Agile/Agile MST 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-08-27.md",
+                "file": "THE VAULT/Agile/Agile MST 3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-08-27.md",
+                "file": "THE VAULT/Agile/Agile MST 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-08-27.md"
+                "file": "THE VAULT/Agile/Agile MST 3.md"
               }
             }
           },
@@ -180,8 +180,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "42c008426e404d21",
+  "active": "b2244ce610bcbc6f",
   "lastOpenFiles": [
+    "THE VAULT/Agile/Agile Notes 1.md",
+    "THE VAULT/Agile/Class notes.md",
+    "Imp's/Internships Summer 25.md",
+    "Imp's/Path.md",
+    "Daily Note/2024-08-27.md",
     "Daily Note/2024-08-28.md",
     "Coding Concepts/LinkedList.md",
     "Projects/WadrobeAppDesign/AppFlow.md",
@@ -189,7 +194,6 @@
     "Projects/ScoringApp/Features.md",
     "Projects/Start Gazer for moon.md",
     "Projects/NightLifeApp.md",
-    "Daily Note/2024-08-27.md",
     "Coding Concepts/Stack Queue and Deque.md",
     "Coding Concepts/Recursion Board.md",
     "Habit Tracker Calendar.md",
@@ -204,10 +208,6 @@
     "MUN 2023/Opening speech drills.md",
     "MUN 2023/MOD 3 - CHINA (Promoting responsibility while reducing risk of misuse of Artificial Intelligence).md",
     "MUN 2023/GSL 1.md",
-    "MUN 2023/GSL 2.md",
-    "Imp's/Gate Syllabus.md",
-    "Imp's/Internships Summer 25.md",
-    "Imp's/Path.md",
-    "Imp's/Self driving Car.md"
+    "MUN 2023/GSL 2.md"
   ]
 }
