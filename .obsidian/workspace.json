@@ -11,9 +11,12 @@
             "id": "b2244ce610bcbc6f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Coding Concepts/LinkedList.md"
+                "file": "Daily Note/2024-08-27.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -67,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/LinkedList.md",
+                "file": "Daily Note/2024-08-27.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/LinkedList.md",
+                "file": "Daily Note/2024-08-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/LinkedList.md"
+                "file": "Daily Note/2024-08-27.md"
               }
             }
           },
@@ -178,14 +180,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b2244ce610bcbc6f",
+  "active": "42c008426e404d21",
   "lastOpenFiles": [
+    "Daily Note/2024-08-28.md",
+    "Coding Concepts/LinkedList.md",
     "Projects/WadrobeAppDesign/AppFlow.md",
     "Projects/FlutterProjectDetails/Food Delivery Application.md",
     "Projects/ScoringApp/Features.md",
     "Projects/Start Gazer for moon.md",
     "Projects/NightLifeApp.md",
-    "2024-08-27.md",
+    "Daily Note/2024-08-27.md",
     "Coding Concepts/Stack Queue and Deque.md",
     "Coding Concepts/Recursion Board.md",
     "Habit Tracker Calendar.md",
@@ -194,7 +198,6 @@
     "Daily Note/2024-08-20.md",
     "To-do list.md",
     "Untitled Kanban.md",
-    "Coding Concepts/LinkedList.md",
     "MUN 2023/Mod 4 (Singapore -Adaption of AI as a new path for sustainable Development).md",
     "MUN 2023/MOD 5  (Philippines -  Ban on Lethal autonomous Weapons).md",
     "MUN 2023/Motion Agenda Raising Lines.md",
@@ -205,7 +208,6 @@
     "Imp's/Gate Syllabus.md",
     "Imp's/Internships Summer 25.md",
     "Imp's/Path.md",
-    "Imp's/Self driving Car.md",
-    "Imp's/Self-Driving Car.md"
+    "Imp's/Self driving Car.md"
   ]
 }
