@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Projects/WadrobeAppDesign/AppFlow.md"
+                "file": "Coding Concepts/LinkedList.md"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/WadrobeAppDesign/AppFlow.md",
+                "file": "Coding Concepts/LinkedList.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/WadrobeAppDesign/AppFlow.md",
+                "file": "Coding Concepts/LinkedList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/WadrobeAppDesign/AppFlow.md"
+                "file": "Coding Concepts/LinkedList.md"
               }
             }
           },
@@ -180,6 +179,7 @@
   },
   "active": "b2244ce610bcbc6f",
   "lastOpenFiles": [
+    "Projects/WadrobeAppDesign/AppFlow.md",
     "Projects/FlutterProjectDetails/Food Delivery Application.md",
     "Projects/ScoringApp/Features.md",
     "Projects/Start Gazer for moon.md",
@@ -205,7 +205,6 @@
     "Imp's/Internships Summer 25.md",
     "Imp's/Path.md",
     "Imp's/Self driving Car.md",
-    "Imp's/Self-Driving Car.md",
-    "Imp's/Acumen Decisions.md"
+    "Imp's/Self-Driving Car.md"
   ]
 }
