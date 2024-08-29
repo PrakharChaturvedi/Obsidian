@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3bd49e9461464801",
+        "id": "0dcae241a974c1de",
         "type": "tabs",
         "children": [
           {
-            "id": "b2244ce610bcbc6f",
+            "id": "01f2e8a0f54abee6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/Agile/Agile MST 3.md",
+                "file": "AWS IIT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Agile/Agile MST 3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Agile/Agile MST 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "THE VAULT/Agile/Agile MST 3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,6 +143,14 @@
             }
           },
           {
+            "id": "b2244ce610bcbc6f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "eac79d8e8116d457",
             "type": "leaf",
             "state": {
@@ -159,12 +163,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 465.5,
-    "collapsed": true
+    "width": 465.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,7 +185,11 @@
   },
   "active": "b2244ce610bcbc6f",
   "lastOpenFiles": [
+    "AWS IIT.md",
+    "THE VAULT/Programming Updates.md",
     "THE VAULT/Agile/Agile Notes 1.md",
+    "2024-08-29.md",
+    "THE VAULT/Agile/Agile MST 3.md",
     "THE VAULT/Agile/Class notes.md",
     "Imp's/Internships Summer 25.md",
     "Imp's/Path.md",
@@ -204,10 +211,6 @@
     "Untitled Kanban.md",
     "MUN 2023/Mod 4 (Singapore -Adaption of AI as a new path for sustainable Development).md",
     "MUN 2023/MOD 5  (Philippines -  Ban on Lethal autonomous Weapons).md",
-    "MUN 2023/Motion Agenda Raising Lines.md",
-    "MUN 2023/Opening speech drills.md",
-    "MUN 2023/MOD 3 - CHINA (Promoting responsibility while reducing risk of misuse of Artificial Intelligence).md",
-    "MUN 2023/GSL 1.md",
-    "MUN 2023/GSL 2.md"
+    "MUN 2023/Motion Agenda Raising Lines.md"
   ]
 }
