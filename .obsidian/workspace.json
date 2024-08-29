@@ -86,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AWS IIT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AWS IIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AWS IIT.md"
+              }
             }
           },
           {
@@ -167,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.5
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,7 +187,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b2244ce610bcbc6f",
+  "active": "01f2e8a0f54abee6",
   "lastOpenFiles": [
     "AWS IIT.md",
     "THE VAULT/Programming Updates.md",
