@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS IIT.md",
+                "file": "2024-08-29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS IIT.md",
+                "file": "2024-08-29.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS IIT.md",
+                "file": "2024-08-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS IIT.md"
+                "file": "2024-08-29.md"
               }
             }
           },
@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 259.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
