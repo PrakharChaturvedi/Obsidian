@@ -1,6 +1,7 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Things",
   "theme": "system",
   "interfaceFontFamily": "",
-  "textFontFamily": ""
+  "textFontFamily": "",
+  "accentColor": "#37c8b7"
 }
