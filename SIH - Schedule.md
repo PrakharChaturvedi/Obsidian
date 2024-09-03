@@ -1,1 +1,2 @@
-- 10th 
+- 9th September 2024 [Monday] -> (10:30 Am) Hackathon Starts
+- 10th Sep
