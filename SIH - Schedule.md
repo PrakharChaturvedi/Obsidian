@@ -6,6 +6,7 @@
 ## Event Schedule detailed 
 - **Monday, September 9th 2024**
 	- 9:30 am -  Hackathon Starts and SIH problem statements are distributed. 
-	- 1:30 pm -  Lunch 1 (Self)
-	- 5:00 pm - Event 1 (Red bull Event Potentially)
-	- 6:30 pm 
+	- 1:30 pm -  Lunch 1 (Self).
+	- 5:00 pm - Event 1 (Red bull Event Potentially).
+	- 6:30 pm - Snacks 1 (Snacks to be provided by college).
+	- 
