@@ -29,6 +29,6 @@
 - Water Dispenser.
 - Files with notepad, pen and scoring sheets for Judges.
 - Food
-	- Snacks 1
-	- Snacks 2
-	- Dinner 1
+	- Snacks 1.
+	- Snacks 2.
+	- Dinner 1.
