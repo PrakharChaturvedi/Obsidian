@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/Database Notes/SQL.md",
+                "file": "THE VAULT/Database Notes/ADBMS/Notes 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Database Notes/SQL.md",
+                "file": "THE VAULT/Database Notes/ADBMS/Notes 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Database Notes/SQL.md",
+                "file": "THE VAULT/Database Notes/ADBMS/Notes 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Database Notes/SQL.md"
+                "file": "THE VAULT/Database Notes/ADBMS/Notes 1.md"
               }
             }
           },
@@ -188,8 +188,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "42c008426e404d21",
+  "active": "87d34d10a35707bb",
   "lastOpenFiles": [
+    "THE VAULT/Database Notes/ADBMS/Syllabus.md",
+    "THE VAULT/Database Notes/ADBMS/Notes 1.md",
+    "WhatsApp Image 2024-09-02 at 15.29.19_faf72955.jpg",
+    "THE VAULT/Database Notes/SQL.md",
     "THE VAULT/Database Notes/ADBMS",
     "THE VAULT/Database Notes/Mongo DB Notes.md",
     "THE VAULT/DSA/Stack and Queue.md",
@@ -214,8 +218,6 @@
     "Daily Note/2024-08-27.md",
     "Daily Note/2024-08-28.md",
     "Projects/FlutterProjectDetails/Food Delivery Application.md",
-    "Projects/ScoringApp/Features.md",
-    "Projects/Start Gazer for moon.md",
     "Daily Note/Pasted Image 20240818152131_482.png"
   ]
 }
