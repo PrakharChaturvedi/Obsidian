@@ -10,4 +10,5 @@
 	- 5:00 pm - Event 1 (Red bull Event Potentially).
 	- 6:30 pm - Snacks 1 (Snacks to be provided by college).
 	- 8:30 pm - Dinner 1 (To be Provided by college).
-	- 10:00 pm - Coffee, Ice Tea machine
+	- 10:00 pm - Coffee, Ice Tea dispenser starts. 
+	- **END of DAY 1 SIH**
