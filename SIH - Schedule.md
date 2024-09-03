@@ -4,4 +4,5 @@
 - 10th September 2024 [Tuesday] -> (1:30pm to 4:30 pm) Presentation in auditorium.
 
 ## Event Schedule detailed 
-- 9:30 am - **Mp** -   
+- 9:30 am - **Monday, September 9th 2024** - Hackathon Starts and S 
+- 
