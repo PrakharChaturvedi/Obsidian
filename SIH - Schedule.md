@@ -14,4 +14,5 @@
 	- **END of DAY 1 SIH**
 - **Tuesday, September 10th 2024**
 	- 10:30 am - Hackathon Ends with PPT and code submission (GitHub with photos).
-	- 10:30 to 1:30 - Break for Participants 
+	- 10:30 am to 2:30 pm - Break for Participants.
+	- 2:30 pm : 4:30 -  
