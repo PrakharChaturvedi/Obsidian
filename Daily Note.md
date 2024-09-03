@@ -1,8 +1,8 @@
 ---
 Exercise: false
-Study: 
+Aptitude: 
 Reading: 
-LeetCode: 0
-Project: false
+DSA: 0
+Dev: false
 ---
 [[Daily Note]]
