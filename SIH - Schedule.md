@@ -4,5 +4,7 @@
 - 10th September 2024 [Tuesday] -> (1:30pm to 4:30 pm) Presentation in auditorium.
 
 ## Event Schedule detailed 
-- 9:30 am - **Monday, September 9th 2024** - Hackathon Starts and S 
-- 
+- **Monday, September 9th 2024**
+	- 9:30 am -  Hackathon Starts and SIH problem statements are distributed. 
+	- 1:30 pm -  Lunch 1 (Self)
+	- 5:
