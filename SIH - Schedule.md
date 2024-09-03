@@ -22,4 +22,6 @@
 		- Certificate Distribution. 
 
 ## Things Needed 
-- Coffee/Ice-tea vendi
+- Coffee/Ice-tea vending machine
+- Few Mattress and beds for res 
+- 
