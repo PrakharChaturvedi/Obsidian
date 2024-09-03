@@ -22,6 +22,8 @@
 		- Certificate Distribution. 
 
 ## Things Needed 
-- Coffee/Ice-tea vending machine
-- Few Mattress and beds for res 
+- Coffee/Ice-tea vending machine.
+- Few Mattress and beds for rest. 
+- Water Dispenser.
+- Files with notepad, pen and scoring sheets for Judges.
 - 
