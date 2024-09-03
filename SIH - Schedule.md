@@ -13,6 +13,7 @@
 	- 10:00 pm - Coffee, Ice Tea dispenser starts. 
 	- **END of DAY 1 SIH**
 - **Tuesday, September 10th 2024**
+	- 8:30 am - Breakfast (To be provided by college)
 	- 10:30 am - Hackathon Ends with PPT and code submission (GitHub with photos).
 	- 10:30 am - Break for Participants.
 	- 2:00 pm -  Presentations in auditorium to be rated by panel of judges.
@@ -26,4 +27,6 @@
 - Few Mattress and beds for rest. 
 - Water Dispenser.
 - Files with notepad, pen and scoring sheets for Judges.
-- 
+- Food
+	- Snacks 1
+	- Snacks 
