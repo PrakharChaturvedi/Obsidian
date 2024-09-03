@@ -4,4 +4,3 @@
 - 10th September 2024 [Tuesday] -> (1:30pm to 4:30 pm) Presentation in auditorium.
 
 
-
