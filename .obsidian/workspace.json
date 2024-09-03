@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4404fdc0a447ac9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Projects/WadrobeAppDesign/AppFlow.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-03.md",
+                "file": "Projects/WadrobeAppDesign/AppFlow.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-03.md",
+                "file": "Projects/WadrobeAppDesign/AppFlow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-03.md"
+                "file": "Projects/WadrobeAppDesign/AppFlow.md"
               }
             }
           },
@@ -188,10 +199,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "01f2e8a0f54abee6",
+  "active": "f4404fdc0a447ac9",
   "lastOpenFiles": [
-    "Projects/WadrobeAppDesign/AppFlow.md",
     "2024-09-03.md",
+    "Projects/WadrobeAppDesign/AppFlow.md",
     "2024-08-29.md",
     "AWS IIT.md",
     "THE VAULT/Programming Updates.md",
