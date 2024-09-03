@@ -13,4 +13,5 @@
 	- 10:00 pm - Coffee, Ice Tea dispenser starts. 
 	- **END of DAY 1 SIH**
 - **Tuesday, September 10th 2024**
-	- 10:30 am - Hackathon Ends with PPT submission to a 
+	- 10:30 am - Hackathon Ends with PPT and code submission (GitHub with photos).
+	- 10:30 to 1:30 - Break for Participants 
