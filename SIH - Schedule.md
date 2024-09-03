@@ -16,7 +16,10 @@
 	- 10:30 am - Hackathon Ends with PPT and code submission (GitHub with photos).
 	- 10:30 am - Break for Participants.
 	- 2:00 pm -  Presentations in auditorium to be rated by panel of judges.
-	- 4:00 pm to 4:30 pm 
+	- 4:00 pm to 4:30 pm ->  
 		- Speech of Judges/Directors/VC sir/Organizers Thanks.
-		- Prize Distribution 
-		- 
+		- Prize Distribution.
+		- Certificate Distribution. 
+
+## Things Needed 
+- Coffee/Ice-tea vendi
