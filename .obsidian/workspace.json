@@ -11,9 +11,12 @@
             "id": "01f2e8a0f54abee6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Projects/WadrobeAppDesign/AppFlow.md"
+                "file": "2024-09-03.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/WadrobeAppDesign/AppFlow.md",
+                "file": "2024-09-03.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/WadrobeAppDesign/AppFlow.md",
+                "file": "2024-09-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/WadrobeAppDesign/AppFlow.md"
+                "file": "2024-09-03.md"
               }
             }
           },
@@ -187,6 +190,8 @@
   },
   "active": "01f2e8a0f54abee6",
   "lastOpenFiles": [
+    "Projects/WadrobeAppDesign/AppFlow.md",
+    "2024-09-03.md",
     "2024-08-29.md",
     "AWS IIT.md",
     "THE VAULT/Programming Updates.md",
@@ -198,7 +203,6 @@
     "Daily Note/2024-08-27.md",
     "Daily Note/2024-08-28.md",
     "Coding Concepts/LinkedList.md",
-    "Projects/WadrobeAppDesign/AppFlow.md",
     "Projects/FlutterProjectDetails/Food Delivery Application.md",
     "Projects/ScoringApp/Features.md",
     "Projects/Start Gazer for moon.md",
@@ -212,7 +216,6 @@
     "To-do list.md",
     "Untitled Kanban.md",
     "MUN 2023/Mod 4 (Singapore -Adaption of AI as a new path for sustainable Development).md",
-    "MUN 2023/MOD 5  (Philippines -  Ban on Lethal autonomous Weapons).md",
-    "MUN 2023/Motion Agenda Raising Lines.md"
+    "MUN 2023/MOD 5  (Philippines -  Ban on Lethal autonomous Weapons).md"
   ]
 }
