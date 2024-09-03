@@ -15,4 +15,4 @@
 - **Tuesday, September 10th 2024**
 	- 10:30 am - Hackathon Ends with PPT and code submission (GitHub with photos).
 	- 10:30 am to 2:30 pm - Break for Participants.
-	- 2:30 pm : 4:30 -  
+	- 2:30 pm : 4:30 pm -  Presentations in auditorium to be rated by panel of judges. 
