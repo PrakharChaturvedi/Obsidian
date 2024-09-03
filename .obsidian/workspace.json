@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note.md",
+                "file": "SIH - Schedule.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note.md",
+                "file": "SIH - Schedule.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note.md",
+                "file": "SIH - Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note.md"
+                "file": "SIH - Schedule.md"
               }
             }
           },
@@ -190,14 +190,15 @@
   },
   "active": "87d34d10a35707bb",
   "lastOpenFiles": [
+    "THE VAULT/Cloud Computing/AWS IIT.md",
+    "Daily Note.md",
+    "Course Design.md",
     "SIH - Schedule.md",
     "Habit Tracker Calendar.md",
-    "Daily Note.md",
     "Daily Note/2024-08-29.md",
     "Daily Note/2024-09-03.md",
     "Coding Concepts/LinkedList.md",
     "Projects/WadrobeAppDesign/AppFlow.md",
-    "AWS IIT.md",
     "THE VAULT/Programming Updates.md",
     "THE VAULT/Agile/Agile Notes 1.md",
     "THE VAULT/Agile/Agile MST 3.md",
@@ -215,7 +216,6 @@
     "Daily Note/Pasted Image 20240818152131_482.png",
     "Daily Note/2024-08-20.md",
     "To-do list.md",
-    "Untitled Kanban.md",
-    "MUN 2023/Mod 4 (Singapore -Adaption of AI as a new path for sustainable Development).md"
+    "Untitled Kanban.md"
   ]
 }
