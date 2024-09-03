@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIH - Schedule.md",
+                "file": "Daily Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIH - Schedule.md",
+                "file": "Daily Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIH - Schedule.md",
+                "file": "Daily Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIH - Schedule.md"
+                "file": "Daily Note.md"
               }
             }
           },
@@ -190,9 +190,9 @@
   },
   "active": "87d34d10a35707bb",
   "lastOpenFiles": [
+    "SIH - Schedule.md",
     "Daily Note/2024-08-29.md",
     "Daily Note/2024-09-03.md",
-    "SIH - Schedule.md",
     "Coding Concepts/LinkedList.md",
     "Projects/WadrobeAppDesign/AppFlow.md",
     "AWS IIT.md",
