@@ -26,7 +26,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Projects/WadrobeAppDesign/AppFlow.md"
+                "file": "Coding Concepts/LinkedList.md"
               }
             }
           }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/WadrobeAppDesign/AppFlow.md",
+                "file": "Coding Concepts/LinkedList.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/WadrobeAppDesign/AppFlow.md",
+                "file": "Coding Concepts/LinkedList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/WadrobeAppDesign/AppFlow.md"
+                "file": "Coding Concepts/LinkedList.md"
               }
             }
           },
@@ -202,8 +201,8 @@
   },
   "active": "f4404fdc0a447ac9",
   "lastOpenFiles": [
-    "2024-09-03.md",
     "Projects/WadrobeAppDesign/AppFlow.md",
+    "2024-09-03.md",
     "2024-08-29.md",
     "AWS IIT.md",
     "THE VAULT/Programming Updates.md",
