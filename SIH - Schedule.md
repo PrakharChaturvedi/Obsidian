@@ -95,7 +95,7 @@
 - Atharva Vyas
 - Kartik Kashyap 
 - Akash rahote
-- Anushka Sharma
+- Anushka Sharma (Female)
 - Rajat Patidar 
 - Hasnnaii Sidhiki 
 - Abhinav 
