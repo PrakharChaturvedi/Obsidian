@@ -85,6 +85,7 @@
 1. Hitansh Bhaktani 
 	- Shinjini Sarkar
 	- Vanshika Arora
+	- Aarav Wadhwani
 	- 
 
 ## Individual List 
@@ -100,4 +101,3 @@
 - Lavya
 - Preet
 - Zahabia 
-- Aarav Wadhwani 
