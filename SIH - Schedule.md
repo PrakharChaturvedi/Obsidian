@@ -45,29 +45,28 @@
 	- Krishna Yadav
 	- Vidhi Tiwari
 	- Shubhi Jain
-3. Aditi Nigam 
-	- Asmi Jain 
-4. Ritika Choudhary 
+3. Ritika Choudhary 
 	- Vaishnavi Rathore
 	- Prisha jain 
 	- Rammi Nandanwar
 	- Pammmi Nandanwar
 	- Pavitra Chauhan 
-5. Ashwariya Chourey
+4. Ashwariya Chourey
 	- Rohit Manna
 	- Nagesh Gupta
 	- Akshat Thakkar
 	- Utkarsh Singh 
 	- Soumya Jaiswal 
-6. Shabbir Alavi
+5. Shabbir Alavi
 	- Devika Moonat
 	- Tanisha Raghuvanshi
 	- Dhruvi Jhanjhri
-7. Astha Padmavar 
+6. Astha Padmavar 
 	- Arushi Sharma
-	- *Asmi Jain* 
+	- Asmi Jain 
 	- Aditi Nigam 
-1. Harsh Kale 
+	- Aaryan Chaudhary 
+7. Harsh Kale 
 	- Kabir Khan
 	- Garvit gupta
 	- KunalVaan Goswami 
