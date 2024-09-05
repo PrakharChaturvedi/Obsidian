@@ -83,7 +83,8 @@
 	- Sandrabh Bhasin
 -------------------------------
 1. Hitansh Bhaktani 
-	-  
+	- Shinjini Sarkar
+	- 
 
 ## Individual List 
 - Ansh Chadokar
@@ -92,8 +93,6 @@
 - Kartik Kashyap 
 - Akash rahote
 - Anushka Sharma
-- Hitansh Bhaktani
-	- Shinjini Sarkar
 - Rajat Patidar 
 - Hasnnaii Sidhiki 
 - Abhinav 
