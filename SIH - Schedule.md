@@ -75,9 +75,9 @@
 8. Mahhi 	
 	- Abbas  
 	- Zahabia
-2. Manas (Mecha) 
-3. Meet (Mecha)
-4. Suyash 
+9. Manas (Mecha) 
+10. Meet (Mecha)
+11. Suyash 
 	- Yash Upadhya
 	- Twinkle Ramchandani 
 	- Tanishka Gupta
@@ -88,12 +88,14 @@
 	- Shinjini Sarkar
 	- Vanshika Arora
 	- Aarav Wadhwani
-2. Ansh Chadokar
+
+1. Ansh Chadokar
 	- Adish Chabdda
 	- Atharva Vyas
 	- **Kartik Kashyap** 
 	- **Akash rahote**
-3. Rajat Patidar 
+
+1. Rajat Patidar 
 	- Hasnnaii Sidhiki 
 	- Abhinav 
 	- Lavya
