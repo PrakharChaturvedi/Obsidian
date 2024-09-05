@@ -71,6 +71,8 @@
 	- Garvit gupta
 	- KunalVaan Goswami 
 	- Abhisar Sharma 
+8. Mahhi 	
+	- Abbas  
 
 ## Individual List 
 - Ansh Chadokar
@@ -83,4 +85,8 @@
 	- Shinjini Sarkar
 - Rajat Patidar 
 - Hasnnaii Sidhiki 
-- Abhi
+- Abhinav 
+- Lavya
+- Preet
+- Zahabia 
+- Manas 
