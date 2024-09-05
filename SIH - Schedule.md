@@ -73,6 +73,14 @@
 	- Abhisar Sharma 
 8. Mahhi 	
 	- Abbas  
+9. Manas (Mecha) 
+10. Meet (Mecha)
+11. Suyash 
+	- Yash Upadhya
+	- Twinkle Ramchandani 
+	- Tanishka Gupta
+	- Vinay Singh
+	- 
 
 ## Individual List 
 - Ansh Chadokar
@@ -89,4 +97,3 @@
 - Lavya
 - Preet
 - Zahabia 
-- Manas 
