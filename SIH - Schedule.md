@@ -89,8 +89,9 @@
 	- Ishita Paliwal
 	- Dhwani ....
 	- ...
-13. Dhruvi namdev
-	- 
+13. Dhruvi namdev - 3 
+	- Garima Tailwankar
+	- Gargi Mittal 
 -------------------------------
 1. **Hitansh Bhaktani** - 4
 	- Shinjini Sarkar
