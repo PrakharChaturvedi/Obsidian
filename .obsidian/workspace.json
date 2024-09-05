@@ -11,9 +11,12 @@
             "id": "87d34d10a35707bb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Coding Concepts/LinkedList.md"
+                "file": "THE VAULT/Cloud Computing/Notes 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/LinkedList.md",
+                "file": "THE VAULT/Cloud Computing/Notes 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/LinkedList.md",
+                "file": "THE VAULT/Cloud Computing/Notes 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/LinkedList.md"
+                "file": "THE VAULT/Cloud Computing/Notes 2.md"
               }
             }
           },
@@ -186,6 +189,8 @@
   },
   "active": "87d34d10a35707bb",
   "lastOpenFiles": [
+    "THE VAULT/Cloud Computing/Notes 1.md",
+    "Coding Concepts/LinkedList.md",
     "2024-09-05.md",
     "THE VAULT/Database Notes/ADBMS/Notes 1.md",
     "THE VAULT/Database Notes/ADBMS/Syllabus.md",
@@ -204,7 +209,6 @@
     "Habit Tracker Calendar.md",
     "Daily Note/2024-08-29.md",
     "Daily Note/2024-09-03.md",
-    "Coding Concepts/LinkedList.md",
     "Projects/WadrobeAppDesign/AppFlow.md",
     "THE VAULT/Programming Updates.md",
     "THE VAULT/Agile/Agile Notes 1.md",
@@ -213,7 +217,6 @@
     "Imp's/Internships Summer 25.md",
     "Imp's/Path.md",
     "Daily Note/2024-08-27.md",
-    "Daily Note/2024-08-28.md",
     "Daily Note/Pasted Image 20240818152131_482.png"
   ]
 }
