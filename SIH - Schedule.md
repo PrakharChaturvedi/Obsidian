@@ -66,7 +66,7 @@
 	- Asmi Jain 
 	- Aditi Nigam 
 	- Aaryan Chaudhary 
-7. Harsh Kale - 6
+	1. Harsh Kale - 6
 	- Kabir Khan
 	- Garvit gupta
 	- KunalVaan Goswami 
