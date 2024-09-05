@@ -73,9 +73,10 @@
 	- Abhisar Sharma 
 8. Mahhi 	
 	- Abbas  
-9. Manas (Mecha) 
-10. Meet (Mecha)
-11. Suyash 
+	- Zahabia
+1. Manas (Mecha) 
+2. Meet (Mecha)
+3. Suyash 
 	- Yash Upadhya
 	- Twinkle Ramchandani 
 	- Tanishka Gupta
@@ -100,4 +101,4 @@
 - Abhinav 
 - Lavya
 - Preet
-- Zahabia 
+ 
