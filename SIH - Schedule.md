@@ -35,4 +35,7 @@
 
 
 ## Team List 
-- ([]  
+1. Meet Kapadia 
+	- Shriya Soni
+	- Pratyaksha Joshi 
+	- Rohan
