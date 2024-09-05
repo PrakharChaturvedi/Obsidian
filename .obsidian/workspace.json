@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 1.md",
+                "file": "2024-09-05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 1.md",
+                "file": "2024-09-05.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 1.md",
+                "file": "2024-09-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 1.md"
+                "file": "2024-09-05.md"
               }
             }
           },
@@ -189,9 +189,9 @@
   },
   "active": "87d34d10a35707bb",
   "lastOpenFiles": [
+    "THE VAULT/Cloud Computing/Notes 1.md",
     "Coding Concepts/Recursion Board.md",
     "THE VAULT/Cloud Computing/Notes 2.md",
-    "THE VAULT/Cloud Computing/Notes 1.md",
     "Coding Concepts/LinkedList.md",
     "2024-09-05.md",
     "THE VAULT/Database Notes/ADBMS/Notes 1.md",
