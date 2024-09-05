@@ -82,5 +82,5 @@
 - Akash rahote
 - Anushka Sharma
 - Hitansh Bhaktani
-	- 
-- 
+	- Shinjini Sarkar
+- Rajat Patidar 
