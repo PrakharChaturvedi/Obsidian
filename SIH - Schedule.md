@@ -81,8 +81,9 @@
 	- Tanishka Gupta
 	- Vinay Singh
 	- Sandrabh Bhasin
-12. Hitansh Bhaktani 
-	1 
+-------------------------------
+1. Hitansh Bhaktani 
+	-  
 
 ## Individual List 
 - Ansh Chadokar
