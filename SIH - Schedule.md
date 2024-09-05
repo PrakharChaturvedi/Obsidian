@@ -35,7 +35,7 @@
 
 
 ## Team List 
-1. Meet Kapadia 
+1. Meet Kapadia - 4
 	- Shriya Soni
 	- Pratyaksha Joshi 
 	- Rohan Pandey
@@ -82,7 +82,13 @@
 	- Twinkle Ramchandani 
 	- Tanishka Gupta
 	- Vinay Singh
-	- Sandrabh Bhasin
+	- Sandrabh Bhasin\
+12. Gomtesh Gandhi
+	- Sarthak Kushwaha
+	- Devisha Solanki
+	- Ishita Paliwal
+	- Dhwani ....
+	- 
 -------------------------------
 1. **Hitansh Bhaktani** 
 	- Shinjini Sarkar
