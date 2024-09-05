@@ -11,9 +11,12 @@
             "id": "87d34d10a35707bb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md"
+                "file": "THE VAULT/Cloud Computing/Notes 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md",
+                "file": "THE VAULT/Cloud Computing/Notes 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md",
+                "file": "THE VAULT/Cloud Computing/Notes 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md"
+                "file": "THE VAULT/Cloud Computing/Notes 1.md"
               }
             }
           },
@@ -186,6 +189,7 @@
   },
   "active": "87d34d10a35707bb",
   "lastOpenFiles": [
+    "Coding Concepts/Recursion Board.md",
     "THE VAULT/Cloud Computing/Notes 2.md",
     "THE VAULT/Cloud Computing/Notes 1.md",
     "Coding Concepts/LinkedList.md",
@@ -213,7 +217,6 @@
     "THE VAULT/Agile/Agile MST 3.md",
     "THE VAULT/Agile/Class notes.md",
     "Imp's/Internships Summer 25.md",
-    "Imp's/Path.md",
     "Daily Note/Pasted Image 20240818152131_482.png"
   ]
 }
