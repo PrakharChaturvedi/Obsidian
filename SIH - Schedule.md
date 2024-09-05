@@ -56,4 +56,10 @@
 5. Ashwariya Chourey
 	- Rohit Manna
 	- Nagesh Gupta
+	- Akshat Thakkar
+	- Utkarsh Singh 
+	- Soumya Jaiswal 
+6. Shabbir Alavi
+	- Devika Moonat
+	- Tanisha Raghuvanshi
 	- 
