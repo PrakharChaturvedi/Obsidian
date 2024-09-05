@@ -64,12 +64,15 @@
 	- Tanisha Raghuvanshi
 	- Dhruvi Jhanjhri
 7. Astha Padmavar 
-	-  
-8. Harsh Kale 
+	- Arushi Sharma
+	- *Asmi Jain* 
+	- Aditi Nigam 
+1. Harsh Kale 
 	- Kabir Khan
 	- Garvit gupta
 	- KunalVaan Goswami 
 	- Abhisar Sharma 
+
 
 
 ## Individual List 
