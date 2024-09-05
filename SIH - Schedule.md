@@ -80,7 +80,9 @@
 	- Twinkle Ramchandani 
 	- Tanishka Gupta
 	- Vinay Singh
-	- 
+	- Sandrabh Bhasin
+12. Hitansh Bhaktani 
+	1 
 
 ## Individual List 
 - Ansh Chadokar
