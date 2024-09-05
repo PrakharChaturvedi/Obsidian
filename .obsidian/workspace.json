@@ -86,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-05.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024-09-05.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,10 +183,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "87d34d10a35707bb",
+  "active": "b2244ce610bcbc6f",
   "lastOpenFiles": [
-    "THE VAULT/Database Notes/ADBMS/Notes 1.md",
     "2024-09-05.md",
+    "THE VAULT/Database Notes/ADBMS/Notes 1.md",
     "THE VAULT/Database Notes/ADBMS/Syllabus.md",
     "WhatsApp Image 2024-09-02 at 15.29.19_faf72955.jpg",
     "THE VAULT/Database Notes/SQL.md",
