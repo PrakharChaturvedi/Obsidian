@@ -19,19 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d4f8d5e1d0f3c96e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THE VAULT/Database Notes/ADBMS/Syllabus.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -184,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 531.5
   },
   "left-ribbon": {
     "hiddenItems": {
