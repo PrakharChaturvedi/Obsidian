@@ -86,7 +86,7 @@
 	- Shinjini Sarkar
 	- Vanshika Arora
 	- Aarav Wadhwani
-	- 
+2. 
 
 ## Individual List 
 - Ansh Chadokar
