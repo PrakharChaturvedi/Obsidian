@@ -71,12 +71,13 @@
 	- Garvit gupta
 	- KunalVaan Goswami 
 	- Abhisar Sharma 
+	- **Anushka Sharma**
 8. Mahhi 	
 	- Abbas  
 	- Zahabia
-1. Manas (Mecha) 
-2. Meet (Mecha)
-3. Suyash 
+2. Manas (Mecha) 
+3. Meet (Mecha)
+4. Suyash 
 	- Yash Upadhya
 	- Twinkle Ramchandani 
 	- Tanishka Gupta
