@@ -39,69 +39,69 @@
 	- Shriya Soni
 	- Pratyaksha Joshi 
 	- Rohan Pandey
-2. Abhimanyu Tiwari 
+2. Abhimanyu Tiwari - 6
 	- Jagrat Bharti  
 	- Lakshya Belani
 	- Krishna Yadav
 	- Vidhi Tiwari
 	- Shubhi Jain
-3. Ritika Choudhary 
+3. Ritika Choudhary -6
 	- Vaishnavi Rathore
 	- Prisha jain 
 	- Rammi Nandanwar
 	- Pammmi Nandanwar
 	- Pavitra Chauhan 
-4. Ashwariya Chourey
+4. Ashwariya Chourey - 6 
 	- Rohit Manna
 	- Nagesh Gupta
 	- Akshat Thakkar
 	- Utkarsh Singh 
 	- Soumya Jaiswal 
-5. Shabbir Alavi
+5. Shabbir Alavi - 4
 	- Devika Moonat
 	- Tanisha Raghuvanshi
 	- Dhruvi Jhanjhri
-6. Astha Padmavar 
+6. Astha Padmavar - 5 
 	- Arushi Sharma
 	- Asmi Jain 
 	- Aditi Nigam 
 	- Aaryan Chaudhary 
-7. Harsh Kale 
+7. Harsh Kale - 6
 	- Kabir Khan
 	- Garvit gupta
 	- KunalVaan Goswami 
 	- Abhisar Sharma 
 	- **Anushka Sharma**
-8. Mahhi 	
+8. Mahhi - 3
 	- Abbas  
 	- Zahabia
-9. Manas (Mecha) 
-10. Meet (Mecha)
-11. Suyash 
+9. Manas (Mecha) - 2 
+10. Meet (Mecha) - 2 
+11. Suyash - 6
 	- Yash Upadhya
 	- Twinkle Ramchandani 
 	- Tanishka Gupta
 	- Vinay Singh
 	- Sandrabh Bhasin\
-12. Gomtesh Gandhi
+12. Gomtesh Gandhi - 6
 	- Sarthak Kushwaha
 	- Devisha Solanki
 	- Ishita Paliwal
 	- Dhwani ....
-	- 
+	- ...
 -------------------------------
-1. **Hitansh Bhaktani** 
+1. **Hitansh Bhaktani** - 4
 	- Shinjini Sarkar
 	- Vanshika Arora
 	- Aarav Wadhwani
 
-1. Ansh Chadokar
+1. Ansh Chadokar - 5
 	- Adish Chabdda
 	- Atharva Vyas
 	- **Kartik Kashyap** 
 	- **Akash rahote**
 
-1. Rajat Patidar 
+1. Rajat Patidar - 5 
 	- Hasnnaii Sidhiki 
 	- Abhinav 
 	- Lavya
