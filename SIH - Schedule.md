@@ -38,4 +38,12 @@
 1. Meet Kapadia 
 	- Shriya Soni
 	- Pratyaksha Joshi 
-	- Rohan
+	- Rohan Pandey
+2. Abhimanyu Tiwari 
+	- Jagrat Bharti  
+	- Lakshya Belani
+	- Krishna Yadav
+	- Vidhi Tiwari
+	- Shubhi Jain
+3. Aditi Nigam 
+	- 
