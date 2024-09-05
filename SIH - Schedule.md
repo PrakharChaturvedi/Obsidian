@@ -64,4 +64,4 @@
 	- Tanisha Raghuvanshi
 	- Dhruvi Jhanjhri
 7. Astha Padmavar --
-8. 
+8. Harsh Kale 
