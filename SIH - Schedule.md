@@ -95,7 +95,6 @@
 -------------------------------
 1. **Hitansh Bhaktani** - 4
 	- Shinjini Sarkar
-	- Vanshika Arora
 	- Aarav Wadhwani
 
 1. Ansh Chadokar - 5
