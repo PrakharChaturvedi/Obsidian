@@ -84,22 +84,19 @@
 	- Vinay Singh
 	- Sandrabh Bhasin
 -------------------------------
-1. Hitansh Bhaktani 
+1. **Hitansh Bhaktani** 
 	- Shinjini Sarkar
 	- Vanshika Arora
 	- Aarav Wadhwani
-2. 
+2. Ansh Chadokar
+	- Adish Chabdda
+	- Atharva Vyas
+	- **Kartik Kashyap** 
+	- **Akash rahote**
+3. Rajat Patidar 
+	- Hasnnaii Sidhiki 
+	- Abhinav 
+	- Lavya
+	- Preet
+  
 
-## Individual List 
-- Ansh Chadokar
-- Adish Chabdda
-- Atharva Vyas
-- Kartik Kashyap 
-- Akash rahote
-- Anushka Sharma (Female)
-- Rajat Patidar 
-- Hasnnaii Sidhiki 
-- Abhinav 
-- Lavya
-- Preet
- 
