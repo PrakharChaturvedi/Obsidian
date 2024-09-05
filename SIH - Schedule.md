@@ -72,8 +72,6 @@
 	- KunalVaan Goswami 
 	- Abhisar Sharma 
 
-
-
 ## Individual List 
 - Ansh Chadokar
 - Adish Chabdda
@@ -84,3 +82,4 @@
 - Hitansh Bhaktani
 	- Shinjini Sarkar
 - Rajat Patidar 
+- H
