@@ -75,4 +75,12 @@
 
 
 ## Individual List 
+- Ansh Chadokar
+- Adish Chabdda
+- Atharva Vyas
+- Kartik Kashyap 
+- Akash rahote
+- Anushka Sharma
+- Hitansh Bhaktani
+	- 
 - 
