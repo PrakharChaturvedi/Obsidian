@@ -1,4 +1,5 @@
-#### Error_404 -> 6 team members
+
+#### Team 1 : Error_404 -> 6 team members
 - Nagesh Gupta(Btech CSIT and 3rd year)
 - Aishwarya chourey (Btech CSIT and 3rd year)
 - Rohit Manna(Btech CSIT and 3rd year)
@@ -6,7 +7,7 @@
 - Akshat Thakkar (Btech CSIT and 3rd year)
 - Soumya Jaiswal (Btech CSIT and 3rd year)
 
-#### Web-heads -> 6 team members
+#### Team 2 : Web-heads -> 6 team members
 - Sudeep Tripathi (btech cs/it 2nd year)
 - Sahil Shillare(btech cs/it 2nd)
 - Riya Sisodiya(btech cs/it 2nd)
@@ -14,7 +15,7 @@
 - Srijan Mishra(btech cs/it 2nd)
 - Anisha Dawani(btech cs/it 2nd)
 
-#### CyberVanguard -> 6 team members
+#### Team 3 : CyberVanguard -> 6 team members
 - Gomtesh Gandhi(B. Tech CSIT, 4th year)
 - Devisha solanki(B. Tech CSIT, 4th year)
 - Sarthak Kushwaha(B. Tech CSIT, 4th year)
@@ -30,8 +31,11 @@
 - Twinkle Ramchandani
 - Tanishka Gupta
 
-#### GEEKS
+#### GEEKS -> 6 team members
 - Jagrat Bharati (B.tech CSIT 2ND year)
 - Darshil Khandelwal (B.tech CSIT 2ND year)
 - Abhimanu Tiwari (B.tech CSIT 2ND year)
-- Soham Chatterjee (B.tech CSIT 2ND year)Shubi Jain (B.tech CSIT 2ND year)|Vidhi Tiwari (MBA.tech CSIT 2ND year)|
+- Soham Chatterjee (B.tech CSIT 2ND year)
+- Shubi Jain (B.tech CSIT 2ND year)
+- Vidhi Tiwari (MBA.tech CSIT 2ND year)
+
