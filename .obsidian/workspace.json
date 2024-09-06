@@ -11,9 +11,12 @@
             "id": "5c58d5ba9b02eac8",
             "type": "leaf",
             "state": {
-              "type": "excel-view",
+              "type": "markdown",
               "state": {
-                "file": "Teams and Contacts.md"
+                "file": "SIH Teams.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teams and Contacts.md",
+                "file": "SIH Teams.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teams and Contacts.md",
+                "file": "SIH Teams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teams and Contacts.md"
+                "file": "SIH Teams.md"
               }
             }
           },
@@ -185,10 +188,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "42c008426e404d21",
+  "active": "5c58d5ba9b02eac8",
   "lastOpenFiles": [
-    "SIH Teams.md",
     "Teams and Contacts.md",
+    "SIH Teams.md",
     "SIH - Schedule.md",
     "DBMS Concepts/Notes.md",
     "THE VAULT/Cloud Computing/Notes 1.md",
