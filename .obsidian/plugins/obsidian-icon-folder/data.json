@@ -29,5 +29,8 @@
     "debugMode": false,
     "lucideIconPackType": "native"
   },
-  "THE VAULT/Database Notes": "LiActivity"
+  "THE VAULT/Database Notes": {
+    "iconName": "LiActivity",
+    "iconColor": "#21d4c8"
+  }
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-09-06.md",
+                "file": "THE VAULT/Database Notes/ADBMS/Syllabus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-09-06.md",
+                "file": "THE VAULT/Database Notes/ADBMS/Syllabus.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-09-06.md",
+                "file": "THE VAULT/Database Notes/ADBMS/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-09-06.md"
+                "file": "THE VAULT/Database Notes/ADBMS/Syllabus.md"
               }
             }
           },
@@ -188,10 +188,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "42c008426e404d21",
+  "active": "87d34d10a35707bb",
   "lastOpenFiles": [
-    "SIH - Schedule.md",
+    "THE VAULT/Database Notes/ADBMS/Notes 1.md",
     "Daily Note/2024-09-06.md",
+    "SIH - Schedule.md",
     "Habit Tracker Calendar.md",
     "To-do list.md",
     "Daily Note/2024-09-05.md",
@@ -200,7 +201,6 @@
     "Coding Concepts/Recursion Board.md",
     "THE VAULT/Cloud Computing/Notes 2.md",
     "Coding Concepts/LinkedList.md",
-    "THE VAULT/Database Notes/ADBMS/Notes 1.md",
     "THE VAULT/Database Notes/ADBMS/Syllabus.md",
     "THE VAULT/Database Notes/SQL.md",
     "THE VAULT/Database Notes/ADBMS",
