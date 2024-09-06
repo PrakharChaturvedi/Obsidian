@@ -57,7 +57,7 @@
 
 #### Team 8 : Tech Titans  -> 5 members
 - Yuvika Purohit csit 1st year
-- Parth sharma csit 1st year
+- Parth Sharma csit 1st year
 - Suyash Sharma csit 1st year
 - Chirayu soni csit 1st year
 - Pranav sethia csit 1st year
