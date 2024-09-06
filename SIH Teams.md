@@ -71,4 +71,9 @@
 - Prisha Jain (btech 3rd sem)
 - Bhoomi sharma (btech 3rd sem)
 
-#### Team 10 : Aglo Ninjas
+#### Team 10 : Algo Ninjas -> 5 members
+- Shabbir alavi
+- Devika Moonat
+- Tanisha raghuwanshi
+- Kshitij karnawat
+- Dhruvi Jhanjhri
