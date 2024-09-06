@@ -106,14 +106,20 @@
 - Meet Vyas, Mechatronic, 3 year
 
 #### Team 15 : ... -> 6 members 
-- Vedansh Yadav (3 Year BTECH CSIT)
+- ***Vedansh Yadav (3 Year BTECH CSIT)***
 - Vijay Chouhan ( 2 Year BTECH CSIT)
 - Hamza Khokhar (3 Year BTECH CSIT)
 - Oshmi Nahar (3 Year BTECH CSIT)
 - Rajat Pawar ( 2 Year BTECH CSIT)
 - Harshit Kushwah (3 Year BTECH CSIT)
 
-#### Team 16 :  
+#### Team 16 : Robolution
+- Akul Verma (Mechatronics ,3rd year)
+- Lakshya Choudhary (Mechatronics ,3rd year)
+- Divyansh soni (Mechatronics ,3rd year)
+- Jay kapadiya (Mechatronics ,3rd year)
+- Priyanshu joshi (Mechatronics ,1st year)
+- Meet Vyas (Mechatronics ,3rd year)
 
 
 
