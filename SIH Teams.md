@@ -91,5 +91,11 @@
 - Rohan Pandey (Btech 3rd year)
 - Pratyaksha Joshi (Btech 3rd year)
 
-#### Team 13 : DevBhai
+#### Team 13 : Vidya.ai -> 4 members
+- Dev Devda
+- Vedant thakur
+- Kapil Bairwa
+- Vanshika Arora
+
+
 
