@@ -113,13 +113,21 @@
 - Rajat Pawar ( 2 Year BTECH CSIT)
 - Harshit Kushwah (3 Year BTECH CSIT)
 
-#### Team 16 : Robolution
-- Akul Verma (Mechatronics ,3rd year)
+#### Team 16 : Robolution -> 6 members
+- ***Akul Verma (Mechatronics ,3rd year)***
 - Lakshya Choudhary (Mechatronics ,3rd year)
 - Divyansh soni (Mechatronics ,3rd year)
 - Jay kapadiya (Mechatronics ,3rd year)
 - Priyanshu joshi (Mechatronics ,1st year)
 - Meet Vyas (Mechatronics ,3rd year)
 
+
+#### Team 17 : RoboTech -> 6 members 
+- Priyanshu Joshi, Mechatronic,1 year
+- Meet Bhati , Mechatronic, 1 year
+- Khushagra Gulabwani, Mechatronic,1 year
+- Khush Patel, Mechatronic, 1 year
+- Tanay Shah,Mechatronic,1 year
+- Meet Vyas,Mechatronic,3 year
 
 
