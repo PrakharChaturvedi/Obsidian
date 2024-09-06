@@ -105,7 +105,15 @@
 - Lakshya Chaudhary, Mechatronic,3 year
 - Meet Vyas, Mechatronic, 3 year
 
-#### Tea
+#### Team 15 : ... -> 6 members 
+- Vedansh Yadav (3 Year BTECH CSIT)
+- Vijay Chouhan ( 2 Year BTECH CSIT)
+- Hamza Khokhar (3 Year BTECH CSIT)
+- Oshmi Nahar (3 Year BTECH CSIT)
+- Rajat Pawar ( 2 Year BTECH CSIT)
+- Harshit Kushwah (3 Year BTECH CSIT)
+
+#### Team 16 :  
 
 
 
