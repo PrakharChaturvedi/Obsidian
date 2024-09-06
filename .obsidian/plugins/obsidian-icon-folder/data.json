@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAnchor",
       "LiActivity"
     ],
     "recentlyUsedIconsSize": 5,
@@ -32,5 +33,10 @@
   "THE VAULT/Database Notes": {
     "iconName": "LiActivity",
     "iconColor": "#21d4c8"
+  },
+  "Coding Concepts": "LiAnchor",
+  "DBMS Concepts": {
+    "iconName": "LiAnchor",
+    "iconColor": "#1aad6d"
   }
 }
