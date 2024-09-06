@@ -83,12 +83,7 @@
 	- Tanishka Gupta
 	- Vinay Singh
 	- Sandrabh Bhasin\
-12. Gomtesh Gandhi - 6
-	- Sarthak Kushwaha
-	- Devisha Solanki
-	- Ishita Paliwal
-	- Dhwani ....
-	- ...
+
 13. Dhruvi namdev - 3 
 	- Garima Tailwankar
 	- Gargi Mittal 
