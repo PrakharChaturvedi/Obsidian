@@ -97,7 +97,7 @@
 - Kapil Bairwa
 - Vanshika Arora
 - Hitanshi Bhaktani 
-- Shinjini 
+- Shinjini Sarkar 
 
 #### Team 14 : MechaTrone -> 6 members
 - ***Apoorv Sahu Mechatronic,1Year***
@@ -139,7 +139,7 @@
 - Vedh Paliwal {CS-IT 1st Year}
 - Pavitra Chouhan {CS-IT 1st Year}
 
-#### Team 19 : Team_Z
+#### Team 19 : Team_Z -> 6 members
 - ***Abhisar sharma(csit&1)***
 - Harsh csit &1st year
 - Garvit gupta (csit&1st year)
