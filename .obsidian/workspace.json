@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIH - Schedule.md",
+                "file": "Daily Note/2024-09-06.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIH - Schedule.md",
+                "file": "Daily Note/2024-09-06.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIH - Schedule.md",
+                "file": "Daily Note/2024-09-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIH - Schedule.md"
+                "file": "Daily Note/2024-09-06.md"
               }
             }
           },
@@ -188,12 +188,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "87d34d10a35707bb",
+  "active": "42c008426e404d21",
   "lastOpenFiles": [
+    "SIH - Schedule.md",
+    "Daily Note/2024-09-06.md",
     "Habit Tracker Calendar.md",
     "To-do list.md",
-    "2024-09-05.md",
-    "SIH - Schedule.md",
+    "Daily Note/2024-09-05.md",
     "THE VAULT/Database Notes/ADBMS/WhatsApp Image 2024-09-02 at 15.29.19_faf72955.jpg",
     "THE VAULT/Cloud Computing/Notes 1.md",
     "Coding Concepts/Recursion Board.md",
@@ -217,7 +218,6 @@
     "THE VAULT/Programming Updates.md",
     "THE VAULT/Agile/Agile Notes 1.md",
     "THE VAULT/Agile/Agile MST 3.md",
-    "THE VAULT/Agile/Class notes.md",
     "Daily Note/Pasted Image 20240818152131_482.png"
   ]
 }
