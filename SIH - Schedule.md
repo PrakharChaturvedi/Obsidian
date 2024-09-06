@@ -56,31 +56,33 @@
 	- Devika Moonat
 	- Tanisha Raghuvanshi
 	- Dhruvi Jhanjhri
-6. Astha Padmavar - 5 
+
+1. Astha Padmavar - 5 
 	- Arushi Sharma
 	- Asmi Jain 
 	- Aditi Nigam 
 	- Aaryan Chaudhary 
 
-	1. Harsh Kale - 6
+1. Harsh Kale - 6
 	- Kabir Khan
 	- Garvit gupta
 	- KunalVaan Goswami 
 	- Abhisar Sharma 
 	- **Anushka Sharma**
-8. Mahhi - 3
+
+1. Mahhi - 3
 	- Abbas 
-- Zahabia
-9. Manas (Mecha) - 2 
-10. Meet (Mecha) - 2 
-11. Suyash - 6
+	- Zahabia
+2. Manas (Mecha) - 2 
+3. Meet (Mecha) - 2 
+4. Suyash - 6
 	- Yash Upadhya
 	- Twinkle Ramchandani 
 	- Tanishka Gupta
 	- Vinay Singh
 	- Sandrabh Bhasin\
 
-13. Dhruvi namdev - 3 
+5. Dhruvi namdev - 3 
 	- Garima Tailwankar
 	- Gargi Mittal 
 -------------------------------
