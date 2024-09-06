@@ -84,3 +84,10 @@
 - Jay Kapadiya mechatronics 3rd year
 - Lakshya Choudhary mechatronics 3rd year
 - Tanay Shah mechatronics 1st year
+
+#### Team 12 : H -> 4 members
+- Meet Kapadia (Btech 3rd year)
+- Shriya Soni (Btech 3rd year)
+- Rohan Pandey (Btech 3rd year)
+- Pratyaksha Joshi (Btech 3rd year)
+
