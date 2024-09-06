@@ -62,7 +62,7 @@
 	- Aditi Nigam 
 	- Aaryan Chaudhary 
 
-1. Harsh Kale - 6
+	1. Harsh Kale - 6
 	- Kabir Khan
 	- Garvit gupta
 	- KunalVaan Goswami 
