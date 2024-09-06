@@ -23,7 +23,7 @@
 - Dhwani Jain(B. Tech CSIT, 2nd year)
 - Diya Joshi(B. SC Data Science, 3rd year)
 
-#### CodeZords -> 6 team members
+#### Team 4 :CodeZords -> 6 team members
 - Yash Upadhyay
 - Suyash Vasal Jain
 - Sandarbh Bhasin
@@ -31,7 +31,7 @@
 - Twinkle Ramchandani
 - Tanishka Gupta
 
-#### GEEKS -> 6 team members
+#### Team 5 : GEEKS -> 6 team members
 - Jagrat Bharati (B.tech CSIT 2ND year)
 - Darshil Khandelwal (B.tech CSIT 2ND year)
 - Abhimanu Tiwari (B.tech CSIT 2ND year)

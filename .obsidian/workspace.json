@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "402a62cd1d3c422a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DBMS Concepts/Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5c58d5ba9b02eac8",
             "type": "leaf",
             "state": {
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,8 +205,8 @@
   "active": "3ede11ea1b460043",
   "lastOpenFiles": [
     "SIH - Schedule.md",
-    "SIH Teams.md",
     "DBMS Concepts/Notes.md",
+    "SIH Teams.md",
     "THE VAULT/Cloud Computing/Notes 1.md",
     "THE VAULT/Cloud Computing/AWS IIT.md",
     "THE VAULT/Database Notes/SQL.md",
