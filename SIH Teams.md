@@ -47,4 +47,11 @@
 - Lavya bansal
 - ,,,
 
-#### Team 7 : 
+#### Team 7 : RTX05 -> 5 members
+- Herbal sahu CSIT 1 year
+- Garv Sharma CSIT 1 year
+- Divyanshu dave CSIT 1 year
+- Gurmukh bhambhani
+- Hasnain Siddique CSIT 1 year
+- ,,,,
+
