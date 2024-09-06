@@ -61,7 +61,9 @@
 - Suyash Sharma csit 1st year
 - Chirayu soni csit 1st year
 - Pranav sethia csit 1st year
-#### Team 9 : Code catalyst -> 6 mem
+- ,,,,
+
+#### Team 9 : Code catalyst -> 6 members
 - Ritika choudhary (btech 3rd sem)
 - Vaishnavi Rathore ( btech 3rd sem )
 - Rammi Nandanwar (btech 3rd sem )
