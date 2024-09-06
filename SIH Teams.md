@@ -1,5 +1,5 @@
 #### Team 1 : Error_404 -> 6 team members
-- Nagesh Gupta(Btech CSIT and 3rd year)
+- ***Nagesh Gupta(Btech CSIT and 3rd year)***
 - Aishwarya chourey (Btech CSIT and 3rd year)
 - Rohit Manna(Btech CSIT and 3rd year)
 - Utkarsh Singh (Btech CSIT and 3rd year)
@@ -7,7 +7,7 @@
 - Soumya Jaiswal (Btech CSIT and 3rd year)
 
 #### Team 2 : Web-heads -> 6 team members
-- Sudeep Tripathi (btech cs/it 2nd year)
+- ***Sudeep Tripathi (btech cs/it 2nd year)***
 - Sahil Shillare(btech cs/it 2nd)
 - Riya Sisodiya(btech cs/it 2nd)
 - Yashika Hidau(btech cs/it 2nd)
@@ -15,7 +15,7 @@
 - Anisha Dawani(btech cs/it 2nd)
 
 #### Team 3 : CyberVanguard -> 6 team members
-- Gomtesh Gandhi(B. Tech CSIT, 4th year)
+- ***Gomtesh Gandhi(B. Tech CSIT, 4th year)***
 - Devisha solanki(B. Tech CSIT, 4th year)
 - Sarthak Kushwaha(B. Tech CSIT, 4th year)
 - Ishita Paliwal(B. Tech CSIT, 4th year)
@@ -23,7 +23,7 @@
 - Diya Joshi(B. SC Data Science, 3rd year)
 
 #### Team 4 :CodeZords -> 6 team members
-- Yash Upadhyay
+- ***Yash Upadhyay***
 - Suyash Vasal Jain
 - Sandarbh Bhasin
 - Vinay Pratap Singh
@@ -31,7 +31,7 @@
 - Tanishka Gupta
 
 #### Team 5 : GEEKS -> 6 team members
-- Jagrat Bharati (B.tech CSIT 2ND year)
+- ***Jagrat Bharati (B.tech CSIT 2ND year)***
 - Darshil Khandelwal (B.tech CSIT 2ND year)
 - Abhimanu Tiwari (B.tech CSIT 2ND year)
 - Soham Chatterjee (B.tech CSIT 2ND year)
