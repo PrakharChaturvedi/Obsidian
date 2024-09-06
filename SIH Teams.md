@@ -72,10 +72,15 @@
 - Bhoomi sharma (btech 3rd sem)
 
 #### Team 10 : Algo Ninjas -> 5 members
-- Shabbir alavi
+- ***Shabbir alavi***
 - Devika Moonat
 - Tanisha raghuwanshi
 - Kshitij karnawat
 - Dhruvi Jhanjhri
 
-#### Team 11 : Vishwa
+#### Team 11 : Vishwakarma -> 5 members
+- ***Divyansh Soni***
+- Akul Verma mechatronics 3rd year
+- Jay Kapadiya mechatronics 3rd year
+- Lakshya Choudhary mechatronics 3rd year
+- Tanay Shah mechatronics 1st year
