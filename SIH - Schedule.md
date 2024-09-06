@@ -73,20 +73,22 @@
 1. Mahhi - 3
 	- Abbas 
 	- Zahabia
-2. Manas (Mecha) - 2 
-3. Meet (Mecha) - 2 
-4. Suyash - 6
+
+1. Manas (Mecha) - 2 
+2. Meet (Mecha) - 2 
+
+1. Suyash - 6
 	- Yash Upadhya
 	- Twinkle Ramchandani 
 	- Tanishka Gupta
 	- Vinay Singh
 	- Sandrabh Bhasin\
 
-5. Dhruvi namdev - 3 
+2. Dhruvi namdev - 3 
 	- Garima Tailwankar
 	- Gargi Mittal 
 -------------------------------
-	- Aarav Wadhwani
+- Aarav Wadhwani
 
 1. Ansh Chadokar - 5
 	- Adish Chabdda
