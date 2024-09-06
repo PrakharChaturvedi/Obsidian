@@ -15,4 +15,13 @@
 - Anisha Dawani(btech cs/it 2nd)
 
 #### CyberVanguard
+- Gomtesh Gandhi(B. Tech CSIT, 4th year)
+- Devisha solanki(B. Tech CSIT, 4th year)
+- Sarthak Kushwaha(B. Tech CSIT, 4th year)
+- Ishita Paliwal(B. Tech CSIT, 4th year)
+- Dhwani Jain(B. Tech CSIT, 2nd year)
+- Diya Joshi(B. SC Data Science, 3rd year)
+
+#### CodeZords
+- Yash Upadhyay
 - 
