@@ -40,7 +40,7 @@
 
 
 #### Team 6 : Jarvis -> 5 members
-- Rishabh Patel
+- ***Rishabh Patel***
 - Naman raghuwanshi
 - Preet miradwal
 - Mehul meena
@@ -48,7 +48,7 @@
 - ,,,
 
 #### Team 7 : RTX05 -> 5 members
-- Herbal sahu CSIT 1 year
+- ***Herbal sahu CSIT 1 year***
 - Garv Sharma CSIT 1 year
 - Divyanshu dave CSIT 1 year
 - Gurmukh bhambhani
@@ -56,7 +56,7 @@
 - ,,,,
 
 #### Team 8 : Tech Titans  -> 5 members
-- Yuvika Purohit csit 1st year
+- ***Yuvika Purohit csit 1st year***
 - Parth Sharma csit 1st year
 - Suyash Sharma csit 1st year
 - Chirayu Soni csit 1st year
@@ -64,7 +64,7 @@
 - ,,,,
 
 #### Team 9 : Code catalyst -> 6 members
-- Ritika choudhary (btech 3rd sem)
+- ***Ritika choudhary (btech 3rd sem)***
 - Vaishnavi Rathore (btech 3rd sem)
 - Rammi Nandanwar (btech 3rd sem)
 - Pammi Nandanwar (btech 3rd sem)
