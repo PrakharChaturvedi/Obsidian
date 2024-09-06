@@ -55,8 +55,16 @@
 - Hasnain Siddique CSIT 1 year
 - ,,,,
 
-#### Team 8 : Tech Titans
+#### Team 8 : Tech Titans  -> 5 members
 - Yuvika Purohit csit 1st year
-
-#### Team 9 : Code catalyst
-- 
+- Parth sharma csit 1st year
+- Suyash Sharma csit 1st year
+- Chirayu soni csit 1st year
+- Pranav sethia csit 1st year
+#### Team 9 : Code catalyst -> 6 mem
+- Ritika choudhary (btech 3rd sem)
+- Vaishnavi Rathore ( btech 3rd sem )
+- Rammi Nandanwar (btech 3rd sem )
+- Pammi Nandanwar (btech 3rd sem )
+- Prisha Jain ( btech 3rd sem )
+- Bhoomi sharma ( btech 3rd sem )
