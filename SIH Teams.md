@@ -38,3 +38,10 @@
 - Shubi Jain (B.tech CSIT 2ND year)
 - Vidhi Tiwari (MBA.tech CSIT 2ND year)
 
+
+#### Team 6 : Jarvis -> 5 members
+- Rishabh Patel
+- Naman raghuwanshi
+- Preet miradwal
+- Mehul meena
+- Lavya bansal
