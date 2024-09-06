@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/Database Notes/ADBMS/Syllabus.md",
+                "file": "THE VAULT/Database Notes/SQL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Database Notes/ADBMS/Syllabus.md",
+                "file": "THE VAULT/Database Notes/SQL.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Database Notes/ADBMS/Syllabus.md",
+                "file": "THE VAULT/Database Notes/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Database Notes/ADBMS/Syllabus.md"
+                "file": "THE VAULT/Database Notes/SQL.md"
               }
             }
           },
@@ -188,23 +188,24 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "87d34d10a35707bb",
+  "active": "42c008426e404d21",
   "lastOpenFiles": [
+    "THE VAULT/Database Notes/ADBMS/Images",
+    "THE VAULT/Database Notes/Mongo DB Notes.md",
+    "THE VAULT/Database Notes/ADBMS/Syllabus.md",
     "THE VAULT/Database Notes/ADBMS/Notes 1.md",
     "Daily Note/2024-09-06.md",
     "SIH - Schedule.md",
     "Habit Tracker Calendar.md",
     "To-do list.md",
     "Daily Note/2024-09-05.md",
-    "THE VAULT/Database Notes/ADBMS/WhatsApp Image 2024-09-02 at 15.29.19_faf72955.jpg",
+    "THE VAULT/Database Notes/ADBMS/Images/WhatsApp Image 2024-09-02 at 15.29.19_faf72955.jpg",
     "THE VAULT/Cloud Computing/Notes 1.md",
     "Coding Concepts/Recursion Board.md",
     "THE VAULT/Cloud Computing/Notes 2.md",
     "Coding Concepts/LinkedList.md",
-    "THE VAULT/Database Notes/ADBMS/Syllabus.md",
     "THE VAULT/Database Notes/SQL.md",
     "THE VAULT/Database Notes/ADBMS",
-    "THE VAULT/Database Notes/Mongo DB Notes.md",
     "THE VAULT/DSA/Stack and Queue.md",
     "THE VAULT/DSA/Array and Array List.md",
     "THE VAULT/Adole codes and working - Prakhar end/Voice Journaling.md",
@@ -217,7 +218,6 @@
     "Projects/WadrobeAppDesign/AppFlow.md",
     "THE VAULT/Programming Updates.md",
     "THE VAULT/Agile/Agile Notes 1.md",
-    "THE VAULT/Agile/Agile MST 3.md",
     "Daily Note/Pasted Image 20240818152131_482.png"
   ]
 }
