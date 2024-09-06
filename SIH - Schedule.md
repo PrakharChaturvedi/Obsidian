@@ -69,8 +69,8 @@
 	- Abhisar Sharma 
 	- **Anushka Sharma**
 8. Mahhi - 3
-	- Abbas  
-	- Zahabia
+	- Abbas 
+- Zahabia
 9. Manas (Mecha) - 2 
 10. Meet (Mecha) - 2 
 11. Suyash - 6
@@ -84,8 +84,6 @@
 	- Garima Tailwankar
 	- Gargi Mittal 
 -------------------------------
-	1. **Hitansh Bhaktani** - 4
-		- Shinjini Sarkar
 	- Aarav Wadhwani
 
 1. Ansh Chadokar - 5

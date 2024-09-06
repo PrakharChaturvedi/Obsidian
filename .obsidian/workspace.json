@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIH Teams.md",
+                "file": "SIH - Schedule.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIH Teams.md",
+                "file": "SIH - Schedule.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIH Teams.md",
+                "file": "SIH - Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIH Teams.md"
+                "file": "SIH - Schedule.md"
               }
             }
           },
@@ -204,8 +204,8 @@
   },
   "active": "3ede11ea1b460043",
   "lastOpenFiles": [
-    "SIH - Schedule.md",
     "SIH Teams.md",
+    "SIH - Schedule.md",
     "DBMS Concepts/Notes.md",
     "THE VAULT/Cloud Computing/Notes 1.md",
     "THE VAULT/Cloud Computing/AWS IIT.md",
