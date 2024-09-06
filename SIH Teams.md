@@ -65,8 +65,8 @@
 
 #### Team 9 : Code catalyst -> 6 members
 - Ritika choudhary (btech 3rd sem)
-- Vaishnavi Rathore ( btech 3rd sem )
-- Rammi Nandanwar (btech 3rd sem )
-- Pammi Nandanwar (btech 3rd sem )
-- Prisha Jain ( btech 3rd sem )
-- Bhoomi sharma ( btech 3rd sem )
+- Vaishnavi Rathore (btech 3rd sem)
+- Rammi Nandanwar (btech 3rd sem)
+- Pammi Nandanwar (btech 3rd sem)
+- Prisha Jain (btech 3rd sem)
+- Bhoomi sharma (btech 3rd sem)
