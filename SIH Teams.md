@@ -55,3 +55,8 @@
 - Hasnain Siddique CSIT 1 year
 - ,,,,
 
+#### Team 8 : Tech Titans
+- Yuvika Purohit csit 1st year
+
+#### Team 9 : Code catalyst
+- 
