@@ -86,19 +86,26 @@
 - Tanay Shah mechatronics 1st year
 
 #### Team 12 : Hackathoner -> 4 members
-- Meet Kapadia (Btech 3rd year)
+- ***Meet Kapadia (Btech 3rd year)***
 - Shriya Soni (Btech 3rd year)
 - Rohan Pandey (Btech 3rd year)
 - Pratyaksha Joshi (Btech 3rd year)
 
 #### Team 13 : Vidya.ai -> 4 members
-- Dev Devda
+- ***Dev Devda***
 - Vedant thakur
 - Kapil Bairwa
 - Vanshika Arora
 
-#### Team 14 : MechaTrone -> 
-- Apoorv Sahu Mechatronic,1Year|8839044129|Manas Joshi , Mechatronic, 1year|Akul Verma,Mechatronic,3 Year|Divyansh Soni, Mechatronic,3 year|Lakshya Chaudhary, Mechatronic,3 year|Meet Vyas, Mechatronic, 3 year|
+#### Team 14 : MechaTrone -> 6 members
+- ***Apoorv Sahu Mechatronic,1Year***
+- Manas Joshi , Mechatronic, 1year
+- Akul Verma,Mechatronic,3 Year
+- Divyansh Soni, Mechatronic,3 year
+- Lakshya Chaudhary, Mechatronic,3 year
+- Meet Vyas, Mechatronic, 3 year
+
+#### Tea
 
 
 
