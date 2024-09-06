@@ -43,8 +43,8 @@
 	- Jagrat Bharti  
 	- Lakshya Belani
 	- Krishna Yadav
-	- Vidhi Tiwari
-	- Shubhi Jain
+	- ***Vidhi Tiwari***
+	- ***Shubhi Jain***
 3. Ritika Choudhary -6
 	- Vaishnavi Rathore
 	- Prisha jain 
