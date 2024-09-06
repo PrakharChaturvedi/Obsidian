@@ -91,11 +91,13 @@
 - Rohan Pandey (Btech 3rd year)
 - Pratyaksha Joshi (Btech 3rd year)
 
-#### Team 13 : Vidya.ai -> 4 members
+#### Team 13 : Vidya.ai -> 6 members
 - ***Dev Devda***
 - Vedant thakur
 - Kapil Bairwa
 - Vanshika Arora
+- Hitanshi Bhaktani 
+- Shinjini 
 
 #### Team 14 : MechaTrone -> 6 members
 - ***Apoorv Sahu Mechatronic,1Year***
@@ -131,12 +133,18 @@
 - Meet Vyas,Mechatronic,3 year
 
 #### Team 18 : Tech Titans -> 6 members 
-- Kartikay Sharma {CS-IT 3rd Year}
+- ***Kartikay Sharma {CS-IT 3rd Year}***
 - Neha Sahu {CS-IT 3rd Year}
 - Pranay Mishra {CS-IT 2nd Year}
 - Vedh Paliwal {CS-IT 1st Year}
 - Pavitra Chouhan {CS-IT 1st Year}
 
-#### 
+#### Team 19 : Team_Z
+- ***Abhisar sharma(csit&1)***
+- Harsh csit &1st year
+- Garvit gupta (csit&1st year)
+- Kabir khan (csit&1)
+- Bhagyshree(csit&1)
+- Anjali thakur(csit&1)
 
 
