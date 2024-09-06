@@ -84,8 +84,8 @@
 	- Garima Tailwankar
 	- Gargi Mittal 
 -------------------------------
-1. **Hitansh Bhaktani** - 4
-	- Shinjini Sarkar
+	1. **Hitansh Bhaktani** - 4
+		- Shinjini Sarkar
 	- Aarav Wadhwani
 
 1. Ansh Chadokar - 5
