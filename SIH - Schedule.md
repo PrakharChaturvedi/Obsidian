@@ -72,12 +72,6 @@
 	- Zahabia
 9. Manas (Mecha) - 2 
 10. Meet (Mecha) - 2 
-11. Suyash - 6
-	- Yash Upadhya
-	- Twinkle Ramchandani 
-	- Tanishka Gupta
-	- Vinay Singh
-	- Sandrabh Bhasin\
 13. Dhruvi namdev - 3 
 	- Garima Tailwankar
 	- Gargi Mittal 
