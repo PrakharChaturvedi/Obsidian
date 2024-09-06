@@ -34,7 +34,6 @@
 	- Dinner 1.
 
 
-
 ## Team List 
 1. Meet Kapadia - 4
 	- Shriya Soni
@@ -52,6 +51,12 @@
 	- Rammi Nandanwar
 	- Pammmi Nandanwar
 	- Pavitra Chauhan 
+4. Ashwariya Chourey - 6 
+	- Rohit Manna
+	- Nagesh Gupta
+	- Akshat Thakkar
+	- Utkarsh Singh 
+	- Soumya Jaiswal 
 5. Shabbir Alavi - 4
 	- Devika Moonat
 	- Tanisha Raghuvanshi
@@ -72,6 +77,18 @@
 	- Zahabia
 9. Manas (Mecha) - 2 
 10. Meet (Mecha) - 2 
+11. Suyash - 6
+	- Yash Upadhya
+	- Twinkle Ramchandani 
+	- Tanishka Gupta
+	- Vinay Singh
+	- Sandrabh Bhasin\
+12. Gomtesh Gandhi - 6
+	- Sarthak Kushwaha
+	- Devisha Solanki
+	- Ishita Paliwal
+	- Dhwani ....
+	- ...
 13. Dhruvi namdev - 3 
 	- Garima Tailwankar
 	- Gargi Mittal 

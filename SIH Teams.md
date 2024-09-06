@@ -1,4 +1,3 @@
-
 #### Team 1 : Error_404 -> 6 team members
 - Nagesh Gupta(Btech CSIT and 3rd year)
 - Aishwarya chourey (Btech CSIT and 3rd year)
