@@ -59,8 +59,8 @@
 - Yuvika Purohit csit 1st year
 - Parth Sharma csit 1st year
 - Suyash Sharma csit 1st year
-- Chirayu soni csit 1st year
-- Pranav sethia csit 1st year
+- Chirayu Soni csit 1st year
+- Pranav Sethia csit 1st year
 - ,,,,
 
 #### Team 9 : Code catalyst -> 6 members
