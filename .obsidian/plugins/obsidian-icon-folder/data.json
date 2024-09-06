@@ -34,7 +34,10 @@
     "iconName": "LiActivity",
     "iconColor": "#21d4c8"
   },
-  "Coding Concepts": "LiAnchor",
+  "Coding Concepts": {
+    "iconName": "LiAnchor",
+    "iconColor": "#d3a80d"
+  },
   "DBMS Concepts": {
     "iconName": "LiAnchor",
     "iconColor": "#1aad6d"
