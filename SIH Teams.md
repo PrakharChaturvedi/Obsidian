@@ -123,11 +123,20 @@
 
 
 #### Team 17 : RoboTech -> 6 members 
-- Priyanshu Joshi, Mechatronic,1 year
+- ***Priyanshu Joshi, Mechatronic,1 year***
 - Meet Bhati , Mechatronic, 1 year
 - Khushagra Gulabwani, Mechatronic,1 year
 - Khush Patel, Mechatronic, 1 year
 - Tanay Shah,Mechatronic,1 year
 - Meet Vyas,Mechatronic,3 year
+
+#### Team 18 : Tech Titans -> 6 members 
+- Kartikay Sharma {CS-IT 3rd Year}
+- Neha Sahu {CS-IT 3rd Year}
+- Pranay Mishra {CS-IT 2nd Year}
+- Vedh Paliwal {CS-IT 1st Year}
+- Pavitra Chouhan {CS-IT 1st Year}
+
+#### 
 
 
