@@ -51,12 +51,7 @@
 	- Rammi Nandanwar
 	- Pammmi Nandanwar
 	- Pavitra Chauhan 
-4. Ashwariya Chourey - 6 
-	- Rohit Manna
-	- Nagesh Gupta
-	- Akshat Thakkar
-	- Utkarsh Singh 
-	- Soumya Jaiswal 
+
 5. Shabbir Alavi - 4
 	- Devika Moonat
 	- Tanisha Raghuvanshi
@@ -66,7 +61,8 @@
 	- Asmi Jain 
 	- Aditi Nigam 
 	- Aaryan Chaudhary 
-	1. Harsh Kale - 6
+
+1. Harsh Kale - 6
 	- Kabir Khan
 	- Garvit gupta
 	- KunalVaan Goswami 
