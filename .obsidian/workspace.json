@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3ede11ea1b460043",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SIH - Schedule.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +188,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3ede11ea1b460043",
+  "active": "5c58d5ba9b02eac8",
   "lastOpenFiles": [
     "SIH Teams.md",
     "SIH - Schedule.md",
