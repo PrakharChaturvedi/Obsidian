@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIH - Schedule.md",
+                "file": "SIH Teams.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIH - Schedule.md",
+                "file": "SIH Teams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIH - Schedule.md"
+                "file": "SIH Teams.md"
               }
             }
           },
@@ -201,10 +202,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5c58d5ba9b02eac8",
+  "active": "3ede11ea1b460043",
   "lastOpenFiles": [
-    "SIH Teams.md",
     "SIH - Schedule.md",
+    "SIH Teams.md",
     "DBMS Concepts/Notes.md",
     "THE VAULT/Cloud Computing/Notes 1.md",
     "THE VAULT/Cloud Computing/AWS IIT.md",
