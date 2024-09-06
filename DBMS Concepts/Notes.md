@@ -1,4 +1,4 @@
 ## Data and information 
 - Collection of raw bits/bytes is termed as data.
 - Information is nothing but just processed data which has some meaning.
-- Inshort 
+- In short data without it  
