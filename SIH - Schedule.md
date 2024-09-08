@@ -101,4 +101,31 @@
 	- Abhinav 
 	- Lavya
 	- Preet
-  
+
+## SIH speech 
+
+**Morning everyone**, I am Prakhar Chaturvedi, your coordinator for today's 24-hour internal hackathon as part of the Smart India Hackathon. To kick off this day of coding and problem-solving, I would like to invite  **Dr. Durgesh Mishra**, Director of campus and CSIT, to enlighten us with his views on the Smart India Hackathon and our internal hackathon.  
+_Thank you, sir._
+
+_Thank you, sir._
+
+Next, I would like to call **Brig. A. Shridhar**, our esteemed Dean of Academics,to share his thoughts on the event.
+
+_Thank you, sir._
+
+Now, let me walk you through the schedule and rules for this hackathon:
+
+- The hackathon starts at **10:30 AM today** and will run until **10:30 AM tomorrow**.
+- From **12:00 noon**, we will begin presentations in the auditorium. Each team will have **5 minutes** for their presentation, followed by a **2-minute** Q&A round.
+
+As for the rules:
+
+- **Outsourcing** your work in any form is **strictly prohibited**.
+- Limited use of **AI** tools is allowed.
+- There will be **periodic progress checks** and attendance for each team.
+- Teams showing the **least progress** during evaluations may be asked to **exit** the hackathon.
+- Lastly, any **indiscipline** will result in **disqualification** of the whole team.
+
+Before I conclude, as my tenure as CODEC Club President has recently come to an end, I am proud to pass the presidency to my esteemed teammate, **Atharva Gour**, who has worked alongside me for the past two years.
+
+- Best of luck with your event! Let me know if you'd like further adjustments.

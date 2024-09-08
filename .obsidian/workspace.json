@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIH Teams.md",
+                "file": "SIH - Schedule.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIH Teams.md",
+                "file": "SIH - Schedule.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIH Teams.md",
+                "file": "SIH - Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIH Teams.md"
+                "file": "SIH - Schedule.md"
               }
             }
           },
@@ -188,11 +188,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "42c008426e404d21",
+  "active": "5c58d5ba9b02eac8",
   "lastOpenFiles": [
-    "Habit Tracker Calendar.md",
-    "SIH - Schedule.md",
     "SIH Teams.md",
+    "SIH - Schedule.md",
+    "Daily Note/2024-09-08.md",
+    "Habit Tracker Calendar.md",
     "Daily Note/2024-09-07.md",
     "To-do list.md",
     "Excel 2024-09-06 20.10.06.sheet.md",
@@ -219,7 +220,6 @@
     "Daily Note/2024-09-03 1.md",
     "Daily Note.md",
     "Course Design.md",
-    "Daily Note/2024-08-29.md",
     "Daily Note/Pasted Image 20240818152131_482.png"
   ]
 }
