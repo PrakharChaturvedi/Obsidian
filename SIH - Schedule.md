@@ -109,8 +109,7 @@ _Thank you, sir._
 
 _Thank you, sir._
 
-
-Next, I would like to call **Brig. A. Shridhar**, our esteemed Dean of Academics,to share his thoughts on the event.
+Next, I would like to call **Brig. A. Shridhar**, our esteemed Dean of Academics, to share his thoughts on the event.
 
 _Thank you, sir._
 
