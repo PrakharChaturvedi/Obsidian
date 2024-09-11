@@ -1,2 +1,72 @@
-## Database analysis design and techniques 
-- 
+Syllabus : Data and Information,  
+### Data and Information
+- Data refers to raw, unprocessed facts, figures, or details that are collected but do not yet have meaning on their own. They can be in the form of numbers, text, symbols, or observations.
+- Information is processed, organized, or structured data that has been given context and meaning, making it useful for decision-making or understanding.
+- **Data** becomes **information** when it is interpreted and given relevance.
+
+### Data Base and it's Management 
+- Database is an organized collection of structured data, typically stored electronically in a computer system. It allows for the efficient storage, retrieval, and management of data. 
+- **Example**: A company's customer database containing records such as customer names, addresses, phone numbers, and purchase history.
+- <font color="#92d050">Types of Data Base </font>
+	- On the basis of **User Count**
+		- **Single-user database system:** It supports only one user at a time. When a single-user database runs on a personal computer, it is also called a desktop database system.
+		- **Multi-user database system:** It supports multiple users at the same time. When a multi-user database supports relatively small number of users, it is called as a workgroup database system. If the database is used by many users across globe, it is known as<font color="#31859b"> enterprise database system</font>.
+	- On the basis of Location 
+		- **Centralized database system:** It supports data located at a single site or single place. 
+		- **Distributed database system:** It supports data distributed across several different sites. Here, the same database can be replicated and stored in another computer so that when ever the original server goes down; the data can be available to the user from the replicated data from other servers.
+- Advantages of Data base
+	- Data Redundancy control
+	- Data integrity
+	- Data Security
+	- Data Sharing
+	- Backup and Recovery
+	- Improved data access 
+	- Minimized data inconsistency 
+- Disadvantages of Data base
+	- Complexity
+	- Cost
+	- Performance overhead
+	- Data migration
+	- Single point of failure
+	- Hardware and Software requirements.
+
+## Data Model
+- A **data model** is a set of tools that help describe how data is stored, related, and used in a database. It helps in designing a database and showing how data can be connected, retrieved, and modified. Data models also use symbols and terms that make it easy for people to understand and communicate how data works within an organization.
+- **Basic Building Blocks of a Data Model**:
+	-  **Entity**: Anything that we store data about (e.g., a person, product, or event).
+	- **Entity Set**: A collection of entities that share the same properties (e.g., a group of students).
+	- **Attribute**: A characteristic or feature of an entity (e.g., a student’s name or age).
+	- **Constraints**: Rules that limit or control the type of data entered, ensuring the data stays accurate and consistent (e.g., age must be a number).
+- **Relationships**:
+	- **One-to-One (1:1)**: One entity is related to one other entity.
+	- **One-to-Many (1)**: One entity is related to many other entities.
+	- **Many-to-Many (M)**: Many entities can be related to many other entities.
+- **Different Types of Data Models**:
+	- **Hierarchical Model**:
+		- **Structure**: Organizes data in a tree-like structure with a single "parent" for each "child" record.
+		- **Advantages**: Simple and fast to navigate, changes in parent data affect children, maintaining data integrity.
+		- **Disadvantages**: Does not support complex relationships (like multiple parents for one child), and if a parent is deleted, the child is also deleted.
+	- **Network Model**:
+		- **Structure**: Similar to the hierarchical model but allows multiple parents for one child, using a graph structure.
+		- **Advantages**: Faster data access and flexible connections.
+		- **Disadvantages**: Can become very complex and difficult to update or modify.
+	- **Entity-Relationship (ER) Model**:
+		- **Structure**: Represents real-world problems using diagrams, making it easier for people to understand how data is related.
+		- **Advantages**: Simple to create and understand, good for communication, and can easily be converted to other models like the relational model.
+		- **Disadvantages**: No standard notation across the industry, and some important information may be hidden due to its high-level view.
+	- **Relational Model**:
+		- **Structure**: The most common model, where data is stored in tables (called relations), with rows and columns representing records and attributes.
+		- **Advantages**: Simple, scalable, and allows changes in the structure without affecting data access.
+		- **Disadvantages**: Requires more powerful hardware, and bad design can lead to poor performance as the database grows.
+	- **Object-Oriented (OO) Model**:
+		- **Structure**: Represents data as objects, similar to how objects are used in programming languages like Java or C#. It’s used to store complex data types like images and multimedia.
+		- **Advantages**: Easily handles complex data, works well with object-oriented programming languages.
+		- **Disadvantages**: Not widely adopted, high complexity can slow down performance.
+	- **Object-Relational (OR) Model**:
+		- **Structure**: A mix of the relational and object-oriented models, offering more advanced features for complex data types.
+		- **Advantages**: Allows creating complex data types while keeping some of the relational model's simplicity.
+		- **Disadvantages**: Can be complex and harder to manage.
+	-  **Semi-Structured Model**:
+		- **Structure**: No clear distinction between data and structure, making it more flexible. It's often used for web-based data like XML or emails.
+		- **Advantages**: Flexible for different types of data and can handle data that doesn't fit into traditional models.
+ 
