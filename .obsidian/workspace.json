@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 1.md",
+                "file": "THE VAULT/Cloud Computing/Notes 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 1.md",
+                "file": "THE VAULT/Cloud Computing/Notes 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 1.md",
+                "file": "THE VAULT/Cloud Computing/Notes 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Cloud Computing/Notes 1.md"
+                "file": "THE VAULT/Cloud Computing/Notes 2.md"
               }
             }
           },
@@ -190,9 +190,9 @@
   },
   "active": "5c58d5ba9b02eac8",
   "lastOpenFiles": [
+    "THE VAULT/Cloud Computing/Notes 1.md",
     "THE VAULT/Cloud Computing/Notes 2.md",
     "THE VAULT/Cloud Computing/Notes 3.md",
-    "THE VAULT/Cloud Computing/Notes 1.md",
     "THE VAULT/Database Notes/ADBMS/Notes 1.md",
     "SIH - Schedule.md",
     "Coding Concepts/Recursion Board.md",
