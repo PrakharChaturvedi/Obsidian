@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/Database Notes/ADBMS/Notes 1.md",
+                "file": "THE VAULT/Cloud Computing/Notes 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE VAULT/Database Notes/ADBMS/Notes 1.md",
+                "file": "THE VAULT/Cloud Computing/Notes 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE VAULT/Database Notes/ADBMS/Notes 1.md",
+                "file": "THE VAULT/Cloud Computing/Notes 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE VAULT/Database Notes/ADBMS/Notes 1.md"
+                "file": "THE VAULT/Cloud Computing/Notes 1.md"
               }
             }
           },
@@ -188,12 +188,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "42c008426e404d21",
+  "active": "5c58d5ba9b02eac8",
   "lastOpenFiles": [
+    "THE VAULT/Cloud Computing/Notes 2.md",
+    "THE VAULT/Cloud Computing/Notes 3.md",
+    "THE VAULT/Cloud Computing/Notes 1.md",
+    "THE VAULT/Database Notes/ADBMS/Notes 1.md",
     "SIH - Schedule.md",
     "Coding Concepts/Recursion Board.md",
     "Coding Concepts/LinkedList.md",
-    "THE VAULT/Database Notes/ADBMS/Notes 1.md",
     "Evaluation 1.md",
     "SIH Teams.md",
     "Daily Note/2024-09-08.md",
@@ -203,7 +206,6 @@
     "Excel 2024-09-06 20.10.06.sheet.md",
     "Teams and Contacts.md",
     "DBMS Concepts/Notes.md",
-    "THE VAULT/Cloud Computing/Notes 1.md",
     "THE VAULT/Cloud Computing/AWS IIT.md",
     "THE VAULT/Database Notes/SQL.md",
     "DBMS Concepts",
@@ -213,13 +215,11 @@
     "Daily Note/2024-09-06.md",
     "Daily Note/2024-09-05.md",
     "THE VAULT/Database Notes/ADBMS/Images/WhatsApp Image 2024-09-02 at 15.29.19_faf72955.jpg",
-    "THE VAULT/Cloud Computing/Notes 2.md",
     "THE VAULT/Database Notes/ADBMS",
     "THE VAULT/DSA/Stack and Queue.md",
     "THE VAULT/DSA/Array and Array List.md",
     "THE VAULT/Adole codes and working - Prakhar end/Voice Journaling.md",
     "Daily Note/2024-09-03 1.md",
-    "Daily Note.md",
     "Daily Note/Pasted Image 20240818152131_482.png"
   ]
 }
