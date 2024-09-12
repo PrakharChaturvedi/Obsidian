@@ -69,4 +69,44 @@ Syllabus : Data and Information,
 	-  **Semi-Structured Model**:
 		- **Structure**: No clear distinction between data and structure, making it more flexible. It's often used for web-based data like XML or emails.
 		- **Advantages**: Flexible for different types of data and can handle data that doesn't fit into traditional models.
- 
+
+
+## Functional Dependencies
+- Functional dependencies are a key concept in relational database design and are crucial for the process of **normalization**, which organizes data to reduce redundancy and ensure integrity. 
+- In a functional dependency, the value of one set of attributes in a database uniquely determines the value of another set of attributes. Understanding functional dependencies helps in structuring databases efficiently.
+- **Definition**: 
+	- A functional dependency, denoted as **X → Y**, means that if two tuples (rows) in a relation (table) have the same values for attribute(s) X, they must also have the same values for attribute(s) Y.
+- **Example**: 
+	- In a student table, if the student ID uniquely determines the student name, we say that "Student ID → Student Name."
+ - **Types :**
+	 - <span style="background:#d4b106">Trivial Functional Dependency :</span>
+		 - A functional dependency is **trivial** if the dependent attribute is a subset of the determinant.
+		- Notation : X → Y is trivial if Y is a subset of X.
+		- Example : In the dependency `{Student ID, Name} → Student ID`, the left side (determinant) includes the right side, making it trivial.
+	- <span style="background:#d4b106">Non-Trivial Functional Dependency:</span>
+		- **Definition**: 
+			- A functional dependency is **non-trivial** if the dependent attribute is not a subset of the determinant.
+		- **Notation**: 
+			- X → Y is non-trivial if Y is not a subset of X.
+		- **Example**: 
+			- In the dependency `Student ID → Name`, the name is not part of the student ID, so it's non-trivial.
+	- <span style="background:#d4b106">Fully Functional Dependency:</span>
+		- **Definition**: 
+			- A functional dependency is **fully functional** when every attribute in the determinant is necessary to determine the dependent attribute.
+		- **Notation**: 
+			- X → Y is fully functional if removing any part of X means Y is no longer dependent on X.
+		- **Example**: 
+			- `{Student ID, Course ID} → Grade`. Here, both the student ID and course ID are needed to determine the grade. If you remove either, you can't determine the grade.
+	- <span style="background:#d4b106">Partial Functional Dependency:</span>
+		- **Definition**: A functional dependency is **partial** when only a part of the determinant is enough to determine the dependent attribute.
+		- **Notation**: X → Y is partial if some attribute in X can be removed while still preserving the dependency.
+		- **Example**: `{Student ID, Course ID} → Student Name`. In this case, `Student ID` alone can determine the `Student Name`, making the dependency partial.
+	- Transitive Dependency:
+		- **Definition**: A transitive dependency occurs when one attribute is indirectly dependent on another attribute through a third attribute.
+		- **Notation**: X → Y and Y → Z imply X → Z.
+		- **Example**: If `Student ID → Department` and `Department → Dean`, then `Student ID → Dean`. The dependency is transitive because the Student ID indirectly determines the Dean.
+- Why Understanding Dependencies is Important:
+	- **Normalization**: Functional dependencies help identify how to break down tables into smaller, more efficient structures through normalization.
+	- **Data Integrity**: By eliminating unnecessary redundancy and ensuring that data is stored in the right tables, functional dependencies preserve data integrity.
+
+- 
