@@ -108,5 +108,3 @@ Syllabus : Data and Information,
 - Why Understanding Dependencies is Important:
 	- **Normalization**: Functional dependencies help identify how to break down tables into smaller, more efficient structures through normalization.
 	- **Data Integrity**: By eliminating unnecessary redundancy and ensuring that data is stored in the right tables, functional dependencies preserve data integrity.
-
-- 
