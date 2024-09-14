@@ -1,6 +1,6 @@
 [THINGS TO COMPLETE IN SEM VII]
 ### System Design
-- [ ] Networking layer Protocols - TCP, IP addresses, IP headers, UDP, DNS. 
+- [x] Networking layer Protocols - TCP, IP addresses, IP headers, UDP, DNS. 
 - [x] Application layer Protocols - HTTP/S, Web-Sockets, Web-RTC, MQTT, etc.
 - [x] API Designs - Restful and Restless.
 - [x] Caching and CDNs
