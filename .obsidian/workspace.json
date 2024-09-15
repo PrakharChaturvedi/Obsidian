@@ -8,15 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c58d5ba9b02eac8",
+            "id": "620a1d9838c290ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "To-do list.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Coding Concepts/Sorting.md"
               }
             }
           }
@@ -70,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-do list.md",
+                "file": "Coding Concepts/Sorting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-do list.md",
+                "file": "Coding Concepts/Sorting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-do list.md"
+                "file": "Coding Concepts/Sorting.md"
               }
             }
           },
@@ -188,10 +186,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5c58d5ba9b02eac8",
+  "active": "620a1d9838c290ce",
   "lastOpenFiles": [
-    "DBMS Concepts/Notes.md",
     "To-do list.md",
+    "Coding Concepts/Sorting.md",
+    "DBMS Concepts/Notes.md",
     "Habit Tracker Calendar.md",
     "SIH - Schedule.md",
     "Daily Note/2024-09-14.md",
@@ -219,7 +218,6 @@
     "THE VAULT/Database Notes/ADBMS",
     "THE VAULT/DSA/Stack and Queue.md",
     "THE VAULT/DSA/Array and Array List.md",
-    "THE VAULT/Adole codes and working - Prakhar end/Voice Journaling.md",
     "Daily Note/Pasted Image 20240818152131_482.png"
   ]
 }
