@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -189,6 +188,8 @@
   "active": "620a1d9838c290ce",
   "lastOpenFiles": [
     "Coding Concepts/Recursion Board.md",
+    "Coding Concepts/Stack Queue and Deque.md",
+    "2024-09-19.md",
     "Coding Concepts/Sorting.md",
     "To-do list.md",
     "DBMS Concepts/Notes.md",
@@ -216,8 +217,6 @@
     "Daily Note/2024-09-05.md",
     "THE VAULT/Database Notes/ADBMS/Images/WhatsApp Image 2024-09-02 at 15.29.19_faf72955.jpg",
     "THE VAULT/Database Notes/ADBMS",
-    "THE VAULT/DSA/Stack and Queue.md",
-    "THE VAULT/DSA/Array and Array List.md",
     "Daily Note/Pasted Image 20240818152131_482.png"
   ]
 }
