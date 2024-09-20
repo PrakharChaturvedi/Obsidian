@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Drawing 2024-09-20 14.40.27.excalidraw.md",
+                "file": "Coding Concepts/Sorting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Drawing 2024-09-20 14.40.27.excalidraw.md",
+                "file": "Coding Concepts/Sorting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Drawing 2024-09-20 14.40.27.excalidraw.md"
+                "file": "Coding Concepts/Sorting.md"
               }
             }
           },
@@ -197,10 +196,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9e5e90f58e085918",
+  "active": "620a1d9838c290ce",
   "lastOpenFiles": [
-    "Coding Concepts/Sorting.md",
     "Coding Concepts/Drawing 2024-09-20 14.40.27.excalidraw.md",
+    "Coding Concepts/Sorting.md",
     "Daily Note/2024-09-20.md",
     "Daily Note/2024-09-19.md",
     "Daily Note.md",
