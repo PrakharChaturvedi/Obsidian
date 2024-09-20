@@ -11,9 +11,12 @@
             "id": "620a1d9838c290ce",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Coding Concepts/Sorting.md"
+                "file": "Daily Note/2024-09-20.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -77,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Sorting.md",
+                "file": "Daily Note/2024-09-20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Sorting.md",
+                "file": "Daily Note/2024-09-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Sorting.md"
+                "file": "Daily Note/2024-09-20.md"
               }
             }
           },
@@ -198,8 +200,8 @@
   },
   "active": "620a1d9838c290ce",
   "lastOpenFiles": [
-    "Coding Concepts/Drawing 2024-09-20 14.40.27.excalidraw.md",
     "Coding Concepts/Sorting.md",
+    "Coding Concepts/Drawing 2024-09-20 14.40.27.excalidraw.md",
     "Daily Note/2024-09-20.md",
     "Daily Note/2024-09-19.md",
     "Daily Note.md",
