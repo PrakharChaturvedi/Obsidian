@@ -16,6 +16,16 @@
                 "file": "Coding Concepts/Sorting.md"
               }
             }
+          },
+          {
+            "id": "9e5e90f58e085918",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Coding Concepts/Drawing 2024-09-20 14.40.27.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -67,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -187,10 +198,13 @@
   },
   "active": "620a1d9838c290ce",
   "lastOpenFiles": [
+    "Coding Concepts/Drawing 2024-09-20 14.40.27.excalidraw.md",
+    "Coding Concepts/Sorting.md",
+    "Daily Note/2024-09-20.md",
+    "Daily Note/2024-09-19.md",
+    "Daily Note.md",
     "Coding Concepts/Recursion Board.md",
     "Coding Concepts/Stack Queue and Deque.md",
-    "2024-09-19.md",
-    "Coding Concepts/Sorting.md",
     "To-do list.md",
     "DBMS Concepts/Notes.md",
     "Habit Tracker Calendar.md",
@@ -212,9 +226,6 @@
     "DBMS Concepts",
     "THE VAULT/Database Notes/ADBMS/Images",
     "THE VAULT/Database Notes/Mongo DB Notes.md",
-    "THE VAULT/Database Notes/ADBMS/Syllabus.md",
-    "Daily Note/2024-09-06.md",
-    "Daily Note/2024-09-05.md",
     "THE VAULT/Database Notes/ADBMS/Images/WhatsApp Image 2024-09-02 at 15.29.19_faf72955.jpg",
     "THE VAULT/Database Notes/ADBMS",
     "Daily Note/Pasted Image 20240818152131_482.png"
