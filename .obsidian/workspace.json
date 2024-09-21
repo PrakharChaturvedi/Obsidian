@@ -8,29 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "620a1d9838c290ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2024-09-20.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9e5e90f58e085918",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Coding Concepts/Drawing 2024-09-20 14.40.27.excalidraw.md"
+                "file": "Coding Concepts/Rough Board.md"
+              }
+            }
+          },
+          {
+            "id": "ad56091cb22f2e48",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Coding Concepts/Sorting.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-09-20.md",
+                "file": "Coding Concepts/Sorting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-09-20.md",
+                "file": "Coding Concepts/Sorting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-09-20.md"
+                "file": "Coding Concepts/Sorting.md"
               }
             }
           },
@@ -198,10 +197,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "620a1d9838c290ce",
+  "active": "ad56091cb22f2e48",
   "lastOpenFiles": [
+    "Coding Concepts/Rough Board.md",
     "Coding Concepts/Sorting.md",
-    "Coding Concepts/Drawing 2024-09-20 14.40.27.excalidraw.md",
     "Daily Note/2024-09-20.md",
     "Daily Note/2024-09-19.md",
     "Daily Note.md",
