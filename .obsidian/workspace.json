@@ -21,9 +21,12 @@
             "id": "ad56091cb22f2e48",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Coding Concepts/Sorting.md"
+                "file": "2024-09-21.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -78,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Sorting.md",
+                "file": "2024-09-21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Sorting.md",
+                "file": "2024-09-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Sorting.md"
+                "file": "2024-09-21.md"
               }
             }
           },
@@ -199,8 +201,9 @@
   },
   "active": "ad56091cb22f2e48",
   "lastOpenFiles": [
-    "Coding Concepts/Rough Board.md",
     "Coding Concepts/Sorting.md",
+    "2024-09-21.md",
+    "Coding Concepts/Rough Board.md",
     "Daily Note/2024-09-20.md",
     "Daily Note/2024-09-19.md",
     "Daily Note.md",
@@ -226,7 +229,6 @@
     "THE VAULT/Database Notes/SQL.md",
     "DBMS Concepts",
     "THE VAULT/Database Notes/ADBMS/Images",
-    "THE VAULT/Database Notes/Mongo DB Notes.md",
     "THE VAULT/Database Notes/ADBMS/Images/WhatsApp Image 2024-09-02 at 15.29.19_faf72955.jpg",
     "THE VAULT/Database Notes/ADBMS",
     "Daily Note/Pasted Image 20240818152131_482.png"
