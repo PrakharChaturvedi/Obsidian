@@ -1,0 +1,11 @@
+{
+  "editor:table-col-before": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ]
+}
