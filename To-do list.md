@@ -82,20 +82,20 @@
 | <center>14</center> | Dec 22                                         |        |        |        |        |        |        |
 | <center>15</center> | Dec 29                                         | Dec 30 | Dec 31 |        |        |        |        |
 
-| Workout             | Incline | Pushups | Pull-ups | Triceps Ext | BicepCurls | Hammers | Squats |
-| ------------------- | ------- | ------- | -------- | ----------- | ---------- | ------- | ------ |
-| [[2024-09-22]]      | 20-20-  |         |          |             |            |         |        |
-| <center>02</center> |         |         |          |             |            |         |        |
-| <center>03</center> |         |         |          |             |            |         |        |
-| <center>04</center> |         |         |          |             |            |         |        |
-| <center>05</center> |         |         |          |             |            |         |        |
-| <center>06</center> |         |         |          |             |            |         |        |
-| <center>07</center> |         |         |          |             |            |         |        |
-| <center>08</center> |         |         |          |             |            |         |        |
-| <center>09</center> |         |         |          |             |            |         |        |
-| <center>10</center> |         |         |          |             |            |         |        |
-| <center>11</center> |         |         |          |             |            |         |        |
-| <center>12</center> |         |         |          |             |            |         |        |
-| <center>13</center> |         |         |          |             |            |         |        |
-| <center>14</center> |         |         |          |             |            |         |        |
-| <center>15</center> |         |         |          |             |            |         |        |
+| Workout             | Incline  | Pushups | Pull-ups | Triceps Ext | BicepCurls | Hammers | Squats |
+| ------------------- | -------- | ------- | -------- | ----------- | ---------- | ------- | ------ |
+| [[2024-09-22]]      | 20-20-20 | 20-20   |          |             |            |         |        |
+| <center>02</center> |          |         |          |             |            |         |        |
+| <center>03</center> |          |         |          |             |            |         |        |
+| <center>04</center> |          |         |          |             |            |         |        |
+| <center>05</center> |          |         |          |             |            |         |        |
+| <center>06</center> |          |         |          |             |            |         |        |
+| <center>07</center> |          |         |          |             |            |         |        |
+| <center>08</center> |          |         |          |             |            |         |        |
+| <center>09</center> |          |         |          |             |            |         |        |
+| <center>10</center> |          |         |          |             |            |         |        |
+| <center>11</center> |          |         |          |             |            |         |        |
+| <center>12</center> |          |         |          |             |            |         |        |
+| <center>13</center> |          |         |          |             |            |         |        |
+| <center>14</center> |          |         |          |             |            |         |        |
+| <center>15</center> |          |         |          |             |            |         |        |
