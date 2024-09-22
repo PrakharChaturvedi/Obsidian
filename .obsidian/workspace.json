@@ -4,34 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "72a39bf3479c37ac",
+        "id": "e155d9fb8c4ee974",
         "type": "tabs",
         "children": [
           {
-            "id": "9e5e90f58e085918",
+            "id": "32dd68413d2935d7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Coding Concepts/Rough Board.md"
-              }
-            }
-          },
-          {
-            "id": "ad56091cb22f2e48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-09-21.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-21.md"
+                "file": "Colors.md"
               }
             }
           },
@@ -146,14 +128,6 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "fb5cf36f8a2bc407",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
               "state": {}
             }
           },
@@ -182,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
+    "width": 549.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -196,22 +170,31 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-day-planner:Timeline": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "3d-graph:3D Graph": false,
+      "spreadsheets:New Spreadsheet": false
     }
   },
-  "active": "ad56091cb22f2e48",
+  "active": "42c008426e404d21",
   "lastOpenFiles": [
+    "Daily Note/2024-09-22.md",
+    "Colors.md",
+    "Untitled Kanban.md",
+    "Daily Note/2024-09-23.md",
+    "Daily Note/2024-09-21.md",
+    "To-do list.md",
+    "THE VAULT/Programming Updates.md",
+    "Daily Note.md",
+    "Habit Tracker Calendar.md",
+    "Excel 2024-09-22 16.10.18.sheet.md",
+    "Untitled.sheet",
     "Coding Concepts/Sorting.md",
-    "2024-09-21.md",
+    "Coding Concepts/Recursion Board.md",
     "Coding Concepts/Rough Board.md",
     "Daily Note/2024-09-20.md",
     "Daily Note/2024-09-19.md",
-    "Daily Note.md",
-    "Coding Concepts/Recursion Board.md",
     "Coding Concepts/Stack Queue and Deque.md",
-    "To-do list.md",
     "DBMS Concepts/Notes.md",
-    "Habit Tracker Calendar.md",
     "SIH - Schedule.md",
     "Daily Note/2024-09-14.md",
     "Evaluation 1.md",
@@ -221,12 +204,6 @@
     "THE VAULT/Database Notes/ADBMS/Notes 1.md",
     "Coding Concepts/LinkedList.md",
     "SIH Teams.md",
-    "Daily Note/2024-09-08.md",
-    "Daily Note/2024-09-07.md",
-    "Excel 2024-09-06 20.10.06.sheet.md",
-    "Teams and Contacts.md",
-    "THE VAULT/Cloud Computing/AWS IIT.md",
-    "THE VAULT/Database Notes/SQL.md",
     "DBMS Concepts",
     "THE VAULT/Database Notes/ADBMS/Images",
     "THE VAULT/Database Notes/ADBMS/Images/WhatsApp Image 2024-09-02 at 15.29.19_faf72955.jpg",

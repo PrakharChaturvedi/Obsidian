@@ -7,6 +7,7 @@
   "dataview",
   "editing-toolbar",
   "obsidian-icon-folder",
-  "obsidian-day-planner",
-  "obsidian-kanban"
+  "3d-graph",
+  "obsidian-week-planner",
+  "obsidian-tasks-plugin"
 ]
