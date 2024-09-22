@@ -32,25 +32,50 @@
 - [ ] Express.js
 
 
-Daily Tracker - 90 days left in 2024
-- Red = 5 ques or less.
-- Yellow = 7 ques or less.
-- <span style="background:#ff4d4f">Green = More than 7 ques.  </span>
+## Daily Tracker - 90 days left in 2024
+- <span style="background:#ff4d4f">Red = Nothing.</span>
+- <span style="background:#d4b106">Yellow = 5 ques or less</span>
+- <span style="background:#5ced73">Green = 7 ques or less</span>
+- <span style="background:#ffffff">White = More than 10 ques</span>
 
-| THE BAR             | Sun    | Mon    | Tue    | Wed | Thurs | Fri | Sat |
-| ------------------- | ------ | ------ | ------ | --- | ----- | --- | --- |
-| <center>01</center> | Sep 22 |        |        |     |       |     |     |
-| <center>02</center> | Sep 29 |        |        |     |       |     |     |
-| <center>03</center> | Oct 6  |        |        |     |       |     |     |
-| <center>04</center> | Oct 13 |        |        |     |       |     |     |
-| <center>05</center> | Oct 20 |        |        |     |       |     |     |
-| <center>06</center> | Oct 27 |        |        |     |       |     |     |
-| <center>07</center> | Nov 3  |        |        |     |       |     |     |
-| <center>08</center> | Nov 10 |        |        |     |       |     |     |
-| <center>09</center> | Nov 17 |        |        |     |       |     |     |
-| <center>10</center> | Nov 24 |        |        |     |       |     |     |
-| <center>11</center> | Dec 1  |        |        |     |       |     |     |
-| <center>12</center> | Dec 8  |        |        |     |       |     |     |
-| <center>13</center> | Dec 15 |        |        |     |       |     |     |
-| <center>14</center> | Dec 22 |        |        |     |       |     |     |
-| <center>15</center> | Dec 29 | Dec 30 | Dec 31 |     |       |     |     |
+| THE BAR             | Sun                                            | Mon    | Tue    | Wed    | Thurs  | Fri    | Sat    |
+| ------------------- | ---------------------------------------------- | ------ | ------ | ------ | ------ | ------ | ------ |
+| <center>01</center> | <span style="background:#ff4d4f">Sep 22</span> | Sep 23 | Sep 24 | Sep 25 | Sep 26 | Sep 27 | Sep 28 |
+| <center>02</center> | Sep 29                                         |        |        |        |        |        |        |
+| <center>03</center> | Oct 6                                          |        |        |        |        |        |        |
+| <center>04</center> | Oct 13                                         |        |        |        |        |        |        |
+| <center>05</center> | Oct 20                                         |        |        |        |        |        |        |
+| <center>06</center> | Oct 27                                         |        |        |        |        |        |        |
+| <center>07</center> | Nov 3                                          |        |        |        |        |        |        |
+| <center>08</center> | Nov 10                                         |        |        |        |        |        |        |
+| <center>09</center> | Nov 17                                         |        |        |        |        |        |        |
+| <center>10</center> | Nov 24                                         |        |        |        |        |        |        |
+| <center>11</center> | Dec 1                                          |        |        |        |        |        |        |
+| <center>12</center> | Dec 8                                          |        |        |        |        |        |        |
+| <center>13</center> | Dec 15                                         |        |        |        |        |        |        |
+| <center>14</center> | Dec 22                                         |        |        |        |        |        |        |
+| <center>15</center> | Dec 29                                         | Dec 30 | Dec 31 |        |        |        |        |
+
+## Better 
+- <span style="background:#ff4d4f">Red = F'ed!</span> 
+- <span style="background:#d4b106">Yellow = Mandate</span>
+- <span style="background:#5ced73">Green = Exercise</span>
+- <span style="background:#ffffff">White = Read 10 pages minimum</span>
+
+| BEST                | Sun                                            | Mon    | Tue    | Wed    | Thurs  | Fri    | Sat    |
+| ------------------- | ---------------------------------------------- | ------ | ------ | ------ | ------ | ------ | ------ |
+| <center>01</center> | <span style="background:#ff4d4f">Sep 22</span> | Sep 23 | Sep 24 | Sep 25 | Sep 26 | Sep 27 | Sep 28 |
+| <center>02</center> | Sep 29                                         |        |        |        |        |        |        |
+| <center>03</center> | Oct 6                                          |        |        |        |        |        |        |
+| <center>04</center> | Oct 13                                         |        |        |        |        |        |        |
+| <center>05</center> | Oct 20                                         |        |        |        |        |        |        |
+| <center>06</center> | Oct 27                                         |        |        |        |        |        |        |
+| <center>07</center> | Nov 3                                          |        |        |        |        |        |        |
+| <center>08</center> | Nov 10                                         |        |        |        |        |        |        |
+| <center>09</center> | Nov 17                                         |        |        |        |        |        |        |
+| <center>10</center> | Nov 24                                         |        |        |        |        |        |        |
+| <center>11</center> | Dec 1                                          |        |        |        |        |        |        |
+| <center>12</center> | Dec 8                                          |        |        |        |        |        |        |
+| <center>13</center> | Dec 15                                         |        |        |        |        |        |        |
+| <center>14</center> | Dec 22                                         |        |        |        |        |        |        |
+| <center>15</center> | Dec 29                                         | Dec 30 | Dec 31 |        |        |        |        |
