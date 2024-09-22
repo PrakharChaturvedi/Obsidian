@@ -33,6 +33,8 @@
 
 
 ## Daily Tracker - 90 days left in 2024
+
+## DSA
 - <span style="background:#ff4d4f">Red = Nothing.</span>
 - <span style="background:#d4b106">Yellow = 5 ques or less</span>
 - <span style="background:#5ced73">Green = 7 ques or less</span>
@@ -79,3 +81,21 @@
 | <center>13</center> | Dec 15                                         |        |        |        |        |        |        |
 | <center>14</center> | Dec 22                                         |        |        |        |        |        |        |
 | <center>15</center> | Dec 29                                         | Dec 30 | Dec 31 |        |        |        |        |
+
+| Workout             | Incline | Pushups | Pull-ups | Triceps Ext | BicepCurls | Hammers | Squats |
+| ------------------- | ------- | ------- | -------- | ----------- | ---------- | ------- | ------ |
+| [[22]]              | 20-20-  |         |          |             |            |         |        |
+| <center>02</center> |         |         |          |             |            |         |        |
+| <center>03</center> |         |         |          |             |            |         |        |
+| <center>04</center> |         |         |          |             |            |         |        |
+| <center>05</center> |         |         |          |             |            |         |        |
+| <center>06</center> |         |         |          |             |            |         |        |
+| <center>07</center> |         |         |          |             |            |         |        |
+| <center>08</center> |         |         |          |             |            |         |        |
+| <center>09</center> |         |         |          |             |            |         |        |
+| <center>10</center> |         |         |          |             |            |         |        |
+| <center>11</center> |         |         |          |             |            |         |        |
+| <center>12</center> |         |         |          |             |            |         |        |
+| <center>13</center> |         |         |          |             |            |         |        |
+| <center>14</center> |         |         |          |             |            |         |        |
+| <center>15</center> |         |         |          |             |            |         |        |
