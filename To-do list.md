@@ -84,7 +84,7 @@
 
 | Workout             | Incline | Pushups | Pull-ups | Triceps Ext | BicepCurls | Hammers | Squats |
 | ------------------- | ------- | ------- | -------- | ----------- | ---------- | ------- | ------ |
-| [[22]]              | 20-20-  |         |          |             |            |         |        |
+| [[2024-09-22]]      | 20-20-  |         |          |             |            |         |        |
 | <center>02</center> |         |         |          |             |            |         |        |
 | <center>03</center> |         |         |          |             |            |         |        |
 | <center>04</center> |         |         |          |             |            |         |        |
