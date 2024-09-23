@@ -57,7 +57,6 @@
 | <center>13</center> | Dec 15                                         |        |        |        |        |        |        |
 | <center>14</center> | Dec 22                                         |        |        |        |        |        |        |
 | <center>15</center> | Dec 29                                         | Dec 30 | Dec 31 |        |        |        |        |
-
 ## Better 
 - <span style="background:#ff4d4f">Red = F'ed!</span> 
 - <span style="background:#d4b106">Yellow = Mandate</span>
@@ -85,7 +84,7 @@
 | Workout             | Incline  | Pushups | Pull-ups | Triceps Ext | BicepCurls | Hammers | Squats |
 | ------------------- | -------- | ------- | -------- | ----------- | ---------- | ------- | ------ |
 | [[2024-09-22]]      | 20-20-20 | 20-20   |          |             |            |         |        |
-| <center>02</center> |          |         |          |             |            |         |        |
+| [[2024-09-23]]      |          |         |          |             |            |         |        |
 | <center>03</center> |          |         |          |             |            |         |        |
 | <center>04</center> |          |         |          |             |            |         |        |
 | <center>05</center> |          |         |          |             |            |         |        |
