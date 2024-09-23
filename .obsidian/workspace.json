@@ -11,12 +11,9 @@
             "id": "60489b968503ea9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "To-do list.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Coding Concepts/Sorting.md"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-do list.md",
+                "file": "Coding Concepts/Sorting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-do list.md",
+                "file": "Coding Concepts/Sorting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-do list.md"
+                "file": "Coding Concepts/Sorting.md"
               }
             }
           },
@@ -180,8 +177,9 @@
   },
   "active": "60489b968503ea9a",
   "lastOpenFiles": [
-    "Daily Note/2024-09-23.md",
+    "2024-09-23.md",
     "To-do list.md",
+    "Daily Note/2024-09-23.md",
     "THE VAULT/Artificial intelligence/Images/Pasted image 20231211202526.png",
     "Daily Note/2024-09-23 2.md",
     "Daily Note.md",
