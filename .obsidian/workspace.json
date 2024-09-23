@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-do list.md",
+                "file": "Coding Concepts/Sorting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-do list.md",
+                "file": "Coding Concepts/Sorting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-do list.md"
+                "file": "Coding Concepts/Sorting.md"
               }
             }
           },
@@ -189,10 +188,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ef5d82929528736",
+  "active": "60489b968503ea9a",
   "lastOpenFiles": [
-    "Daily Note/2024-09-23.md",
     "To-do list.md",
+    "Daily Note/2024-09-23.md",
     "Coding Concepts/Sorting.md",
     "Daily Note/2024-09-23 1.md",
     "Daily Note/2024-09-23 2.md",
