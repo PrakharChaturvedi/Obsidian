@@ -1,3 +1,4 @@
+
 [THINGS TO COMPLETE IN SEM VII]
 ### System Design
 - [x] Networking layer Protocols - TCP, IP addresses, IP headers, UDP, DNS. 
@@ -63,38 +64,38 @@
 - <span style="background:#5ced73">Green = Exercise</span>
 - <span style="background:#ffffff">White = Read 10 pages minimum</span>
 
-| BEST                | Sun                                            | Mon    | Tue    | Wed    | Thurs  | Fri    | Sat    |
-| ------------------- | ---------------------------------------------- | ------ | ------ | ------ | ------ | ------ | ------ |
-| <center>01</center> | <span style="background:#ff4d4f">Sep 22</span> | Sep 23 | Sep 24 | Sep 25 | Sep 26 | Sep 27 | Sep 28 |
-| <center>02</center> | Sep 29                                         |        |        |        |        |        |        |
-| <center>03</center> | Oct 6                                          |        |        |        |        |        |        |
-| <center>04</center> | Oct 13                                         |        |        |        |        |        |        |
-| <center>05</center> | Oct 20                                         |        |        |        |        |        |        |
-| <center>06</center> | Oct 27                                         |        |        |        |        |        |        |
-| <center>07</center> | Nov 3                                          |        |        |        |        |        |        |
-| <center>08</center> | Nov 10                                         |        |        |        |        |        |        |
-| <center>09</center> | Nov 17                                         |        |        |        |        |        |        |
-| <center>10</center> | Nov 24                                         |        |        |        |        |        |        |
-| <center>11</center> | Dec 1                                          |        |        |        |        |        |        |
-| <center>12</center> | Dec 8                                          |        |        |        |        |        |        |
-| <center>13</center> | Dec 15                                         |        |        |        |        |        |        |
-| <center>14</center> | Dec 22                                         |        |        |        |        |        |        |
-| <center>15</center> | Dec 29                                         | Dec 30 | Dec 31 |        |        |        |        |
+| BEST                | Sun                                            | Mon                                                                         | Tue    | Wed    | Thurs  | Fri    | Sat    |
+| ------------------- | ---------------------------------------------- | --------------------------------------------------------------------------- | ------ | ------ | ------ | ------ | ------ |
+| <center>01</center> | <span style="background:#ff4d4f">Sep 22</span> | <font color="#000000"><span style="background:#ffffff">Sep 23</span></font> | Sep 24 | Sep 25 | Sep 26 | Sep 27 | Sep 28 |
+| <center>02</center> | Sep 29                                         |                                                                             |        |        |        |        |        |
+| <center>03</center> | Oct 6                                          |                                                                             |        |        |        |        |        |
+| <center>04</center> | Oct 13                                         |                                                                             |        |        |        |        |        |
+| <center>05</center> | Oct 20                                         |                                                                             |        |        |        |        |        |
+| <center>06</center> | Oct 27                                         |                                                                             |        |        |        |        |        |
+| <center>07</center> | Nov 3                                          |                                                                             |        |        |        |        |        |
+| <center>08</center> | Nov 10                                         |                                                                             |        |        |        |        |        |
+| <center>09</center> | Nov 17                                         |                                                                             |        |        |        |        |        |
+| <center>10</center> | Nov 24                                         |                                                                             |        |        |        |        |        |
+| <center>11</center> | Dec 1                                          |                                                                             |        |        |        |        |        |
+| <center>12</center> | Dec 8                                          |                                                                             |        |        |        |        |        |
+| <center>13</center> | Dec 15                                         |                                                                             |        |        |        |        |        |
+| <center>14</center> | Dec 22                                         |                                                                             |        |        |        |        |        |
+| <center>15</center> | Dec 29                                         | Dec 30                                                                      | Dec 31 |        |        |        |        |
 
-| Workout             | Incline  | Pushups | Pull-ups | Triceps Ext | BicepCurls | Hammers | Squats |
-| ------------------- | -------- | ------- | -------- | ----------- | ---------- | ------- | ------ |
-| [[2024-09-22]]      | 20-20-20 | 20-20   |          |             |            |         |        |
-| [[2024-09-23]]      |          |         |          |             |            |         |        |
-| <center>03</center> |          |         |          |             |            |         |        |
-| <center>04</center> |          |         |          |             |            |         |        |
-| <center>05</center> |          |         |          |             |            |         |        |
-| <center>06</center> |          |         |          |             |            |         |        |
-| <center>07</center> |          |         |          |             |            |         |        |
-| <center>08</center> |          |         |          |             |            |         |        |
-| <center>09</center> |          |         |          |             |            |         |        |
-| <center>10</center> |          |         |          |             |            |         |        |
-| <center>11</center> |          |         |          |             |            |         |        |
-| <center>12</center> |          |         |          |             |            |         |        |
-| <center>13</center> |          |         |          |             |            |         |        |
-| <center>14</center> |          |         |          |             |            |         |        |
-| <center>15</center> |          |         |          |             |            |         |        |
+| Workout             | Decline  | Pushups  | Pull-ups | Triceps Ext | BicepCurls | Hammers | Squats |
+| ------------------- | -------- | -------- | -------- | ----------- | ---------- | ------- | ------ |
+| [[2024-09-22]]      | 20-20-20 | 20-20-20 |          |             |            |         |        |
+| [[2024-09-23]]      | 20-20    |          |          |             |            |         |        |
+| <center>03</center> |          |          |          |             |            |         |        |
+| <center>04</center> |          |          |          |             |            |         |        |
+| <center>05</center> |          |          |          |             |            |         |        |
+| <center>06</center> |          |          |          |             |            |         |        |
+| <center>07</center> |          |          |          |             |            |         |        |
+| <center>08</center> |          |          |          |             |            |         |        |
+| <center>09</center> |          |          |          |             |            |         |        |
+| <center>10</center> |          |          |          |             |            |         |        |
+| <center>11</center> |          |          |          |             |            |         |        |
+| <center>12</center> |          |          |          |             |            |         |        |
+| <center>13</center> |          |          |          |             |            |         |        |
+| <center>14</center> |          |          |          |             |            |         |        |
+| <center>15</center> |          |          |          |             |            |         |        |
