@@ -16,8 +16,22 @@
                 "file": "Coding Concepts/Sorting.md"
               }
             }
+          },
+          {
+            "id": "00f9b1446f5f1923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Note/2024-09-23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Sorting.md",
+                "file": "Daily Note/2024-09-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Sorting.md",
+                "file": "Daily Note/2024-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Sorting.md"
+                "file": "Daily Note/2024-09-23.md"
               }
             }
           },
@@ -175,15 +189,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "60489b968503ea9a",
+  "active": "00f9b1446f5f1923",
   "lastOpenFiles": [
+    "Coding Concepts/Sorting.md",
+    "Daily Note/2024-09-23 1.md",
+    "Daily Note/2024-09-23 2.md",
     "2024-09-23.md",
     "To-do list.md",
     "Daily Note/2024-09-23.md",
     "THE VAULT/Artificial intelligence/Images/Pasted image 20231211202526.png",
-    "Daily Note/2024-09-23 2.md",
     "Daily Note.md",
-    "Daily Note/2024-09-23 1.md",
     "Coding Concepts/LinkedList.md",
     "Daily Note/Pasted Image 20240818152131_482.png",
     "THE VAULT/Database Notes/ADBMS/Notes 1.md",
@@ -196,7 +211,6 @@
     "Habit Tracker Calendar.md",
     "Excel 2024-09-22 16.10.18.sheet.md",
     "Untitled.sheet",
-    "Coding Concepts/Sorting.md",
     "Coding Concepts/Recursion Board.md",
     "Coding Concepts/Rough Board.md",
     "Daily Note/2024-09-20.md",
