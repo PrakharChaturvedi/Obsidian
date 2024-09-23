@@ -8,16 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60489b968503ea9a",
+            "id": "f78f4e63ee30e5b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-do list.md",
+                "file": "Daily Note/2024-09-23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "25b3c9eb111dbf97",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -99,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-do list.md",
+                "file": "Daily Note/2024-09-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-do list.md",
+                "file": "Daily Note/2024-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-do list.md"
+                "file": "Daily Note/2024-09-23.md"
               }
             }
           },
@@ -191,11 +199,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "60489b968503ea9a",
+  "active": "f78f4e63ee30e5b3",
   "lastOpenFiles": [
-    "Coding Concepts/Sorting.md",
     "To-do list.md",
     "Daily Note/2024-09-23.md",
+    "Coding Concepts/Sorting.md",
     "Daily Note/2024-09-23 1.md",
     "Daily Note/2024-09-23 2.md",
     "2024-09-23.md",
