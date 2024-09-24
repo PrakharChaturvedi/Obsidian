@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f78f4e63ee30e5b3",
+            "id": "c070d5531e71aa1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-09-23.md",
+                "file": "To-do list.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "2ef5d82929528736",
+            "id": "ae152201b9aeebf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-do list.md",
+                "file": "2024-09-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-do list.md",
+                "file": "2024-09-24.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-do list.md",
+                "file": "2024-09-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-do list.md"
+                "file": "2024-09-24.md"
               }
             }
           },
@@ -192,10 +192,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ef5d82929528736",
+  "active": "ae152201b9aeebf0",
   "lastOpenFiles": [
-    "Daily Note/2024-09-23.md",
     "To-do list.md",
+    "2024-09-24.md",
+    "Daily Note/2024-09-23.md",
     "Coding Concepts/Sorting.md",
     "Daily Note/2024-09-23 1.md",
     "Daily Note/2024-09-23 2.md",
@@ -222,7 +223,6 @@
     "DBMS Concepts/Notes.md",
     "SIH - Schedule.md",
     "Daily Note/2024-09-14.md",
-    "Evaluation 1.md",
     "DBMS Concepts",
     "THE VAULT/Database Notes/ADBMS/Images",
     "THE VAULT/Database Notes/ADBMS/Images/WhatsApp Image 2024-09-02 at 15.29.19_faf72955.jpg",
