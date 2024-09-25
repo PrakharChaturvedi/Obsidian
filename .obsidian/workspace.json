@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-do list.md",
+                "file": "2024-09-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "a07980a23ebb3bb9",
+            "id": "a3184e77b371f4fe",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Trees.md",
+                "file": "2024-09-25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Trees.md",
+                "file": "2024-09-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Trees.md"
+                "file": "2024-09-25.md"
               }
             }
           },
@@ -190,16 +188,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a07980a23ebb3bb9",
+  "active": "aeb234db2d0d23d4",
   "lastOpenFiles": [
     "To-do list.md",
     "Coding Concepts/Trees.md",
-    "Pasted Image 20240925195445_693.png",
-    "Pasted Image 20240925195245_061.png",
-    "Pasted Image 20240925195214_072.png",
-    "Pasted Image 20240925195127_063.png",
-    "Pasted Image 20240925195041_071.png",
+    "Coding Concepts/Images/Pasted Image 20240925195041_071.png",
     "2024-09-25.md",
+    "Coding Concepts/Images",
+    "Coding Concepts/Images/Pasted Image 20240925195445_693.png",
+    "Coding Concepts/Images/Pasted Image 20240925195245_061.png",
+    "Coding Concepts/Images/Pasted Image 20240925195214_072.png",
+    "Coding Concepts/Images/Pasted Image 20240925195127_063.png",
     "Coding Concepts/Recursion Board.md",
     "Coding Concepts/Rough Board.md",
     "Coding Concepts/LinkedList.md",

@@ -67,7 +67,7 @@ Todays Count : 8
 
 | BEST                | Sun                                            | Mon                                                                         | Tue    | Wed    | Thurs  | Fri    | Sat    |
 | ------------------- | ---------------------------------------------- | --------------------------------------------------------------------------- | ------ | ------ | ------ | ------ | ------ |
-| <center>01</center> | <span style="background:#ff4d4f">Sep 22</span> | <font color="#000000"><span style="background:#ffffff">Sep 23</span></font> | Sep 24 | Sep 25 | Sep 26 | Sep 27 | Sep 28 |
+| <center>01</center> | <span style="background:#ff4d4f">Sep 22</span> | <font color="#000000"><span style="background:#ffffff">Sep 23</span></font> | <span style="background:#5ced73">Sep 24</span> | Sep 25 | Sep 26 | Sep 27 | Sep 28 |
 | <center>02</center> | Sep 29                                         |                                                                             |        |        |        |        |        |
 | <center>03</center> | Oct 6                                          |                                                                             |        |        |        |        |        |
 | <center>04</center> | Oct 13                                         |                                                                             |        |        |        |        |        |
