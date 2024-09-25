@@ -21,43 +21,17 @@
             }
           },
           {
-            "id": "a45d6680175a610d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-09-25.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b6a327f600f33b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To-do list.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2be2bd9cb8147dba",
+            "id": "a07980a23ebb3bb9",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md"
+                "file": "Coding Concepts/Trees.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -123,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-do list.md",
+                "file": "Coding Concepts/Trees.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-do list.md",
+                "file": "Coding Concepts/Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-do list.md"
+                "file": "Coding Concepts/Trees.md"
               }
             }
           },
@@ -215,13 +190,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b6a327f600f33b3",
+  "active": "a07980a23ebb3bb9",
   "lastOpenFiles": [
-    "2024-09-25.md",
+    "Pasted Image 20240925195245_061.png",
+    "Pasted Image 20240925195214_072.png",
+    "Pasted Image 20240925195127_063.png",
+    "Pasted Image 20240925195041_071.png",
+    "To-do list.md",
     "Coding Concepts/Trees.md",
+    "2024-09-25.md",
     "Coding Concepts/Recursion Board.md",
     "Coding Concepts/Rough Board.md",
-    "To-do list.md",
     "Coding Concepts/LinkedList.md",
     "Daily Note.md",
     "THE VAULT/Agile/Agile MST 3.md",
@@ -245,7 +224,6 @@
     "Untitled.sheet",
     "Daily Note/2024-09-20.md",
     "Daily Note/2024-09-19.md",
-    "Coding Concepts/Stack Queue and Deque.md",
     "DBMS Concepts",
     "THE VAULT/Database Notes/ADBMS/Images",
     "THE VAULT/Database Notes/ADBMS/Images/WhatsApp Image 2024-09-02 at 15.29.19_faf72955.jpg",
