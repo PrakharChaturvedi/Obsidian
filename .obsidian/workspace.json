@@ -37,9 +37,22 @@
             "id": "4b6a327f600f33b3",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To-do list.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2be2bd9cb8147dba",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Coding Concepts/Trees.md"
+                "file": "Coding Concepts/Recursion Board.md"
               }
             }
           }
@@ -94,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Trees.md",
+                "file": "To-do list.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Trees.md",
+                "file": "To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Trees.md"
+                "file": "To-do list.md"
               }
             }
           },
@@ -206,10 +218,11 @@
   "active": "4b6a327f600f33b3",
   "lastOpenFiles": [
     "2024-09-25.md",
-    "To-do list.md",
     "Coding Concepts/Trees.md",
-    "Coding Concepts/LinkedList.md",
     "Coding Concepts/Recursion Board.md",
+    "Coding Concepts/Rough Board.md",
+    "To-do list.md",
+    "Coding Concepts/LinkedList.md",
     "Daily Note.md",
     "THE VAULT/Agile/Agile MST 3.md",
     "Coding Concepts/Sorting.md",
@@ -230,7 +243,6 @@
     "Habit Tracker Calendar.md",
     "Excel 2024-09-22 16.10.18.sheet.md",
     "Untitled.sheet",
-    "Coding Concepts/Rough Board.md",
     "Daily Note/2024-09-20.md",
     "Daily Note/2024-09-19.md",
     "Coding Concepts/Stack Queue and Deque.md",
