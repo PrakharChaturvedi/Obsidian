@@ -34,12 +34,22 @@
             }
           },
           {
-            "id": "347b7911b72a1371",
+            "id": "4b6a327f600f33b3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Coding Concepts/Trees.md"
+              }
+            }
+          },
+          {
+            "id": "c2dab30a883c7d7b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Coding Concepts/Recursion Board.md"
               }
             }
           }
@@ -203,9 +213,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "347b7911b72a1371",
+  "active": "4b6a327f600f33b3",
   "lastOpenFiles": [
     "2024-09-25.md",
+    "Coding Concepts/LinkedList.md",
+    "Coding Concepts/Recursion Board.md",
     "Coding Concepts/Trees.md",
     "To-do list.md",
     "Daily Note.md",
@@ -217,7 +229,6 @@
     "Daily Note/2024-09-23 2.md",
     "2024-09-23.md",
     "THE VAULT/Artificial intelligence/Images/Pasted image 20231211202526.png",
-    "Coding Concepts/LinkedList.md",
     "Daily Note/Pasted Image 20240818152131_482.png",
     "THE VAULT/Database Notes/ADBMS/Notes 1.md",
     "Tasks.md",
@@ -229,7 +240,6 @@
     "Habit Tracker Calendar.md",
     "Excel 2024-09-22 16.10.18.sheet.md",
     "Untitled.sheet",
-    "Coding Concepts/Recursion Board.md",
     "Coding Concepts/Rough Board.md",
     "Daily Note/2024-09-20.md",
     "Daily Note/2024-09-19.md",
