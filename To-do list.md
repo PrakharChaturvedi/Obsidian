@@ -83,20 +83,20 @@ Todays Count : 8
 | <center>14</center> | Dec 22                                         |                                                                             |        |        |        |        |        |
 | <center>15</center> | Dec 29                                         | Dec 30                                                                      | Dec 31 |        |        |        |        |
 
-| Workout             | Decline  | Pushups  | Pull-ups | Triceps Ext | BicepCurls | Hammers | Squats |
-| ------------------- | -------- | -------- | -------- | ----------- | ---------- | ------- | ------ |
-| [[2024-09-22]]      | 20-20-20 | 20-20-20 |          |             |            |         |        |
-| [[2024-09-23]]      | 20-20-20 | 20-20-20 |          | 20-25-35    |            |         |        |
-| [[2024-09-24]]      | 20-20-15 |          |          |             | 20-20-20   |         |        |
-| [[2024-09-25]]      |          | 20-20-25 |          |             |            |         |        |
-| <center>05</center> |          |          |          |             |            |         |        |
-| <center>06</center> |          |          |          |             |            |         |        |
-| <center>07</center> |          |          |          |             |            |         |        |
-| <center>08</center> |          |          |          |             |            |         |        |
-| <center>09</center> |          |          |          |             |            |         |        |
-| <center>10</center> |          |          |          |             |            |         |        |
-| <center>11</center> |          |          |          |             |            |         |        |
-| <center>12</center> |          |          |          |             |            |         |        |
-| <center>13</center> |          |          |          |             |            |         |        |
-| <center>14</center> |          |          |          |             |            |         |        |
-| <center>15</center> |          |          |          |             |            |         |        |
+| Workout             | Dec / Dips | Pushups  | Pull-ups | Triceps Ext | BicepCurls | Hammers | Squats |
+| ------------------- | ---------- | -------- | -------- | ----------- | ---------- | ------- | ------ |
+| [[2024-09-22]]      | 20-20-20   | 20-20-20 |          |             |            |         |        |
+| [[2024-09-23]]      | 20-20-20   | 20-20-20 |          | 20-25-35    |            |         |        |
+| [[2024-09-24]]      | 20-20-15   |          |          |             | 20-20-20   |         |        |
+| [[2024-09-25]]      | 15-25-15   | 20-40-45 |          |             |            |         |        |
+| <center>05</center> |            |          |          |             |            |         |        |
+| <center>06</center> |            |          |          |             |            |         |        |
+| <center>07</center> |            |          |          |             |            |         |        |
+| <center>08</center> |            |          |          |             |            |         |        |
+| <center>09</center> |            |          |          |             |            |         |        |
+| <center>10</center> |            |          |          |             |            |         |        |
+| <center>11</center> |            |          |          |             |            |         |        |
+| <center>12</center> |            |          |          |             |            |         |        |
+| <center>13</center> |            |          |          |             |            |         |        |
+| <center>14</center> |            |          |          |             |            |         |        |
+| <center>15</center> |            |          |          |             |            |         |        |
