@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f5a5ba138e6f8fb6",
+        "id": "e55a5bd1e6adfed3",
         "type": "tabs",
         "children": [
           {
-            "id": "c070d5531e71aa1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-09-24.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51354261e0efac6e",
+            "id": "aeb234db2d0d23d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,12 +21,25 @@
             }
           },
           {
-            "id": "b0cd28ff8e00525d",
+            "id": "a45d6680175a610d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-09-25.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "347b7911b72a1371",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Coding Concepts/Sorting.md"
+                "file": "Coding Concepts/Trees.md"
               }
             }
           }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Sorting.md",
+                "file": "Coding Concepts/Trees.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Sorting.md",
+                "file": "Coding Concepts/Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Sorting.md"
+                "file": "Coding Concepts/Trees.md"
               }
             }
           },
@@ -202,17 +203,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0cd28ff8e00525d",
+  "active": "347b7911b72a1371",
   "lastOpenFiles": [
+    "2024-09-25.md",
+    "Coding Concepts/Trees.md",
     "To-do list.md",
-    "2024-09-24.md",
-    "Daily Note/2024-09-23.md",
+    "Daily Note.md",
+    "THE VAULT/Agile/Agile MST 3.md",
     "Coding Concepts/Sorting.md",
+    "Daily Note/2024-09-24.md",
+    "Daily Note/2024-09-23.md",
     "Daily Note/2024-09-23 1.md",
     "Daily Note/2024-09-23 2.md",
     "2024-09-23.md",
     "THE VAULT/Artificial intelligence/Images/Pasted image 20231211202526.png",
-    "Daily Note.md",
     "Coding Concepts/LinkedList.md",
     "Daily Note/Pasted Image 20240818152131_482.png",
     "THE VAULT/Database Notes/ADBMS/Notes 1.md",
@@ -230,9 +234,6 @@
     "Daily Note/2024-09-20.md",
     "Daily Note/2024-09-19.md",
     "Coding Concepts/Stack Queue and Deque.md",
-    "DBMS Concepts/Notes.md",
-    "SIH - Schedule.md",
-    "Daily Note/2024-09-14.md",
     "DBMS Concepts",
     "THE VAULT/Database Notes/ADBMS/Images",
     "THE VAULT/Database Notes/ADBMS/Images/WhatsApp Image 2024-09-02 at 15.29.19_faf72955.jpg",
