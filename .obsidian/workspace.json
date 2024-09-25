@@ -42,16 +42,6 @@
                 "file": "Coding Concepts/Trees.md"
               }
             }
-          },
-          {
-            "id": "c2dab30a883c7d7b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Coding Concepts/Recursion Board.md"
-              }
-            }
           }
         ],
         "currentTab": 2
@@ -215,11 +205,11 @@
   },
   "active": "4b6a327f600f33b3",
   "lastOpenFiles": [
+    "To-do list.md",
     "2024-09-25.md",
+    "Coding Concepts/Trees.md",
     "Coding Concepts/LinkedList.md",
     "Coding Concepts/Recursion Board.md",
-    "Coding Concepts/Trees.md",
-    "To-do list.md",
     "Daily Note.md",
     "THE VAULT/Agile/Agile MST 3.md",
     "Coding Concepts/Sorting.md",
