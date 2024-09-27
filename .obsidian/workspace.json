@@ -21,14 +21,16 @@
             "id": "a94752635dde8380",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Projects/WadrobeAppDesign/AppFlow.md"
+                "file": "2024-09-27.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/WadrobeAppDesign/AppFlow.md",
+                "file": "Coding Concepts/Trees.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/WadrobeAppDesign/AppFlow.md",
+                "file": "Coding Concepts/Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/WadrobeAppDesign/AppFlow.md"
+                "file": "Coding Concepts/Trees.md"
               }
             }
           },
@@ -187,10 +189,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a94752635dde8380",
+  "active": "aeb234db2d0d23d4",
   "lastOpenFiles": [
-    "Projects/NightLifeApp.md",
     "2024-09-27.md",
+    "Projects/WadrobeAppDesign/AppFlow.md",
+    "Projects/NightLifeApp.md",
     "To-do list.md",
     "Daily Note.md",
     "Coding Concepts/Trees.md",
@@ -222,7 +225,6 @@
     "Daily Note/2024-09-21.md",
     "THE VAULT/Programming Updates.md",
     "Habit Tracker Calendar.md",
-    "Excel 2024-09-22 16.10.18.sheet.md",
     "Untitled.sheet",
     "DBMS Concepts",
     "THE VAULT/Database Notes/ADBMS/Images",
