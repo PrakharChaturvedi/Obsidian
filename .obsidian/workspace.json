@@ -21,12 +21,9 @@
             "id": "a94752635dde8380",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "To-do list.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Projects/WadrobeAppDesign/AppFlow.md"
               }
             }
           }
@@ -81,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-do list.md",
+                "file": "Projects/WadrobeAppDesign/AppFlow.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-do list.md",
+                "file": "Projects/WadrobeAppDesign/AppFlow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-do list.md"
+                "file": "Projects/WadrobeAppDesign/AppFlow.md"
               }
             }
           },
@@ -191,11 +189,12 @@
   },
   "active": "a94752635dde8380",
   "lastOpenFiles": [
-    "Daily Note.md",
+    "Projects/NightLifeApp.md",
     "2024-09-27.md",
+    "To-do list.md",
+    "Daily Note.md",
     "Coding Concepts/Trees.md",
     "Projects/Cargo Project.md",
-    "To-do list.md",
     "Daily Note/2024-09-25.md",
     "Coding Concepts/Images/Pasted Image 20240925195041_071.png",
     "Coding Concepts/Images",
@@ -225,7 +224,6 @@
     "Habit Tracker Calendar.md",
     "Excel 2024-09-22 16.10.18.sheet.md",
     "Untitled.sheet",
-    "Daily Note/2024-09-20.md",
     "DBMS Concepts",
     "THE VAULT/Database Notes/ADBMS/Images",
     "THE VAULT/Database Notes/ADBMS/Images/WhatsApp Image 2024-09-02 at 15.29.19_faf72955.jpg",
