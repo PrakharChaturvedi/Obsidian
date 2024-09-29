@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de8dabe48038f653",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Projects/Cargo Project/UI_App.md"
-              }
-            }
-          },
-          {
             "id": "423bee2a121b14d2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Projects/Cargo Project/Cargo Project.md"
+                "file": "Projects/Cargo Project/UI_App.md"
               }
             }
           }
@@ -186,10 +176,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "de8dabe48038f653",
+  "active": "423bee2a121b14d2",
   "lastOpenFiles": [
     "Projects/Cargo Project/Cargo Project.md",
+    "Coding Concepts/Recursion Board.md",
+    "Coding Concepts/Rough Board.md",
+    "Coding Concepts/Trees.md",
     "Projects/Cargo Project/UI_App.md",
+    "Projects/Cargo Project/UI_App.png",
     "Pasted Image 20240929221709_289.png",
     "Projects/Cargo Project/Routes.png",
     "2024-09-29.md",
@@ -197,16 +191,13 @@
     "Projects/Cargo Project",
     "To-do list.md",
     "Coding Concepts/Sorting.md",
-    "Coding Concepts/Recursion Board.md",
     "Daily Note/2024-09-27.md",
     "Untitled",
-    "Coding Concepts/Rough Board.md",
     "Gen AI workshop.md",
     "Daily Note/2024-09-28.md",
     "THE VAULT/Soft Computing/2 Notes.md",
     "THE VAULT/Soft Computing/1 Notes.md",
     "Projects/WadrobeAppDesign/AppFlow.md",
-    "Coding Concepts/Trees.md",
     "Projects/NightLifeApp.md",
     "Daily Note.md",
     "Daily Note/2024-09-25.md",
@@ -229,7 +220,6 @@
     "Untitled.sheet",
     "DBMS Concepts",
     "THE VAULT/Database Notes/ADBMS/Images",
-    "THE VAULT/Database Notes/ADBMS/Images/WhatsApp Image 2024-09-02 at 15.29.19_faf72955.jpg",
     "THE VAULT/Database Notes/ADBMS"
   ]
 }
