@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Coding Concepts/Rough Board.md"
+                "file": "Coding Concepts/Recursion Board.md"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Rough Board.md",
+                "file": "Coding Concepts/Recursion Board.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Rough Board.md",
+                "file": "Coding Concepts/Recursion Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Rough Board.md"
+                "file": "Coding Concepts/Recursion Board.md"
               }
             }
           },
@@ -177,16 +178,18 @@
   },
   "active": "5aff11815af8d8b0",
   "lastOpenFiles": [
+    "Daily Note/2024-09-27.md",
     "Coding Concepts/Recursion Board.md",
+    "Untitled",
+    "Coding Concepts/Rough Board.md",
     "Projects/Cargo Project.md",
     "Gen AI workshop.md",
-    "2024-09-28.md",
+    "Daily Note/2024-09-28.md",
     "THE VAULT/Soft Computing/2 Notes.md",
     "THE VAULT/Soft Computing/1 Notes.md",
     "To-do list.md",
     "Projects/WadrobeAppDesign/AppFlow.md",
     "Coding Concepts/Trees.md",
-    "2024-09-27.md",
     "Projects/NightLifeApp.md",
     "Daily Note.md",
     "Daily Note/2024-09-25.md",
@@ -196,7 +199,6 @@
     "Coding Concepts/Images/Pasted Image 20240925195245_061.png",
     "Coding Concepts/Images/Pasted Image 20240925195214_072.png",
     "Coding Concepts/Images/Pasted Image 20240925195127_063.png",
-    "Coding Concepts/Rough Board.md",
     "Coding Concepts/LinkedList.md",
     "THE VAULT/Agile/Agile MST 3.md",
     "Coding Concepts/Sorting.md",
@@ -210,7 +212,6 @@
     "THE VAULT/Database Notes/ADBMS/Notes 1.md",
     "Tasks.md",
     "Colors.md",
-    "Daily Note/2024-09-22.md",
     "Untitled.sheet",
     "DBMS Concepts",
     "THE VAULT/Database Notes/ADBMS/Images",
