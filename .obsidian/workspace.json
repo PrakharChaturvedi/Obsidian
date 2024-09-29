@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,11 +73,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Sorting.md",
+                "file": "Coding Concepts/Recursion Board.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Sorting.md",
+                "file": "Coding Concepts/Recursion Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Sorting.md"
+                "file": "Coding Concepts/Recursion Board.md"
               }
             }
           },
@@ -186,8 +187,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e35f4412111c3cc",
+  "active": "5aff11815af8d8b0",
   "lastOpenFiles": [
+    "Coding Concepts/Sorting.md",
     "Coding Concepts/Recursion Board.md",
     "Daily Note/2024-09-27.md",
     "Untitled",
@@ -211,7 +213,6 @@
     "Coding Concepts/Images/Pasted Image 20240925195127_063.png",
     "Coding Concepts/LinkedList.md",
     "THE VAULT/Agile/Agile MST 3.md",
-    "Coding Concepts/Sorting.md",
     "Daily Note/2024-09-24.md",
     "Daily Note/2024-09-23.md",
     "Daily Note/2024-09-23 1.md",
