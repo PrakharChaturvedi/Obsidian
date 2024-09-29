@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b941da976cc0676f",
+            "id": "5aff11815af8d8b0",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Projects/Cargo Project.md"
+                "file": "Coding Concepts/Recursion Board.md"
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Cargo Project.md",
+                "file": "Coding Concepts/Recursion Board.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Cargo Project.md",
+                "file": "Coding Concepts/Recursion Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Cargo Project.md"
+                "file": "Coding Concepts/Recursion Board.md"
               }
             }
           },
@@ -176,11 +176,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b941da976cc0676f",
+  "active": "5aff11815af8d8b0",
   "lastOpenFiles": [
+    "Projects/Cargo Project.md",
+    "Coding Concepts/Recursion Board.md",
     "Gen AI workshop.md",
     "2024-09-28.md",
-    "Projects/Cargo Project.md",
     "THE VAULT/Soft Computing/2 Notes.md",
     "THE VAULT/Soft Computing/1 Notes.md",
     "To-do list.md",
@@ -196,7 +197,6 @@
     "Coding Concepts/Images/Pasted Image 20240925195245_061.png",
     "Coding Concepts/Images/Pasted Image 20240925195214_072.png",
     "Coding Concepts/Images/Pasted Image 20240925195127_063.png",
-    "Coding Concepts/Recursion Board.md",
     "Coding Concepts/Rough Board.md",
     "Coding Concepts/LinkedList.md",
     "THE VAULT/Agile/Agile MST 3.md",
