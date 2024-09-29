@@ -65,32 +65,32 @@ Todays Count : 8
 - <span style="background:#5ced73">Green = Exercise</span>
 - <span style="background:#ffffff">White = Read 10 pages minimum</span>
 
-| BEST                | Sun                                            | Mon                                                                         | Tue    | Wed    | Thurs  | Fri    | Sat    |
-| ------------------- | ---------------------------------------------- | --------------------------------------------------------------------------- | ------ | ------ | ------ | ------ | ------ |
+| BEST                | Sun                                            | Mon                                                                         | Tue                                            | Wed    | Thurs  | Fri    | Sat    |
+| ------------------- | ---------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------- | ------ | ------ | ------ | ------ |
 | <center>01</center> | <span style="background:#ff4d4f">Sep 22</span> | <font color="#000000"><span style="background:#ffffff">Sep 23</span></font> | <span style="background:#5ced73">Sep 24</span> | Sep 25 | Sep 26 | Sep 27 | Sep 28 |
-| <center>02</center> | Sep 29                                         |                                                                             |        |        |        |        |        |
-| <center>03</center> | Oct 6                                          |                                                                             |        |        |        |        |        |
-| <center>04</center> | Oct 13                                         |                                                                             |        |        |        |        |        |
-| <center>05</center> | Oct 20                                         |                                                                             |        |        |        |        |        |
-| <center>06</center> | Oct 27                                         |                                                                             |        |        |        |        |        |
-| <center>07</center> | Nov 3                                          |                                                                             |        |        |        |        |        |
-| <center>08</center> | Nov 10                                         |                                                                             |        |        |        |        |        |
-| <center>09</center> | Nov 17                                         |                                                                             |        |        |        |        |        |
-| <center>10</center> | Nov 24                                         |                                                                             |        |        |        |        |        |
-| <center>11</center> | Dec 1                                          |                                                                             |        |        |        |        |        |
-| <center>12</center> | Dec 8                                          |                                                                             |        |        |        |        |        |
-| <center>13</center> | Dec 15                                         |                                                                             |        |        |        |        |        |
-| <center>14</center> | Dec 22                                         |                                                                             |        |        |        |        |        |
-| <center>15</center> | Dec 29                                         | Dec 30                                                                      | Dec 31 |        |        |        |        |
+| <center>02</center> | Sep 29                                         |                                                                             |                                                |        |        |        |        |
+| <center>03</center> | Oct 6                                          |                                                                             |                                                |        |        |        |        |
+| <center>04</center> | Oct 13                                         |                                                                             |                                                |        |        |        |        |
+| <center>05</center> | Oct 20                                         |                                                                             |                                                |        |        |        |        |
+| <center>06</center> | Oct 27                                         |                                                                             |                                                |        |        |        |        |
+| <center>07</center> | Nov 3                                          |                                                                             |                                                |        |        |        |        |
+| <center>08</center> | Nov 10                                         |                                                                             |                                                |        |        |        |        |
+| <center>09</center> | Nov 17                                         |                                                                             |                                                |        |        |        |        |
+| <center>10</center> | Nov 24                                         |                                                                             |                                                |        |        |        |        |
+| <center>11</center> | Dec 1                                          |                                                                             |                                                |        |        |        |        |
+| <center>12</center> | Dec 8                                          |                                                                             |                                                |        |        |        |        |
+| <center>13</center> | Dec 15                                         |                                                                             |                                                |        |        |        |        |
+| <center>14</center> | Dec 22                                         |                                                                             |                                                |        |        |        |        |
+| <center>15</center> | Dec 29                                         | Dec 30                                                                      | Dec 31                                         |        |        |        |        |
 
-| Workout             | Dec / Dips | Pushups  | Pull-ups | Triceps Ext | BicepCurls | Hammers | Squats |
+| Workout             | Wp.(35 kg) | Pushups  | Pull-ups | Triceps Ext | BicepCurls | Hammers | Squats |
 | ------------------- | ---------- | -------- | -------- | ----------- | ---------- | ------- | ------ |
 | [[2024-09-22]]      | 20-20-20   | 20-20-20 |          |             |            |         |        |
 | [[2024-09-23]]      | 20-20-20   | 20-20-20 |          | 20-25-35    |            |         |        |
 | [[2024-09-24]]      | 20-20-15   |          |          |             | 20-20-20   |         |        |
 | [[2024-09-25]]      | 15-25-15   | 20-40-45 |          |             |            |         |        |
 | [[2024-09-27]]      | 15-20-20   |          |          |             |            |         |        |
-| <center>06</center> |            |          |          |             |            |         |        |
+| [[2024-09-29]]      | 15-15-     |          |          |             |            |         |        |
 | <center>07</center> |            |          |          |             |            |         |        |
 | <center>08</center> |            |          |          |             |            |         |        |
 | <center>09</center> |            |          |          |             |            |         |        |
