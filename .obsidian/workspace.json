@@ -16,8 +16,19 @@
                 "file": "Coding Concepts/Recursion Board.md"
               }
             }
+          },
+          {
+            "id": "1e35f4412111c3cc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Coding Concepts/Sorting.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -84,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md",
+                "file": "Coding Concepts/Sorting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md",
+                "file": "Coding Concepts/Sorting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Recursion Board.md"
+                "file": "Coding Concepts/Sorting.md"
               }
             }
           },
@@ -176,10 +186,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5aff11815af8d8b0",
+  "active": "1e35f4412111c3cc",
   "lastOpenFiles": [
-    "Daily Note/2024-09-27.md",
     "Coding Concepts/Recursion Board.md",
+    "Daily Note/2024-09-27.md",
     "Untitled",
     "Coding Concepts/Rough Board.md",
     "Projects/Cargo Project.md",
