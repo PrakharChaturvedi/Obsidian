@@ -11,9 +11,12 @@
             "id": "423bee2a121b14d2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Projects/Cargo Project/UI_App.md"
+                "file": "To-do list.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -67,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Cargo Project/UI_App.md",
+                "file": "To-do list.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Cargo Project/UI_App.md",
+                "file": "To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Cargo Project/UI_App.md"
+                "file": "To-do list.md"
               }
             }
           },
@@ -178,9 +180,10 @@
   },
   "active": "423bee2a121b14d2",
   "lastOpenFiles": [
-    "Projects/Cargo Project/Cargo Project.md",
+    "2024-10-01.md",
     "2024-09-30.md",
     "Projects/Cargo Project/UI_App.md",
+    "Projects/Cargo Project/Cargo Project.md",
     "Coding Concepts/Recursion Board.md",
     "Coding Concepts/Rough Board.md",
     "Coding Concepts/Trees.md",
@@ -217,7 +220,6 @@
     "2024-09-23.md",
     "THE VAULT/Artificial intelligence/Images/Pasted image 20231211202526.png",
     "Daily Note/Pasted Image 20240818152131_482.png",
-    "THE VAULT/Database Notes/ADBMS/Notes 1.md",
     "Untitled.sheet",
     "DBMS Concepts",
     "THE VAULT/Database Notes/ADBMS/Images",
