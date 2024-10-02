@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "940ee445fecec761",
+        "id": "4297320d246a39bc",
         "type": "tabs",
         "children": [
           {
-            "id": "423bee2a121b14d2",
+            "id": "84ee37a453f615bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,10 +178,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "423bee2a121b14d2",
+  "active": "84ee37a453f615bc",
   "lastOpenFiles": [
-    "2024-10-01.md",
-    "2024-09-30.md",
+    "Daily Note.md",
+    "Daily Note/2024-09-29.md",
+    "Daily Note/2024-10-02.md",
+    "To-do list.md",
+    "Daily Note/2024-10-01.md",
+    "Daily Note/2024-09-30.md",
     "Projects/Cargo Project/UI_App.md",
     "Projects/Cargo Project/Cargo Project.md",
     "Coding Concepts/Recursion Board.md",
@@ -190,10 +194,8 @@
     "Projects/Cargo Project/UI_App.png",
     "Pasted Image 20240929221709_289.png",
     "Projects/Cargo Project/Routes.png",
-    "2024-09-29.md",
     "Projects/Cargo Project/Untitled",
     "Projects/Cargo Project",
-    "To-do list.md",
     "Coding Concepts/Sorting.md",
     "Daily Note/2024-09-27.md",
     "Untitled",
@@ -203,7 +205,6 @@
     "THE VAULT/Soft Computing/1 Notes.md",
     "Projects/WadrobeAppDesign/AppFlow.md",
     "Projects/NightLifeApp.md",
-    "Daily Note.md",
     "Daily Note/2024-09-25.md",
     "Coding Concepts/Images/Pasted Image 20240925195041_071.png",
     "Coding Concepts/Images",
@@ -217,7 +218,6 @@
     "Daily Note/2024-09-23.md",
     "Daily Note/2024-09-23 1.md",
     "Daily Note/2024-09-23 2.md",
-    "2024-09-23.md",
     "THE VAULT/Artificial intelligence/Images/Pasted image 20231211202526.png",
     "Daily Note/Pasted Image 20240818152131_482.png",
     "Untitled.sheet",
