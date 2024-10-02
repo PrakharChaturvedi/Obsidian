@@ -40,7 +40,7 @@
 - <span style="background:#d4b106">Yellow = 5 ques or more</span>
 - <span style="background:#5ced73">Green = 7 ques or more</span>
 - <span style="background:#ffffff">White = More than 10 ques</span>
-Todays Count : 0
+Todays Count : 5
 
 | THE BAR             | Sun                                            | Mon                                                                           | Tue                                                                           | Wed    | Thurs  | Fri    | Sat    |
 | ------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------ | ------ | ------ | ------ |
