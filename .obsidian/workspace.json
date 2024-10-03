@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4297320d246a39bc",
+        "id": "e691e3e7fc55bc0e",
         "type": "tabs",
         "children": [
           {
-            "id": "84ee37a453f615bc",
+            "id": "d1570d4e2517ae12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "To-do list.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Coding Concepts/LinkedList.md"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-do list.md",
+                "file": "Coding Concepts/LinkedList.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-do list.md",
+                "file": "Coding Concepts/LinkedList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-do list.md"
+                "file": "Coding Concepts/LinkedList.md"
               }
             }
           },
@@ -178,17 +175,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84ee37a453f615bc",
+  "active": "d1570d4e2517ae12",
   "lastOpenFiles": [
+    "Coding Concepts/Recursion Board.md",
+    "2024-10-04.md",
+    "Coding Concepts/LinkedList.md",
+    "To-do list.md",
     "Daily Note.md",
     "Daily Note/2024-09-29.md",
     "Daily Note/2024-10-02.md",
-    "To-do list.md",
     "Daily Note/2024-10-01.md",
     "Daily Note/2024-09-30.md",
     "Projects/Cargo Project/UI_App.md",
     "Projects/Cargo Project/Cargo Project.md",
-    "Coding Concepts/Recursion Board.md",
     "Coding Concepts/Rough Board.md",
     "Coding Concepts/Trees.md",
     "Projects/Cargo Project/UI_App.png",
@@ -212,12 +211,10 @@
     "Coding Concepts/Images/Pasted Image 20240925195245_061.png",
     "Coding Concepts/Images/Pasted Image 20240925195214_072.png",
     "Coding Concepts/Images/Pasted Image 20240925195127_063.png",
-    "Coding Concepts/LinkedList.md",
     "THE VAULT/Agile/Agile MST 3.md",
     "Daily Note/2024-09-24.md",
     "Daily Note/2024-09-23.md",
     "Daily Note/2024-09-23 1.md",
-    "Daily Note/2024-09-23 2.md",
     "THE VAULT/Artificial intelligence/Images/Pasted image 20231211202526.png",
     "Daily Note/Pasted Image 20240818152131_482.png",
     "Untitled.sheet",
