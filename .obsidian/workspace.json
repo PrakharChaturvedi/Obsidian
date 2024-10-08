@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e691e3e7fc55bc0e",
+        "id": "98469cce0a9f6449",
         "type": "tabs",
         "children": [
           {
-            "id": "d1570d4e2517ae12",
+            "id": "db21db5c4dc3f640",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Coding Concepts/LinkedList.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/LinkedList.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/LinkedList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Coding Concepts/LinkedList.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,10 +170,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d1570d4e2517ae12",
+  "active": "db21db5c4dc3f640",
   "lastOpenFiles": [
-    "2024-10-08.md",
     "Coding Concepts/LinkedList.md",
+    "2024-10-08.md",
     "Coding Concepts/Recursion Board.md",
     "2024-10-04.md",
     "To-do list.md",
