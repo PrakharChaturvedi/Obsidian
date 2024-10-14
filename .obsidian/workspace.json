@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Coding Concepts/Trees.md"
+                "file": "Coding Concepts/Sorting.md"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Trees.md",
+                "file": "Coding Concepts/Sorting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Trees.md",
+                "file": "Coding Concepts/Sorting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Trees.md"
+                "file": "Coding Concepts/Sorting.md"
               }
             }
           },
@@ -176,8 +175,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "42c008426e404d21",
+  "active": "db21db5c4dc3f640",
   "lastOpenFiles": [
+    "2024-10-15.md",
+    "Coding Concepts/Sorting.md",
+    "Coding Concepts/Trees.md",
     "2024-10-14.md",
     "Coding Concepts/LinkedList.md",
     "2024-10-08.md",
@@ -192,13 +194,11 @@
     "Projects/Cargo Project/UI_App.md",
     "Projects/Cargo Project/Cargo Project.md",
     "Coding Concepts/Rough Board.md",
-    "Coding Concepts/Trees.md",
     "Projects/Cargo Project/UI_App.png",
     "Pasted Image 20240929221709_289.png",
     "Projects/Cargo Project/Routes.png",
     "Projects/Cargo Project/Untitled",
     "Projects/Cargo Project",
-    "Coding Concepts/Sorting.md",
     "Daily Note/2024-09-27.md",
     "Untitled",
     "Gen AI workshop.md",
@@ -215,7 +215,6 @@
     "Coding Concepts/Images/Pasted Image 20240925195214_072.png",
     "Coding Concepts/Images/Pasted Image 20240925195127_063.png",
     "THE VAULT/Agile/Agile MST 3.md",
-    "Daily Note/2024-09-24.md",
     "THE VAULT/Artificial intelligence/Images/Pasted image 20231211202526.png",
     "Daily Note/Pasted Image 20240818152131_482.png",
     "Untitled.sheet",
