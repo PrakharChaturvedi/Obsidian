@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "98469cce0a9f6449",
+        "id": "91c1da7aff94307b",
         "type": "tabs",
         "children": [
           {
-            "id": "db21db5c4dc3f640",
+            "id": "013185e916238232",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Coding Concepts/Sorting.md"
+                "file": "Coding Concepts/Trees.md"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Sorting.md",
+                "file": "Coding Concepts/Trees.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Sorting.md",
+                "file": "Coding Concepts/Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Sorting.md"
+                "file": "Coding Concepts/Trees.md"
               }
             }
           },
@@ -176,8 +175,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db21db5c4dc3f640",
+  "active": "013185e916238232",
   "lastOpenFiles": [
+    "Coding Concepts/Images/Pasted Image 20240925195445_693.png",
+    "Coding Concepts/Images/Pasted Image 20240925195245_061.png",
+    "Coding Concepts/Images/Pasted Image 20240925195214_072.png",
+    "Coding Concepts/Images/Pasted Image 20240925195127_063.png",
+    "Coding Concepts/Images/Pasted Image 20240925195041_071.png",
+    "Daily Note.md",
+    "2024-10-04.md",
     "2024-10-15.md",
     "Coding Concepts/Sorting.md",
     "Coding Concepts/Trees.md",
@@ -185,9 +191,7 @@
     "Coding Concepts/LinkedList.md",
     "2024-10-08.md",
     "Coding Concepts/Recursion Board.md",
-    "2024-10-04.md",
     "To-do list.md",
-    "Daily Note.md",
     "Daily Note/2024-09-29.md",
     "Daily Note/2024-10-02.md",
     "Daily Note/2024-10-01.md",
@@ -209,13 +213,7 @@
     "Projects/WadrobeAppDesign/AppFlow.md",
     "Projects/NightLifeApp.md",
     "Daily Note/2024-09-25.md",
-    "Coding Concepts/Images/Pasted Image 20240925195041_071.png",
     "Coding Concepts/Images",
-    "Coding Concepts/Images/Pasted Image 20240925195445_693.png",
-    "Coding Concepts/Images/Pasted Image 20240925195245_061.png",
-    "Coding Concepts/Images/Pasted Image 20240925195214_072.png",
-    "Coding Concepts/Images/Pasted Image 20240925195127_063.png",
-    "THE VAULT/Agile/Agile MST 3.md",
     "THE VAULT/Artificial intelligence/Images/Pasted image 20231211202526.png",
     "Daily Note/Pasted Image 20240818152131_482.png",
     "Untitled.sheet",
