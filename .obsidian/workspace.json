@@ -13,25 +13,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Coding Concepts/LinkedList.md"
-              }
-            }
-          },
-          {
-            "id": "1e5f58a0d0578e30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cheat.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Coding Concepts/Trees.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -97,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheat.md",
+                "file": "Coding Concepts/Trees.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheat.md",
+                "file": "Coding Concepts/Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheat.md"
+                "file": "Coding Concepts/Trees.md"
               }
             }
           },
@@ -189,11 +176,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e5f58a0d0578e30",
+  "active": "013185e916238232",
   "lastOpenFiles": [
     "Coding Concepts/LinkedList.md",
+    "Daily Note/2024-10-16.md",
     "Cheat.md",
-    "2024-10-15.md",
+    "Daily Note/2024-10-15.md",
     "Coding Concepts/Trees.md",
     "Coding Concepts/Images/Pasted Image 20240925195445_693.png",
     "Coding Concepts/Images/Pasted Image 20240925195245_061.png",
@@ -227,7 +215,6 @@
     "THE VAULT/Soft Computing/1 Notes.md",
     "Projects/WadrobeAppDesign/AppFlow.md",
     "Projects/NightLifeApp.md",
-    "Daily Note/2024-09-25.md",
     "Coding Concepts/Images",
     "THE VAULT/Artificial intelligence/Images/Pasted image 20231211202526.png",
     "Daily Note/Pasted Image 20240818152131_482.png",
