@@ -18,4 +18,14 @@
 	- Error : user TEMP lacks CREATE SESSION privilage; logon denied
 - connect system
 	- Enter password
-- grant temp  
+- grant resource, connect to temp;
+	- If we add ,dba user becomes admin
+- connect temp
+	- Account lock error can happen 
+	- To fix alter user account unlock 
+
+- 3 level in dbs
+	- View level
+	- Logical level
+	- Physical level 
+	- 
