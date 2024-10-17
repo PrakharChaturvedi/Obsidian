@@ -28,4 +28,9 @@
 	- View level
 	- Logical level
 	- Physical level 
-	- 
+
+- Trigger can be used to make copy bcz it does not require a socket for copying
+	- Trigger is :
+		- Create trigger 'name' afterinsert begin {
+			insert into table values (101,....)-
+			}
