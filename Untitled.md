@@ -34,3 +34,7 @@
 		- Create trigger 'name' afterinsert begin {
 			insert into table values (101,....)-
 			}
+
+
+- Truncate and delete is same but delete works from log so it can be rolled back while, truncate can not be rolled back 
+- 

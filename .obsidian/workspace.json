@@ -11,9 +11,12 @@
             "id": "013185e916238232",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Coding Concepts/Sorting.md"
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -23,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "THE VAULT/Database Notes/Mongo DB Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "THE VAULT/Database Notes/Mongo DB Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "THE VAULT/Database Notes/Mongo DB Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "THE VAULT/Database Notes/Mongo DB Notes.md"
               }
             }
           },
@@ -191,8 +194,9 @@
   },
   "active": "dd5dd292da933ca6",
   "lastOpenFiles": [
-    "Coding Concepts/Sorting.md",
     "Untitled.md",
+    "Coding Concepts/Sorting.md",
+    "THE VAULT/Database Notes/Mongo DB Notes.md",
     "2024-10-17.md",
     "Coding Concepts/Trees.md",
     "Coding Concepts/LinkedList.md",
@@ -227,7 +231,6 @@
     "Gen AI workshop.md",
     "Daily Note/2024-09-28.md",
     "THE VAULT/Soft Computing/2 Notes.md",
-    "THE VAULT/Soft Computing/1 Notes.md",
     "Coding Concepts/Images",
     "THE VAULT/Artificial intelligence/Images/Pasted image 20231211202526.png",
     "Daily Note/Pasted Image 20240818152131_482.png",
