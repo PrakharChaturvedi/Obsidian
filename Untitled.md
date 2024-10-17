@@ -1,0 +1,21 @@
+- Durgesh sir class 
+	- DBMS
+		- .DB file : consist of multiple 
+- When working with a tech company or a team start and stop database is not required, as the database is already start (open) on the servers.
+
+- connect hr 
+	- then enter password
+- set autocommit on
+	- Set's commit to happen in every 5 secs
+- connect system
+	- Enter password 
+	- Connected shows up 
+- create user temp identified by 123456;
+	- Temp is the name of your user 
+	- 123456 is password for user temp 
+- connect temp
+	- Enter password 
+	- Error : user TEMP lacks CREATE SESSION privilage; logon denied
+- connect system
+	- Enter password
+- grant temp  

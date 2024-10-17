@@ -13,11 +13,25 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Coding Concepts/Trees.md"
+                "file": "Coding Concepts/Sorting.md"
+              }
+            }
+          },
+          {
+            "id": "dd5dd292da933ca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -84,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Concepts/Trees.md",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding Concepts/Trees.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Concepts/Trees.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -176,13 +189,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "013185e916238232",
+  "active": "dd5dd292da933ca6",
   "lastOpenFiles": [
+    "Coding Concepts/Sorting.md",
+    "Untitled.md",
+    "2024-10-17.md",
+    "Coding Concepts/Trees.md",
     "Coding Concepts/LinkedList.md",
     "Daily Note/2024-10-16.md",
     "Cheat.md",
     "Daily Note/2024-10-15.md",
-    "Coding Concepts/Trees.md",
     "Coding Concepts/Images/Pasted Image 20240925195445_693.png",
     "Coding Concepts/Images/Pasted Image 20240925195245_061.png",
     "Coding Concepts/Images/Pasted Image 20240925195214_072.png",
@@ -190,7 +206,6 @@
     "Coding Concepts/Images/Pasted Image 20240925195041_071.png",
     "Daily Note.md",
     "2024-10-04.md",
-    "Coding Concepts/Sorting.md",
     "2024-10-14.md",
     "2024-10-08.md",
     "Coding Concepts/Recursion Board.md",
@@ -213,8 +228,6 @@
     "Daily Note/2024-09-28.md",
     "THE VAULT/Soft Computing/2 Notes.md",
     "THE VAULT/Soft Computing/1 Notes.md",
-    "Projects/WadrobeAppDesign/AppFlow.md",
-    "Projects/NightLifeApp.md",
     "Coding Concepts/Images",
     "THE VAULT/Artificial intelligence/Images/Pasted image 20231211202526.png",
     "Daily Note/Pasted Image 20240818152131_482.png",
