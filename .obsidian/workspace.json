@@ -11,12 +11,15 @@
             "id": "ed733ce3262ff898",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Coding Concepts/Sorting.md"
+                "file": "2024-10-19.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Sorting"
+              "icon": "lucide-file",
+              "title": "2024-10-19"
             }
           }
         ]
@@ -75,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -200,10 +202,11 @@
   },
   "active": "ed733ce3262ff898",
   "lastOpenFiles": [
+    "Coding Concepts/Sorting.md",
+    "2024-10-19.md",
     "Untitled.md",
     "THE VAULT/Database Notes/Mongo DB Notes.md",
     "2024-10-17.md",
-    "Coding Concepts/Sorting.md",
     "Coding Concepts/Trees.md",
     "Coding Concepts/LinkedList.md",
     "Daily Note/2024-10-16.md",
@@ -236,7 +239,6 @@
     "Untitled",
     "Gen AI workshop.md",
     "Daily Note/2024-09-28.md",
-    "THE VAULT/Soft Computing/2 Notes.md",
     "Coding Concepts/Images",
     "THE VAULT/Artificial intelligence/Images/Pasted image 20231211202526.png",
     "Daily Note/Pasted Image 20240818152131_482.png",
