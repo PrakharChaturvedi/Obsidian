@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Coding Concepts/LinkedList.md"
+                "file": "Coding Concepts/Recursion Board.md"
               },
               "icon": "excalidraw-icon",
-              "title": "LinkedList"
+              "title": "Recursion Board"
             }
           }
         ]
@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -200,12 +199,12 @@
   },
   "active": "ed733ce3262ff898",
   "lastOpenFiles": [
-    "Coding Concepts/Trees.md",
-    "Coding Concepts/Stack Queue and Deque.md",
     "Coding Concepts/Sorting.md",
     "Coding Concepts/Rough Board.md",
-    "Coding Concepts/Recursion Board.md",
     "Coding Concepts/LinkedList.md",
+    "Coding Concepts/Trees.md",
+    "Coding Concepts/Stack Queue and Deque.md",
+    "Coding Concepts/Recursion Board.md",
     "2024-10-20.md",
     "THE VAULT/Database Notes/Mongo DB Notes.md",
     "THE VAULT/Database Notes/SQL.md",
