@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1b9d121b338cdced",
+        "id": "6b9a4b3f3006fd38",
         "type": "tabs",
         "children": [
           {
-            "id": "ed733ce3262ff898",
+            "id": "3cd08b56dbb7f8e9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Coding Concepts/Sorting.md"
+                "file": "THE VAULT/Database Notes/ADBMS/Images/Notes 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Sorting"
+              "icon": "lucide-file",
+              "title": "Notes 2"
             }
           }
         ]
@@ -75,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -198,20 +200,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ed733ce3262ff898",
+  "active": "3cd08b56dbb7f8e9",
   "lastOpenFiles": [
+    "THE VAULT/Database Notes/ADBMS/Notes 1.md",
+    "THE VAULT/Database Notes/ADBMS/Images/Notes 2.md",
+    "THE VAULT/Database Notes/SQL.md",
+    "2024-10-24.md",
+    "Coding Concepts/Sorting.md",
     "Projects/Cargo Project/Cargo Project.md",
     "Projects/Cargo Project/UI_App.md",
-    "Coding Concepts/Sorting.md",
     "Coding Concepts/Stack Queue and Deque.md",
-    "2024-10-24.md",
     "Coding Concepts/Recursion Board.md",
     "Coding Concepts/Rough Board.md",
     "Coding Concepts/LinkedList.md",
     "Coding Concepts/Trees.md",
     "2024-10-20.md",
     "THE VAULT/Database Notes/Mongo DB Notes.md",
-    "THE VAULT/Database Notes/SQL.md",
     "Daily Note/2024-10-17.md",
     "Daily Note/2024-10-20.md",
     "Daily Note/2024-10-19.md",
@@ -229,8 +233,6 @@
     "2024-10-14.md",
     "2024-10-08.md",
     "To-do list.md",
-    "Daily Note/2024-09-29.md",
-    "Daily Note/2024-10-02.md",
     "Projects/Cargo Project/UI_App.png",
     "Pasted Image 20240929221709_289.png",
     "Projects/Cargo Project/Routes.png",
