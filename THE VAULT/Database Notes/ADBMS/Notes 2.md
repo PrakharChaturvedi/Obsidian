@@ -59,6 +59,8 @@
 		- Generates different query-evaluation plans, aiming to reduce execution cost.
 	- Evaluation:
 		- The query execution engine runs the chosen plan and returns results.
+	- Diagram :  
+	- ![[Pasted image 20241024215358.png]]
 
 ## Measures of Query Cost
 - **Cost Factors**:
