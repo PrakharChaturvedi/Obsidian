@@ -167,8 +167,8 @@
 	- **Common Heuristic Rules**:
 	    - **Perform Selection Early**: Reduces the size of intermediate results by filtering tuples before other operations.
 	    - **Perform Projections Early**: Eliminates unnecessary attributes to reduce data size in subsequent operations.
-- #### 4. Steps in Heuristic Optimization
-	1. **Deconstruct Selections**: Break down conjunctive selections into single operations for more effective execution.
-	2. **Optimize Execution Order**: Determine the best order of operations to produce smaller intermediate relations based on selectivity.
-	3. **Replace Cartesian Products**: Transform Cartesian products followed by selection conditions into join operations.
-	4. **Identify Pipelining Opportunities**: Recognize and execute subtrees that can be pipelined for efficiency.
+	- Steps in Heuristic Optimization : 
+		1. **Deconstruct Selections**: Break down conjunctive selections into single operations for more effective execution.
+		2. **Optimize Execution Order**: Determine the best order of operations to produce smaller intermediate relations based on selectivity.
+		3. **Replace Cartesian Products**: Transform Cartesian products followed by selection conditions into join operations.
+		4. **Identify Pipelining Opportunities**: Recognize and execute subtrees that can be pipelined for efficiency.
