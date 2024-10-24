@@ -28,10 +28,22 @@
 	- If T reads A, modifies it, and before writing, T' also reads and modifies A, the final results can end up incorrect, creating extra money that wasn't actually there.
 ## ACID Properties
 - Transactions are designed to follow four key properties known as ACID:
-		1. **Atomicity**: All parts of a transaction must complete; if one fails, none do.
-		2. **Consistency**: Transactions should not violate database rules, ensuring data remains valid.
-		3. **Isolation**: Transactions running at the same time should not interfere with each other. It should seem like each transaction is the only one executing.
-		4. **Durability**: Once a transaction is completed, its changes are permanent, even if the system crashes.
+	1. **Atomicity**: All parts of a transaction must complete; if one fails, none do.
+	2. **Consistency**: Transactions should not violate database rules, ensuring data remains valid.
+	3. **Isolation**: Transactions running at the same time should not interfere with each other. It should seem like each transaction is the only one executing.
+	4. **Durability**: Once a transaction is completed, its changes are permanent, even if the system crashes.
+
+## Fundamental Operators
+- **Selection(σ):**** It is used to select required tuples of the relations.
+- **Projection(π):*** It is used to project required column data from a relation.
+- **Union(U):*** Union operation in relational algebra is the same as union operation in set theory.
+- **Set Difference(-):*** Set Difference in relational algebra is the same set difference operation as in set theory. 
+- **Set Intersection(∩):*** Set Intersection in relational algebra is the same set intersection operation in set theory.
+- **Rename(ρ):** Rename is a unary operation used for renaming attributes of a relation.
+- ***Cross Product(X):*** Cross-product between two relations. Let’s say A and B, so the cross product between A X B will result in all the attributes of A followed by each attribute of B. Each record of A will pair with every record of B.
+## Derived Operators
+- **Natural Join(⋈):*** Natural join is a binary operator. Natural join between two or more relations will result in a set of all combinations of tuples where they have an equal common attribute.
+- **Conditional Join:*** Conditional join works similarly to natural join. In natural join, by default condition is equal between common attributes while in conditional join we can specify any condition such as greater than, less than, or not equal.
 
 ## Query Processing Overview
 - **Definition**: Query processing involves translating, optimizing, and evaluating queries to extract data from a database.
