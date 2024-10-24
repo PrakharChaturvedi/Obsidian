@@ -53,8 +53,8 @@
 		- Checks syntax, verifies relation names, and constructs a parse tree.
 			`SELECT balance FROM account WHERE balance < 2500;`
 		- Possible relational-algebra translations :
-			- `σbalance<2500(Πbalance(account))`
-			- `Πbalance(σbalance<2500(account))`
+			- `σbalance < 2500(Πbalance(account))`
+			- `Πbalance(σbalance < 2500(account))`
 	- Optimization : 
 		- Generates different query-evaluation plans, aiming to reduce execution cost.
 	- Evaluation:
@@ -68,7 +68,8 @@
 	- Disk access is usually the most significant cost, as it is slower compared to in-memory operations.
 - **Primary Measure**: 
 	- Number of block transfers from disk.
-	- CPU speeds have been improving much faster than have disk speeds. Thus, it is likely that the time spent in disk activity will continue to dominate the total time to execute a query. Finally, estimating the CPU time is relatively hard, compared to estimating the disk-access cost. Therefore, most people consider the disk-access cost a reasonable measure of the cost of a query-evaluation plan. We use the number of block transfers from disk as a measure of the actual cost.
+	- CPU speeds have been improving much faster than have disk speeds. Thus, it is likely that the time spent in disk activity will continue to dominate the total time to execute a query. Finally, estimating the CPU time is relatively hard, compared to estimating the disk-access cost. 
+	- Therefore, most people consider the disk-access cost a reasonable measure of the cost of a query-evaluation plan. We use the number of block transfers from disk as a measure of the actual cost.
 
 ## Selection Operations
 - **Basic Scan Algorithms**:
