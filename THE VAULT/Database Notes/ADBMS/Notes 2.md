@@ -38,7 +38,7 @@
 - **Projection(π):*** It is used to project required column data from a relation.
 - **Union(U):*** Union operation in relational algebra is the same as union operation in set theory.
 - **Set Difference(-):*** Set Difference in relational algebra is the same set difference operation as in set theory. 
-- **Set Intersection(∩):*** Set Intersection in relational algebra is the same set intersection operation in set theory.
+- **Set Intersection(∩):*** Set Intersection in relational algebra is the same set intersection operation in set theory. 
 - **Rename(ρ):** Rename is a unary operation used for renaming attributes of a relation.
 - ***Cross Product(X):*** Cross-product between two relations. Let’s say A and B, so the cross product between A X B will result in all the attributes of A followed by each attribute of B. Each record of A will pair with every record of B.
 ## Derived Operators
@@ -78,7 +78,7 @@
 	    - Cost: b $r​$ (total blocks), average cost b $r$ /2 for key attributes.
 	2. **Binary Search (A2)**:
 	    - Used on ordered files for equality conditions.
-	    - Cost: O(log⁡b $r$)for finding the block, but may require reading multiple blocks for non-key attributes.
+	    - Cost: O(log⁡ b$r$)for finding the block, but may require reading multiple blocks for non-key attributes.
 
 ## Selections Using Indices
 - **Index Types**:
