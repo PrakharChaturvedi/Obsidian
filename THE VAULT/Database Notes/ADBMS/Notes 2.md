@@ -52,10 +52,9 @@
 		- Queries are converted into an internal format (similar to compiler parsing).
 		- Checks syntax, verifies relation names, and constructs a parse tree.
 			`SELECT balance FROM account WHERE balance < 2500;`
-		- Possible relational-algebra translations:
-			- Possible relational-algebra translations:
-				- `σbalance<2500(Πbalance(account))`
-				- `Πbalance(σbalance<2500(account))`
+		- Possible relational-algebra translations :
+			- `σbalance<2500(Πbalance(account))`
+			- `Πbalance(σbalance<2500(account))`
 	- Optimization : 
 		- Generates different query-evaluation plans, aiming to reduce execution cost.
 	- Evaluation:
