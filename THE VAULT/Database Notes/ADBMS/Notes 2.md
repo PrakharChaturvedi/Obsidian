@@ -26,14 +26,12 @@
 - #### Issues with Concurrent Execution
 	- In some cases, concurrent execution can lead to problems:
 	- If T reads A, modifies it, and before writing, T' also reads and modifies A, the final results can end up incorrect, creating extra money that wasn't actually there.
-	
 ## ACID Properties
 - Transactions are designed to follow four key properties known as ACID:
 		1. **Atomicity**: All parts of a transaction must complete; if one fails, none do.
 		2. **Consistency**: Transactions should not violate database rules, ensuring data remains valid.
 		3. **Isolation**: Transactions running at the same time should not interfere with each other. It should seem like each transaction is the only one executing.
 		4. **Durability**: Once a transaction is completed, its changes are permanent, even if the system crashes.
-
 
 ## Query Processing Overview
 - **Definition**: Query processing involves translating, optimizing, and evaluating queries to extract data from a database.
