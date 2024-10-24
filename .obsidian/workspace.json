@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -200,7 +201,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "42c008426e404d21",
+  "active": "3cd08b56dbb7f8e9",
   "lastOpenFiles": [
     "Daily Note/2024-10-20 1.md",
     "THE VAULT/Programming Updates.md",

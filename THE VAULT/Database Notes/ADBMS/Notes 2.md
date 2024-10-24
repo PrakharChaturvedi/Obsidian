@@ -85,74 +85,73 @@
 	    1. **Index Lookup**: First, the system looks up the value vvv in the primary index (like a B+-tree) to find the first record that matches or exceeds vvv.
 	    2. **File Scan**: Once the starting point is located, the system performs a file scan from that point to the end of the file to retrieve all records that satisfy the condition.
 - **Secondary Index (A7)**:
-	- **Usage**: This method can be used for all types of comparison conditions, including <,≤,>,<, \leq, >,<,≤,>, and ≥.
+	- **Usage**: This method can be used for all types of comparison conditions, including <, ≤, >, and ≥.
 	- **Process**:
 	    1. **Index Scan**: The system scans the index blocks in the direction specified by the comparison. For instance:
-	        - For A<vA < vA<v, it scans from the beginning of the index up to vvv.
-	        - For A>vA > vA>v, it scans from vvv to the end of the index.
+	        - For A<$v$A < $v$A<$v$, it scans from the beginning of the index up to $v$.
+	        - For A>$v$A > $v$A>$v$, it scans from $v$ to the end of the index.
 	    2. **Record Retrieval**: This method allows the retrieval of records that meet the comparison condition, using the index to guide the search efficiently.
 
-## Join Operation
-- Equi-join attributes from two relations, $r$ and $s$.
-- Used to combine records based on equality between specified attributes.
-## Nested-Loop Join
-- **Algorithm**: Two nested loops:
-    1. Outer loop iterates over each tuple tr in relation r.
-    2. Inner loop iterates over each tuple ts in relation s.
-    3. Checks if tuples satisfy the join condition θ\thetaθ; if yes, concatenates and adds to result.
-- **Cost**:
-    - Total number of tuple pairs examined: nr×ns \times (where nrn_rnr​ and nsn_sns​ are the number of tuples in r and s, respectively).
-    - **Block Accesses**:
-        - Worst case: nr×bs+brn_r \times b_s + b_rnr​×bs​+br​ (where brb_rbr​ and bsb_sbs​ are the number of blocks for rrr and sss).
-        - Best case: br+bsb_r + b_sbr​+bs​ if both relations fit in memory.
+## JOIN NAHI AAYA
 
-## Block Nested-Loop Join
-- Variation where blocks of the inner relation are paired with blocks of the outer relation.
-- Within each block pair, all tuples are joined.
-- **Optimization Techniques**:
-    - If join attributes form a key on the inner relation, exit inner loop upon the first match.
-    - Use as many blocks of the outer relation as fit in memory, reserving space for inner relation and output.
-    - Alternate scanning of the inner relation forward and backward to reuse buffer space.
-    - Use indices on the join attribute for more efficient lookups.
-## Indexed Nested-Loop Join
-- Utilizes an index on the join attribute in the inner relation.
-- For each tuple in the outer relation $r$:
-    - Look up relevant tuples in $s$ that satisfy the join condition using the index.
-- **Cost Calculation**:
-    - Total cost: b$r$+n$r$×c (where $c$ is the cost of a single selection on $s$).
+## Evaluation of Expressions in Relational Operations
+- #### Overview
+- Evaluating expressions with multiple relational operations can be done through two main methods: materialization and pipelining.
+- #### Materialization
+	- **Definition**: Evaluates one operation at a time and stores the result in temporary relations.
+	- **Process**:
+	    - Start from the lowest-level operations in an operator tree.
+	    - Execute operations using algorithms and store results as temporary relations.
+	    - Use these temporary relations for the next level of operations until reaching the root.
+	    - The final result is obtained from the root operation (e.g., projection).
+	- **Advantages**:
+	    - Intuitive understanding via operator trees.
+	- **Disadvantages**:
+	    - Inefficient due to the creation and storage of potentially large temporary relations, which require disk I/O.
+- #### Pipelining
+	- **Definition**: Evaluates multiple operations simultaneously, passing results directly to subsequent operations without temporary relations.
+	- **Process**:
+	    - Operations are combined into a pipeline.
+	    - Results are generated and passed immediately (e.g., a join operation immediately passing tuples to a projection).
+	- **Advantages**:
+	    - Reduces the need for intermediate storage.
+	    - Enhances query evaluation efficiency by minimizing disk I/O.
+- #### Implementation of Pipelining
+	- **Structure**: Construct a single complex operation that integrates multiple operations.
+	- **Memory Efficiency**: Low memory requirements since results are not stored long-term.
+	- **Execution Methods**:
+	    1. **Demand-Driven**:
+	        - System requests tuples from the top of the pipeline.
+	        - Each operation computes and returns the next tuple upon request.
+	        - If inputs are pipelined, it also requests tuples from lower operations.
+	    2. **Producer-Driven**:
+	        - Operations generate tuples eagerly.
+	        - Bottom-level operations continuously produce output until the buffer is full.
+	        - Higher-level operations produce output as they receive input until their buffer is full.
 
-## Merge Join
-- **Overview**:
-    - Also known as the sort-merge join algorithm.
-    - Suitable for natural joins and equi-joins.
-- **Process**:
-    - Requires both relations r(R)r(R)r(R) and s(S)s(S)s(S) to be sorted based on the join attributes R∩SR \cap SR∩S.
-    - Two pointers are initialized, each pointing to the first tuple of the respective relations.
-    - The algorithm reads groups of tuples with the same value on the join attributes.
-    - Concatenates tuples that match and projects out any repeated attributes.
-- **Key Points**:
-    - Efficient when both relations are already sorted.
-    - Requires sorting if the relations are not pre-sorted, which adds to the cost.
-
-## 4.3.4 Hash Join
-- **Overview**:
-    - Suitable for implementing natural joins and equi-joins.
-    - Utilizes a hash function to partition tuples from both relations.
-- **Process**:
-    - A hash function h maps the join attribute values to a set of partitions.
-    - Tuples from relation r are placed into partitions Hr0,Hr1,…,HrnhHr_0, Hr_1, \ldots, Hr_{nh}Hr0​,Hr1​,…,Hrnh​ based on their hash values.
-    - Similarly, tuples from relation sss are placed into partitions Hs0,Hs1,…,HsnhHs_0, Hs_1, \ldots, Hs_{nh}Hs0​,Hs1​,…,Hsnh​.
-    - Only tuples from matching partitions Hri and HsiHsiHsi are compared, reducing the number of comparisons needed.
-- **Key Points**:
-    
-    - Efficient for large datasets when the join attributes have a good hash distribution.
-    - Does not require sorting but needs sufficient memory for partitions.
-
-### Summary of Costs
-
-- **Merge Join**:
-    
-    - Cost involves sorting the relations if not pre-sorted, followed by a linear scan to perform the join.
-- **Hash Join**:
-    
-    - Cost depends on the efficiency of the hash function and memory availability for partitioning; typically more efficient than merge joins for large datasets without pre-sorting.
+## Query Optimization in Database Management Systems
+- #### Overview
+	- Query optimization is the process of selecting the most efficient execution plan for a query, particularly when dealing with complex queries. This involves several key operations to transform and streamline the evaluation of expressions.
+- #### 1. Optimizer Operations
+	- **Evaluation of Expressions**: Simplifies expressions and conditions containing constants.
+	- **Statement Transformation**: Converts complex statements (like correlated subqueries or views) into equivalent, simpler forms (e.g., join statements).
+	- **Choice of Optimizer Goals**: Establishes the objectives of optimization.
+	- **Choice of Access Paths**: Selects the best access methods for retrieving data from tables.
+	- **Choice of Join Orders**: Determines the optimal order in which tables are joined.
+- #### 2. Cost-Based Optimization
+	- **Definition**: Generates various query-evaluation plans and selects the one with the lowest estimated cost.
+	- **Join Orderings**: For multiple tables, the number of possible join orders grows exponentially. For n tables, there are 2(n−1)!/(n−1)! different join orders.
+	- **Dynamic Programming Approach**:
+	    - Stores results of previously computed plans in an associative array (`bestplan`).
+	    - Recursively divides sets of relations to find the cheapest plan by evaluating all possible divisions.
+	    - Time complexity is O(3n), where n is the number of relations.
+- #### 3. Heuristic Optimization
+	- **Definition**: Uses heuristic rules to reduce the complexity of optimization without calculating costs for every option.
+	- **Common Heuristic Rules**:
+	    - **Perform Selection Early**: Reduces the size of intermediate results by filtering tuples before other operations.
+	    - **Perform Projections Early**: Eliminates unnecessary attributes to reduce data size in subsequent operations.
+- #### 4. Steps in Heuristic Optimization
+	1. **Deconstruct Selections**: Break down conjunctive selections into single operations for more effective execution.
+	2. **Optimize Execution Order**: Determine the best order of operations to produce smaller intermediate relations based on selectivity.
+	3. **Replace Cartesian Products**: Transform Cartesian products followed by selection conditions into join operations.
+	4. **Identify Pipelining Opportunities**: Recognize and execute subtrees that can be pipelined for efficiency.
