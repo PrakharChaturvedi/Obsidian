@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/Database Notes/ADBMS/Images/Notes 2.md",
+                "file": "THE VAULT/Database Notes/ADBMS/Notes 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -200,12 +200,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3cd08b56dbb7f8e9",
+  "active": "42c008426e404d21",
   "lastOpenFiles": [
+    "Daily Note/2024-10-20 1.md",
+    "THE VAULT/Programming Updates.md",
+    "THE VAULT/Database Notes/ADBMS/Notes 2.md",
     "THE VAULT/Database Notes/ADBMS/Notes 1.md",
-    "THE VAULT/Database Notes/ADBMS/Images/Notes 2.md",
     "THE VAULT/Database Notes/SQL.md",
-    "2024-10-24.md",
+    "Daily Note/2024-10-24.md",
     "Coding Concepts/Sorting.md",
     "Projects/Cargo Project/Cargo Project.md",
     "Projects/Cargo Project/UI_App.md",
@@ -214,7 +216,6 @@
     "Coding Concepts/Rough Board.md",
     "Coding Concepts/LinkedList.md",
     "Coding Concepts/Trees.md",
-    "2024-10-20.md",
     "THE VAULT/Database Notes/Mongo DB Notes.md",
     "Daily Note/2024-10-17.md",
     "Daily Note/2024-10-20.md",
@@ -232,7 +233,6 @@
     "2024-10-04.md",
     "2024-10-14.md",
     "2024-10-08.md",
-    "To-do list.md",
     "Projects/Cargo Project/UI_App.png",
     "Pasted Image 20240929221709_289.png",
     "Projects/Cargo Project/Routes.png",
