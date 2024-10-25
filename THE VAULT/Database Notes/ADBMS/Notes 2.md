@@ -78,36 +78,34 @@
 	    - Cost: b $r​$ (total blocks), average cost b $r$ /2 for key attributes.
 	2. **Binary Search (A2)**:
 	    - Used on ordered files for equality conditions.
-	    - Cost: O(log⁡ b$r$)for finding the block, but may require reading multiple blocks for non-key attributes.
-
-## Selections Using Indices
-- **Index Types**:
-	 - **A3 (Primary Index, Equality on Key)**: 
-		 - Sigle fetch, heigh of B-tree+ I/O operation
-		 - For equality comparisons on a key attribute with a primary index, a single record can be retrieved using the index. 
-		 - The cost is equal to the height of the B+-tree plus one I/O operation to fetch the record.
-	- **A4 (Primary Index, Equality on Non-key)**:
-		- Multiple fetch, heigh of B-tree + no. block (b $r$) containing non-key attribute.
-		- When performing equality comparisons on a non-key attribute, multiple records can be retrieved. 
-		- The cost is still proportional to the height of the tree, plus the number of blocks containing records that match the non-key attribute.
-	- **A5 (Secondary Index, Equality)**: 
-		- Single fetch, heigh of B-tree+ I/O operation
-		- For equality conditions using a secondary index, a single record can be fetched if the condition is on a key, with costs equal to the height of the tree plus one I/O. 
-		- If the condition is on a non-key attribute, multiple records may be spread across different blocks, potentially leading to higher costs—up to one I/O operation per retrieved record, which can be worse than linear search for a large number of records.
-
-## Selections Involving Comparisons
-- **Primary Index (A6)**:
-	- **Usage**: This method is used for comparison conditions, such as A > $v$ or A <u>></u> $v$.
-	- **Process**:
-	    1. **Index Lookup**: First, the system looks up the value $v$ in the primary index (like a B+-tree) to find the first record that matches or exceeds $v$.
-	    2. **File Scan**: Once the starting point is located, the system performs a file scan from that point to the end of the file to retrieve all records that satisfy the condition.
-- **Secondary Index (A7)**:
-	- **Usage**: This method can be used for all types of comparison conditions, including <, ≤, >, and ≥.
-	- **Process**:
-	    1. **Index Scan**: The system scans the index blocks in the direction specified by the comparison. For instance:
-	        - For A< $v$ A < $v$ A< $v$, it scans from the beginning of the index up to $v$.
-	        - For A>$v$A > $v$A>$v$, it scans from $v$ to the end of the index.
-	    2. **Record Retrieval**: This method allows the retrieval of records that meet the comparison condition, using the index to guide the search efficiently.
+	    - Cost: O(log⁡ b $r$)for finding the block, but may require reading multiple blocks for non-key attributes.    
+- **Selections Using Indices**
+	- **Index Types**:
+		 - **A3 (Primary Index, Equality on Key)**: 
+			 - Sigle fetch, height of B-tree+ I/O operation
+			 - For equality comparisons on a key attribute with a primary index, a single record can be retrieved using the index. 
+			 - The cost is equal to the height of the B+-tree plus one I/O operation to fetch the record.
+		- **A4 (Primary Index, Equality on Non-key)**:
+			- Multiple fetch, heigh of B-tree + no. block (b $r$) containing non-key attribute.
+			- When performing equality comparisons on a non-key attribute, multiple records can be retrieved. 
+			- The cost is still proportional to the height of the tree, plus the number of blocks containing records that match the non-key attribute.
+		- **A5 (Secondary Index, Equality)**: 
+			- Single fetch, heigh of B-tree+ I/O operation
+			- For equality conditions using a secondary index, a single record can be fetched if the condition is on a key, with costs equal to the height of the tree plus one I/O. 
+			- If the condition is on a non-key attribute, multiple records may be spread across different blocks, potentially leading to higher costs—up to one I/O operation per retrieved record, which can be worse than linear search for a large number of records.	
+	- **Selections Involving Comparisons**
+		- **Primary Index (A6)**:
+			- **Usage**: This method is used for comparison conditions, such as A > $v$ or A <u>></u> $v$.
+			- **Process**:
+			    1. **Index Lookup**: First, the system looks up the value $v$ in the primary index (like a B+-tree) to find the first record that matches or exceeds $v$.
+			    2. **File Scan**: Once the starting point is located, the system performs a file scan from that point to the end of the file to retrieve all records that satisfy the condition.
+		- **Secondary Index (A7)**:
+			- **Usage**: This method can be used for all types of comparison conditions, including <, ≤, >, and ≥.
+			- **Process**:
+			    1. **Index Scan**: The system scans the index blocks in the direction specified by the comparison. For instance:
+			        - For A< $v$ A < $v$ A< $v$, it scans from the beginning of the index up to $v$.
+			        - For A>$v$A > $v$A>$v$, it scans from $v$ to the end of the index.
+			    2. **Record Retrieval**: This method allows the retrieval of records that meet the comparison condition, using the index to guide the search efficiently.
 
 ## JOIN NAHI AAYA
 
