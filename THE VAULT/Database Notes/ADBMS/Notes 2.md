@@ -107,7 +107,14 @@
 			        - For A>$v$A > $v$A>$v$, it scans from $v$ to the end of the index.
 			    2. **Record Retrieval**: This method allows the retrieval of records that meet the comparison condition, using the index to guide the search efficiently.
 
-## JOIN NAHI AAYA
+## JOIN 
+- When we join 2 or more than 2 tables. 
+- Types : 
+	- Nested loop
+	- Block nested loop
+	- Indexed nested loop
+	- Merge join
+	- Hash join 
 
 ## Evaluation of Expressions in Relational Operations
 - #### Overview
@@ -170,3 +177,14 @@
 		2. **Optimize Execution Order**: Determine the best order of operations to produce smaller intermediate relations based on selectivity.
 		3. **Replace Cartesian Products**: Transform Cartesian products followed by selection conditions into join operations.
 		4. **Identify Pipelining Opportunities**: Recognize and execute subtrees that can be pipelined for efficiency.
+
+## Concurrency control 
+- Maintains mechanism if many transactions occurring together with maintaining consistency.
+- 2 phase locking : 
+	- Growing 
+	- Shrinking
+- Locking : 
+	- Shared 
+	- Exclusive
+- Time based protocol :
+	- Unique value assign to index so that executes in order .
