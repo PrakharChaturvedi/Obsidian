@@ -133,7 +133,7 @@
       - **Benefits**: Often more cost-effective and supports high data throughput and large data processing needs.
    - **Vertical Scaling (Scale Up):**
       - **Definition**: Increases resources (like CPU, RAM, or storage) on an existing server.
-      - **Use Cases**: Suitable for applications needing more power on a single server rather than spreading across multiple servers.
+      - **Use Cases**: Suitable for applications needing more power on a single server rather than spreading across multiple servers. 
       - **Limitations**: Has physical hardware limits, making it less flexible compared to horizontal scaling for large applications.
 ## Benefits of Cloud Computing
    - **Scalability**: Easily adjust resources based on demand without purchasing new hardware.
