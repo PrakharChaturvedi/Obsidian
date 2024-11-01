@@ -30,10 +30,6 @@
     "debugMode": false,
     "lucideIconPackType": "native"
   },
-  "THE VAULT/Database Notes": {
-    "iconName": "LiActivity",
-    "iconColor": "#21d4c8"
-  },
   "Coding Concepts": {
     "iconName": "LiAnchor",
     "iconColor": "#d3a80d"
@@ -41,5 +37,9 @@
   "DBMS Concepts": {
     "iconName": "LiAnchor",
     "iconColor": "#1aad6d"
+  },
+  "Database Notes": {
+    "iconName": "LiActivity",
+    "iconColor": "#21d4c8"
   }
 }

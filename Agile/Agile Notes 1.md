@@ -1,0 +1,20 @@
+## Waterfall model 
+- Linear sequential framework 
+- 1st SDLC model
+- Team members does not need to communicate much (if compared with Agile framework).
+- Works on fixed dates, requirements and outcomes.
+- In waterfall model each phase must be completed before the next phase can begin and there is no overlapping in the phase.
+- <font color="#ffc000">Phases of waterfall model :</font>
+	- Requirement Analysis 
+	- System Design
+	- Implantation
+	- Testing
+	- Deployment 
+	- Maintenance
+- Some situations where waterfall model can be used are :
+	- Requirements are well documented, clear and fixed.
+	- Product definition is stable.
+	- Technology is understood and not dynamic.
+	- There is no ambiguous requirements.
+	- Ample resources with required expertise are available to support the product.
+	- The project is short.
