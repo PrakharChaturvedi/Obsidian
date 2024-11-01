@@ -1,22 +1,72 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "path:College  ",
+      "color": {
+        "a": 1,
+        "rgb": 1027512
+      }
+    },
+    {
+      "query": "path:Programming  ",
+      "color": {
+        "a": 1,
+        "rgb": 3936184
+      }
+    },
+    {
+      "query": "path:Codec  ",
+      "color": {
+        "a": 1,
+        "rgb": 15541934
+      }
+    },
+    {
+      "query": "path:DBMS  ",
+      "color": {
+        "a": 1,
+        "rgb": 1275572
+      }
+    },
+    {
+      "query": "path:AI-ML-DL  ",
+      "color": {
+        "a": 1,
+        "rgb": 14625358
+      }
+    },
+    {
+      "query": "path:Personal Notes",
+      "color": {
+        "a": 1,
+        "rgb": 12615697
+      }
+    },
+    {
+      "query": "[\"excalidraw-plugin\":",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 0.695945945945946,
-  "lineSizeMultiplier": 1.53128898128898,
-  "collapse-forces": true,
-  "centerStrength": 0.579002079002079,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 0.797817047817048,
+  "lineSizeMultiplier": 0.36995841995842,
+  "collapse-forces": false,
+  "centerStrength": 1,
   "repelStrength": 0,
-  "linkStrength": 0.0218295218295218,
-  "linkDistance": 146,
-  "scale": 0.40233500760508595,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.4023350076050887,
   "close": true
 }
