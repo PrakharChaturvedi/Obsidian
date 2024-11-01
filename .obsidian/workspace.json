@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE VAULT/Cloud Computing/New Notes.md",
-                "mode": "preview",
+                "file": "2024-11-01.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Notes"
+              "title": "2024-11-01"
             }
           }
         ]
@@ -202,8 +202,9 @@
   },
   "active": "5216f8493a79e965",
   "lastOpenFiles": [
-    "2024-10-25.md",
     "THE VAULT/Cloud Computing/New Notes.md",
+    "2024-11-01.md",
+    "2024-10-25.md",
     "THE VAULT/Database Notes/ADBMS/Notes 2.md",
     "THE VAULT/Database Notes/ADBMS/Images/Pasted image 20241024215358.png",
     "Pasted image 20241024215339.png",
@@ -231,7 +232,6 @@
     "THE VAULT/Database Notes/SQL.md",
     "Daily Note/2024-10-24.md",
     "Coding Concepts/Sorting.md",
-    "Projects/Cargo Project/Cargo Project.md",
     "Coding Concepts/Images/Pasted Image 20240925195445_693.png",
     "Coding Concepts/Images/Pasted Image 20240925195245_061.png",
     "Coding Concepts/Images/Pasted Image 20240925195214_072.png",
