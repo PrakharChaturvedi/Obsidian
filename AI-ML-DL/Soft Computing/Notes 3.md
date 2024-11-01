@@ -162,9 +162,9 @@
 	- **Training**: Feedforward networks are trained using backpropagation, a process in which the network's weights are adjusted based on the loss function calculated at the output layer. Gradients flow backward through the network to update the weights.
 	- **Applications**: Commonly used in tasks such as classification, regression, and function approximation.
 - <font color="#ffc000">Feedbackward Network :</font>
-	- **Definition**: Feedbackward (or recurrent) networks allow information to flow in cycles or loops, enabling the network to maintain internal states and process sequences of data.
-	- **Characteristics**: Feedbackward networks, such as recurrent neural networks (RNNs), LSTMs, and GRUs, can store and update state information over time, allowing them to capture dependencies in sequential data.
-	- **Training**: Feedbackward networks are trained using backpropagation through time (BPTT), an extension of backpropagation that unrolls the network over time to calculate gradients and update weights.
+	- **Definition**: Feed-backward (or recurrent) networks allow information to flow in cycles or loops, enabling the network to maintain internal states and process sequences of data.
+	- **Characteristics**: Feed-backward networks, such as recurrent neural networks (RNNs), LSTMs, and GRUs, can store and update state information over time, allowing them to capture dependencies in sequential data.
+	- **Training**: Feed-backward networks are trained using backpropagation through time (BPTT), an extension of backpropagation that unrolls the network over time to calculate gradients and update weights.
 	- **Applications**: Well-suited for tasks such as natural language processing, speech recognition, and time series analysis where sequence data is involved.
 
 ## Explain drop out regularization. Also explain how it will help in optimization
