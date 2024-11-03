@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:College  ",
@@ -66,14 +66,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.3,
-  "nodeSizeMultiplier": 0.797817047817048,
-  "lineSizeMultiplier": 0.36995841995842,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 1.10343035343035,
+  "lineSizeMultiplier": 1.2460498960499,
   "collapse-forces": false,
   "centerStrength": 1,
   "repelStrength": 0,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.20652852271293135,
+  "scale": 0.19101604617584894,
   "close": true
 }
