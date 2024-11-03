@@ -1,1 +1,3 @@
--  
+-  Protocols : 
+	- How a particular data is being sent from one computer to another is known as protocol. Their can be multiple types of protocols : TCS, IP, UDP, HTTP,  etc...
+	- 
