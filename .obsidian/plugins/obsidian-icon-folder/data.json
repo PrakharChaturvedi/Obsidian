@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiAperture",
-      "LiBookOpenText",
-      "LiDiamondPlus",
-      "LiLayoutTemplate",
-      "LiStars"
+      "LiHandPlatter",
+      "LiForkKnifeCrossed",
+      "LiPizza",
+      "LiSkull",
+      "LiGitGraph"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,14 +33,8 @@
     "debugMode": false,
     "lucideIconPackType": "native"
   },
-  "DBMS/Database Notes": {
-    "iconName": "LiActivity",
-    "iconColor": "#21d4c8"
-  },
-  "DBMS/DBMS Concepts": {
-    "iconName": "LiAnchor",
-    "iconColor": "#1aad6d"
-  },
+  "DBMS/Database Notes": "LiActivity",
+  "DBMS/DBMS Concepts": "LiAnchor",
   "Personal Notes": "LiBrain",
   "Programming": "LiCodeSquare",
   "GIt": "LiGithub",
@@ -53,5 +47,15 @@
   "Personal Notes/Templates": "LiLayoutTemplate",
   "Personal Notes/Imp's": "LiDiamondPlus",
   "Personal Notes/Daily Note": "LiBookOpenText",
-  "Personal Notes/MUN 2023": "LiAperture"
+  "Personal Notes/MUN 2023": "LiAperture",
+  "Concepts/Cloud Computing": "LiCloudy",
+  "Concepts/Computer Networks": "LiNetwork",
+  "Concepts/Cryptography and network security": "LiPackage",
+  "Concepts/Innovative project": "LiPuzzle",
+  "Concepts/IOT": "LiCircuitBoard",
+  "Concepts/R": "LiGitGraph",
+  "Concepts/Theory of computation": "LiSkull",
+  "AI-ML-DL/Artificial intelligence": "LiPizza",
+  "AI-ML-DL/Machine learning": "LiForkKnifeCrossed",
+  "AI-ML-DL/Soft Computing": "LiHandPlatter"
 }
