@@ -224,3 +224,5 @@
 - Adding layers sequentially 
 - Compiling the model 
 - Output model at the end !!
+
+Next  - [[AI-ML-DL/Soft Computing/Notes 3|Notes 3]]

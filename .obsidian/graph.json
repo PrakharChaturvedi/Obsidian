@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": true,
@@ -50,13 +50,6 @@
       }
     },
     {
-      "query": "[\"excalidraw-plugin\"]:",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
       "query": "path:Adole  ",
       "color": {
         "a": 1,
@@ -64,16 +57,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -0.7,
-  "nodeSizeMultiplier": 1.10343035343035,
-  "lineSizeMultiplier": 1.2460498960499,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 1.20530145530146,
+  "lineSizeMultiplier": 2.46850311850312,
   "collapse-forces": false,
-  "centerStrength": 1,
+  "centerStrength": 0.200623700623701,
   "repelStrength": 0,
-  "linkStrength": 1,
+  "linkStrength": 0.458419958419958,
   "linkDistance": 30,
-  "scale": 0.19101604617584894,
+  "scale": 0.24147870599940166,
   "close": true
 }

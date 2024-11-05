@@ -200,3 +200,5 @@
 
 ## RNN unit with its unwinding diagram
 ![[Pasted image 20240421185246.png]]
+
+Notes Link to Notes 1 - [[]]

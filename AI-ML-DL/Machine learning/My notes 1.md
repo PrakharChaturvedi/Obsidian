@@ -21,7 +21,7 @@
 		- Numerical information (Numbers)
 		- Types 
 			- Discreate : Data can only take certain values (like whole numbers)
-			- Continious : Data can take any value (within a range)
+			- Continuous : Data can take any value (within a range)
 
 ## *How does machine learning work* 
 - Step 1 : Input data 
@@ -128,3 +128,5 @@
 - It is a lazy algorithm
 - Classifies new points based on a similarity measure.
 - Identifies data points that are separated into several classes to predict the classification of a new sample point.
+
+Next - [[AI-ML-DL/Machine learning/My Notes 2|My Notes 2]]

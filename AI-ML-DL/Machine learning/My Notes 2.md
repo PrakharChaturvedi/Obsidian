@@ -68,3 +68,5 @@
 - <font color="#00b050">Density based clustering</font>
 	- Density-based clustering is a type of clustering algorithm that identifies clusters based on the density of data points in the feature space.
 	- Unlike partition-based methods such as K-means, density-based clustering methods do not require specifying the number of clusters beforehand and can discover clusters of arbitrary shapes.
+
+Next - [[AI-ML-DL/Machine learning/My Notes 2|My Notes 3]]

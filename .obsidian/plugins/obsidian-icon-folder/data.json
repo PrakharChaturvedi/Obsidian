@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiHandPlatter",
-      "LiForkKnifeCrossed",
-      "LiPizza",
-      "LiSkull",
-      "LiGitGraph"
+      "LiAlignHorizontalDistributeCenter",
+      "LiProjector",
+      "LiAtom",
+      "LiBone",
+      "LiAxe"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,7 +42,6 @@
   "DBMS": "LiDatabase",
   "Concepts": "LiComponent",
   "Codec": "LiExperiment",
-  "AI-ML-DL": "LiCpu",
   "Adole": "LiStars",
   "Personal Notes/Templates": "LiLayoutTemplate",
   "Personal Notes/Imp's": "LiDiamondPlus",
@@ -57,5 +56,10 @@
   "Concepts/Theory of computation": "LiSkull",
   "AI-ML-DL/Artificial intelligence": "LiPizza",
   "AI-ML-DL/Machine learning": "LiForkKnifeCrossed",
-  "AI-ML-DL/Soft Computing": "LiHandPlatter"
+  "AI-ML-DL/Soft Computing": "LiHandPlatter",
+  "Programming/API Notes": "LiAxe",
+  "Programming/Coding Concepts": "LiBone",
+  "Programming/OOPS": "LiAtom",
+  "Programming/Projects": "LiProjector",
+  "AI-ML-DL": "LiAlignHorizontalDistributeCenter"
 }

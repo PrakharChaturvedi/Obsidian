@@ -1,4 +1,4 @@
-### Object-Oriented Programming (OOP) Fundamentals
+## Object-Oriented Programming (OOP) Fundamentals
 - Object-oriented programming (OOP) is a programming paradigm that revolves around creating "objects" to represent real-world entities. These objects encapsulate data (properties) and the actions (methods) that can be performed on that data. Here’s a breakdown of the key concepts in OOP :
 	- **Classes and Objects** :
 		- **Class :** A class is a blueprint that defines the properties and methods that objects of a certain kind will share. It acts as a template for creating objects. 
@@ -7,7 +7,7 @@
 	- **Encapsulation** :
 		- Encapsulation is the concept of bundling data (properties) and the methods that operate on that data together within an object. It restricts direct access to the data, allowing it to be modified only through the object’s methods. This promotes data protection and prevents accidental changes from outside code.
 	- **Inheritance :**
-		- Inheritance allows creating new classes (subclasses) that inherit properties and methods from existing classes (superclasses). This promotes code reusability and creates a hierarchical relationship between classes. 
+		- Inheritance allows creating new classes (subclasses) that inherit properties and methods from existing classes (super classes). This promotes code reusability and creates a hierarchical relationship between classes. 
 		- For example, a ‘SportsCar‘ class might inherit from the ‘Car‘ class, gaining all its general functionalities while adding specific methods like ‘useTurboBoost‘.
 	- **Polymorphism :**
 		- Polymorphism allows objects of different classes to respond to the same method call in different ways. This is achieved through method overriding in subclasses. For instance, a ‘fly‘ method on a ‘Bird‘ class would have different behavior compared to a ‘fly‘ method on an ‘Airplane‘ class, even though they share the same name.

@@ -128,3 +128,4 @@ Syllabus covered : *RL, RL model*, *Markov decision process, Markov chain*, *Val
 	- Machine learning in healthcare has the potential to assist healthcare professionals in early diagnosis, risk stratification, and personalized treatment plans.
 
 
+Next - [[AI-ML-DL/Machine learning/My Notes 3|My Notes 1]]
