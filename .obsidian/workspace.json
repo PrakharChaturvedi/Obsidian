@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "69ad5ef180030ae9",
+        "id": "64b1f3713c23872b",
         "type": "tabs",
         "children": [
           {
-            "id": "2b089304d3450b5f",
+            "id": "3d8f5b18001fc6d7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "The Vault/Programming/API Notes/API notes 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API notes 1"
             }
           }
         ]
@@ -82,6 +87,7 @@
       {
         "id": "0e871be1f73b84d7",
         "type": "tabs",
+        "dimension": 45.77056778679027,
         "children": [
           {
             "id": "3e62ca1123bd5a81",
@@ -138,37 +144,12 @@
             }
           },
           {
-            "id": "b2244ce610bcbc6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI-ML-DL/Soft Computing/Notes 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes 3"
-            }
-          },
-          {
-            "id": "035e3c86607d03c9",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "437bb500f406f436",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-ML-DL/Machine learning/My notes 1.md",
+                "file": "The Vault/AI-ML-DL/Machine learning/My notes 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -191,11 +172,29 @@
               "title": "All properties"
             }
           }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "f0c01a90139f7427",
+        "type": "tabs",
+        "dimension": 54.22943221320974,
+        "children": [
+          {
+            "id": "73f6f328eba42114",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 454.5
+    "width": 456.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,53 +208,52 @@
       "graph:Open graph view": false
     }
   },
-  "active": "2b089304d3450b5f",
+  "active": "73f6f328eba42114",
   "lastOpenFiles": [
-    "AI-ML-DL/Soft Computing/Notes 3.md",
-    "AI-ML-DL/Machine learning/My notes 1.md",
-    "AI-ML-DL/Machine learning/My notes 3.md",
-    "AI-ML-DL/Soft Computing/Notes 2.md",
-    "AI-ML-DL/Soft Computing/Notes 1.md",
-    "AI-ML-DL/Artificial intelligence/My Notes 3.md",
-    "AI-ML-DL/Artificial intelligence/My notes 1.md",
-    "AI-ML-DL/Machine learning/My Notes 2.md",
-    "AI-ML-DL/Machine learning/Images/Unit 2 Ending.md",
-    "Programming/OOPS/OOP's Notes Interview.md",
-    "Personal Notes/To-do list.md",
-    "Personal Notes/Templates/Daily Notes Template.md",
-    "Personal Notes/Daily Note/2024/11-November/2024-11-05-Tuesday..md",
-    "Personal Notes/Daily Note/2023",
-    "Personal Notes/Daily Note/2024/10-October/2024-10-25.md",
+    "The Vault",
+    "The Vault/AI-ML-DL/Soft Computing/Notes 3.md",
+    "The Vault/AI-ML-DL/Machine learning/Images/Pasted image 20231211133324.png",
+    "The Vault/Programming/API Notes/API notes 1.md",
+    "The Vault/AI-ML-DL/Machine learning/My notes 1.md",
+    "The Vault/AI-ML-DL/Machine learning/My notes 3.md",
+    "The Vault/AI-ML-DL/Soft Computing/Notes 2.md",
+    "The Vault/AI-ML-DL/Soft Computing/Notes 1.md",
+    "The Vault/AI-ML-DL/Artificial intelligence/My Notes 3.md",
+    "The Vault/AI-ML-DL/Artificial intelligence/My notes 1.md",
+    "The Vault/AI-ML-DL/Machine learning/My Notes 2.md",
+    "The Vault/AI-ML-DL/Machine learning/Images/Unit 2 Ending.md",
+    "The Vault/Programming/OOPS/OOP's Notes Interview.md",
+    "The Vault/Personal Notes/To-do list.md",
+    "The Vault/Personal Notes/Templates/Daily Notes Template.md",
+    "The Vault/Personal Notes/Daily Note/2024/11-November/2024-11-05-Tuesday..md",
+    "The Vault/Personal Notes/Daily Note/2023",
+    "The Vault/Personal Notes/Daily Note/2024/10-October/2024-10-25.md",
     "Personal Notes/Daily Note/2024-11-05.md",
-    "Personal Notes/Daily Note/2024/10-October/2024-10-20.md",
-    "Personal Notes/Daily Note/2024/10-October/2024-10-01.md",
-    "Personal Notes/Daily Note/2024/09-September/2024-09-01.md",
-    "Personal Notes/Daily Note/2024/10-October",
-    "Untitled",
-    "Personal Notes/Daily Note/2024/08-August/2024-08-08.md",
-    "Personal Notes/Daily Note/2024/09-September",
-    "Personal Notes/Daily Note/2024/07-July/2024-07-29.md",
-    "Personal Notes/Daily Note/2024/08-August",
-    "Personal Notes/Daily Note/2024/07-July/2024-07-04.md",
-    "Personal Notes/Daily Note/2024/06-June/2024-06-01.md",
-    "Personal Notes/Daily Note/2024/07-July",
-    "Personal Notes/Daily Note/2024/05-May/2024-05-30.md",
-    "Personal Notes/Daily Note/2024/05-May/2024-05-02.md",
-    "Personal Notes/Daily Note/2024/06-June",
-    "Personal Notes/Daily Note/2024/04-April/2024-04-02.md",
-    "Personal Notes/Daily Note/2024/05-May",
-    "Personal Notes/Daily Note/2024/03-March/2024-03-04.md",
-    "Personal Notes/Daily Note/2024/04-April",
-    "Personal Notes/Daily Note/2024/03-March",
-    "Adole/design/assets/images/2023-04-06 16.17 AdoLE.svg",
-    "DBMS/Database Notes/ADBMS/Images/Pasted image 20241024215358.png",
+    "The Vault/Personal Notes/Daily Note/2024/10-October/2024-10-20.md",
+    "The Vault/Personal Notes/Daily Note/2024/10-October/2024-10-01.md",
+    "The Vault/Personal Notes/Daily Note/2024/09-September/2024-09-01.md",
+    "The Vault/Personal Notes/Daily Note/2024/10-October",
+    "The Vault/Personal Notes/Daily Note/2024/08-August/2024-08-08.md",
+    "The Vault/Personal Notes/Daily Note/2024/09-September",
+    "The Vault/Personal Notes/Daily Note/2024/07-July/2024-07-29.md",
+    "The Vault/Personal Notes/Daily Note/2024/08-August",
+    "The Vault/Personal Notes/Daily Note/2024/07-July/2024-07-04.md",
+    "The Vault/Personal Notes/Daily Note/2024/06-June/2024-06-01.md",
+    "The Vault/Personal Notes/Daily Note/2024/07-July",
+    "The Vault/Personal Notes/Daily Note/2024/05-May/2024-05-30.md",
+    "The Vault/Personal Notes/Daily Note/2024/05-May/2024-05-02.md",
+    "The Vault/Personal Notes/Daily Note/2024/06-June",
+    "The Vault/Personal Notes/Daily Note/2024/05-May",
+    "The Vault/Personal Notes/Daily Note/2024/04-April",
+    "The Vault/Personal Notes/Daily Note/2024/03-March",
+    "The Vault/Adole/design/assets/images/2023-04-06 16.17 AdoLE.svg",
+    "The Vault/DBMS/Database Notes/ADBMS/Images/Pasted image 20241024215358.png",
     "Pasted image 20241024215339.png",
     "Pasted image 20241024215156.png",
     "Pasted image 20241024215110.png",
-    "Programming/Coding Concepts/Images/Pasted Image 20240925195445_693.png",
-    "Programming/Coding Concepts/Images/Pasted Image 20240925195245_061.png",
-    "Programming/Coding Concepts/Images/Pasted Image 20240925195214_072.png",
-    "Programming/Coding Concepts/Images/Pasted Image 20240925195127_063.png",
-    "Programming/Coding Concepts/Images/Pasted Image 20240925195041_071.png"
+    "The Vault/Programming/Coding Concepts/Images/Pasted Image 20240925195445_693.png",
+    "The Vault/Programming/Coding Concepts/Images/Pasted Image 20240925195245_061.png",
+    "The Vault/Programming/Coding Concepts/Images/Pasted Image 20240925195214_072.png",
+    "The Vault/Programming/Coding Concepts/Images/Pasted Image 20240925195127_063.png"
   ]
 }

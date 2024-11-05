@@ -237,4 +237,4 @@ R∘S => (Bold Intersection)
 [0.5  0.8]
 [0.6​  0.6]
 
-Next - [[AI-ML-DL/Soft Computing/Notes 2|Notes 2]]
+Next - [[The Vault/AI-ML-DL/Soft Computing/Notes 2|Notes 2]]

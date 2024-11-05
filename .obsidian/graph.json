@@ -1,72 +1,37 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:College  ",
+      "query": "path:\"The Vault\"  ",
       "color": {
         "a": 1,
-        "rgb": 1027512
+        "rgb": 4451008
       }
     },
     {
-      "query": "path:Programming  ",
+      "query": "path:\"The Vault/Programming/Coding Concepts\"  ",
       "color": {
         "a": 1,
-        "rgb": 3936184
-      }
-    },
-    {
-      "query": "path:Codec  ",
-      "color": {
-        "a": 1,
-        "rgb": 15541934
-      }
-    },
-    {
-      "query": "path:DBMS  ",
-      "color": {
-        "a": 1,
-        "rgb": 1275572
-      }
-    },
-    {
-      "query": "path:AI-ML-DL  ",
-      "color": {
-        "a": 1,
-        "rgb": 14625358
-      }
-    },
-    {
-      "query": "path:Personal Notes",
-      "color": {
-        "a": 1,
-        "rgb": 12615697
-      }
-    },
-    {
-      "query": "path:Adole  ",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
+        "rgb": 2046463
       }
     }
   ],
   "collapse-display": true,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": -0.9,
-  "nodeSizeMultiplier": 1.20530145530146,
-  "lineSizeMultiplier": 2.46850311850312,
-  "collapse-forces": false,
-  "centerStrength": 0.200623700623701,
+  "nodeSizeMultiplier": 1.22567567567568,
+  "lineSizeMultiplier": 2.16288981288981,
+  "collapse-forces": true,
+  "centerStrength": 0,
   "repelStrength": 0,
-  "linkStrength": 0.458419958419958,
-  "linkDistance": 30,
-  "scale": 0.24147870599940166,
+  "linkStrength": 1,
+  "linkDistance": 56,
+  "scale": 0.08762957236238408,
   "close": true
 }

@@ -129,4 +129,4 @@
 - Classifies new points based on a similarity measure.
 - Identifies data points that are separated into several classes to predict the classification of a new sample point.
 
-Next - [[AI-ML-DL/Machine learning/My Notes 2|My Notes 2]]
+Next - [[The Vault/AI-ML-DL/Machine learning/My Notes 2|My Notes 2]]
