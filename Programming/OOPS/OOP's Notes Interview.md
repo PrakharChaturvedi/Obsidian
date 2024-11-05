@@ -120,7 +120,7 @@
 		- Here, ‘horsePower‘ and ‘increasePower‘ are private to the ‘Engine‘ class.
 	- **Protected:** Members declared as ‘protected‘ are accessible from within the class they are defined in, as well as from subclasses that inherit from that class. They are invisible to completely unrelated classes. Protected members are useful for providing controlled access to certain functionalities for subclasses. while maintaining encapsulation within the inheritance hierarchy.
 		- Example : 
-		 ‘‘‘java 
+		 ‘‘‘ java 
 		 class Animal { 
 		 protected String name; 
 		 protected void makeSound() { 
@@ -130,7 +130,8 @@
 		  public void bark() { 
 			  makeSound(); // Inherited protected method 
 			  System.out.println("Woof!"); 
-			  } } ‘‘‘
+			  } } 
+			‘‘‘
 		- In this example, ‘name‘ and ‘makeSound‘ are protected in ‘Animal‘. The ‘Dog‘ class, being a subclass, can access and use them.
 	- **Default (Package-Private):** This modifier (sometimes called "package-private" or "internal") varies slightly depending on the programming language. Generally, members declared without any access modifier are considered package-private. This means they are accessible from within the same package (group of related classes) but are invisible outside the package. Default access provides a middle ground between public and private, allowing controlled access within a specific program module.
 		- **Choosing the Right Modifier:**
@@ -142,4 +143,4 @@
 ## Constructors in OOP
 - In object-oriented programming (OOP), a constructor is a special type of method that is automatically called when you create an object of a class. Its primary purpose is to initialize the object’s state by setting values for its properties (member variables). 
 - There are several types of constructors that provide flexibility in object creation :
-	- PAGE 7 --- 
+	- 

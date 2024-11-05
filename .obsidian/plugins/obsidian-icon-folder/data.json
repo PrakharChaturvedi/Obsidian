@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiComponent",
-      "LiDatabase",
-      "LiExcalidrawIcon",
-      "LiGithub",
-      "LiCodeSquare"
+      "LiAperture",
+      "LiBookOpenText",
+      "LiDiamondPlus",
+      "LiLayoutTemplate",
+      "LiStars"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,10 +41,17 @@
     "iconName": "LiAnchor",
     "iconColor": "#1aad6d"
   },
-  "Personal Notes": "💡",
+  "Personal Notes": "LiBrain",
   "Programming": "LiCodeSquare",
   "GIt": "LiGithub",
-  "Excalidraw": "LiExcalidrawIcon",
+  "Excalidraw": "LiPenTool",
   "DBMS": "LiDatabase",
-  "Concepts": "LiComponent"
+  "Concepts": "LiComponent",
+  "Codec": "LiExperiment",
+  "AI-ML-DL": "LiCpu",
+  "Adole": "LiStars",
+  "Personal Notes/Templates": "LiLayoutTemplate",
+  "Personal Notes/Imp's": "LiDiamondPlus",
+  "Personal Notes/Daily Note": "LiBookOpenText",
+  "Personal Notes/MUN 2023": "LiAperture"
 }
