@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Notes/Daily Note/2024/07-July/2024-07-29.md",
+                "file": "Personal Notes/Templates/Daily Notes Template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-07-29"
+              "title": "Daily Notes Template"
+            }
+          },
+          {
+            "id": "bbd0dde8451f56a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Notes/Daily Note/2024/11-November/2024-11-05-Tuesday..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-05-Tuesday."
             }
           }
         ]
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 279.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -209,8 +224,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "42c008426e404d21",
+  "active": "b777ae7b03c7ae56",
   "lastOpenFiles": [
+    "Personal Notes/Daily Note/2024/11-November/2024-11-05-Tuesday..md",
+    "Personal Notes/Templates/Daily Notes Template.md",
+    "Personal Notes/Daily Note/2023",
+    "Personal Notes/Daily Note/2024/10-October/2024-10-25.md",
+    "Personal Notes/Daily Note/2024-11-05.md",
+    "Personal Notes/Daily Note/2024/10-October/2024-10-20.md",
+    "Personal Notes/Daily Note/2024/10-October/2024-10-01.md",
+    "Personal Notes/Daily Note/2024/09-September/2024-09-01.md",
+    "Personal Notes/Daily Note/2024/10-October",
+    "Untitled",
+    "Personal Notes/Daily Note/2024/08-August/2024-08-08.md",
+    "Personal Notes/Daily Note/2024/09-September",
+    "Personal Notes/Daily Note/2024/07-July/2024-07-29.md",
+    "Personal Notes/Daily Note/2024/08-August",
     "Personal Notes/Daily Note/2024/07-July/2024-07-04.md",
     "Personal Notes/Daily Note/2024/06-June/2024-06-01.md",
     "Personal Notes/Daily Note/2024/07-July",
@@ -233,20 +262,6 @@
     "Personal Notes/Daily Note/2024/02-February/2024-02-15.md",
     "Personal Notes/Daily Note/2024/02-February/2024-02-13.md",
     "Personal Notes/Daily Note/2024/02-February/2024-02-10.md",
-    "Personal Notes/Daily Note/2024/02-February/2024-02-08.md",
-    "Personal Notes/Daily Note/2024/02-February/2024-02-07.md",
-    "Personal Notes/Daily Note/2024/02-February/2024-02-06.md",
-    "Personal Notes/Daily Note/2024/02-February/2024-02-05.md",
-    "Personal Notes/Daily Note/2024/02-February/2024-02-04.md",
-    "Personal Notes/Daily Note/2024/02-February",
-    "Personal Notes/Daily Note/2024-11-05.md",
-    "Personal Notes/Daily Note/2024/01-January",
-    "Personal Notes/Daily Note/Gen AI workshop.md",
-    "Personal Notes/Daily Note/2024/11-November/2024-11-03.md",
-    "Personal Notes/Daily Note/2024/11-November/2024-11-01.md",
-    "Personal Notes/Daily Note/2024/11-November",
-    "Personal Notes/Daily Note/2024",
-    "Personal Notes/Templates",
     "Adole/design/assets/images/2023-04-06 16.17 AdoLE.svg",
     "DBMS/Database Notes/ADBMS/Images/Pasted image 20241024215358.png",
     "Pasted image 20241024215339.png",

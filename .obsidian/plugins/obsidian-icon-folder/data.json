@@ -6,8 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiAnchor",
-      "LiActivity"
+      "LiComponent",
+      "LiDatabase",
+      "LiExcalidrawIcon",
+      "LiGithub",
+      "LiCodeSquare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +40,11 @@
   "DBMS/DBMS Concepts": {
     "iconName": "LiAnchor",
     "iconColor": "#1aad6d"
-  }
+  },
+  "Personal Notes": "💡",
+  "Programming": "LiCodeSquare",
+  "GIt": "LiGithub",
+  "Excalidraw": "LiExcalidrawIcon",
+  "DBMS": "LiDatabase",
+  "Concepts": "LiComponent"
 }
