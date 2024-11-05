@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "c32b4a9055407d2b",
+        "id": "8640ab6c9cb9bd8f",
         "type": "tabs",
         "children": [
           {
-            "id": "2e8aa08c3f28d00e",
+            "id": "b777ae7b03c7ae56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Computer Networks/Notes.md",
+                "file": "Personal Notes/Daily Note/2024/07-July/2024-07-29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
-            }
-          },
-          {
-            "id": "f718deaa0b7f1d3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-11-05.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-05"
+              "title": "2024-07-29"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -225,53 +209,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f718deaa0b7f1d3a",
+  "active": "42c008426e404d21",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-11-05 00.31.17.excalidraw.md",
-    "2024-11-05.md",
-    "Concepts/Computer Networks/Notes.md",
-    "Excalidraw",
-    "2024-11-03.md",
-    "AI-ML-DL/Soft Computing/Notes 3.md",
-    "Codec/Codec Students.md",
-    "Concepts/Cryptography and network security/Cipher  (2).md",
-    "Programming/Coding Concepts/LinkedList.md",
-    "Personal Notes/Daily Note/2024-11-01.md",
-    "Codec/Tech-Kutumb Plan.md",
-    "Codec/Rules and Committee.md",
-    "Concepts/Cloud Computing/Notes 1.md",
-    "Concepts/Cloud Computing/AWS IIT.md",
-    "Concepts/Innovative project/Innovative Project Features.md",
-    "Concepts/Innovative project/Syllabus and To-Do list.md",
-    "Concepts/R/Notes 1.md",
-    "Programming/Programming Updates.md",
+    "Personal Notes/Daily Note/2024/07-July/2024-07-04.md",
+    "Personal Notes/Daily Note/2024/06-June/2024-06-01.md",
+    "Personal Notes/Daily Note/2024/07-July",
+    "Personal Notes/Daily Note/2024/05-May/2024-05-30.md",
+    "Personal Notes/Daily Note/2024/05-May/2024-05-02.md",
+    "Personal Notes/Daily Note/2024/06-June",
+    "Personal Notes/Daily Note/2024/04-April/2024-04-02.md",
+    "Personal Notes/Daily Note/2024/05-May",
+    "Personal Notes/Daily Note/2024/03-March/2024-03-04.md",
+    "Personal Notes/Daily Note/2024/04-April",
+    "Personal Notes/Daily Note/2024/01-January/2024-01-01.md",
+    "Personal Notes/Daily Note/2024/03-March",
+    "Personal Notes/Daily Note/2024/02-February/2024-02-27.md",
+    "Personal Notes/Daily Note/2024/02-February/2024-02-26.md",
+    "Personal Notes/Daily Note/2024/02-February/2024-02-23.md",
+    "Personal Notes/Daily Note/2024/02-February/2024-02-22.md",
+    "Personal Notes/Daily Note/2024/02-February/2024-02-20.md",
+    "Personal Notes/Daily Note/2024/02-February/2024-02-19.md",
+    "Personal Notes/Daily Note/2024/02-February/2024-02-17.md",
+    "Personal Notes/Daily Note/2024/02-February/2024-02-15.md",
+    "Personal Notes/Daily Note/2024/02-February/2024-02-13.md",
+    "Personal Notes/Daily Note/2024/02-February/2024-02-10.md",
+    "Personal Notes/Daily Note/2024/02-February/2024-02-08.md",
+    "Personal Notes/Daily Note/2024/02-February/2024-02-07.md",
+    "Personal Notes/Daily Note/2024/02-February/2024-02-06.md",
+    "Personal Notes/Daily Note/2024/02-February/2024-02-05.md",
+    "Personal Notes/Daily Note/2024/02-February/2024-02-04.md",
+    "Personal Notes/Daily Note/2024/02-February",
+    "Personal Notes/Daily Note/2024-11-05.md",
+    "Personal Notes/Daily Note/2024/01-January",
+    "Personal Notes/Daily Note/Gen AI workshop.md",
+    "Personal Notes/Daily Note/2024/11-November/2024-11-03.md",
+    "Personal Notes/Daily Note/2024/11-November/2024-11-01.md",
+    "Personal Notes/Daily Note/2024/11-November",
+    "Personal Notes/Daily Note/2024",
+    "Personal Notes/Templates",
     "Adole/design/assets/images/2023-04-06 16.17 AdoLE.svg",
-    "Goals",
-    "Personal Notes",
-    "Concepts",
-    "AI-ML-DL",
-    "DBMS",
-    "Programming",
-    "Adole/AdoLE toolbox.md",
-    "To-do list.md",
-    "Untitled.md",
-    "Personal Notes/Daily Note/2024-10-25.md",
-    "Concepts/Computer Networks",
-    "Concepts/Cloud Computing/New Notes.md",
-    "DBMS/Database Notes/ADBMS/Notes 2.md",
     "DBMS/Database Notes/ADBMS/Images/Pasted image 20241024215358.png",
     "Pasted image 20241024215339.png",
     "Pasted image 20241024215156.png",
     "Pasted image 20241024215110.png",
-    "Excalidraw/Drawing 2023-09-22 10.55.38.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-22 13.07.49.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-11 14.40.29.excalidraw.md",
     "Programming/Coding Concepts/Images/Pasted Image 20240925195445_693.png",
     "Programming/Coding Concepts/Images/Pasted Image 20240925195245_061.png",
     "Programming/Coding Concepts/Images/Pasted Image 20240925195214_072.png",
     "Programming/Coding Concepts/Images/Pasted Image 20240925195127_063.png",
-    "Programming/Coding Concepts/Images/Pasted Image 20240925195041_071.png",
-    "Projects/Cargo Project/Untitled",
-    "Programming/Projects/Cargo Project"
+    "Programming/Coding Concepts/Images/Pasted Image 20240925195041_071.png"
   ]
 }
