@@ -1,4 +1,4 @@
-#Concepts 
+#Concepts #Programming 
 ## Modems and routers
 - Modem : 
 	- Modulator-demodulator or a modem, it is used to change digital signal into analog signal so that they can be transmitted over the telephone line.
@@ -104,3 +104,11 @@
 			- Converts data to signals that can travel over a transmission medium (e.g., electrical, light, or radio signals).
 			- Determines how devices connect (e.g., topology) and how data flows (e.g., simplex, half-duplex, full-duplex).
 		- **Devices Involved:** Hubs, network cables, and repeaters.
+
+## TCP/IP model 
+- Application Layer
+	- 
+- Transport Layer
+- Network Layer
+- Data Link Layer
+- Physical Layer
