@@ -1,5 +1,6 @@
-tags:: [[+Daily Notes]] 
+tags:: #DailyNotes 
 ### 📅 Daily Questions
+#DailyNotes
 - What I did after bed, yesterday :
 	- Read a book. 
 - What's my goal for today : 
@@ -17,16 +18,19 @@ tags:: [[+Daily Notes]]
 
 ---
 #### Notes created today
+#DailyNotes
 ```dataview
 LIST FROM "" WHERE file.cday = date("2024-11-05") SORT file.ctime asc
 ```
 
 ### Notes last touched today
+#DailyNotes
 ```dataview
 LIST FROM "" WHERE file.mday = date(currentDate) SORT file.mtime asc
 ```
 
 ## OneHash :
+#DailyNotes
 - Internet : CV_Speed 
 - User Id : Oh085
 - Password : Prakhar@1234
