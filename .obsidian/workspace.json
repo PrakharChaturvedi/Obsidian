@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Vault/Programming/API Notes/API notes 1.md",
+                "file": "The Vault/Personal Notes/Daily Note/2024/11-November/Wednesday(11-06-2024).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API notes 1"
+              "title": "Wednesday(11-06-2024)"
             }
           }
         ]
@@ -87,7 +87,7 @@
       {
         "id": "0e871be1f73b84d7",
         "type": "tabs",
-        "dimension": 45.77056778679027,
+        "dimension": 40.20857473928158,
         "children": [
           {
             "id": "3e62ca1123bd5a81",
@@ -138,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "The Vault/Personal Notes/Daily Note/2024/11-November/Wednesday(11-06-2024).md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Wednesday(11-06-2024)"
             }
           },
           {
@@ -171,14 +173,24 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "00680147f1f65ec7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "f0c01a90139f7427",
         "type": "tabs",
-        "dimension": 54.22943221320974,
+        "dimension": 59.79142526071842,
         "children": [
           {
             "id": "73f6f328eba42114",
@@ -194,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 688.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,12 +220,18 @@
       "graph:Open graph view": false
     }
   },
-  "active": "73f6f328eba42114",
+  "active": "3d8f5b18001fc6d7",
   "lastOpenFiles": [
+    "The Vault/AI-ML-DL/Soft Computing/Questions.md",
+    "The Vault/Personal Notes/Daily Note/2024/11-November/Wednesday(11-06-2024).md",
+    "The Vault/Programming/Coding Concepts/Recursion Board.md",
+    "Personal Notes/Daily Note",
+    "Personal Notes",
+    "The Vault/Programming/Coding Concepts/LinkedList.md",
+    "The Vault/Programming/API Notes/API notes 1.md",
     "The Vault",
     "The Vault/AI-ML-DL/Soft Computing/Notes 3.md",
     "The Vault/AI-ML-DL/Machine learning/Images/Pasted image 20231211133324.png",
-    "The Vault/Programming/API Notes/API notes 1.md",
     "The Vault/AI-ML-DL/Machine learning/My notes 1.md",
     "The Vault/AI-ML-DL/Machine learning/My notes 3.md",
     "The Vault/AI-ML-DL/Soft Computing/Notes 2.md",
@@ -238,14 +256,9 @@
     "The Vault/Personal Notes/Daily Note/2024/07-July/2024-07-29.md",
     "The Vault/Personal Notes/Daily Note/2024/08-August",
     "The Vault/Personal Notes/Daily Note/2024/07-July/2024-07-04.md",
-    "The Vault/Personal Notes/Daily Note/2024/06-June/2024-06-01.md",
     "The Vault/Personal Notes/Daily Note/2024/07-July",
-    "The Vault/Personal Notes/Daily Note/2024/05-May/2024-05-30.md",
-    "The Vault/Personal Notes/Daily Note/2024/05-May/2024-05-02.md",
     "The Vault/Personal Notes/Daily Note/2024/06-June",
     "The Vault/Personal Notes/Daily Note/2024/05-May",
-    "The Vault/Personal Notes/Daily Note/2024/04-April",
-    "The Vault/Personal Notes/Daily Note/2024/03-March",
     "The Vault/Adole/design/assets/images/2023-04-06 16.17 AdoLE.svg",
     "The Vault/DBMS/Database Notes/ADBMS/Images/Pasted image 20241024215358.png",
     "Pasted image 20241024215339.png",

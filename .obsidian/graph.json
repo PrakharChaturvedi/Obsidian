@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"The Vault\"  ",
@@ -22,9 +22,9 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -0.9,
+  "textFadeMultiplier": -1.1,
   "nodeSizeMultiplier": 1.22567567567568,
   "lineSizeMultiplier": 2.16288981288981,
   "collapse-forces": true,
@@ -32,6 +32,6 @@
   "repelStrength": 0,
   "linkStrength": 1,
   "linkDistance": 56,
-  "scale": 0.08762957236238408,
+  "scale": 0.27826553325128917,
   "close": true
 }
