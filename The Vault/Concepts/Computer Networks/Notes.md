@@ -107,7 +107,7 @@
 
 ## TCP/IP model 
 - Application Layer
-	- 
+	- The application layer can work as integration of Application and Session layer which helps 
 - Transport Layer
 - Network Layer
 - Data Link Layer

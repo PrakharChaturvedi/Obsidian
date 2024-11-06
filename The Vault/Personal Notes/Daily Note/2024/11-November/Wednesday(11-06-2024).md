@@ -10,11 +10,11 @@ tags:: #DailyNotes
 - Did I meet a new person today? What medium : 
 	- Yes!
 - What challenge did I face today?
-	- 
+	- Seating for 9 hours straight  
 - My mood today : 
-	- 
+	- Bored, tired
 - An intention for tomorrow : 
-	- 
+	- Talk to more people, somehow find a task to complete and code.
 
 ---
 #### Notes created today
