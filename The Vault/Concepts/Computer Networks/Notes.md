@@ -44,4 +44,15 @@
 	- There is also an encryption version of HTTP called HTTPS, which uses SSL/TLS encryption to encrypt requests and responses so they can't be accessed by third parties. 
 
 ## OSI model  
-- Open system inter-connection model. It's standard for communication between servers
+- Open system inter-connection model. It's standard for communication between servers.
+- Their are 7 layers in OSI model : 
+	- **Application Layer**
+		- The topmost layer where end-user software interacts with the network. It provides network services directly to applications such as email, file transfer, and web browsing. This layer contains the applications.
+		- Examples: HTTP, FTP, SMTP, DNS, POP3, IMAP.
+	- **Presentation Layer**
+		- 
+	- **Session Layer**
+	- **Transport Layer**
+	- **Network Layer**
+	- **Data-Link Layer**
+	- **Physical Layer**
