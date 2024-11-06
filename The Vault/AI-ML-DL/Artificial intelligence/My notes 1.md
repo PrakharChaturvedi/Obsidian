@@ -1,3 +1,4 @@
+Tags : #Ai-ML-DL
 ## *What is AI?*
 - **Artificial intelligence** leverages computers and machines to mimic the problem-solving and decision-making capabilities of the human mind.
 - Artificial intelligence is **the science of making machines that can think like humans**. It can do things that are considered "smart". AI technology can process large amounts of data in ways, unlike humans. The goal for AI is to be able to do things such as recognize patterns, make decisions, and judge like humans.

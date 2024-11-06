@@ -39,3 +39,9 @@
 	- The server hosting the content will then respond and enable the client to load all the necessary text, images and videos featured on the page. HTTP's request-response cycle is outlined briefly below : 
 		- The client sends an HTTP  request message to the web server to request access to the web page content.
 		- The web server processes the request message. 
+		- The web server sends a response message that includes the requested content or web page. 
+		- The client receives the message and loads the content in the web browser for the end user to view. 
+	- There is also an encryption version of HTTP called HTTPS, which uses SSL/TLS encryption to encrypt requests and responses so they can't be accessed by third parties. 
+
+## OSI model  
+- Open system inter-connection model. It's standard for communication between servers

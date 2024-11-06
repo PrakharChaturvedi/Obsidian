@@ -1,3 +1,4 @@
+Tags : #Ai-ML-DL
 Syllabus covered : *RL, RL model*, *Markov decision process, Markov chain*, *Value function*, reward function, Types of agents, Application areas of RL, Real world Application of ML, *association rule mining*, *Apriori algorithm*, *FP growth algorithm*.
 ## Reinforcement learning:
  - Reinforcement learning works on a feedback-based process, in which an AI agent (A software component) automatically explore its surrounding by hitting & trail, taking action, learning from experiences, and improving its performance.

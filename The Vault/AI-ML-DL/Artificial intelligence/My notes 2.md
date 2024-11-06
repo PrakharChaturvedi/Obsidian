@@ -1,3 +1,4 @@
+Tags : #Ai-ML-DL
 ## *Heuristic Search* :
 - Heuristic search is an important concept in the field of artificial intelligence and computer science. It refers to a search algorithm that uses heuristics or rules of thumb to guide its search through a problem space.
 - Heuristics are domain-specific techniques that provide a way to estimate the "goodness" or optimality of different paths, states, or solutions in a search problem. The goal of heuristic search is to find solutions efficiently by focusing on more promising areas of the search space.

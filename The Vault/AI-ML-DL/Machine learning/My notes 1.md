@@ -1,3 +1,4 @@
+Tags : #Ai-ML-DL
 - ##  *What is machine learning?*
 	- It is a branch of artificial intelligence and computer science which focused on the use of data and algorithms to imitate the way that humans learns, gradually improving the accuracy.
 - *When do we use AI?*

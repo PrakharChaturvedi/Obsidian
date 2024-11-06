@@ -1,3 +1,4 @@
+Tags : #DBMS
 ## Transactions 
 - A **transaction** is a sequence of operations that interact with the database, acting like a single unit of work. It either completes all its actions successfully or none at all.
 - #### Key Operations

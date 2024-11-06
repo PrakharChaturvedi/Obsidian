@@ -1,5 +1,7 @@
 Soft Computing:  <font color="#9399a3">Introduction of soft computing, soft computing vs. hard computing, various types of soft computing techniques, applications of soft computing</font> 
 
+Tags : #Ai-ML-DL
+
 Fuzzy Logic & Fuzzy Sets :  
 ## Soft Computing
 - <font color="#ffc000">Definition :</font> Soft computing is a field of computer science that involves the development of algorithms and computational models inspired by human cognition and natural intelligence. Unlike traditional computing approaches that rely on precise mathematical formulations and binary logic, soft computing techniques are designed to handle uncertainty, imprecision, and approximation.

@@ -1,3 +1,4 @@
+Tags : #Codec
 - 14th Sept : 
 	- 12:30 pm start
 	- Introduction : President and coordinators. - Prakhar's speech - codec and TechKutumb logo.

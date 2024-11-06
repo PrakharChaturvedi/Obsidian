@@ -1,4 +1,4 @@
-
+Tags : #Codec
 - New CODEC policies that every one will follow form know onwards in each and every event.
 
 This is just to let you guys know your proper roles and regulations that we will do and follow during our events from know on.

@@ -1,3 +1,4 @@
+Tags : #Ai-ML-DL
 Topics covered: Semantic Net, Frame, Conceptual Dependency, Standard components and Neural network, Expert systems, Script, Knowledge base, Sigmoid, ANN, Node and unit, Understand and Dendral. 
 
 ## Semantic Net

@@ -1,4 +1,4 @@
-Syllabus : Data and Information,  
+Syllabus : Data and Information,  tags : #DBMS
 ### Data and Information
 - Data refers to raw, unprocessed facts, figures, or details that are collected but do not yet have meaning on their own. They can be in the form of numbers, text, symbols, or observations.
 - Information is processed, organized, or structured data that has been given context and meaning, making it useful for decision-making or understanding.

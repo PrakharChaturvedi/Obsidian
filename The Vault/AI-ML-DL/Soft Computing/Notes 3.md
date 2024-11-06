@@ -1,3 +1,4 @@
+Tags : #Ai-ML-DL
 ## AlexNet Layers
 - **Definition :**
 	- Alex Net is a significant convolutional neural network (CNN) architecture developed by Alex Krizhevsky and his colleagues. It consists of 8 layers, with the first 5 being convolutional layers and the last 3 being fully connected layers.
