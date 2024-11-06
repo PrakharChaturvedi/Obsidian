@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHash",
       "LiAlignHorizontalDistributeCenter",
       "LiProjector",
       "LiAtom",
-      "LiBone",
-      "LiAxe"
+      "LiBone"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -61,5 +61,6 @@
   "The Vault/Personal Notes/Daily Note": "LiBookOpenText",
   "The Vault/Personal Notes/Imp's": "LiDiamondPlus",
   "The Vault/Personal Notes/MUN 2023": "LiAperture",
-  "The Vault/Personal Notes/Templates": "LiLayoutTemplate"
+  "The Vault/Personal Notes/Templates": "LiLayoutTemplate",
+  "The Vault/OneHash": "LiHash"
 }
