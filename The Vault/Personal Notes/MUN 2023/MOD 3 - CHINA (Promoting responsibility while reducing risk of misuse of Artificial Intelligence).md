@@ -1,5 +1,5 @@
-
 --------------
+#MUN
  The Philippines recognizes the potential of artificial intelligence (AI) to drive progress across all sectors, including healthcare, education, and agriculture, among others. However, we also recognize the risks associated with the misuse of AI. As such, we believe that promoting responsibility while reducing the risk of misuse of AI is crucial. 
   -  Here are some ways we can achieve this:
  

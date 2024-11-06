@@ -1,4 +1,4 @@
-tags:: [[+Daily Notes]] 
+tags:: #DailyNotes
 ### 📅 Daily Questions
 - What I did after bed, yesterday :
 

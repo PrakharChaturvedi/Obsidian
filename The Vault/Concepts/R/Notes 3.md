@@ -1,3 +1,4 @@
+#Concepts 
 ## Sensitivity Analysis 
 - Sensitivity analysis is a tool used to assess the impact of changes in different input variables on a specific output variable, especially in complex or opaque processes. It is used in various fields for different purposes, including:
 	- Financial Modeling

@@ -1,3 +1,4 @@
+#Concepts 
 Book : Halogen
 Syllabus: Encoding, encryption, hashing, public key, private key, cryptography, cryptoanalysis, security, safety,  threat, firewall, vulnerability, hacker and *Types of attacks, spoofing and malware attack*.   
 # Encoding v/s Encryption v/s Hashing? 

@@ -1,3 +1,4 @@
+#Concepts 
 ## Semantics
 - When we talk about the "semantics" of a language, we're talking about the meaning behind the words and how they work together. Just like in everyday language, words have meanings, and the way they're put together forms sentences with specific meanings.
 

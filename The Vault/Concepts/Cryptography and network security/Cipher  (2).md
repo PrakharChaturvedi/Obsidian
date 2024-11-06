@@ -1,3 +1,4 @@
+#Concepts 
 # *What is Cipher? 
 - Also called <font color="#ffc000">encryption algorithms</font>, are about systems for encrypting and decrypting data. A cipher converts the original message, called plain text into cipher text using a key to determine how it is done. 
 

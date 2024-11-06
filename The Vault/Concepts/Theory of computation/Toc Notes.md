@@ -1,4 +1,4 @@
-
+#Concepts 
 DFA vs NDFA :-
 	- It depends on acceptance of language
 	- NDFA is understood as multiple small machines computing at the same time

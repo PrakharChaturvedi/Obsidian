@@ -8,30 +8,93 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"The Vault\"  ",
+      "query": "tag:#Ai-ML-DL  ",
       "color": {
         "a": 1,
-        "rgb": 4451008
+        "rgb": 16256269
       }
     },
     {
-      "query": "path:\"The Vault/Programming/Coding Concepts\"  ",
+      "query": "tag:#Codec  ",
       "color": {
         "a": 1,
-        "rgb": 2046463
+        "rgb": 15310604
+      }
+    },
+    {
+      "query": "tag:#Concepts  ",
+      "color": {
+        "a": 1,
+        "rgb": 5562088
+      }
+    },
+    {
+      "query": "tag:#DailyNotes  ",
+      "color": {
+        "a": 1,
+        "rgb": 565418
+      }
+    },
+    {
+      "query": "tag:#DBMS  ",
+      "color": {
+        "a": 1,
+        "rgb": 5699008
+      }
+    },
+    {
+      "query": "tag:#excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 4503022
+      }
+    },
+    {
+      "query": "tag:#Git  ",
+      "color": {
+        "a": 1,
+        "rgb": 6118890
+      }
+    },
+    {
+      "query": "tag:#MUN  ",
+      "color": {
+        "a": 1,
+        "rgb": 11815401
+      }
+    },
+    {
+      "query": "tag:#OneHash  ",
+      "color": {
+        "a": 1,
+        "rgb": 2888684
+      }
+    },
+    {
+      "query": "tag:#Personal  ",
+      "color": {
+        "a": 1,
+        "rgb": 1615260
+      }
+    },
+    {
+      "query": "tag:#Programming  ",
+      "color": {
+        "a": 1,
+        "rgb": 5108268
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": -1.1,
+  "textFadeMultiplier": 3,
   "nodeSizeMultiplier": 1.22567567567568,
   "lineSizeMultiplier": 2.16288981288981,
-  "collapse-forces": true,
-  "centerStrength": 0,
+  "collapse-forces": false,
+  "centerStrength": 0.159043659043659,
   "repelStrength": 0,
-  "linkStrength": 1,
-  "linkDistance": 56,
-  "scale": 0.14296380518167465,
+  "linkStrength": 0.508316008316008,
+  "linkDistance": 34,
+  "scale": 0.1634837056722053,
   "close": true
 }

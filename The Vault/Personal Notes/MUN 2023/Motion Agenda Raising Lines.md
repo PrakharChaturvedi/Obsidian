@@ -1,3 +1,4 @@
+#MUN
 - The delegate of "Philippines" would like to raise the motion to adopt the agenda "Artificial Intelligence Deployment: Risky or Sustainable".
 - After this GSL get's opened and then it is operated accordingly. -> 45-60-90 sec's timing.
 ## Moderated Quokkas Opening:

@@ -1,3 +1,4 @@
+#MUN
 Honorable Chair, vice chair and Esteemed delegates.
 
 Today, we convene to deliberate upon the pressing challenges that confront our beloved nations. In our discourse, we must duly recognize the transformative potential of artificial intelligence (AI) in mitigating these predicaments. Here are some ways AI can be harnessed to *ameliorate* enhance our nation's circumstances:

@@ -1,3 +1,4 @@
+#Concepts 
 ## *Affine Cipher* : 
 - It is a monoalphabetic substitution cipher.
 - It uses a formula structure of  

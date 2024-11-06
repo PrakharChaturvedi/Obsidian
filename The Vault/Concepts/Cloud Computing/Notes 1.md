@@ -1,3 +1,4 @@
+#Concepts 
 ## Cloud  
 - Cloud computing, often referred to as "the cloud," is a technology model that allows access to and delivery of computing services over the internet. 
 - Instead of relying on local servers or personal devices to handle applications and store data, cloud computing enables users to access resources and services remotely through the internet.

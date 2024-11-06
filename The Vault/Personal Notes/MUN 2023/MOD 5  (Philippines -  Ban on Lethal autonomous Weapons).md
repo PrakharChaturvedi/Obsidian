@@ -1,3 +1,4 @@
+#MUN
 - Honorable delegates,
 
 - Today, we convene not just to discuss AI but to plead for our shared humanity. The Philippine government stands resolute in its commitment to curbing a looming catastrophe— the advent of lethal autonomous weapons, chillingly  dubbed "killer robots."

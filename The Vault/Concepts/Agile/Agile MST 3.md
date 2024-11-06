@@ -1,3 +1,4 @@
+#Concepts
 ##  **Explain Institutional evolution cycle in details.** [7 marks]
 - Agile Information Systems (IS) are information systems developed using agile methods, characterized by frequent updates with a small number of new features released periodically. The focus of existing research has primarily been on the developers' perspective, while the response of end users to these agile IS has received less attention.
 - **Benefits of Organizational Agility:**

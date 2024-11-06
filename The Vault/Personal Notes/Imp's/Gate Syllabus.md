@@ -1,3 +1,4 @@
+#Personal
 ## Digital Logic
 - [ ] Boolean algebra
 - [ ] Combinational and sequential circuits

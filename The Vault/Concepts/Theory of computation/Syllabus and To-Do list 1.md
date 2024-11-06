@@ -1,3 +1,4 @@
+#Concepts 
 7 markers 
 - [ ] Chomsky hierarchy of languages. Prepare a table indicating the automata and grammars for the languages in the Chomsky hierarchy.
 - [ ] Mealy machine -> Moore machine

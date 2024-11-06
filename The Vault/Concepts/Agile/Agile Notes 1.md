@@ -1,3 +1,4 @@
+#Concepts 
 ## Waterfall model 
 - Linear sequential framework 
 - 1st SDLC model

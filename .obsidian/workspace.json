@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Vault/DBMS/Database Notes/ADBMS/Syllabus.md",
+                "file": "The Vault/Concepts/Computer Networks/Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syllabus"
+              "title": "Notes"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 318.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -87,7 +87,7 @@
       {
         "id": "0e871be1f73b84d7",
         "type": "tabs",
-        "dimension": 40.20857473928158,
+        "dimension": 23.174971031286212,
         "children": [
           {
             "id": "3e62ca1123bd5a81",
@@ -138,11 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The Vault/DBMS/Database Notes/ADBMS/Syllabus.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Syllabus"
+              "title": "Outline"
             }
           },
           {
@@ -190,7 +188,7 @@
       {
         "id": "f0c01a90139f7427",
         "type": "tabs",
-        "dimension": 59.79142526071842,
+        "dimension": 76.8250289687138,
         "children": [
           {
             "id": "73f6f328eba42114",
@@ -206,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 562.5
+    "width": 426.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,39 +218,41 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3d8f5b18001fc6d7",
+  "active": "73f6f328eba42114",
   "lastOpenFiles": [
-    "The Vault/DBMS/Database Notes/ADBMS/Notes 2.md",
-    "The Vault/DBMS/Database Notes/ADBMS/Notes 1.md",
-    "The Vault/Codec/Tech-Kutumb Plan.md",
-    "The Vault/Codec/Rules and Committee.md",
-    "The Vault/Codec/Codec Students.md",
-    "The Vault/AI-ML-DL/Artificial intelligence/My Notes 3.md",
-    "The Vault/AI-ML-DL/Artificial intelligence/My notes 2.md",
-    "The Vault/AI-ML-DL/Artificial intelligence/My notes 1.md",
-    "The Vault/AI-ML-DL/Machine learning/My notes 3.md",
-    "The Vault/AI-ML-DL/Machine learning/My Notes 2.md",
-    "The Vault/AI-ML-DL/Machine learning/My notes 1.md",
-    "The Vault/AI-ML-DL/Soft Computing/Notes 3.md",
-    "The Vault/AI-ML-DL/Soft Computing/Notes 2.md",
-    "The Vault/AI-ML-DL/Soft Computing/Notes 1.md",
     "The Vault/Concepts/Computer Networks/Notes.md",
-    "The Vault/OneHash/Network Details and ID's.md",
-    "The Vault/Personal Notes/Daily Note/2024/11-November/Wednesday(11-06-2024).md",
+    "The Vault/Programming/API Notes/API notes 1.md",
+    "The Vault/Personal Notes/Imp's/Self driving Car.md",
+    "The Vault/Personal Notes/Imp's/Path.md",
+    "The Vault/Personal Notes/Imp's/Internships Summer 25.md",
+    "The Vault/Personal Notes/Imp's/Gate Syllabus.md",
+    "The Vault/Personal Notes/Imp's/GamblingApp_SystemDesign.md",
+    "The Vault/Personal Notes/Imp's/Acumen Decisions.md",
+    "The Vault/Personal Notes/Templates/Daily Notes Template.md",
+    "The Vault/Personal Notes/MUN 2023/Working paper.md",
+    "The Vault/Personal Notes/MUN 2023/Rules and Regulations.md",
+    "The Vault/Personal Notes/MUN 2023/Quotes and Information.md",
+    "The Vault/Personal Notes/MUN 2023/Opening speech drills.md",
+    "The Vault/Personal Notes/MUN 2023/Negatives.md",
+    "The Vault/Personal Notes/MUN 2023/Motion Agenda Raising Lines.md",
+    "The Vault/Personal Notes/MUN 2023/MOD 5  (Philippines -  Ban on Lethal autonomous Weapons).md",
+    "The Vault/Personal Notes/MUN 2023/Mod 4 (Singapore -Adaption of AI as a new path for sustainable Development).md",
+    "The Vault/Personal Notes/MUN 2023/MOD 3 - CHINA (Promoting responsibility while reducing risk of misuse of Artificial Intelligence).md",
+    "The Vault/Personal Notes/MUN 2023/MOD 2 - UK (How the world is dealing with replacement of human jobs as AI has over powered).md",
+    "The Vault/Personal Notes/MUN 2023/Health Care.md",
+    "The Vault/Personal Notes/MUN 2023/GSL 2.md",
+    "The Vault/Personal Notes/MUN 2023/GSL 1.md",
+    "The Vault/Personal Notes/MUN 2023/Draft resolution.md",
+    "The Vault/Concepts/Theory of computation/Unit 5.md",
+    "The Vault/Concepts/Theory of computation/Toc Notes.md",
+    "The Vault/Concepts/Theory of computation/Syllabus and To-Do list 1.md",
+    "The Vault/Programming/Projects/Cargo Project/UI_App.png",
+    "The Vault/Programming/Projects/Cargo Project/Routes.png",
     "The Vault/OneHash",
-    "The Vault/AI-ML-DL/Soft Computing/Questions.md",
-    "The Vault/Programming/Coding Concepts/Recursion Board.md",
     "Personal Notes/Daily Note",
     "Personal Notes",
-    "The Vault/Programming/Coding Concepts/LinkedList.md",
-    "The Vault/Programming/API Notes/API notes 1.md",
     "The Vault",
     "The Vault/AI-ML-DL/Machine learning/Images/Pasted image 20231211133324.png",
-    "The Vault/AI-ML-DL/Machine learning/Images/Unit 2 Ending.md",
-    "The Vault/Programming/OOPS/OOP's Notes Interview.md",
-    "The Vault/Personal Notes/To-do list.md",
-    "The Vault/Personal Notes/Templates/Daily Notes Template.md",
-    "The Vault/Personal Notes/Daily Note/2024/11-November/2024-11-05-Tuesday..md",
     "The Vault/Personal Notes/Daily Note/2023",
     "The Vault/Personal Notes/Daily Note/2024/10-October",
     "The Vault/Personal Notes/Daily Note/2024/09-September",
@@ -265,8 +265,6 @@
     "Pasted image 20241024215156.png",
     "Pasted image 20241024215110.png",
     "The Vault/Programming/Coding Concepts/Images/Pasted Image 20240925195445_693.png",
-    "The Vault/Programming/Coding Concepts/Images/Pasted Image 20240925195245_061.png",
-    "The Vault/Programming/Coding Concepts/Images/Pasted Image 20240925195214_072.png",
-    "The Vault/Programming/Coding Concepts/Images/Pasted Image 20240925195127_063.png"
+    "The Vault/Programming/Coding Concepts/Images/Pasted Image 20240925195245_061.png"
   ]
 }

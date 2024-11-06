@@ -1,3 +1,4 @@
+tags : #DBMS
 - It is a non-rational document database that provides support for JSON-like storage. It is schemeless and highly scalable. It has databases which has collections and documents. We geta unique ID for each document, which is a unique identified ID/Unique identifier.
 - Example : 
 	- Employee --> COLLECTION (Column)

@@ -1,3 +1,4 @@
+#MUN
 Honorable Chair, fellow delegates 
 The Philippines recognizes the importance of sustainable development in achieving our national ambition and the global goals set by the United Nations. We believe that the adoption of artificial intelligence (AI) can be a new path towards sustainable development. Here are some reasons why:
 

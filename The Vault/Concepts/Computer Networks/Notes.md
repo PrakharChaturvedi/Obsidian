@@ -1,3 +1,4 @@
+#Concepts 
 ## Modems and routers
 - Modem : 
 	- Modulator-demodulator or a modem, it is used to change digital signal into analog signal so that they can be transmitted over the telephone line.
@@ -18,7 +19,6 @@
 	- Network Security protocols : 
 		- Security protocols that use security measures such as cryptography and encryption to protect data.
 		- Example : SFTP, SSL and HTTPS.
-
 ## Network communication protocols 
 - **Transmission Control Protocol (TCP)**
 	- It is a protocol that converts data into packets so that it can be sent between a server and a client. Organizations use TCP to transfer content such as files, text, images and emails because it guarantees that the packets will be delivered accurately and in the correct order. 

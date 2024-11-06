@@ -1,3 +1,4 @@
+#Programming
 - <font color="#ffc000">Introduction:</font>
 	- The detection and identification of constellations in night sky images play a crucial role in various astronomical applications. Traditional methods rely heavily on manual inspection and pattern recognition, which can be time-consuming and subjective. In this work, we propose a novel deep learning approach to automate the process of constellation detection, offering a more efficient and reliable solution.
 - <font color="#ffc000">Methodology:</font>

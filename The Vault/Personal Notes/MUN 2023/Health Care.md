@@ -1,3 +1,4 @@
+#MUN
 Honorable Chair, esteemed delegates,
 
 The Philippines underscores the paramount importance of healthcare in achieving sustainable development. We firmly advocate for the integration of artificial intelligence (AI) to revolutionize our healthcare system, significantly improving its efficiency and impact. To this end, the Philippine government has diligently enacted policies to promote the utilization of AI within our healthcare sector, showcasing our unwavering commitment to progress and excellence.

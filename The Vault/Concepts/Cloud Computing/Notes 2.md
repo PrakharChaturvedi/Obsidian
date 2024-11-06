@@ -1,3 +1,4 @@
+#Concepts 
 - **Virtualization** : 
 	- Virtualization refers to the creation of a virtual resource such as a server, desktop, operating system,  file, storage or network.
 	- Virtualization provides a platform for optimizing complex IT resources in a scalable manner (efficiently growing), which is ideal for delivering services.

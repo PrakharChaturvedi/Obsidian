@@ -1,3 +1,4 @@
+#MUN
 Esteemed chairs and delegates,   
 I present the Philippine government's visionary strategy in battling AI's potential impact on our workforce. In a collaboration between the Department of Trade and Industry (DTI), the Department of Information and Communications Technology (DICT), and tech pioneer AI Pros, a pioneering initiative was launched in May 2018.
 

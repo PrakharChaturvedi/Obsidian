@@ -1,3 +1,4 @@
+#Concepts 
 Unit 1 :  Elements, Variables, and Data categorization, Levels of Measurement, Data management and indexing, Introduction to statistical learning and R-Programming
 Unit 2 : Measures of central tendency, Measures of location of dispersions, Practice and analysis with R
 ## Data Science 
