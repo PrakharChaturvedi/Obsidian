@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Vault/Personal Notes/Daily Note/2024/11-November/Wednesday(11-06-2024).md",
+                "file": "The Vault/Concepts/Computer Networks/Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wednesday(11-06-2024)"
+              "title": "Notes"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Vault/Personal Notes/Daily Note/2024/11-November/Wednesday(11-06-2024).md",
+                "file": "The Vault/Concepts/Computer Networks/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Wednesday(11-06-2024)"
+              "title": "Outgoing links from Notes"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Vault/Personal Notes/Daily Note/2024/11-November/Wednesday(11-06-2024).md"
+                "file": "The Vault/Concepts/Computer Networks/Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Wednesday(11-06-2024)"
+              "title": "Outline of Notes"
             }
           },
           {
@@ -213,9 +213,9 @@
   },
   "active": "ad3fb3de38d62c70",
   "lastOpenFiles": [
+    "The Vault/Personal Notes/Daily Note/2024/11-November/Wednesday(11-06-2024).md",
     "The Vault/Concepts/Computer Networks/Notes.md",
     "The Vault/Programming/Programming Updates.md",
-    "The Vault/Personal Notes/Daily Note/2024/11-November/Wednesday(11-06-2024).md",
     "The Vault/Personal Notes/Daily Note/Wednesday(11-06-2024).md",
     "The Vault/Personal Notes/Daily Note/2024/01-January/2024-01-07.md",
     "The Vault/Personal Notes/Daily Note/2024/01-January/2024-01-04.md",
