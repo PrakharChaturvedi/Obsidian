@@ -48,11 +48,59 @@
 - Their are 7 layers in OSI model : 
 	- **Application Layer**
 		- The topmost layer where end-user software interacts with the network. It provides network services directly to applications such as email, file transfer, and web browsing. This layer contains the applications.
+		- Handles user authentication and privacy, allowing secure and restricted access where needed.
+		- Enables applications to initiate requests, transfer files, send emails, and more.
 		- Examples: HTTP, FTP, SMTP, DNS, POP3, IMAP.
 	- **Presentation Layer**
-		- 
+		- The Presentation Layer is the translator for the network, ensuring that data is presented in a format that the receiving application can understand.
+		- Functions :
+			- Handles data encryption and decryption for secure data transmission.
+			- Manages data compression and decompression, reducing the amount of data to improve network speed.
+			- Translates data formats between the Application Layer and the lower layers (e.g., encoding and decoding data in different character formats like ASCII or EBCDIC).
+			- Ensures that data is in a usable form for applications and compatible with different systems.
+		- **Examples:** Encoding schemes (JPEG, GIF for images), encryption standards (SSL/TLS for secure data transmission).
 	- **Session Layer**
+		- The Session Layer establishes, manages, and terminates sessions between two communicating devices, coordinating the interaction between them.
+		- Functions : 
+		    - Sets up, maintains, and terminates sessions, which are virtual connections for data exchange.
+		    - Provides full-duplex, half-duplex, or simplex communication between applications.
+		    - Synchronizes data streams by inserting checkpoints, ensuring that data transmission can resume from the last checkpoint if disrupted.
+		    - Manages session recovery, helping re-establish a connection after interruptions.
+		- **Applications:** Remote procedure calls, authentication, and reconnection after interruptions (important in online services).
 	- **Transport Layer**
-	- **Network Layer**
-	- **Data-Link Layer**
-	- **Physical Layer**
+		- The Transport Layer ensures reliable data transfer between devices by managing data flow, error checking, and segmentation.
+		- **Functions:**
+		    - Provides error detection and correction, ensuring that all data segments are accurately received and reassembled.
+		    - Manages end-to-end data flow control to prevent network congestion or data loss.
+		    - Segments large data chunks into smaller packets (segmentation) and reassembles them on the receiving end.
+		    - Operates via connection-oriented (TCP) or connectionless (UDP) protocols.
+		        - **TCP (Transmission Control Protocol):** Ensures reliable, ordered, and error-checked delivery of a data stream.
+		        - **UDP (User Datagram Protocol):** Allows faster, connectionless, and less reliable data transmission (useful for real-time applications).
+		- **Devices Involved:** Firewalls, gateways, and certain types of load balancers.
+	- **Network Layer** 
+		- The Network Layer handles the routing of data packets across different networks, managing logical addressing and determining the best path for data.
+		- Functions :
+		    - Uses IP (Internet Protocol) addresses to route packets to their destination across multiple networks.
+		    - Manages logical addressing (IPv4/IPv6) and ensures that packets are directed to the correct network and device.
+		    - Handles packet forwarding, fragmentation, and reassembly, allowing data to be divided into smaller packets suitable for transmission.
+		    - Determines the optimal path based on network conditions, ensuring efficient data travel.
+		- **Devices Involved:** Routers and Layer 3 switches.
+	- **Data-Link Layer** 
+		- The Data Link Layer ensures a reliable link between two directly connected nodes by detecting and potentially correcting errors that occur at the Physical Layer.
+		- Functions :
+		    - Divides the data into frames (small, manageable data units) to ensure accurate data transfer.
+		    - Manages MAC (Media Access Control) addresses, which are unique identifiers for devices on the network, to ensure that data reaches the correct device.
+		    - Provides flow control, error detection, and sometimes error correction (e.g., Cyclic Redundancy Check or CRC).
+		    - Prevents data collisions on shared media (e.g., using Carrier Sense Multiple Access/Collision Detection in Ethernet).
+		- **Sublayers:**
+		    - **MAC (Media Access Control):** Controls how devices access and share the medium.
+		    - **LLC (Logical Link Control):** Manages error-checking and frame synchronization.
+		- **Devices Involved:** Switches, network interface cards (NICs), and bridges.
+	- **Physical Layer** 
+		- The Physical Layer is responsible for the physical connection between devices, transmitting raw bits of data over a medium like a cable, fiber optic, or radio waves.
+		- **Functions:**
+			- Defines the hardware elements, including cables, connectors, voltages, and signal frequencies.
+			- Manages the physical characteristics of the transmission medium, specifying transmission rates and bit synchronization.
+			- Converts data to signals that can travel over a transmission medium (e.g., electrical, light, or radio signals).
+			- Determines how devices connect (e.g., topology) and how data flows (e.g., simplex, half-duplex, full-duplex).
+		- **Devices Involved:** Hubs, network cables, and repeaters.
