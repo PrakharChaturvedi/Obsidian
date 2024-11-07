@@ -75,4 +75,7 @@
 	- Client The client-side code that uses tRPC hooks to query and mutate data.
 	- React : Contains React-specific logic (like custom hooks) for invoking tRPC procedures.
 	- Server  
-		- Adapter : this might be where you configure tRPPC with a Next.js adapter
+		- Adapter : this might be where you configure tRPC with a Next.js adapter. For example, setting up the tRPC router to be used in Next.js API handlers.
+		- Middleware : this folder contains logic that runs before or after a tRPC procedure is executed. Middleware are useful for authentication, logging, validation, etc. For example : you could have a middleware that checks if the user authenticated before they can access certain API routes. 
+		- Procedures : This folder contains the individual API logic or procedures that happens when a particular endpoint is called. A procedure is like a single API endpoint, and it could handle things like fetching data or creating a new resource.
+		- Routers : The router is a way of group related procedures. You might have one router for handling posts, another for users, etc. Routers define the shape of your API and organize related procedures. 
