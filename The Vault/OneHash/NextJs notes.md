@@ -69,4 +69,10 @@
 
 
 ## TRPC 
-- Typescript remote procedure call. Instead of producing an API definition for your back end with somethign
+- Typescript remote procedure call. Instead of producing an API definition for your back end with something like OpenAPI or GraphQL, tRPC directly infers and applies your TypeScript endpoints. It also applies the client-side parameters to the server.  
+- TRPC is a modern, type-safe API framework for building APIs in TypeScript. It allows you to build fill-stack applications without needing to define separate types for client and server. This means that your backend and the frontend code that calls them are type-safe and fully inferred by TypeScript. 
+- Now in our project we have following folder and this is working of it :
+	- Client The client-side code that uses tRPC hooks to query and mutate data.
+	- React : Contains React-specific logic (like custom hooks) for invoking tRPC procedures.
+	- Server  
+		- Adapter : this might be where you configure tRPPC with a Next.js adapter
