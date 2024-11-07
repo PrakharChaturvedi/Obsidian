@@ -14,7 +14,7 @@
 - Let's assume we go with <font color="#00b0f0">const res = await fetch ('Link to repo/server');</font>  Then we can take input in the json as <font color="#00b0f0">const data = await res. json ();</font> and the data can be represented on page like return <h 1> {data. id} < /h1 >
 - To make this process smother : 
 	- It can be done using type script, which comes with great support for inside of app Router out of the box 
-	- type Repository = {id : number; 
+	 ```type Repository = {id : number; 
 		name : string;
 		full_name : string;
 		}; 
@@ -22,8 +22,10 @@
 		 const res = await fetch ('link');
 		 const data : Repository = await res. json();
 		 return <h 1> {data.full_name} </ h 1> 
-		}
-	- With this my editor gives me that functional feedbacks! This only calls data at data.full_name
+		}```
+		
+- With this my editor gives me that functional feedbacks! This only calls data at data.full_name
+	- With this my editor gives me that functional feedbacks! This only calls data at data. Full_name
 	- This code can be structured anyway, but breaking is recommended for making things easier to read and work with and it feels natural. 
 - In next JS the data can also be fetched to not only pages but even to any server components. If we make this data is essentially up one layer and can be shared when we navigate to different routes.  
 
@@ -43,6 +45,7 @@
 		}, // with this the data is fetched only after 5 sec.  
   });    
 - We can combine 2 examples : previously in the pages directory our data fetching strategy whether it's static dynamic or incremental static regeneration can be combined under the same route like : 
+```
 	async funciton getTiime () : Promise<Time> { 
 		const res = await fetch ('link', {
 			next : {
@@ -53,5 +56,17 @@
 	}
 	 Async function getRepo () :  Promise<Repository> {
 		 Const res = await fetch ('link');
-		 return res. json
+		 return res.json();
 	 }
+	 Export default async function Page ( ){
+		 const [data, time] = await Promise.all ([getrepo ( ), getTime ( )]);
+		 return <> 
+				 <h 1 className = "text-bold text-3xl"> {data.full_name}</ h 1>
+				 <p> Updated at : {time.datetime} </p>
+			 </> 
+	 };  
+```
+
+
+## TRPC 
+- Typescript remote procedure call. Instead of producing an API definition for your back end with somethign

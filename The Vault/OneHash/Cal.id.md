@@ -24,7 +24,7 @@
 
 - Next  : 
 	- Routes : File path basis pe bante  hai , [] for dynamic route - name, 
-	- API route : under getHandler, zyada, trpc zyada use hote hai, pages mai bas ye match nahi hota hai - api wale pages mai endpoint ban jate hai.
+	- API route : under getHandler, zyada, trpc zyada use hote hai, pages mai bas ye match nahi hota hai - api wale pages mai endpoint ban jate hai. 
 	- TRPC is a standard sharing funct for frontend and backend.
 
 - TURBO framework in use:
