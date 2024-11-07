@@ -86,5 +86,4 @@
 - Why use it? 
 	- Prisma abstracts the complexities of SQL queries, allowing developers to interact with databases using an object oriented approach. This means developers can focus on their application logic instead of writing raw SQL.
 	- Prisma fits perfectly into this architecture by enabling data fetching directly from the server-side functions like 'getStaticProps' and 'getServerSideProps', which are essential for pre-rendering pages. 
-	- API routes : For operations like POST, PUT, and DELETE, Prisma can be used in conjunction with Next.js API routes. This allows developers to create RESTful endpoints that handle data manipulations securely without exposing the database directly to client components. 
-	- 
+	- API routes : For operations like POST, PUT, and DELETE, Prisma can be used in conjunction with Next.js API routes. This allows developers to create RESTful endpoints that handle data manipulations securely without exposing the database directly to client components.  
