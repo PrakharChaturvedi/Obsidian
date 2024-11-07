@@ -42,4 +42,16 @@
 			} 
 		}, // with this the data is fetched only after 5 sec.  
   });    
-  
+- We can combine 2 examples : previously in the pages directory our data fetching strategy whether it's static dynamic or incremental static regeneration can be combined under the same route like : 
+	async funciton getTiime () : Promise<Time> { 
+		const res = await fetch ('link', {
+			next : {
+				revalidate : 5; 
+			},
+		});
+		Return res.json();
+	}
+	 Async function getRepo () :  Promise<Repository> {
+		 Const res = await fetch ('link');
+		 return res. json
+	 }

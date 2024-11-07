@@ -37,8 +37,7 @@
               "title": "Cal.id"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,10 +238,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "feff0ecad2f592c1",
+  "active": "0dab2e84d24aec9f",
   "lastOpenFiles": [
-    "The Vault/OneHash/NextJs notes.md",
     "The Vault/OneHash/Cal.id.md",
+    "The Vault/OneHash/NextJs notes.md",
     "The Vault/OneHash/Network Details and ID's.md",
     "The Vault/OneHash/_Index_of_OneHash.md",
     "The Vault/_Index_of_The Vault.md",
