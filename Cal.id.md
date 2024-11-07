@@ -33,4 +33,7 @@
 	- PostgreSQL 
 	- ORM - Prisma, multiple db's supported, typescript mai query likho and baki low level mai khud connect kar sakte hai. 
 		- Like mongoDB : moongoose  
-	- Shared 
+	- App-store ke andar microservices hai 
+
+- App/web and packages folder 
+	- Prisma, trpc
