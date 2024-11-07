@@ -79,3 +79,10 @@
 		- Middleware : this folder contains logic that runs before or after a tRPC procedure is executed. Middleware are useful for authentication, logging, validation, etc. For example : you could have a middleware that checks if the user authenticated before they can access certain API routes. 
 		- Procedures : This folder contains the individual API logic or procedures that happens when a particular endpoint is called. A procedure is like a single API endpoint, and it could handle things like fetching data or creating a new resource.
 		- Routers : The router is a way of group related procedures. You might have one router for handling posts, another for users, etc. Routers define the shape of your API and organize related procedures. 
+
+
+## Prisma  
+- It is a next-generation ORM that can be used to access a database in Node.js and TypeScript applications.
+- Why use it? 
+	- Prisma abstracts the complexities of SQL queries, allowing developers to interact with databases using an object oriented approach. This means developers can focus on their application logic instead of writing raw SQL.
+	- 
