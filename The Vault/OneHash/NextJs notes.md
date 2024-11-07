@@ -13,4 +13,33 @@
 - To fetch data inside of our index route, mark your component as async component. Now component is able to support awaiting sum promise inside our body. 
 - Let's assume we go with <font color="#00b0f0">const res = await fetch ('Link to repo/server');</font>  Then we can take input in the json as <font color="#00b0f0">const data = await res. json ();</font> and the data can be represented on page like return <h 1> {data. id} < /h1 >
 - To make this process smother : 
-	- 
+	- It can be done using type script, which comes with great support for inside of app Router out of the box 
+	- type Repository = {id : number; 
+		name : string;
+		full_name : string;
+		}; 
+		export default async function Page () {
+		 const res = await fetch ('link');
+		 const data : Repository = await res. json();
+		 return <h 1> {data.full_name} </ h 1> 
+		}
+	- With this my editor gives me that functional feedbacks! This only calls data at data.full_name
+	- This code can be structured anyway, but breaking is recommended for making things easier to read and work with and it feels natural. 
+- In next JS the data can also be fetched to not only pages but even to any server components. If we make this data is essentially up one layer and can be shared when we navigate to different routes.  
+
+
+## Caching 
+- Support for static data, dynamic data or data that gets revalidated .By default all of the data fetches in Next JS is cached static, to emulate the behavior with the help of webfetch api,
+  const res = await fetch ('link', {
+	  cache : 'no-store' //On every request we bypass caching and 
+                    // fetch new data  
+  });
+- This also supports the data that you want to revalidate (also known as incremental static regeneration)
+	const res = await fetch ('link', {
+		{
+			next : {
+			revalidate : 5, 
+			} 
+		}, // with this the data is fetched only after 5 sec.  
+  });    
+  
