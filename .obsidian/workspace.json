@@ -36,8 +36,19 @@
               "icon": "lucide-file",
               "title": "Cal.id"
             }
+          },
+          {
+            "id": "73f6f328eba42114",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +114,6 @@
       {
         "id": "0e871be1f73b84d7",
         "type": "tabs",
-        "dimension": 36.152954808806484,
         "children": [
           {
             "id": "3e62ca1123bd5a81",
@@ -203,27 +213,10 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "f0c01a90139f7427",
-        "type": "tabs",
-        "dimension": 63.84704519119351,
-        "children": [
-          {
-            "id": "73f6f328eba42114",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -238,10 +231,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "0dab2e84d24aec9f",
+  "active": "73f6f328eba42114",
   "lastOpenFiles": [
-    "The Vault/OneHash/Cal.id.md",
     "The Vault/OneHash/NextJs notes.md",
+    "The Vault/OneHash/Cal.id.md",
     "The Vault/OneHash/Network Details and ID's.md",
     "The Vault/OneHash/_Index_of_OneHash.md",
     "The Vault/_Index_of_The Vault.md",
