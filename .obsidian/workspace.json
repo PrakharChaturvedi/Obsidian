@@ -11,12 +11,15 @@
             "id": "feff0ecad2f592c1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "The Vault/Programming/Projects/Stylus/AppFlow.md"
+                "file": "The Vault/Personal Notes/Daily Note/Sunday(11-10-2024).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "AppFlow"
+              "icon": "lucide-file",
+              "title": "Sunday(11-10-2024)"
             }
           }
         ]
@@ -203,6 +206,8 @@
   },
   "active": "feff0ecad2f592c1",
   "lastOpenFiles": [
+    "The Vault/Programming/Projects/Stylus/AppFlow.md",
+    "The Vault/Personal Notes/Daily Note/Sunday(11-10-2024).md",
     "The Vault/Programming/Projects/_Index_of_Projects.md",
     "The Vault/Programming/Projects/Stylus/_Index_of_Stylus.md",
     "The Vault/Personal Notes/Daily Note/2024/11-November/Wednesday(11-06-2024).md",
@@ -228,8 +233,6 @@
     "The Vault/Personal Notes/Daily Note/2024/01-January/2024-01-02.md",
     "The Vault/Personal Notes/Daily Note/2024/01-January/2024-01-01.md",
     "The Vault/Personal Notes/Daily Note/2024/02-February/2024-02-28.md",
-    "The Vault/Personal Notes/Daily Note/2024/02-February/2024-02-27.md",
-    "The Vault/Personal Notes/Daily Note/2024/02-February/2024-02-26.md",
     "The Vault/Programming/Projects/Cargo Project/UI_App.png",
     "The Vault/Programming/Projects/Cargo Project/Routes.png",
     "The Vault/OneHash",
