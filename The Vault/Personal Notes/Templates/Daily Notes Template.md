@@ -15,12 +15,5 @@ tags:: #DailyNotes
 - An intention for tomorrow : 
 
 ---
-#### Notes created today
-```dataview
-LIST FROM "" WHERE file.cday = date("2024-11-05") SORT file.ctime asc
-```
-
-### Notes last touched today
-```dataview
-LIST FROM "" WHERE file.mday = date(currentDate) SORT file.mtime asc
-```
+## To-do List
+- [ ] Task Completed

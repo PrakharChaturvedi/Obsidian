@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3e448f5993942b5c",
+        "id": "15d8e92c0171189e",
         "type": "tabs",
         "children": [
           {
-            "id": "feff0ecad2f592c1",
+            "id": "c044f097e4149b45",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Vault/Personal Notes/Daily Note/Sunday(11-10-2024).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sunday(11-10-2024)"
+              "title": "New tab"
             }
           }
         ]
@@ -204,10 +199,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "feff0ecad2f592c1",
+  "active": "42c008426e404d21",
   "lastOpenFiles": [
-    "The Vault/Programming/Projects/Stylus/AppFlow.md",
+    "The Vault/Personal Notes/Daily Note/Monday(11-11-2024).md",
     "The Vault/Personal Notes/Daily Note/Sunday(11-10-2024).md",
+    "The Vault/Programming/Projects/Stylus/AppFlow.md",
     "The Vault/Programming/Projects/_Index_of_Projects.md",
     "The Vault/Programming/Projects/Stylus/_Index_of_Stylus.md",
     "The Vault/Personal Notes/Daily Note/2024/11-November/Wednesday(11-06-2024).md",
@@ -232,7 +228,6 @@
     "The Vault/Personal Notes/Daily Note/2024/01-January/2024-01-03.md",
     "The Vault/Personal Notes/Daily Note/2024/01-January/2024-01-02.md",
     "The Vault/Personal Notes/Daily Note/2024/01-January/2024-01-01.md",
-    "The Vault/Personal Notes/Daily Note/2024/02-February/2024-02-28.md",
     "The Vault/Programming/Projects/Cargo Project/UI_App.png",
     "The Vault/Programming/Projects/Cargo Project/Routes.png",
     "The Vault/OneHash",
