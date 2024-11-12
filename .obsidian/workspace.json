@@ -11,10 +11,15 @@
             "id": "c044f097e4149b45",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "The Vault/Personal Notes/Daily Note/Tuesday(11-12-2024).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tuesday(11-12-2024)"
             }
           }
         ]
@@ -199,8 +204,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "42c008426e404d21",
+  "active": "c044f097e4149b45",
   "lastOpenFiles": [
+    "The Vault/Programming/Coding Concepts/Trees.md",
+    "The Vault/Personal Notes/Daily Note/Tuesday(11-12-2024).md",
     "The Vault/Personal Notes/Daily Note/Monday(11-11-2024).md",
     "The Vault/Personal Notes/Daily Note/Sunday(11-10-2024).md",
     "The Vault/Programming/Projects/Stylus/AppFlow.md",
@@ -226,8 +233,6 @@
     "The Vault/Personal Notes/Daily Note/2024/01-January/2024-01-07.md",
     "The Vault/Personal Notes/Daily Note/2024/01-January/2024-01-04.md",
     "The Vault/Personal Notes/Daily Note/2024/01-January/2024-01-03.md",
-    "The Vault/Personal Notes/Daily Note/2024/01-January/2024-01-02.md",
-    "The Vault/Personal Notes/Daily Note/2024/01-January/2024-01-01.md",
     "The Vault/Programming/Projects/Cargo Project/UI_App.png",
     "The Vault/Programming/Projects/Cargo Project/Routes.png",
     "The Vault/OneHash",
