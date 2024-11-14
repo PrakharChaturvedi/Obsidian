@@ -1,5 +1,6 @@
 #CodeVita
 
+## Time and Date
 - Arun and his sister Usha are challenging each other with some mathematical puzzles. Usha, the cleverer one, has come up with the idea of giving Arun 12 distinct digits from 0 to 9, and have him form the largest date time in 2018 with them. Arun is a little nervous, and asks you to help him with a computer program.
 - Usha will give Arun 12 distinct digits. He needs to create a date time combination in the year 2018: the date in the MM/DD form (all four digits must be present), and the time in the format HH: MM (all four digits must be present). The date may be from 01/01 to 12/31 and the time may be from 00:00 to 23:59 (in the 24 hour format). The digits provided may be used only once in the answer that Arun gives.
 - If more than one date time combination may be formed, Arun needs to give the latest valid date time possible in the year 2018.
@@ -18,3 +19,6 @@ Explanation:
 	- Input : 3,3,3,3,3,3,3,3,3,3,3,3
 	- Output : 0
     - Explanation : As no digit less than 3 is present in the input, a valid month cannot be formed. Hence no valid Date time can be formed with the input digits.
+
+## Greedy Hostel Owner 
+- 
