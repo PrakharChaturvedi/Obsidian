@@ -26,12 +26,15 @@
             "id": "413c598d29cb2bd4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-11-16 01.41.58.excalidraw.md"
+                "file": "The Vault/Personal Notes/Daily Note/Saturday(11-16-2024).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-16 01.41.58.excalidraw"
+              "icon": "lucide-file",
+              "title": "Saturday(11-16-2024)"
             }
           }
         ],
@@ -220,9 +223,9 @@
   },
   "active": "413c598d29cb2bd4",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-11-16 01.41.58.excalidraw.md",
     "Excalidraw/_Index_of_Excalidraw.md",
     "The Vault/Personal Notes/Daily Note/Saturday(11-16-2024).md",
-    "Excalidraw/Drawing 2024-11-16 01.41.58.excalidraw.md",
     "Excalidraw",
     "The Vault/Personal Notes/Daily Note/Thursday(11-14-2024).md",
     "The Vault/Programming/_Index_of_Programming.md",
