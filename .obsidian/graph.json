@@ -5,96 +5,18 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "tag:#Ai-ML-DL  ",
-      "color": {
-        "a": 1,
-        "rgb": 16256269
-      }
-    },
-    {
-      "query": "tag:#Codec  ",
-      "color": {
-        "a": 1,
-        "rgb": 15310604
-      }
-    },
-    {
-      "query": "tag:#Concepts  ",
-      "color": {
-        "a": 1,
-        "rgb": 5562088
-      }
-    },
-    {
-      "query": "tag:#DailyNotes  ",
-      "color": {
-        "a": 1,
-        "rgb": 565418
-      }
-    },
-    {
-      "query": "tag:#DBMS  ",
-      "color": {
-        "a": 1,
-        "rgb": 5699008
-      }
-    },
-    {
-      "query": "tag:#excalidraw  ",
-      "color": {
-        "a": 1,
-        "rgb": 4503022
-      }
-    },
-    {
-      "query": "tag:#Git  ",
-      "color": {
-        "a": 1,
-        "rgb": 6118890
-      }
-    },
-    {
-      "query": "tag:#MUN  ",
-      "color": {
-        "a": 1,
-        "rgb": 11815401
-      }
-    },
-    {
-      "query": "tag:#OneHash  ",
-      "color": {
-        "a": 1,
-        "rgb": 2888684
-      }
-    },
-    {
-      "query": "tag:#Personal  ",
-      "color": {
-        "a": 1,
-        "rgb": 1615260
-      }
-    },
-    {
-      "query": "tag:#Programming  ",
-      "color": {
-        "a": 1,
-        "rgb": 5108268
-      }
-    }
-  ],
-  "collapse-display": true,
-  "showArrow": true,
+  "collapse-color-groups": false,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": false,
   "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 0.838565488565489,
-  "lineSizeMultiplier": 0.879313929313929,
+  "lineSizeMultiplier": 1.12380457380457,
   "collapse-forces": false,
-  "centerStrength": 0.125779625779626,
-  "repelStrength": 4.17879417879418,
-  "linkStrength": 0.533264033264033,
-  "linkDistance": 68,
-  "scale": 0.14343680966660585,
-  "close": true
+  "centerStrength": 0.192307692307692,
+  "repelStrength": 8.5031185031185,
+  "linkStrength": 0.337837837837838,
+  "linkDistance": 30,
+  "scale": 0.09768353181017367,
+  "close": false
 }

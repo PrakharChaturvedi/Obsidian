@@ -2,6 +2,7 @@
  [[The Vault/Programming/API Notes/_Index_of_API Notes|_Index_of_API Notes]]
  [[The Vault/Programming/CodeVita/_Index_of_CodeVita|_Index_of_CodeVita]]
  [[The Vault/Programming/Coding Concepts/_Index_of_Coding Concepts|_Index_of_Coding Concepts]]
+ [[The Vault/Programming/Flutter/_Index_of_Flutter|_Index_of_Flutter]]
  [[The Vault/Programming/OOPS/_Index_of_OOPS|_Index_of_OOPS]]
  [[The Vault/Programming/Programming Updates|Programming Updates]]
  [[The Vault/Programming/Projects/_Index_of_Projects|_Index_of_Projects]]
