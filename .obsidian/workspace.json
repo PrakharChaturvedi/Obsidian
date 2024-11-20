@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -223,9 +224,9 @@
   },
   "active": "3e5a04df335e86c9",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
     "The Vault/Personal Notes/Daily Note/Wednesday(11-20-2024).md",
     "The Vault/Programming/Flutter/File Structure.md",
+    "Untitled Kanban.md",
     "The Vault/Programming/Flutter/_Index_of_Flutter.md",
     "The Vault/Programming/Flutter",
     "The Vault/Personal Notes/Daily Note/Saturday(11-16-2024).md",
