@@ -35,5 +35,28 @@ void main() {
 	- `int, double, String, Boolean, List, Set, Map, Runnes, Null`
 	- Code examples : 
 ```
-		
+int : Used for integers
+double : Used for floating-point numbers (decimal values)
+String : Used for text
+Boolean : true or false
+List : 
+	- A collection of items which can be of any types.
+	- List<String> fruits = ["Apple","Banana","Cherry"];
+Set : 
+	- An unordered collection of unique items.
+	- Set <int> numbers = [1,2,3,4,5];
+Map : 
+	- Key-value pairs
+	- Map <String, int> scores = {
+	 	"Prakhar" : 90,
+	 	"Aditi" : 80
+	 };
+Runes : 
+	- A runes represent a sequence of unique code point (characters).
+	- var heart = '❤️';
+		print(heart.runes); // will print the unique code points
+	- Null : 
+	- 	Dart also has a `null` type that represents an absence of value. You can 		          explicitly declare a variable as nullable.
+	- String? name = null; // Nullable type, can hold null
 ```
+
