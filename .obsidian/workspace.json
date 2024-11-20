@@ -21,16 +21,6 @@
               "icon": "lucide-file",
               "title": "Dart basics"
             }
-          },
-          {
-            "id": "c249bf02e747b2c5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ]
       }

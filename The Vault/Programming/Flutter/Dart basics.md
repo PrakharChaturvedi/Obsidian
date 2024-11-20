@@ -58,5 +58,10 @@ Runes :
 	- Null : 
 	- 	Dart also has a `null` type that represents an absence of value. You can 		          explicitly declare a variable as nullable.
 	- String? name = null; // Nullable type, can hold null
+Dynamic types : 
+	- Dart also provides a `dynamic` type, which means the type of the variable can be 
+      anything. It is not type-safe, and it can change at runtime.
+    - dynamic variable = 10; 
+      variable = "Hello"; // Variable now holds a String
 ```
 
