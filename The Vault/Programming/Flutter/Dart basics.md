@@ -64,5 +64,3 @@ Dynamic types :
     - dynamic variable = 10; 
       variable = "Hello"; // Variable now holds a String
 ```
-
-## 
