@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Vault/Personal Notes/Daily Note/Monday(12-16-2024).md",
+                "file": "The Vault/DBMS/Database Notes/Mongo DB Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monday(12-16-2024)"
+              "title": "Mongo DB Notes"
             }
           }
         ]
@@ -85,8 +85,26 @@
     "type": "split",
     "children": [
       {
+        "id": "3a3773593dc9dd13",
+        "type": "tabs",
+        "dimension": 52.954808806489,
+        "children": [
+          {
+            "id": "97be30ed0a768b99",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
         "id": "0e871be1f73b84d7",
         "type": "tabs",
+        "dimension": 47.04519119351101,
         "children": [
           {
             "id": "3e62ca1123bd5a81",
@@ -112,12 +130,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Vault/Concepts/Computer Networks/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Notes"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,11 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The Vault/Concepts/Computer Networks/Notes.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Notes"
+              "title": "Outline"
             }
           },
           {
@@ -180,12 +195,12 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -200,13 +215,17 @@
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "excel:Create Excel File": false
+      "excel:Create Excel File": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85ee652d7dd86aaa",
+  "active": "97be30ed0a768b99",
   "lastOpenFiles": [
-    "The Vault/AI-ML-DL/Machine learning/My notes 1.md",
+    "The Vault/DBMS/Database Notes/Mongo DB Notes.md",
+    "The Vault/DBMS/Database Notes/SQL.md",
+    "The Vault/Excalidraw/Drawing 2024-11-05 00.31.17.excalidraw.md",
     "The Vault/Personal Notes/Daily Note/Monday(12-16-2024).md",
+    "The Vault/AI-ML-DL/Machine learning/My notes 1.md",
     "The Vault/Personal Notes/Daily Note/Wednesday(11-20-2024).md",
     "Prakhar Chaturvedi.md",
     "_Index_of_Obsidian.md",
@@ -232,10 +251,7 @@
     "The Vault/Programming/Projects/Stylus/AppFlow.md",
     "The Vault/Programming/Projects/_Index_of_Projects.md",
     "The Vault/Programming/Projects/Stylus/_Index_of_Stylus.md",
-    "The Vault/Personal Notes/Daily Note/2024/11-November/Wednesday(11-06-2024).md",
     "Untitled",
-    "The Vault/Personal Notes/Daily Note/2024/11-November/Thursday(11-07-2024).md",
-    "The Vault/Personal Notes/Daily Note/2024/11-November/_Index_of_11-November.md",
     "The Vault/Programming/Projects/Cargo Project/UI_App.png",
     "The Vault/Programming/Projects/Cargo Project/Routes.png",
     "The Vault/OneHash",
