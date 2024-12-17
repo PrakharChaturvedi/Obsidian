@@ -93,10 +93,15 @@
             "id": "97be30ed0a768b99",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "The Vault/Personal Notes/Daily Note/Tuesday(12-17-2024).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tuesday(12-17-2024)"
             }
           }
         ]
@@ -221,6 +226,7 @@
   },
   "active": "97be30ed0a768b99",
   "lastOpenFiles": [
+    "The Vault/Personal Notes/Daily Note/Tuesday(12-17-2024).md",
     "The Vault/DBMS/Database Notes/Mongo DB Notes.md",
     "The Vault/DBMS/Database Notes/SQL.md",
     "The Vault/Excalidraw/Drawing 2024-11-05 00.31.17.excalidraw.md",
@@ -250,7 +256,6 @@
     "The Vault/Personal Notes/Daily Note/Sunday(11-10-2024).md",
     "The Vault/Programming/Projects/Stylus/AppFlow.md",
     "The Vault/Programming/Projects/_Index_of_Projects.md",
-    "The Vault/Programming/Projects/Stylus/_Index_of_Stylus.md",
     "Untitled",
     "The Vault/Programming/Projects/Cargo Project/UI_App.png",
     "The Vault/Programming/Projects/Cargo Project/Routes.png",
