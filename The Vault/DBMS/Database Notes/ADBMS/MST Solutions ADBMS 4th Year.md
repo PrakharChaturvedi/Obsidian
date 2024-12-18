@@ -124,14 +124,159 @@
 		- The order in which data is stored does not matter.
 	- Example : 
 		-  `StudentID | Name | Courses  
-		 `1 | John | Math`
-		  Science 2 | Alice | English, History`
-		- 
+		   `1 | John | Math,Science` 
+		   `2 | Alice | English, History` `
+		- This violates 1NF because the `Courses` column contains multiple values. To make it 1NF, we must ensure that each course is listed separately:
+			- `StudentID | Name | Course 
+			  `1 | John | Math` 
+			  `1 | John | Science` 
+			  `2 | Alice | English` 
+			  `2 | Alice | History`
+- **2nd Normal Form (2NF):**
+	- A relation is in **2NF** if:
+		- It is in **1NF**.
+		- There is no partial dependency, i.e., no non-prime attribute is dependent on a part of a candidate key.
+	- **Example:** 
+		- Consider a relation where `StudentID, CourseID` is the primary key: 
+			- `Student_Course(StudentID, CourseID, InstructorName)`
+		- Here, `InstructorName` depends on `CourseID`, not on the full key `(StudentID, CourseID)`. To achieve 2NF, we decompose the table: 
+			- `Student_Course(StudentID, CourseID) Course_Instructor(CourseID, InstructorName)`
+		- Now, `InstructorName` depends only on` CourseID`, not on the composite key.
+- **3rd Normal Form (3NF):**
+	- A relation is in **3NF** if:
+		- It is in **2NF**.
+		- There is no transitive dependency, i.e., non-prime attributes should not depend on other non-prime attributes.
+	- **Example:** 
+		- Consider a relation:
+			- `Student_Course(StudentID, CourseID, InstructorName, InstructorPhone)`
+		- Here, **InstructorPhone** depends on **InstructorName** (a transitive dependency). To achieve 3NF, we decompose the relation:
+			- `Student_Course(StudentID, CourseID, InstructorName) Instructor(InstructorName, InstructorPhone)`
+- **Boyce-Codd Normal Form (BCNF):**
+	- A relation is in **BCNF** if:
+		- It is in **3NF**.
+		- For every functional dependency, the left-hand side (determinant) is a superkey.
+	- **Example:** 
+		- Consider the relation:
+			- `Student_Course(StudentID, CourseID, InstructorName)`
+		- If **InstructorName → CourseID**, then **InstructorName** is a determinant, but it's not a superkey. To make it BCNF, we decompose the table into:
+			- `Instructor_Course(InstructorName, CourseID) Student_Course(StudentID, CourseID)`
+	- This decomposition eliminates the violation of BCNF, as now the determiners are superkeys.
+- **4th Normal Form (4NF):**
+	- A relation is in **4th Normal Form (4NF)** if:
+		- It is in **Boyce-Codd Normal Form (BCNF)**.
+		- It does not contain **multivalued dependencies**.
+	- A multivalued dependency (MVD) occurs when one attribute (or set of attributes) determines a set of values for another attribute, and this relationship holds independently of other attributes in the table. This means an attribute can have multiple independent values, and these independent values need to be stored in a separate relation.
+	- **Example:** Consider a relation **Employee** where an employee has multiple skills and multiple languages they speak:
+		- Employee(EmpID, Skill, Language)
+		- Here, 
+			- **EmpID → Skill** (an employee can have many skills),
+			- **EmpID → Language** (an employee can speak many languages).
+		- In this case, **EmpID** determines both **Skill** and **Language**, but these two sets are independent of each other. This creates a **multivalued dependency**.
+		- To convert this to 4NF, we decompose the relation into two relations:
+			- `Employee_Skills(EmpID, Skill)` 
+			  `Employee_Languages(EmpID, Language)`
+		- Now, each relation has no multivalued dependencies because **Skill** and **Language** are stored independently of each other.
+- **5th Normal Form (5NF):**
+	- A relation is in **5th Normal Form (5NF)**, also called **Project-Join Normal Form (PJNF)**, if:
+		- It is in **4th Normal Form (4NF)**.
+		- It cannot be decomposed into smaller relations without losing information (i.e., no join dependency exists that could be decomposed further).
+	- A **join dependency** occurs when a relation can be decomposed into multiple smaller relations, and the original relation can be recovered by performing a **natural join** on those smaller relations.
+	 - **5NF Example:**
+		- Consider a relation that stores the information about courses taught by professors and students enrolled in those courses:
+			- `Course_Professor_Student (CourseID, ProfessorID, StudentID)`
+		- Here, the functional dependencies might be:
+			- **CourseID, ProfessorID → StudentID** (each course and professor have specific students),
+			- **CourseID, StudentID → ProfessorID** (each student is assigned a specific professor for a course),
+			- **ProfessorID, StudentID → CourseID** (each student and professor combination relates to a particular course).
+		- In this case, there is a **join dependency**. The relation can be decomposed into three smaller relations:
+			- `Course_Professor(CourseID, ProfessorID)` 
+			  `Professor_Student(ProfessorID, StudentID) `
+			  `Course_Student(CourseID, StudentID)`			  
+
 ##### What is an Index? Explain primary indexing and secondary indexing with examples.
+- **Index:** An **index** is a data structure that improves the speed of data retrieval operations on a database table at the cost of additional storage space. It works like an index in a book, where it points to specific data locations, enabling faster lookups and efficient searching.
+- **Primary Indexing:** Primary indexing refers to creating an index on the **primary key** of a table. The primary key is a unique identifier for each record, and the primary index ensures that the records are organized in a sequential order based on this key.
+- **Characteristics of Primary Index:**
+    - It is always unique because the primary key is unique for each record.
+    - It organizes the table based on the primary key.
+    - The primary index can be either a **dense index** (where every record has an index entry) or a **sparse index** (where only some records are indexed).
+- **Example:** Consider a table `Employee` with the attributes `EmpID` (primary key), `Name`, and `Salary`:
+	- `EmpID | Name | Salary  
+	- `1001  | John | 5000 `
+	- `1002 | Alice | 6000` 
+	- `1003 | Bob | 5500`
+- The primary index would be built on `EmpID`:
+	- Index on EmpID: 
+	- `EmpID → Record location` 
+	- `1001 → Record 1` 
+	- `1002 → Record 2` 
+	- `1003 → Record 3`
+- **Secondary Indexing:** Secondary indexing refers to creating an index on a non-primary key, or on columns that are not unique, to speed up searches based on those attributes. This index is used for efficient querying when searching by non-primary key attributes.
+- **Characteristics of Secondary Index:**
+    - It is not unique and can be created on non-key columns.
+    - It may include a **pointer** to the location of the record or the index itself may have duplicates, pointing to multiple rows with the same value.
+- **Example:** 
+	- Consider a `Student` table:
+		- `StudentID | Name | Age `
+		- `S101 | John | 22 `
+		- `S102 | Alice | 23` 
+		- `S103 | Bob | 22`
+	- If we create a secondary index on `Age`:
+		- `Index on Age: `
+		- `Age → Record location `
+		- `22 → Record 1, Record 3` 
+		-` 23 → Record 2`
 
 ##### Explain B+-tree index with suitable example.
-
+- **B+-Tree Index:** A **B+-tree** is a self-balancing tree data structure used in database systems and file systems for indexing. It is an extension of the **B-tree**, where all values are stored in the leaf nodes, and internal nodes only store keys. This provides efficient range queries and searches.
+- **Properties of B+-tree:**
+    - It is a balanced tree, meaning all leaf nodes are at the same level.
+    - It supports efficient insertion, deletion, and search operations with a logarithmic time complexity (O(log n)).
+    - It can handle a large number of keys and can be used in both primary and secondary indexing.
+- **B+-Tree Structure:**
+	- **Internal Nodes** contain keys (not data).
+	- **Leaf Nodes** contain the actual data or pointers to the data.
+- **Example:**
+	- Consider a **B+-tree** with an order of 3, meaning each node can have a maximum of 3 children and 2 keys.
+	- Let’s index a dataset with the values: `15, 25, 35, 50, 55, 60, 75, 80, 85`.
+	- The B+-tree would look like this:
+		-   --[35]--
+          /           \
+	  [15, 25]        [50, 60]
+	 /   |   \              /   |   \
+   [15]  [25]  [35]  [50]  [55]  [75, 80, 85]
+   
 ##### Discuss the various file organization methods (Heap, Sequential, Indexed, and Hashed) in detail.
+- **Heap File Organization:** 
+	- In **heap file organization**, records are stored in no particular order. When a new record is added, it is inserted into the next available space in the file, typically at the end.
+	- **Advantages:**
+	    - Simple to implement and store data.
+	    - No overhead for maintaining order or indexes.
+	- **Disadvantages:**
+	    - Searching for a specific record is slow, as a full table scan may be required.
+	    - Insertion and deletion can result in fragmentation, reducing efficiency over time.
+	- **Example:** A table where records are just added in the order they arrive without any index or sorting:
+		- `Record1 | Record2 | Record3 | Record4`
+- **Sequential File Organization:** 
+	- In **sequential file organization**, records are stored in sorted order based on a key. When inserting a new record, it is placed at the correct position to maintain the order.
+	- **Advantages:**
+	    - Efficient for sequential access or range queries.
+	    - Faster search operations using binary search, as the data is sorted.
+	- **Disadvantages:**
+	    - Insertion and deletion operations can be slow because the data must be reorganized to maintain the order.
+	    - Requires extra space to maintain order during inserts.
+	- **Example:** A sorted list of employees based on `EmpID`:
+		- `EmpID=1 | EmpID=2 | EmpID=3 | EmpID=4`
+- **Indexed File Organization:** In **indexed file organization**, an index is created for a file, allowing fast access to records using the indexed attributes. An index file maps the search key (e.g., `EmpID`) to the location of the record in the data file.
+
+- **Advantages:**
+    - Fast search and retrieval using the index.
+    - Allows fast updates and deletions.
+- **Disadvantages:**
+    - Additional storage required for the index.
+    - Maintaining the index can be complex, especially during insertions and deletions.
+
+
 
 ## 3 Marks
 
