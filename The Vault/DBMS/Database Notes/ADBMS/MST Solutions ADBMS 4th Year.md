@@ -267,16 +267,41 @@
 	    - Requires extra space to maintain order during inserts.
 	- **Example:** A sorted list of employees based on `EmpID`:
 		- `EmpID=1 | EmpID=2 | EmpID=3 | EmpID=4`
-- **Indexed File Organization:** In **indexed file organization**, an index is created for a file, allowing fast access to records using the indexed attributes. An index file maps the search key (e.g., `EmpID`) to the location of the record in the data file.
-
-- **Advantages:**
-    - Fast search and retrieval using the index.
-    - Allows fast updates and deletions.
-- **Disadvantages:**
-    - Additional storage required for the index.
-    - Maintaining the index can be complex, especially during insertions and deletions.
-
-
+- **Indexed File Organization:** 
+	- In **indexed file organization**, an index is created for a file, allowing fast access to records using the indexed attributes. An index file maps the search key (e.g., `EmpID`) to the location of the record in the data file.
+	- **Advantages:**
+	    - Fast search and retrieval using the index.
+	    - Allows fast updates and deletions.
+	- **Disadvantages:**
+	    - Additional storage required for the index.
+	    - Maintaining the index can be complex, especially during insertions and deletions.
+	- Example : 
+		- `Data File: | Index:` 
+		- `EmpID=1, Name=John | EmpID=1 -> Position 0` 
+		- `EmpID=2, Name=Alice| EmpID=2 -> Position 1 `
+		- `EmpID=3, Name=Bob | EmpID=3 -> Position 2`
+- **4. Hashed File Organization:** 
+	- In **hashed file organization**, a **hash function** is used to map the search key (e.g., `EmpID`) directly to a location (bucket) in the file. Each bucket stores one or more records.
+	- **Advantages:**
+	    - Extremely fast for equality searches.
+	    - Hashing provides direct access to data, making lookups faster.
+	- **Disadvantages:**
+	    - Inefficient for range queries, as records are not stored in a sorted order.
+	    - Hash collisions can occur, where multiple keys map to the same bucket.
+	- **Example:** 
+		- If we use a simple hash function `Hash(EmpID) = EmpID % 10` for `EmpID=15`, we would map `15 % 10 = 5`, so the record with `EmpID=15` would be stored in bucket 5.
+		- `Buckets:`
+			`0 -> Record 10`
+			`1 -> Record 11`
+			`2 -> Record 12`
+			`3 -> Record 13`
+			`4 -> Record 14`
+			`5 -> Record 15`
+- **Summary:**
+	- **Heap file organization** stores records with no specific order, leading to slower searches.
+	- **Sequential file organization** sorts records and is efficient for range queries, but slow for updates.
+	- **Indexed file organization** uses an index to improve retrieval speed, making it suitable for both exact searches and range queries.
+	- **Hashed file organization** uses a hash function for direct access, which is efficient for exact match searches but not for range queries.
 
 ## 3 Marks
 
