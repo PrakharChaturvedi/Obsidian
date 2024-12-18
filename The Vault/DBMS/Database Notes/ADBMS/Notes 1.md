@@ -69,8 +69,6 @@ Syllabus : Data and Information,  tags : #DBMS
 	-  **Semi-Structured Model**:
 		- **Structure**: No clear distinction between data and structure, making it more flexible. It's often used for web-based data like XML or emails.
 		- **Advantages**: Flexible for different types of data and can handle data that doesn't fit into traditional models.
-
-
 ## Functional Dependencies
 - Functional dependencies are a key concept in relational database design and are crucial for the process of **normalization**, which organizes data to reduce redundancy and ensure integrity. 
 - In a functional dependency, the value of one set of attributes in a database uniquely determines the value of another set of attributes. Understanding functional dependencies helps in structuring databases efficiently.

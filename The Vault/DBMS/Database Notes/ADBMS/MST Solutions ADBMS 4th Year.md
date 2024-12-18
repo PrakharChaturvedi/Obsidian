@@ -1,17 +1,132 @@
 
 ## 7 Marks
 ##### There are two transactions T and T'. T takes $100 rom account A to account B while T takes 10% of account A to account B. Property of T and T does not change when we do A+B. Create two serial executions for T and T'.
+- **Transaction T:**
+	- T transfers a fixed amount of $100 from Account A to Account B.
+	- After the transaction, $100 is deducted from Account A and added to Account B.
+- **Transaction T':**
+	- T' transfers 10% of the balance in Account A to Account B.
+	- After the transaction, 10% of Account A's balance is deducted from Account A and added to Account B.
+- **Serial Execution 1:**
+	1. **T executes first:**
+	    - Transaction T deducts $100 from Account A and adds it to Account B.
+	    - Account A is now reduced by $100, and Account B is increased by $100.
+	2. **T' executes second:**
+	    - Transaction T' now transfers 10% of Account A’s balance (after T) to Account B.
+	    - If Account A initially had $200, after T, it will have $100. So, T' will transfer 10% of $100, i.e., $10, from Account A to Account B.
+	    - Account A is reduced by $10, and Account B is increased by $10.
+- **Serial Execution 2:**
+	1. **T' executes first:**
+	    - Transaction T' first transfers 10% of Account A’s balance (before T) to Account B.
+	    - If Account A initially had $200, T' will transfer 10% of $200, i.e., $20, from Account A to Account B.
+	    - Account A is reduced by $20, and Account B is increased by $20.
+	2. **T executes second:**
+	    - Transaction T then deducts $100 from Account A (after T') and adds it to Account B.
+	    - Account A now has $180 (after T'), so Account A is reduced by $100, and Account B is increased by $100.
+- **Note:** The property of commutativity in these transactions holds since both transactions only transfer amounts between two accounts and do not affect other operations or dependencies. Therefore, the final state of the accounts is independent of the order of execution.
 
 ##### How does query processing work? Explain necessary steps in query processing with suitable diagram.
+- Query processing involves several steps to translate a high-level query into an optimized execution plan that is run on a database system. These steps ensure that the query is executed efficiently to minimize resource usage (time, CPU, I/O).
+- **Steps in Query Processing:**
+	1. **Parsing and Translation:**
+	    - The SQL query is first parsed to check for syntactical correctness.
+	    - The query is translated into an intermediate representation, typically a relational algebra expression or a query tree.
+	2. **Optimization:**
+	    - The query optimizer takes the intermediate representation and tries to find the most efficient way to execute the query.
+	    - It explores multiple execution plans, considering factors such as join methods, access paths, and indices.
+	    - The goal is to minimize the overall cost of the query, considering factors like I/O and CPU usage.
+	3. **Execution Plan Generation:**
+	    - After optimization, the best execution plan is selected, which details the steps and order of operations (e.g., which indices to use, join methods).
+	4. **Execution:**
+	    - The database management system (DBMS) executes the query based on the chosen plan.
+	    - The DBMS retrieves the required data from storage and applies operations such as joins, selections, and projections.
+	5. **Result Return:**	    
+	    - Finally, the results of the query are returned to the user or application.
+- ![[Pasted image 20241024215358.png]]
 
 ##### Explain Two-phase locking method with suitable example.
+- **Two-phase Locking (2PL):** Two-phase locking is a concurrency control protocol used in databases to ensure serializability of transactions. It involves two distinct phases during the execution of a transaction:
+	1. **Growing Phase:**
+	    - In this phase, a transaction can acquire locks but cannot release any.
+	    - The transaction keeps acquiring locks as needed, but it does not release any locks until the growing phase ends.
+	2. **Shrinking Phase:**
+	    - Once the transaction releases a lock, it enters the shrinking phase.
+	    - During the shrinking phase, the transaction can only release locks but cannot acquire any new locks.
+- The two-phase locking ensures that once a transaction starts releasing locks, it will not be able to interfere with other transactions, preventing issues like deadlocks and ensuring consistency.
+- **Example:**
+	- Let’s consider two transactions, T1 and T2, executing on the same database with two items, A and B.
+	- **Transaction T1:**
+	    1. Locks A in growing phase.
+	    2. Locks B in growing phase.
+	    3. Releases lock on A in shrinking phase.
+	    4. Releases lock on B in shrinking phase.
+	- **Transaction T2:**	    
+	    1. Waits for T1 to release lock on A.
+	    2. Once T1 releases A, T2 locks A.
+	    3. T2 locks B.
 
-##### Create an ER Model for Employee Management Sy stem.
+##### Create an ER Model for Employee Management System.
+![[Pasted image 20241219004710.png]]
 
 ##### Define functional dependency. Explain different functional dependencies with suitable rm example.
+- Functional dependencies are a key concept in relational database design and are crucial for the process of **normalization**, which organizes data to reduce redundancy and ensure integrity. 
+- In a functional dependency, the value of one set of attributes in a database uniquely determines the value of another set of attributes. Understanding functional dependencies helps in structuring databases efficiently.
+- **Definition**: 
+	- A functional dependency, denoted as **X → Y**, means that if two tuples (rows) in a relation (table) have the same values for attribute (s) X, they must also have the same values for attribute (s) Y.
+- **Example**: 
+	- In a student table, if the student ID uniquely determines the student name, we say that "Student ID → Student Name."
+ - **Types :**
+	 - Trivial Functional Dependency :
+		 - A functional dependency is **trivial** if the dependent attribute is a subset of the determinant.
+		- Notation : X → Y is trivial if Y is a subset of X.
+		- Example : In the dependency `{Student ID, Name} → Student ID`, the left side (determinant) includes the right side, making it trivial.
+	- Non-Trivial Functional Dependency:
+		- **Definition**: 
+			- A functional dependency is **non-trivial** if the dependent attribute is not a subset of the determinant.
+		- **Notation**: 
+			- X → Y is non-trivial if Y is not a subset of X.
+		- **Example**: 
+			- In the dependency `Student ID → Name`, the name is not part of the student ID, so it's non-trivial.
+	- Fully Functional Dependency:
+		- **Definition**: 
+			- A functional dependency is **fully functional** when every attribute in the determinant is necessary to determine the dependent attribute.
+		- **Notation**: 
+			- X → Y is fully functional if removing any part of X means Y is no longer dependent on X.
+		- **Example**: 
+			- `{Student ID, Course ID} → Grade`. Here, both the student ID and course ID are needed to determine the grade. If you remove either, you can't determine the grade.
+	- Partial Functional Dependency:
+		- **Definition**: A functional dependency is **partial** when only a part of the determinant is enough to determine the dependent attribute.
+		- **Notation**: X → Y is partial if some attribute in X can be removed while still preserving the dependency.
+		- **Example**: `{Student ID, Course ID} → Student Name`. In this case, `Student ID` alone can determine the `Student Name`, making the dependency partial.
+	- Transitive Dependency:
+		- **Definition**: A transitive dependency occurs when one attribute is indirectly dependent on another attribute through a third attribute.
+		- **Notation**: X → Y and Y → Z imply X → Z.
+		- **Example**: If `Student ID → Department` and `Department → Dean`, then `Student ID → Dean`. The dependency is transitive because the Student ID indirectly determines the Dean.
+-  Example: 
+	- Consider a relation **Student** with attributes: `StudentID, CourseID, Instructor` And the following functional dependencies:
+		- **StudentID → Name**
+		- **CourseID → Instructor**
+- If we have a tuple like: `StudentID = 123, CourseID = "CS101", Instructor = "Dr. Smith"`
+- The functional dependencies indicate:
+	- **StudentID → Name**: The StudentID uniquely determines the student's Name.
+	- **CourseID → Instructor**: The CourseID uniquely determines the Instructor for that course.
 
 ##### Why normal form is needed in database tables? Explain 1st 2nd 3rd and BCNF normal form with suitable example. 
-
+- Normalization is the process of organizing data in a database to reduce redundancy and improve data integrity. It ensures that data is stored in such a way that the following issues are minimized:
+	- **Data redundancy** (duplicate data)
+	- **Update anomalies** (inconsistencies when updating data)
+	- **Deletion anomalies** (loss of valuable data when deleting a record)
+	- **Insertion anomalies** (problems with inserting new data)
+- 1st Normal Form (1NF):
+	- A relation is in **1NF** if it satisfies the following:
+		- Each column contains atomic (indivisible) values.
+		- Each column contains values of a single type.
+		- The order in which data is stored does not matter.
+	- Example : 
+		-  `StudentID | Name | Courses  
+		 `1 | John | Math`
+		  Science 2 | Alice | English, History`
+		- 
 ##### What is an Index? Explain primary indexing and secondary indexing with examples.
 
 ##### Explain B+-tree index with suitable example.
