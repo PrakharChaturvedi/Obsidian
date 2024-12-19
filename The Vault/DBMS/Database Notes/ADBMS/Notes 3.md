@@ -1,0 +1,1 @@
+Indexing in Databases Indexing is a mechanism to optimize the retrieval of records from a database. Instead of scanning the entire table, an index allows the database system to quickly locate and access the desired data
