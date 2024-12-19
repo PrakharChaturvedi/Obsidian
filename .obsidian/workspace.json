@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Vault/DBMS/Database Notes/ADBMS/Syllabus.md",
-                "mode": "source",
+                "file": "The Vault/DBMS/Database Notes/ADBMS/MST Solutions ADBMS 4th Year.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syllabus"
+              "title": "MST Solutions ADBMS 4th Year"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -227,11 +228,11 @@
   },
   "active": "8f43c32431b4f764",
   "lastOpenFiles": [
+    "The Vault/DBMS/Database Notes/ADBMS/Syllabus.md",
     "The Vault/DBMS/Database Notes/ADBMS/MST Solutions ADBMS 4th Year.md",
     "The Vault/DBMS/Database Notes/ADBMS/Notes 3 Prakhar.pdf",
     "The Vault/DBMS/Database Notes/ADBMS/Notes 2.md",
     "The Vault/DBMS/Database Notes/ADBMS/Notes 1.md",
-    "The Vault/DBMS/Database Notes/ADBMS/Syllabus.md",
     "The Vault/Programming/Coding Concepts/LinkedList.md",
     "The Vault/Concepts/Computer Networks/Notes.md",
     "The Vault/DBMS/Database Notes/ADBMS/Notes 3.md",

@@ -1,6 +1,3 @@
-
-
-
 ## 7 Marks
 ##### There are two transactions T and T'. T takes $100 rom account A to account B while T takes 10% of account A to account B. Property of T and T does not change when we do A+B. Create two serial executions for T and T'.
 - **Transaction T:**
