@@ -4,8 +4,8 @@ Tags : #DBMS
 - #### Key Operations
 	- **Read (X)**: This operation gets the value of data item X from the database.
 	- **Write (X)**: This operation saves the value of data item X back to the database.
-- #### States of a Transaction
-	- **Active**: The transaction is currently running.
+- #### States of a Transaction (A P F A C)
+	- **Active**: The transaction is currently running. 
 	- **Partially Committed**: The last step has been completed, but not yet fully committed.
 	- **Failed**: Something went wrong during execution.
 	- **Aborted**: The transaction was canceled, and changes were rolled back.
