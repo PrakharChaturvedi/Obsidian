@@ -6,6 +6,7 @@
       {
         "id": "19ffbae03cc57dd6",
         "type": "tabs",
+        "dimension": 65.24767801857585,
         "children": [
           {
             "id": "8f43c32431b4f764",
@@ -20,6 +21,23 @@
               },
               "icon": "lucide-file",
               "title": "Notes 2"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1cebefd14fb4cde3",
+        "type": "tabs",
+        "dimension": 34.75232198142415,
+        "children": [
+          {
+            "id": "c9546e32cf7453e5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 200
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -225,12 +243,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f43c32431b4f764",
+  "active": "c9546e32cf7453e5",
   "lastOpenFiles": [
+    "The Vault/DBMS/Database Notes/ADBMS/Notes 2.md",
     "The Vault/DBMS/Database Notes/ADBMS/Notes 1.md",
     "The Vault/DBMS/Database Notes/ADBMS/Syllabus.md",
     "The Vault/DBMS/Database Notes/ADBMS/Notes 3 Prakhar.pdf",
-    "The Vault/DBMS/Database Notes/ADBMS/Notes 2.md",
     "The Vault/DBMS/Database Notes/ADBMS/Notes 3.md",
     "The Vault/DBMS/Database Notes/Mongo DB Notes.md",
     "The Vault/DBMS/Database Notes/_Index_of_Database Notes.md",
