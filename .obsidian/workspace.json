@@ -6,7 +6,6 @@
       {
         "id": "19ffbae03cc57dd6",
         "type": "tabs",
-        "dimension": 78.56037151702786,
         "children": [
           {
             "id": "8f43c32431b4f764",
@@ -19,22 +18,20 @@
               "icon": "lucide-file-text",
               "title": "Notes 3 Prakhar"
             }
-          }
-        ]
-      },
-      {
-        "id": "1cebefd14fb4cde3",
-        "type": "tabs",
-        "dimension": 21.439628482972136,
-        "children": [
+          },
           {
-            "id": "c9546e32cf7453e5",
+            "id": "cb71f0ee424e2a48",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "The Vault/DBMS/Database Notes/ADBMS/MST Solutions ADBMS 4th Year.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MST Solutions ADBMS 4th Year"
             }
           }
         ]
@@ -240,8 +237,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9546e32cf7453e5",
+  "active": "8f43c32431b4f764",
   "lastOpenFiles": [
+    "The Vault/DBMS/Database Notes/ADBMS/MST Solutions ADBMS 4th Year.md",
     "The Vault/DBMS/Database Notes/ADBMS/Notes 3 Prakhar.pdf",
     "The Vault/Programming/Coding Concepts/LinkedList.md",
     "The Vault/Concepts/Computer Networks/Notes.md",
@@ -251,7 +249,6 @@
     "The Vault/DBMS/Database Notes/ADBMS/Notes 3.md",
     "The Vault/DBMS/Database Notes/Mongo DB Notes.md",
     "The Vault/DBMS/Database Notes/_Index_of_Database Notes.md",
-    "The Vault/DBMS/Database Notes/ADBMS/MST Solutions ADBMS 4th Year.md",
     "MST Solutions ADBMS - Prakhar.pdf",
     "Pasted image 20241219004710.png",
     "MST Solutions Cloud 4th Year.md",
