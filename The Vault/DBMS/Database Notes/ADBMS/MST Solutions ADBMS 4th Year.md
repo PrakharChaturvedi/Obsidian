@@ -110,6 +110,8 @@
 	- **StudentID → Name**: The StudentID uniquely determines the student's Name.
 	- **CourseID → Instructor**: The CourseID uniquely determines the Instructor for that course.
 
+
+- <span style="background:#d4b106">Reminder</span>
 ##### Why normal form is needed in database tables? Explain 1st 2nd 3rd and BCNF normal form with suitable example. 
 - Normalization is the process of organizing data in a database to reduce redundancy and improve data integrity. It ensures that data is stored in such a way that the following issues are minimized:
 	- **Data redundancy** (duplicate data)
@@ -192,6 +194,7 @@
 			  `Professor_Student(ProfessorID, StudentID) `
 			  `Course_Student(CourseID, StudentID)`			  
 
+- <span style="background:#d4b106">Reminder</span>
 ##### What is an Index? Explain primary indexing and secondary indexing with examples.
 - **Index:** An **index** is a data structure that improves the speed of data retrieval operations on a database table at the cost of additional storage space. It works like an index in a book, where it points to specific data locations, enabling faster lookups and efficient searching.
 - **Primary Indexing:** Primary indexing refers to creating an index on the **primary key** of a table. The primary key is a unique identifier for each record, and the primary index ensures that the records are organized in a sequential order based on this key.
