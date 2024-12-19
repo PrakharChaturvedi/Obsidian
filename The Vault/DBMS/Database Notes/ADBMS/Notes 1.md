@@ -99,7 +99,7 @@ Syllabus : Data and Information,  tags : #DBMS
 		- **Definition**: A functional dependency is **partial** when only a part of the determinant is enough to determine the dependent attribute.
 		- **Notation**: X → Y is partial if some attribute in X can be removed while still preserving the dependency.
 		- **Example**: `{Student ID, Course ID} → Student Name`. In this case, `Student ID` alone can determine the `Student Name`, making the dependency partial.
-	- Transitive Dependency:
+	- <span style="background:#d4b106">Transitive Dependency:</span>
 		- **Definition**: A transitive dependency occurs when one attribute is indirectly dependent on another attribute through a third attribute.
 		- **Notation**: X → Y and Y → Z imply X → Z.
 		- **Example**: If `Student ID → Department` and `Department → Dean`, then `Student ID → Dean`. The dependency is transitive because the Student ID indirectly determines the Dean.
