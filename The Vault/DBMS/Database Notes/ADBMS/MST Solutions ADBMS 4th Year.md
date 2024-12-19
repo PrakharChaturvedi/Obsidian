@@ -367,7 +367,7 @@
 - An index in SQL is a database object used to improve the speed of data retrieval operations. To create an index on the `Lname` attribute of the `EMPLOYEE` table, you can use the `CREATE INDEX` statement.
 - **SQL Syntax:** `CREATE INDEX index_name ON EMPLOYEE(Lname);`
 - Example :  `CREATE INDEX idx_lname ON EMPLOYEE(Lname);`
-- 
+
 ##### What is the difference between static and dynamic hashing? 
 - Both **static** and **dynamic hashing** are techniques used in database systems to manage hash tables. The main difference lies in how the size of the hash table is handled during insertion and deletion operations.
 - **Static Hashing**:
