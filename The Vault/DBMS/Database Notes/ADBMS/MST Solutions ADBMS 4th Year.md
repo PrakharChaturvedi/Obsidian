@@ -434,7 +434,7 @@
 - Data redundancy
 
 ##### In PL/SQL. what is meaning of P? 
-- Parameter
+- Procedural
 
 ##### How BETWEEN operator work? 
 - The **BETWEEN** operator in SQL is used to filter the result set within a specified range. It can be used for **numeric**, **date**, or **text** values. It includes the **boundary values** in the range. 
