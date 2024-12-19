@@ -344,7 +344,7 @@
 
 ##### Why database design methodologies are needed? Write its significance.
 - Database design methodologies are essential for creating efficient, scalable, and reliable databases. These methodologies provide systematic approaches to designing databases that meet both functional and performance requirements.
-- **Significance of Database Design Methodologies:**
+- **Significance of Database Design Methodologies:** (<span style="background:#d4b106">DEDSMS</span>)
 	- **Data Integrity**: Well-designed databases ensure that the data is accurate, consistent, and valid by enforcing rules like primary keys, foreign keys, and unique constraints.
 	- **Efficiency**: Proper design minimizes data redundancy and ensures efficient data retrieval. It helps in creating optimal relationships between tables, reducing storage space, and improving query performance.
 	- **Scalability**: Good design practices help in scaling the database to handle increasing volumes of data, ensuring it can support future growth.
@@ -363,7 +363,6 @@
 ##### Explain SQL WHERE Clause with UPDATE Statement with example.
 - The **`WHERE`** clause is used in SQL to specify which rows of a table should be updated. When used with the **`UPDATE`** statement, it restricts the update operation to only those rows that meet the condition defined in the `WHERE` clause. Without the `WHERE` clause, all rows in the table will be updated.
 -  ``` UPDATE EMPLOYEE SET salary = salary * 1.10 WHERE name = 'Bob'; ```
-	
 ##### Create an index file for Lname attribute of the EMPLOYEE Table of a Database. 
 - An index in SQL is a database object used to improve the speed of data retrieval operations. To create an index on the `Lname` attribute of the `EMPLOYEE` table, you can use the `CREATE INDEX` statement.
 - **SQL Syntax:** `CREATE INDEX index_name ON EMPLOYEE(Lname);`
