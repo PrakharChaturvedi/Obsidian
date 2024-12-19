@@ -33,7 +33,7 @@ Syllabus : Data and Information,  tags : #DBMS
 ## Data Model
 - A **data model** is a set of tools that help describe how data is stored, related, and used in a database. It helps in designing a database and showing how data can be connected, retrieved, and modified. Data models also use symbols and terms that make it easy for people to understand and communicate how data works within an organization.
 - **Basic Building Blocks of a Data Model**:
-	-  **Entity**: Anything that we store data about (e.g., a person, product, or event).
+	- **Entity**: Anything that we store data about (e.g., a person, product, or event).
 	- **Entity Set**: A collection of entities that share the same properties (e.g., a group of students).
 	- **Attribute**: A characteristic or feature of an entity (e.g., a student’s name or age).
 	- **Constraints**: Rules that limit or control the type of data entered, ensuring the data stays accurate and consistent (e.g., age must be a number).
@@ -41,7 +41,7 @@ Syllabus : Data and Information,  tags : #DBMS
 	- **One-to-One (1:1)**: One entity is related to one other entity.
 	- **One-to-Many (1)**: One entity is related to many other entities.
 	- **Many-to-Many (M)**: Many entities can be related to many other entities.
-- **Different Types of Data Models**:
+- **Different Types of Data Models**: (<span style="background:#d4b106">HONORS-E</span>)
 	- **Hierarchical Model**:
 		- **Structure**: Organizes data in a tree-like structure with a single "parent" for each "child" record.
 		- **Advantages**: Simple and fast to navigate, changes in parent data affect children, maintaining data integrity.
