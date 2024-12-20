@@ -25,7 +25,7 @@
 - **Note:** The property of commutativity in these transactions holds since both transactions only transfer amounts between two accounts and do not affect other operations or dependencies. Therefore, the final state of the accounts is independent of the order of execution.
 
 ##### How does query processing work? Explain necessary steps in query processing with suitable diagram.
-- Query processing involves several steps to translate a high-level query into an optimized execution plan that is run on a database system. These steps ensure that the query is executed efficiently to minimize resource usage (time, CPU, I/O).
+- Query processing involves several steps to translate a high-level query into an optimized execution plan that is run on a database system. These steps ensure that the query is executed efficiently to minimize resource usage (time, CPU, I/O). 
 - **Steps in Query Processing:**
 	1. **Parsing and Translation:**
 	    - The SQL query is first parsed to check for syntactical correctness.
