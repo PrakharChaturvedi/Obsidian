@@ -229,19 +229,46 @@
 	2. **Create Data Center**:
 	    - Define hosts with specific configurations (CPU, RAM, storage).
 	3. **Create Virtual Machines**:
-	- Define VMs with configurations like CPU cores and memory.
-	4. **Define Cloudlets**:
+		- Define VMs with configurations like CPU cores and memory.
+	1. **Define Cloudlets**:
 		- Create tasks with required resource specifications.
-	5. **Set Up Broker**:
+	2. **Set Up Broker**:
 	    - Assign cloudlets to VMs and manage task execution.
-	6. **Run Simulation**:
+	3. **Run Simulation**:
 	    - Execute the simulation and collect performance metrics.
-	7. **Analyze Results**:
+	4. **Analyze Results**:
 	    - Evaluate metrics like task completion time and resource utilization.
 - **Conclusion**: User code in CloudSim enables customized simulations, providing insights into resource allocation strategies and cloud performance.
 
 ##### Define MVP and describe its key characteristics with examples and benefits.
-- 
+- Minimum Viable Product (MVP) is the simplest version of a product that includes only the core features necessary to solve a specific problem and validate the product idea. It allows businesses to test their concept with minimal resources.
+- **Key Characteristics of MVP**
+	1. **Core Functionality**:
+	    - Focuses on delivering the primary value of the product.
+	    - Example: An MVP for a food delivery app includes basic features like ordering and payment but excludes advanced features like real-time tracking.
+	2. **Iterative Development**:
+	    - Built incrementally, allowing feedback to shape future versions.
+	3. **User-Centric**:
+	    - Designed to address the target audience’s primary needs.
+	4. **Cost-Effective**:
+	    - Reduces development time and costs by avoiding unnecessary features.
+	5. **Testable**:
+	    - Enables testing of hypotheses about user needs and market demand.
+-  **Examples of MVP**
+	1. **Dropbox**:
+	    - Initially launched as a simple video demonstrating the concept of file synchronization. The positive response validated user demand.
+	2. **Airbnb**:
+	    - Started as a basic website listing a few properties, proving the viability of short-term rentals.
+-  **Benefits of MVP**
+	1. **Faster Time-to-Market**:
+	    - Launching quickly helps capture early adopters and gather feedback.
+	2. **Cost Savings**:
+	    - Minimizes investment in unnecessary features.
+	3. **Risk Reduction**:
+	    - Validates the product idea before full-scale development.
+	4. **User Feedback**:
+	    - Provides insights into user preferences, guiding future iterations.
+- **Conclusion**: MVP is a strategic approach to product development, enabling businesses to validate ideas, reduce risks, and prioritize user needs effectively.
 
 ## 3 Marks 
 
