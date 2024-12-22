@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "The Vault/Concepts/Cloud Computing/ACC/MST Solutions Cloud 4th Year.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "The Vault/Concepts/Cloud Computing/Notes 1.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
@@ -37,8 +37,7 @@
               "title": "Notes 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,10 +240,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "732752a6711f567a",
+  "active": "8f43c32431b4f764",
   "lastOpenFiles": [
-    "The Vault/Concepts/Cloud Computing/ACC/MST Solutions Cloud 4th Year.md",
     "The Vault/Concepts/Cloud Computing/Notes 1.md",
+    "The Vault/Concepts/Cloud Computing/ACC/MST Solutions Cloud 4th Year.md",
     "The Vault/Concepts/Cloud Computing/ACC/Clound 2 - Prakhar.pdf",
     "The Vault/Concepts/Cloud Computing/ACC/Notes 1 - Prakhar.pdf",
     "The Vault/Concepts/Cloud Computing/ACC/Notes 3 - Prakhar (Cloud).pdf",
