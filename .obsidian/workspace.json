@@ -21,6 +21,30 @@
               "icon": "lucide-file",
               "title": "MST Solutions Cloud 4th Year"
             }
+          },
+          {
+            "id": "58082b75eaca3bca",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "The Vault/Concepts/Cloud Computing/ACC/Notes 1 - Prakhar.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Notes 1 - Prakhar"
+            }
+          },
+          {
+            "id": "f1406dc80fd54b0a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "The Vault/Concepts/Cloud Computing/ACC/Clound 2 - Prakhar.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Clound 2 - Prakhar"
+            }
           }
         ]
       }
@@ -227,19 +251,19 @@
   },
   "active": "8f43c32431b4f764",
   "lastOpenFiles": [
+    "The Vault/Concepts/Cloud Computing/ACC/Clound 2 - Prakhar.pdf",
+    "The Vault/Concepts/Cloud Computing/ACC/Notes 1 - Prakhar.pdf",
+    "The Vault/Concepts/Cloud Computing/ACC/MST Solutions Cloud 4th Year.md",
+    "The Vault/Concepts/Cloud Computing/ACC/Notes 3 - Prakhar (Cloud).pdf",
     "Pasted image 20241222150128.png",
     "The Vault/Concepts/Cloud Computing/New Notes.md",
     "The Vault/Concepts/Cloud Computing/Notes 3.md",
-    "The Vault/Concepts/Cloud Computing/ACC/MST Solutions Cloud 4th Year.md",
     "The Vault/DBMS/Database Notes/ADBMS/MST Solutions ADBMS 4th Year.md",
     "The Vault/Concepts/Cloud Computing/_Index_of_Cloud Computing.md",
     "The Vault/Concepts/Cloud Computing/ACC/_Index_of_ACC.md",
-    "The Vault/Concepts/Cloud Computing/ACC/Notes 1 - Prakhar.pdf",
     "The Vault/Concepts/Cloud Computing/Notes 1.md",
     "The Vault/Concepts/Cloud Computing/Notes 2.md",
-    "The Vault/Concepts/Cloud Computing/ACC/Clound 2 - Prakhar.pdf",
     "The Vault/Personal Notes/Daily Note/Sunday(12-22-2024).md",
-    "The Vault/Concepts/Cloud Computing/ACC/Notes 3 - Prakhar (Cloud).pdf",
     "The Vault/Concepts/Cloud Computing/ACC",
     "The Vault/Concepts/Agile/Agile Notes 1.md",
     "The Vault/Concepts/Agile/Class notes.md",
@@ -271,7 +295,6 @@
     "The Vault/AI-ML-DL/Machine learning/Images/Pasted image 20231211133324.png",
     "The Vault/Adole/design/assets/images/2023-04-06 16.17 AdoLE.svg",
     "Pasted image 20241024215339.png",
-    "Pasted image 20241024215156.png",
-    "Pasted image 20241024215110.png"
+    "Pasted image 20241024215156.png"
   ]
 }
