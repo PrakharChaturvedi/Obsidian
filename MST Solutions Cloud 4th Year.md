@@ -57,15 +57,14 @@
 #### What are the Key characteristics of Cross-Functional Teams.
 
 ## Assignment 
-- Define grid and utility computing
-- State any three security benefits
-- What is high scalability architecture 
-- Write short note on high-performance computing (HPC) 
-- Discuss limitations of cloud computing 
-- Explain the architectural influence of cloud 
-- Write about security concerns in cloud computing 
-- Explain regulatory issues and government policies in cloud computing
-
+- Define grid and utility computing.
+- State any three security benefits.
+- What is high scalability architecture.
+- Write short note on high-performance computing (HPC).
+- Discuss limitations of cloud computing.
+- Explain the architectural influence of cloud.
+- Write about security concerns in cloud computing.
+- Explain regulatory issues and government policies in cloud computing.
 - What is a simulator in the context of cloud computing? Describe the key benefits of using simulators for cloud resource management and performance evaluation over real-world cloud environments. 
 - What is CloudSim, and what role does it play in simulating cloud environments? Describe the main components of CloudSim and how each contributes to simulating cloud computing environments. 
 - Explain how CloudSim models cloud data centers, virtual machines (VMs), and user workloads. Provide a step-by-step explanation of how a simple CloudSim simulation can be created to model resource allocation in a cloud environment. 
