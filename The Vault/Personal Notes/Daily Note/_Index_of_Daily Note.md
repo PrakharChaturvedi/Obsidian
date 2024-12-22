@@ -7,6 +7,7 @@
  [[The Vault/Personal Notes/Daily Note/Saturday(11-16-2024)|Saturday(11-16-2024)]]
  [[The Vault/Personal Notes/Daily Note/Saturday(12-21-2024)|Saturday(12-21-2024)]]
  [[The Vault/Personal Notes/Daily Note/Sunday(11-10-2024)|Sunday(11-10-2024)]]
+ [[The Vault/Personal Notes/Daily Note/Sunday(12-22-2024)|Sunday(12-22-2024)]]
  [[The Vault/Personal Notes/Daily Note/Thursday(11-14-2024)|Thursday(11-14-2024)]]
  [[The Vault/Personal Notes/Daily Note/Tuesday(11-12-2024)|Tuesday(11-12-2024)]]
  [[The Vault/Personal Notes/Daily Note/Tuesday(12-17-2024)|Tuesday(12-17-2024)]]
