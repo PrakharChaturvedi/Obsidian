@@ -489,7 +489,7 @@
 
 ##### What is high scalability architecture.
 - High scalability architecture refers to a design approach that enables a cloud-based system to handle increasing workloads efficiently by adding resources (e.g., servers, storage, or network capacity). This architecture ensures that the system can grow seamlessly to meet demand while maintaining performance, reliability, and cost-effectiveness.
-- **Key Features of High Scalability Architecture:**
+- **Key Features of High Scalability Architecture:** (**S**tart **H**opeful, **C**hase **D**reams, **V**enture)
 	- **Elastic Resource Allocation:**
 	    - Resources (compute, storage, and networking) can be dynamically added or removed based on real-time demand, ensuring optimal performance without over-provisioning.
 	- **Load Balancing:**
