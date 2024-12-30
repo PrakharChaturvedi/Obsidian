@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "19ffbae03cc57dd6",
+        "id": "6bd80147700228d3",
         "type": "tabs",
         "children": [
           {
-            "id": "8f43c32431b4f764",
+            "id": "050404539e7df2fb",
             "type": "leaf",
             "state": {
               "type": "excel-view",
               "state": {
-                "file": "Excel 2024-12-30 20.59.27.sheet.md"
+                "file": "Research Intern Sheet.md"
               },
               "icon": "lucide-file",
-              "title": "Excel 2024-12-30 20.59.27.sheet"
+              "title": "Research Intern Sheet"
             }
           }
         ]
@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -223,10 +222,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f43c32431b4f764",
+  "active": "050404539e7df2fb",
   "lastOpenFiles": [
+    "The Vault/Programming/OOPS/OOP's Notes Interview.md",
+    "The Vault/Programming/Coding Concepts/Recursion Board.md",
+    "The Vault/_Index_of_The Vault.md",
+    "Research Intern Sheet.md",
+    "The Vault/Personal Notes/Daily Note/Tuesday(12-31-2024).md",
     "The Vault/Personal Notes/Daily Note/Monday(12-30-2024).md",
-    "Excel 2024-12-30 20.59.27.sheet.md",
     "The Vault/Personal Notes/Templates/Redis Cover Letter.md",
     "The Vault/Personal Notes/Templates/_Index_of_Templates.md",
     "The Vault/Personal Notes/Daily Note/Thursday(12-26-2024).md",
@@ -252,10 +255,6 @@
     "The Vault/Concepts/Innovative project/Innovative Project Features.md",
     "The Vault/Concepts/Innovative project/Syllabus and To-Do list.md",
     "The Vault/Concepts/R/R Daily notes.md",
-    "The Vault/Concepts/R/Notes 3.md",
-    "The Vault/Concepts/R/Notes 1.md",
-    "The Vault/Concepts/Theory of computation/Unit 5.md",
-    "The Vault/Concepts/Theory of computation/Syllabus and To-Do list 1.md",
     "MST Solutions ADBMS - Prakhar.pdf",
     "Pasted image 20241219004710.png",
     "The Vault/DBMS/Database Notes/ADBMS/Notes 3 Prakhar.pdf",
