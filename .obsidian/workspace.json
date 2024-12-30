@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Vault/Concepts/Cloud Computing/ACC/MST Solutions Cloud 4th Year.md",
-                "mode": "preview",
+                "file": "The Vault/Personal Notes/Templates/Redis Cover Letter.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MST Solutions Cloud 4th Year"
+              "title": "Redis Cover Letter"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "right": {
     "id": "0d466f5acdf2c6c0",
@@ -228,8 +227,11 @@
   },
   "active": "8f43c32431b4f764",
   "lastOpenFiles": [
-    "The Vault/Personal Notes/Daily Note/Monday(12-23-2024).md",
+    "The Vault/Personal Notes/Templates/_Index_of_Templates.md",
+    "The Vault/Personal Notes/Daily Note/Thursday(12-26-2024).md",
+    "The Vault/Personal Notes/Templates/Redis Cover Letter.md",
     "The Vault/Concepts/Cloud Computing/ACC/MST Solutions Cloud 4th Year.md",
+    "The Vault/Personal Notes/Daily Note/Monday(12-23-2024).md",
     "The Vault/Concepts/Cloud Computing/Notes 1.md",
     "The Vault/Concepts/Cloud Computing/ACC/Clound 2 - Prakhar.pdf",
     "The Vault/Concepts/Cloud Computing/ACC/Notes 1 - Prakhar.pdf",
@@ -258,9 +260,6 @@
     "The Vault/DBMS/DBMS Concepts/Notes.md",
     "MST Solutions ADBMS - Prakhar.pdf",
     "Pasted image 20241219004710.png",
-    "The Vault/Personal Notes/Daily Note/Saturday(12-21-2024).md",
-    "The Vault/DBMS/Database Notes/ADBMS/Notes 2.md",
-    "The Vault/Personal Notes/Daily Note/Friday(12-20-2024).md",
     "The Vault/DBMS/Database Notes/ADBMS/Notes 3 Prakhar.pdf",
     "The Vault/DBMS/Database Notes/ADBMS/Images/WhatsApp Image 2024-09-02 at 15.29.19_faf72955.jpg",
     "The Vault/DBMS/Database Notes/ADBMS/Images/Pasted image 20241024215358.png",
