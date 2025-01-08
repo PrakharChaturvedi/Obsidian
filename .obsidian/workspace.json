@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d5b514fb22b8e296",
+        "id": "26d3c906e9f266df",
         "type": "tabs",
         "children": [
           {
-            "id": "f19765245bcf123f",
+            "id": "30abbb0f0e4f0589",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Vault/Personal Notes/Daily Note/Tuesday(01-07-2025).md",
+                "file": "The Vault/Personal Notes/Templates/Cover Letters/Udaan Cover Letter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tuesday(01-07-2025)"
+              "title": "Udaan Cover Letter"
             }
           }
         ]
@@ -225,11 +225,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f19765245bcf123f",
+  "active": "30abbb0f0e4f0589",
   "lastOpenFiles": [
+    "The Vault/Personal Notes/Templates/Cover Letters/Oracle Cover Letter.md",
+    "The Vault/Personal Notes/Templates/Cover Letters/Udaan Cover Letter.md",
+    "The Vault/Personal Notes/Templates/Cover Letters/_Index_of_Cover Letters.md",
+    "The Vault/Personal Notes/Templates/Cover Letters/Redis Cover Letter.md",
+    "The Vault/Personal Notes/Templates/Cover Letters",
     "The Vault/Personal Notes/Daily Note/Tuesday(01-07-2025).md",
-    "The Vault/Personal Notes/Templates/Redis Cover Letter.md",
-    "The Vault/Personal Notes/Templates/Oracle Cover Letter.md",
     "The Vault/Personal Notes/Templates/Daily Notes Template.md",
     "The Vault/_Index_of_The Vault.md",
     "The Vault/Personal Notes/Daily Note/Sunday(01-05-2025).md",
@@ -256,8 +259,6 @@
     "The Vault/Personal Notes/Daily Note/Sunday(12-22-2024).md",
     "The Vault/Concepts/Cloud Computing/ACC",
     "The Vault/Concepts/Agile/Agile Notes 1.md",
-    "The Vault/Concepts/Agile/Class notes.md",
-    "The Vault/Concepts/Cryptography and network security/Ciphers (4).md",
     "MST Solutions ADBMS - Prakhar.pdf",
     "Pasted image 20241219004710.png",
     "The Vault/DBMS/Database Notes/ADBMS/Notes 3 Prakhar.pdf",
@@ -266,7 +267,6 @@
     "prakhar_chaturvedi_resume.pdf",
     "The Vault/Programming/Untitled",
     "The Vault/Programming/Flutter",
-    "Excalidraw",
     "The Vault/Programming/Projects/Cargo Project/UI_App.png",
     "The Vault/Programming/Projects/Cargo Project/Routes.png",
     "The Vault/AI-ML-DL/Machine learning/Images/Pasted image 20231211133324.png",
