@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9ee4def3c6ee3664",
+        "id": "48892f8e3b31a9cd",
         "type": "tabs",
         "children": [
           {
-            "id": "8f9ba7287e13dba2",
+            "id": "0382b5323fd41866",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Vault/Personal Notes/Templates/Cover Letters/Deltek Cover Letter.md",
+                "file": "Quotations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deltek Cover Letter"
+              "title": "Quotations"
             }
           }
         ]
@@ -220,17 +220,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "excel:Create Excel File": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f9ba7287e13dba2",
+  "active": "0382b5323fd41866",
   "lastOpenFiles": [
+    "Quotations.md",
+    "The Vault/Personal Notes/Daily Note/Thursday(01-09-2025).md",
+    "The Vault/Personal Notes/Templates/Cover Letters/Deltek Cover Letter.md",
     "The Vault/Personal Notes/Templates/Cover Letters/Oracle Cover Letter.md",
     "The Vault/Personal Notes/Templates/Cover Letters/Redis Cover Letter.md",
-    "The Vault/Personal Notes/Templates/Cover Letters/Deltek Cover Letter.md",
-    "The Vault/Personal Notes/Daily Note/Thursday(01-09-2025).md",
     "The Vault/Personal Notes/Templates/Cover Letters/Udaan Cover Letter.md",
     "The Vault/Personal Notes/Templates/Cover Letters/_Index_of_Cover Letters.md",
     "The Vault/Personal Notes/Templates/Cover Letters",
@@ -257,7 +257,6 @@
     "The Vault/Concepts/Cloud Computing/New Notes.md",
     "The Vault/DBMS/Database Notes/ADBMS/MST Solutions ADBMS 4th Year.md",
     "The Vault/Concepts/Cloud Computing/_Index_of_Cloud Computing.md",
-    "The Vault/Concepts/Cloud Computing/ACC/_Index_of_ACC.md",
     "The Vault/Concepts/Cloud Computing/ACC",
     "MST Solutions ADBMS - Prakhar.pdf",
     "Pasted image 20241219004710.png",
