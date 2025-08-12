@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "ca9ed3ccd312cbe5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d3a6f85cadfe98e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22826f7fd30383c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/The Vault/Finance-Course/Module-3/Lesson 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 9"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54f8adefa7260939",
+    "type": "split",
+    "children": [
+      {
+        "id": "80661a8d9d19bd5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c37de66e1d10635c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e20957cf4c1ce6db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4719429f344380f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "7ea07aeabdad2555",
+    "type": "split",
+    "children": [
+      {
+        "id": "f46d29309d3a1a7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2664429f4eb88a38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian/The Vault/Personal Notes/Daily Note/2025/2025-04-16.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-04-16"
+            }
+          },
+          {
+            "id": "2899c3870ec7bd5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian/The Vault/Finance-Course/Module-3/Lesson 9.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lesson 9"
+            }
+          },
+          {
+            "id": "5a0ecbb4da7a65e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7aeb9b4cc06c72ce",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "a32f177aa05ee347",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian/The Vault/Programming/Coding Concepts/Recursion Board.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Recursion Board"
+            }
+          },
+          {
+            "id": "411c44f99dc77da1",
+            "type": "leaf",
+            "state": {
+              "type": "daily-note-outline",
+              "state": {
+                "activeSet": 0,
+                "activeGranularity": 0
+              },
+              "icon": "calendar-clock",
+              "title": "Daily Note Outline"
+            }
+          },
+          {
+            "id": "b7ba90de878b49bb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c37de66e1d10635c",
+  "lastOpenFiles": [
+    "Obsidian/The Vault/Finance-Course/Module-3/Lesson 8.md",
+    "Obsidian/The Vault/Finance-Course/Module-3/Lesson 9.md",
+    "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png",
+    "Obsidian/The Vault/Finance-Course/Module-1/Lesson 1.md",
+    "Obsidian/The Vault/Finance-Course/Module-1/Lesson 2.md",
+    "Obsidian/The Vault/Finance-Course/Module-1/Lesson 3.md",
+    "Obsidian/The Vault/Finance-Course/Module-1/Lesson 4.md",
+    "Obsidian/The Vault/Finance-Course/Module-2/Lesson 5.md",
+    "Obsidian/The Vault/Finance-Course/Module-2/Lesson 6.md",
+    "Obsidian/The Vault/Finance-Course/Module-2/Lesson 7.md",
+    "Obsidian/The Vault/Finance-Course/Module-2/Lesson 2.md",
+    "Obsidian/The Vault/Finance-Course/Module-2/Lesson 3.md",
+    "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812145003.png",
+    "Obsidian/The Vault/Finance-Course/Module-3",
+    "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812020946.png",
+    "Obsidian/The Vault/Finance-Course/Module-2",
+    "Obsidian/The Vault/Finance-Course/images",
+    "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812020809.png",
+    "Untitled.md",
+    "Obsidian/The Vault/Finance-Course/Module-1",
+    "Warehouse_layout.md",
+    "Obsidian/The Vault/Finance-Course/Module 1",
+    "Obsidian/The Vault/Finance-Course",
+    "Assignment Document flyBase!.md",
+    "Obsidian/MongoDb queries.md",
+    "Obsidian/Excalidraw/Research Intern Sheet.md",
+    "Obsidian/Excalidraw/Pasted image 20250718033427.png",
+    "Obsidian/Excalidraw/Tracker.md",
+    "Recursion.md",
+    "Obsidian/The Vault/Programming/Coding Concepts/Trees.md",
+    "Excalidraw/Drone Interface.md",
+    "Obsidian/The Vault/Personal Notes/Topics to cover.md",
+    "Obsidian/The Vault/Programming/Coding Concepts/Sorting.md",
+    "Obsidian/The Vault/Programming/Coding Concepts/Stack Queue and Deque.md",
+    "Obsidian/The Vault/Programming/OOPS/Paper Notes.md",
+    "Obsidian/The Vault/Programming/OOPS/OOP's Notes Interview.md",
+    "Excalidraw",
+    "Obsidian/The Vault/Personal Notes/Daily Note/2025",
+    "Obsidian/The Vault/Programming/Projects/kuru"
+  ]
+}
