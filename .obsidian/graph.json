@@ -1,22 +1,65 @@
 {
   "collapse-filter": true,
   "search": "",
-  "showTags": false,
-  "showAttachments": false,
+  "showTags": true,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "colorGroups": [
+    {
+      "query": "tag:#finance-course  ",
+      "color": {
+        "a": 1,
+        "rgb": 2547648
+      }
+    },
+    {
+      "query": "tag:#Codec  ",
+      "color": {
+        "a": 1,
+        "rgb": 16384000
+      }
+    },
+    {
+      "query": "tag:#Concepts  ",
+      "color": {
+        "a": 1,
+        "rgb": 12653963
+      }
+    },
+    {
+      "query": "tag:#DailyNotes  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#DBMS  ",
+      "color": {
+        "a": 1,
+        "rgb": 601965
+      }
+    },
+    {
+      "query": "tag:#Programming  ",
+      "color": {
+        "a": 1,
+        "rgb": 14733609
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 0.879313929313929,
-  "lineSizeMultiplier": 3.36958258947547,
+  "lineSizeMultiplier": 0.49165478486958,
   "collapse-forces": true,
-  "centerStrength": 0.732848232848233,
-  "repelStrength": 9.08523908523909,
+  "centerStrength": 0.204552690226043,
+  "repelStrength": 5.54945968412303,
   "linkStrength": 1,
-  "linkDistance": 132,
-  "scale": 0.2810911102611958,
-  "close": true
+  "linkDistance": 500,
+  "scale": 0.20049539171061118,
+  "close": false
 }

@@ -22,20 +22,13 @@
             }
           },
           {
-            "id": "6a1e1a2b5fd65b3e",
+            "id": "378361a0c282e178",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -223,10 +216,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a1e1a2b5fd65b3e",
+  "active": "378361a0c282e178",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Obsidian/The Vault/Finance-Course/Module-2/Lesson 5.md",
+    "Untitled.canvas",
     "Obsidian/The Vault/Finance-Course/Module-3/Lesson 9.md",
     "Obsidian/The Vault/Finance-Course/Module-3/Lesson 8.md",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png",
