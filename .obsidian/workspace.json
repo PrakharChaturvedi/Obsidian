@@ -13,15 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/The Vault/Finance-Course/Module-3/Lesson 9.md",
-                "mode": "source",
+                "file": "Obsidian/The Vault/Finance-Course/Module-2/Lesson 5.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 9"
+              "title": "Lesson 5"
+            }
+          },
+          {
+            "id": "6a1e1a2b5fd65b3e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -189,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 821.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,16 +223,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c37de66e1d10635c",
+  "active": "6a1e1a2b5fd65b3e",
   "lastOpenFiles": [
-    "Obsidian/The Vault/Finance-Course/Module-3/Lesson 8.md",
+    "Untitled.canvas",
+    "Obsidian/The Vault/Finance-Course/Module-2/Lesson 5.md",
     "Obsidian/The Vault/Finance-Course/Module-3/Lesson 9.md",
+    "Obsidian/The Vault/Finance-Course/Module-3/Lesson 8.md",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png",
     "Obsidian/The Vault/Finance-Course/Module-1/Lesson 1.md",
     "Obsidian/The Vault/Finance-Course/Module-1/Lesson 2.md",
     "Obsidian/The Vault/Finance-Course/Module-1/Lesson 3.md",
     "Obsidian/The Vault/Finance-Course/Module-1/Lesson 4.md",
-    "Obsidian/The Vault/Finance-Course/Module-2/Lesson 5.md",
     "Obsidian/The Vault/Finance-Course/Module-2/Lesson 6.md",
     "Obsidian/The Vault/Finance-Course/Module-2/Lesson 7.md",
     "Obsidian/The Vault/Finance-Course/Module-2/Lesson 2.md",
