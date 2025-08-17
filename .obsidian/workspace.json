@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 203.5
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -207,6 +206,8 @@
   },
   "active": "44c9b3b2ecabaec4",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Obsidian/The Vault/Finance-Course/Module-3/Lesson 8.md",
     "Obsidian/The Vault/Programming/Coding Concepts/LinkedList.md",
     "Obsidian/The Vault/Programming/Coding Concepts/Trees.md",
     "Obsidian/The Vault/Programming/Coding Concepts/Stack Queue and Deque.md",
@@ -229,11 +230,8 @@
     "Obsidian/The Vault/Concepts/Cryptography and network security/Ciphers (3).md",
     "Obsidian/The Vault/Concepts/Cryptography and network security/Cipher  (2).md",
     "Obsidian/The Vault/Concepts/Cryptography and network security/Crypto Basics (1).md",
-    "Obsidian/The Vault/Finance-Course/Module-3/Lesson 8.md",
     "Obsidian/The Vault/Finance-Course/Module-2/Lesson 7.md",
     "Obsidian/The Vault/Finance-Course/Module-2/Lesson 6.md",
-    "Obsidian/The Vault/Finance-Course/Module-2/Lesson 5.md",
-    "Untitled.canvas",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812145003.png",
     "Obsidian/The Vault/Finance-Course/Module-3",
