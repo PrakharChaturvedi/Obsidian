@@ -11,14 +11,12 @@
             "id": "44c9b3b2ecabaec4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Obsidian/The Vault/Finance-Course/Module-3/Lesson 8.md",
-                "mode": "preview",
-                "source": false
+                "file": "Obsidian/The Vault/Programming/Coding Concepts/LinkedList.md"
               },
-              "icon": "lucide-file",
-              "title": "Lesson 8"
+              "icon": "excalidraw-icon",
+              "title": "LinkedList"
             }
           }
         ]
@@ -78,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 203.5,
+    "collapsed": true
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -206,9 +205,17 @@
   },
   "active": "44c9b3b2ecabaec4",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Obsidian/The Vault/Finance-Course/Module-3/Lesson 8.md",
     "Obsidian/The Vault/Programming/Coding Concepts/LinkedList.md",
+    "Obsidian/The Vault/Finance-Course/Module-3/Lesson 9.md",
+    "Obsidian/The Vault/Finance-Course/Module-3/Lesson 8.md",
+    "Obsidian/The Vault/Finance-Course/Module-2/Lesson 7.md",
+    "Obsidian/The Vault/Finance-Course/Module-2/Lesson 5.md",
+    "Obsidian/The Vault/Finance-Course/Module-2/Lesson 6.md",
+    "Obsidian/The Vault/Finance-Course/Module-1/Lesson 4.md",
+    "Obsidian/The Vault/Finance-Course/Module-1/Lesson 3.md",
+    "Obsidian/The Vault/Finance-Course/Module-1/Lesson 2.md",
+    "Obsidian/The Vault/Finance-Course/Module-1/Lesson 1.md",
+    "Untitled.canvas",
     "Obsidian/The Vault/Programming/Coding Concepts/Trees.md",
     "Obsidian/The Vault/Programming/Coding Concepts/Stack Queue and Deque.md",
     "Obsidian/The Vault/Programming/Coding Concepts/Recursion Board.md",
@@ -225,13 +232,6 @@
     "Obsidian/The Vault/Concepts/IOT/IOT questions.md",
     "Obsidian/The Vault/Concepts/IOT/Final Season.md",
     "Obsidian/The Vault/Concepts/IOT/7 Markers - Prakhar.md",
-    "Obsidian/The Vault/Concepts/Cryptography and network security/Cipher (5).md",
-    "Obsidian/The Vault/Concepts/Cryptography and network security/Ciphers (4).md",
-    "Obsidian/The Vault/Concepts/Cryptography and network security/Ciphers (3).md",
-    "Obsidian/The Vault/Concepts/Cryptography and network security/Cipher  (2).md",
-    "Obsidian/The Vault/Concepts/Cryptography and network security/Crypto Basics (1).md",
-    "Obsidian/The Vault/Finance-Course/Module-2/Lesson 7.md",
-    "Obsidian/The Vault/Finance-Course/Module-2/Lesson 6.md",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812145003.png",
     "Obsidian/The Vault/Finance-Course/Module-3",
