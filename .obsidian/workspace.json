@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "LinkedList"
             }
+          },
+          {
+            "id": "036b6e49e857071e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-19 00.29.56.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-19 00.29.56.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,9 +216,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44c9b3b2ecabaec4",
+  "active": "036b6e49e857071e",
   "lastOpenFiles": [
     "Obsidian/The Vault/Programming/Coding Concepts/LinkedList.md",
+    "Excalidraw/Drawing 2025-08-19 00.29.56.excalidraw.md",
     "Obsidian/The Vault/Finance-Course/Module-3/Lesson 9.md",
     "Obsidian/The Vault/Finance-Course/Module-3/Lesson 8.md",
     "Obsidian/The Vault/Finance-Course/Module-2/Lesson 7.md",
@@ -231,7 +245,6 @@
     "Obsidian/The Vault/Concepts/IOT/Notes 2.md",
     "Obsidian/The Vault/Concepts/IOT/IOT questions.md",
     "Obsidian/The Vault/Concepts/IOT/Final Season.md",
-    "Obsidian/The Vault/Concepts/IOT/7 Markers - Prakhar.md",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812145003.png",
     "Obsidian/The Vault/Finance-Course/Module-3",
