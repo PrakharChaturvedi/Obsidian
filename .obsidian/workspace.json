@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6c8483313b4a1086",
+        "id": "46ee54039fc38a87",
         "type": "tabs",
         "children": [
           {
-            "id": "44c9b3b2ecabaec4",
+            "id": "2fb13e9e87bb37e2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian/The Vault/Programming/Coding Concepts/LinkedList.md"
+                "file": "Obsidian/The Vault/Finance-Course/Module-4/Lesson 10.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "LinkedList"
-            }
-          },
-          {
-            "id": "036b6e49e857071e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-08-19 00.29.56.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-19 00.29.56.excalidraw"
+              "icon": "lucide-file",
+              "title": "Lesson 10"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 203.5
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -216,11 +204,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "036b6e49e857071e",
+  "active": "2fb13e9e87bb37e2",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-08-19 00.29.56.excalidraw.md",
-    "Obsidian/The Vault/Programming/Coding Concepts/LinkedList.md",
+    "Obsidian/The Vault/Finance-Course/Module-4/Lesson 11.md",
+    "Obsidian/The Vault/Finance-Course/Module-4/Lesson 10.md",
     "Obsidian/The Vault/Finance-Course/Module-3/Lesson 9.md",
+    "Obsidian/The Vault/Finance-Course/Module-7",
+    "Obsidian/The Vault/Finance-Course/Module-6",
+    "Obsidian/The Vault/Finance-Course/Module-5",
+    "Obsidian/The Vault/Finance-Course/Module-4",
+    "Obsidian/The Vault/Programming/Coding Concepts/LinkedList.md",
+    "Excalidraw/Drawing 2025-08-19 00.29.56.excalidraw.md",
     "Obsidian/The Vault/Finance-Course/Module-3/Lesson 8.md",
     "Obsidian/The Vault/Finance-Course/Module-2/Lesson 7.md",
     "Obsidian/The Vault/Finance-Course/Module-2/Lesson 5.md",
@@ -243,8 +237,6 @@
     "Obsidian/The Vault/AI-ML-DL/Machine learning/My Notes 2.md",
     "Obsidian/The Vault/AI-ML-DL/Machine learning/My notes 1.md",
     "Obsidian/The Vault/Concepts/IOT/Notes 2.md",
-    "Obsidian/The Vault/Concepts/IOT/IOT questions.md",
-    "Obsidian/The Vault/Concepts/IOT/Final Season.md",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812145003.png",
     "Obsidian/The Vault/Finance-Course/Module-3",
@@ -255,9 +247,6 @@
     "Obsidian/The Vault/Finance-Course/Module-1",
     "Obsidian/The Vault/Finance-Course/Module 1",
     "Obsidian/The Vault/Finance-Course",
-    "Obsidian/Excalidraw/Pasted image 20250718033427.png",
-    "Excalidraw",
-    "Obsidian/The Vault/Personal Notes/Daily Note/2025",
-    "Obsidian/The Vault/Programming/Projects/kuru"
+    "Obsidian/Excalidraw/Pasted image 20250718033427.png"
   ]
 }
