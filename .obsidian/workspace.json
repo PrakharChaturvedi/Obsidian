@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7a0e5c9381fdf58a",
+        "id": "b4e813f6116e5463",
         "type": "tabs",
         "children": [
           {
-            "id": "692f583f6dbd32e7",
+            "id": "c1122ccf6fa60f3d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Companies and positions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "Companies and positions"
             }
           }
         ]
@@ -217,8 +219,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "692f583f6dbd32e7",
+  "active": "c37de66e1d10635c",
   "lastOpenFiles": [
+    "Obsidian/_Index_of_ObsidianNotes.md",
     "Companies and positions.md",
     "Obsidian/The Vault/GIt/GitHub Actions.md",
     "Obsidian/The Vault/GIt/Khao pio moj karo.md",
@@ -250,7 +253,6 @@
     "Obsidian/The Vault/Programming/Coding Concepts/Recursion Board.md",
     "Obsidian/The Vault/Programming/Coding Concepts/Rough Board.md",
     "Obsidian/The Vault/Programming/Coding Concepts/Sorting.md",
-    "Obsidian/The Vault/Personal Notes/Imp's/Acumen Decisions.md",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812145003.png",
     "Obsidian/The Vault/Finance-Course/Module-3",
