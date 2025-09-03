@@ -1,0 +1,33 @@
+{
+  "defaultVoice": "speechSynthesis-Microsoft Mark - English (United States)",
+  "pitch": 1,
+  "rate": 1,
+  "volume": 1,
+  "speakLinks": false,
+  "speakFrontmatter": false,
+  "speakSyntax": false,
+  "speakTitle": true,
+  "speakCodeblocks": false,
+  "speakEmoji": false,
+  "speakComments": false,
+  "languageVoices": [
+    {
+      "id": "speechSynthesis-Microsoft David - English (United States)",
+      "voice": "Microsoft David - English (United States)"
+    },
+    {
+      "id": "speechSynthesis-Microsoft David - English (United States)",
+      "voice": "Microsoft David - English (United States)"
+    },
+    {
+      "id": "speechSynthesis-Microsoft Mark - English (United States)",
+      "voice": "Microsoft Mark - English (United States)"
+    }
+  ],
+  "stopPlaybackWhenNoteChanges": false,
+  "services": {
+    "openai": {
+      "key": ""
+    }
+  }
+}

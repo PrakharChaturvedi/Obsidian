@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 203.5
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -209,6 +208,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-tts:Text to Speech": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,

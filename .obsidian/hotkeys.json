@@ -1,0 +1,11 @@
+{
+  "listen-up:convert-text-to-speech": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ]
+}
