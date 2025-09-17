@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/The Vault/Finance-Course/Module-4/Lesson 11.md",
+                "file": "Obsidian/The Vault/Concepts/Cryptography and network security/Ciphers (4).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 11"
+              "title": "Ciphers (4)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 235.5
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -222,12 +222,17 @@
   },
   "active": "c1122ccf6fa60f3d",
   "lastOpenFiles": [
+    "Obsidian/The Vault/Concepts/Cryptography and network security/Cipher (5).md",
+    "Obsidian/The Vault/Concepts/Cryptography and network security/Ciphers (4).md",
+    "Obsidian/The Vault/Concepts/Cryptography and network security/Ciphers (3).md",
+    "Obsidian/The Vault/Concepts/Cryptography and network security/Cipher  (2).md",
+    "Obsidian/The Vault/Concepts/Cryptography and network security/Cipher (1).md",
+    "Obsidian/The Vault/Finance-Course/Module-4/Lesson 11.md",
     "Obsidian/The Vault/Finance-Course/Module-4/Lesson 10.md",
     "Obsidian/The Vault/Finance-Course/Module-3/Lesson 9.md",
     "Obsidian/The Vault/Finance-Course/Module-2/Lesson 7.md",
     "Obsidian/The Vault/Finance-Course/Module-1/Lesson 4.md",
     "Obsidian/The Vault/Finance-Course/Module-1/Lesson 1.md",
-    "Obsidian/The Vault/Finance-Course/Module-4/Lesson 11.md",
     "Companies and positions.md",
     "Obsidian/_Index_of_ObsidianNotes.md",
     "Obsidian/The Vault/GIt/GitHub Actions.md",
@@ -249,11 +254,6 @@
     "Obsidian/The Vault/Finance-Course/Module-1/Lesson 3.md",
     "Obsidian/The Vault/Finance-Course/Module-1/Lesson 2.md",
     "Untitled.canvas",
-    "Obsidian/The Vault/Programming/Coding Concepts/Trees.md",
-    "Obsidian/The Vault/Programming/Coding Concepts/Stack Queue and Deque.md",
-    "Obsidian/The Vault/Programming/Coding Concepts/Recursion Board.md",
-    "Obsidian/The Vault/Programming/Coding Concepts/Rough Board.md",
-    "Obsidian/The Vault/Programming/Coding Concepts/Sorting.md",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812145003.png",
     "Obsidian/The Vault/Finance-Course/Module-3",
