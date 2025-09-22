@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Cipher (5)"
             }
+          },
+          {
+            "id": "ce55b42117584f2d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Obsidian/The Vault/Personal Notes/Imp's/Encryption-Algo/Drawing 2025-09-22 21.51.37.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-22 21.51.37.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -220,10 +234,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1122ccf6fa60f3d",
+  "active": "ce55b42117584f2d",
   "lastOpenFiles": [
-    "Obsidian/The Vault/Concepts/Cryptography and network security/Ciphers (4).md",
     "Obsidian/The Vault/Concepts/Cryptography and network security/Cipher (5).md",
+    "Obsidian/The Vault/Personal Notes/Imp's/Encryption-Algo/Drawing 2025-09-22 21.51.37.excalidraw.md",
+    "Obsidian/The Vault/Personal Notes/Imp's/Encryption-Algo",
+    "Obsidian/The Vault/Concepts/Cryptography and network security/Ciphers (4).md",
     "Obsidian/The Vault/Concepts/Cryptography and network security/Ciphers (3).md",
     "Obsidian/The Vault/Concepts/Cryptography and network security/Cipher  (2).md",
     "Obsidian/The Vault/Concepts/Cryptography and network security/Cipher (1).md",
@@ -252,7 +268,6 @@
     "Obsidian/The Vault/Finance-Course/Module-2/Lesson 5.md",
     "Obsidian/The Vault/Finance-Course/Module-2/Lesson 6.md",
     "Obsidian/The Vault/Finance-Course/Module-1/Lesson 3.md",
-    "Obsidian/The Vault/Finance-Course/Module-1/Lesson 2.md",
     "Untitled.canvas",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812145003.png",
@@ -262,7 +277,6 @@
     "Obsidian/The Vault/Finance-Course/images",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812020809.png",
     "Obsidian/The Vault/Finance-Course/Module-1",
-    "Obsidian/The Vault/Finance-Course/Module 1",
     "Obsidian/Excalidraw/Pasted image 20250718033427.png"
   ]
 }
