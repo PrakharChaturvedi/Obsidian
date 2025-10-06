@@ -27,13 +27,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Obsidian/The Vault/Personal Notes/Imp's/Encryption-Algo/Drawing 2025-09-22 21.51.37.excalidraw.md"
+                "file": "Warehouse_layout.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-22 21.51.37.excalidraw"
+              "title": "Warehouse_layout"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -210,14 +210,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "a4dd3af14e214a17",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 821.5,
-    "collapsed": true
+    "width": 696.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,8 +242,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e50997634740431",
+  "active": "f2b7088f997b03c0",
   "lastOpenFiles": [
+    "Warehouse_layout.md",
+    "Companies and positions.md",
     "Obsidian/The Vault/Concepts/Cryptography and network security/Cipher (5).md",
     "Obsidian/The Vault/Personal Notes/Imp's/Encryption-Algo/Drawing 2025-09-22 21.51.37.excalidraw.md",
     "Obsidian/The Vault/Personal Notes/Imp's/Encryption-Algo",
@@ -248,7 +259,6 @@
     "Obsidian/The Vault/Finance-Course/Module-2/Lesson 7.md",
     "Obsidian/The Vault/Finance-Course/Module-1/Lesson 4.md",
     "Obsidian/The Vault/Finance-Course/Module-1/Lesson 1.md",
-    "Companies and positions.md",
     "Obsidian/_Index_of_ObsidianNotes.md",
     "Obsidian/The Vault/GIt/GitHub Actions.md",
     "Obsidian/The Vault/GIt/Khao pio moj karo.md",
@@ -266,7 +276,6 @@
     "Excalidraw/Drawing 2025-08-19 00.29.56.excalidraw.md",
     "Obsidian/The Vault/Finance-Course/Module-2/Lesson 5.md",
     "Obsidian/The Vault/Finance-Course/Module-2/Lesson 6.md",
-    "Obsidian/The Vault/Finance-Course/Module-1/Lesson 3.md",
     "Untitled.canvas",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812145003.png",
