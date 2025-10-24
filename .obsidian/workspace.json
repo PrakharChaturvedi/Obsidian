@@ -11,12 +11,14 @@
             "id": "8e5e57f7e8cbfd1b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-25 00.26.28.excalidraw.md"
+                "file": "Obsidian/The Vault/Concepts/Cloud Computing/Notes 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-25 00.26.28.excalidraw"
+              "icon": "lucide-file",
+              "title": "Notes 1"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -221,6 +222,7 @@
   },
   "active": "8e5e57f7e8cbfd1b",
   "lastOpenFiles": [
+    "Obsidian/The Vault/Concepts/Cloud Computing/New Notes.md",
     "Excalidraw/Drawing 2025-10-25 00.26.28.excalidraw.md",
     "Freelance Client.md",
     "Obsidian/The Vault/Programming/Coding Concepts/LinkedList.md",
@@ -248,7 +250,6 @@
     "Obsidian/The Vault/Finance-Course/Module-3/Lesson 9.md",
     "Obsidian/The Vault/Finance-Course/Module-2/Lesson 7.md",
     "Obsidian/The Vault/Finance-Course/Module-1/Lesson 4.md",
-    "Obsidian/The Vault/Finance-Course/Module-1/Lesson 1.md",
     "Obsidian/The Vault/Programming/Untitled.base",
     "Obsidian/The Vault/Finance-Course/Module-7",
     "Obsidian/The Vault/Finance-Course/Module-6",
