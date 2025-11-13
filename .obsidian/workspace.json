@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "KPMG Prep"
             }
+          },
+          {
+            "id": "096205a76ab887c2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,7 +233,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b008f6a38b95f936",
+  "active": "096205a76ab887c2",
   "lastOpenFiles": [
     "KPMG Prep.md",
     "Obsidian/The Vault/AI-ML-DL/Soft Computing/Notes 3.md",
