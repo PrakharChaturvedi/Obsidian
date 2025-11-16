@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1ee819a95e745278",
+        "id": "c7428416af36c217",
         "type": "tabs",
         "children": [
           {
-            "id": "a9bb698cfe8efd85",
+            "id": "ffac0df1c2d1c4b3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian/The Vault/DBMS/Database Notes/ADBMS/Notes 3 Prakhar.pdf"
+                "file": "Azure PDF.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Notes 3 Prakhar"
+              "icon": "lucide-file",
+              "title": "Azure PDF"
             }
           }
         ]
@@ -218,14 +220,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9bb698cfe8efd85",
+  "active": "ffac0df1c2d1c4b3",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Azure PDF.md",
+    "Obsidian/The Vault/DBMS/Database Notes/ADBMS/Notes 3 Prakhar.pdf",
     "Obsidian/The Vault/DBMS/Database Notes/ADBMS/Notes 2.md",
     "Obsidian/The Vault/DBMS/Database Notes/ADBMS/Notes 1.md",
     "Obsidian/The Vault/DBMS/Database Notes/Mongo DB Notes.md",
     "Obsidian/The Vault/DBMS/Database Notes/SQL.md",
     "KPMG Prep.md",
-    "Untitled 1.md",
     "Obsidian/The Vault/AI-ML-DL/Soft Computing/Notes 3.md",
     "Obsidian/The Vault/AI-ML-DL/Soft Computing/Notes 2.md",
     "Obsidian/The Vault/AI-ML-DL/Soft Computing/Notes 1.md",
@@ -242,11 +246,9 @@
     "Obsidian/The Vault/Programming/Flutter/File Structure.md",
     "Obsidian/The Vault/Finance-Course/Module-1/Lesson 3.md",
     "Obsidian/The Vault/Personal Notes/Daily Note/2024/08-August/2024-08-08.md",
-    "Untitled.md",
     "Obsidian/Excalidraw/Pasted image 20250718033427.png",
     "Obsidian/The Vault/Concepts/Cryptography and network security/Cipher (5).md",
     "Warehouse_layout.md",
-    "Companies and positions.md",
     "Obsidian/The Vault/Personal Notes/Imp's/Encryption-Algo",
     "Obsidian/The Vault/Programming/Untitled.base",
     "Obsidian/The Vault/Finance-Course/Module-7",
@@ -260,7 +262,6 @@
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812020946.png",
     "Obsidian/The Vault/Finance-Course/Module-2",
     "Obsidian/The Vault/Finance-Course/images",
-    "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812020809.png",
-    "Obsidian/The Vault/Finance-Course/Module-1"
+    "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812020809.png"
   ]
 }

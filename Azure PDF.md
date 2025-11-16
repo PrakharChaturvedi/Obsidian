@@ -1,0 +1,129 @@
+## Tools and Services : 
+#### Core Computing and Hosting :-
+- **_Azure Virtual Machine (VMs)_**
+    - **Use when:** You need full control (OS, runtime, configs), or want to lift-and-shift an app.
+    - **Why it’s great:**
+        - Run any OS or app
+        - Pay only when running
+        - Insanely flexible for dev/testing/prod
+        - Scalable and suitable for almost any workload
+- **_Azure App Service_**
+    - **Use when:** You want to deploy web apps/APIs without dealing with servers.
+    - **Why it’s great:**
+        - Deploy code in minutes
+        - Auto-scaling built in
+        - Perfect for MERN, .NET, Java, Python, Node
+        - Zero infrastructure management
+- **_Azure Kubernetes Service (AKS)_**
+    - **Use when:** You’re running microservices or containerized apps at scale.
+    - **Why it’s great:**
+        - Easiest way to run containers at scale
+        - Handles updates, scaling, clusters
+        - Ideal for microservices
+        - Azure manages underlying cluster setup and operations
+- **_Azure Functions_**
+    - **Use when:** You want tiny serverless code that runs on events (cron, API hits, DB triggers).
+    - **Why it’s great:**
+        - Pay only for execution time
+        - Zero server setup
+        - Great for cron jobs, webhooks, background tasks
+        - No infrastructure to maintain
+#### STORAGE & DATABASES :-
+- **_Azure Blob Storage_**
+    - **Use when:** Storing images, videos, logs, backups, documents.
+    - **Why it’s great:**
+        - Super cheap
+        - Highly durable
+        - Great for media-heavy apps
+        - High performance and globally scalable
+- **_Azure SQL Database_**
+    - **Use when:** You need a relational database (OLTP) without maintaining a server.
+    - **Why it’s great:**
+        - No server setup
+        - Auto-backup, auto-patching
+        - Scales blindly fast
+        - Fully managed and secure
+- **_Cosmos DB_**
+    - **Use when:** You want blazing-fast NoSQL with global replication.
+    - **Why it’s great:**
+        - Millisecond response times
+        - 99.999% uptime
+        - Supports MongoDB, SQL-like queries, Graph, Cassandra
+        - Low latency + multi-region replication
+#### DATA MOVEMENT & ANALYTICS :-
+- **_Azure Data Factory (ADF)_**
+	- **Use when:** You need ETL/ELT pipelines between databases, files, APIs, SaaS tools.
+    - **Why it’s great:**
+        - Connects databases, files, cloud apps
+        - Visual drag-drop interface
+        - Great for ETL/ELT workflows
+        - Tons of built-in connectors
+- **_Azure Synapse Analytics_**
+    - **Use when:** You need data warehousing, analytics, reporting, or want to combine big data + SQL analytics in one platform.
+    - **Why it’s great:**
+        - Combines SQL pools, Apache Spark, data pipelines, and analytics in one workspace
+        - Ideal for large-scale analytics and BI
+        - Handles massive datasets with high performance
+        - Integrates deeply with ADF, Power BI, and Azure Storage
+#### DEVOPS & AUTOMATION :-
+- **_Azure DevOps_**
+    - **Use when:** You need CI/CD, repos, boards, pipelines.
+    - **Why it’s great:**
+        - Best pipelines for enterprise
+        - Solid repo + test management
+        - Works with any language
+        - End-to-end DevOps platform
+- **_GitHub Actions (Azure-Friendly)_**
+    - **Use when:** You want CI/CD directly in GitHub, especially if your code already lives there.
+    - **Why it’s great:**
+        - Simple YAML-based workflows
+        - Massive community actions and templates
+        - Deep integration with Azure for deployments
+        - Great for lightweight, flexible CI/CD
+- **_Azure Logic Apps_**
+    - **Use when:** You want no-code automation (send emails, connect apps, schedule workflows).
+    - **Why it’s great:**
+        - No-code automation
+        - Connects with 400+ apps (Salesforce, Slack, Gmail, SAP)
+        - Great for enterprise workflows
+        - Easy drag-and-drop interface
+#### MONITORING & SECURITY :-
+- **_Azure Monitor + Log Analytics_**    
+    - **Use when:** You want logs, metrics, alerts, dashboards.
+    - **Why it’s great:**
+        - Alerts when things break
+        - Visual dashboards
+        - Works with any Azure service
+        - Central monitoring + log querying at scale
+- **_Azure API Management (APIM)_**
+    - **Use when:** You need an API gateway, rate limiting, authentication, and API documentation.
+    - **Why it’s great:**
+        - Add rate limits, keys, policies
+        - API gateway + documentation in one
+        - Perfect for microservices + client apps
+        - Secure, scalable, and enterprise-ready
+- **_Microsoft Sentinel_**
+    - **Use when:** You need security monitoring + detecting suspicious events.
+    - **Why it’s great:**
+        - Real-time threat alerts
+        - Uses AI to detect abnormal behavior
+        - Good for enterprise security teams
+        - SIEM + SOAR in one powerful platform
+
+#### Bonus Azur Point
+- **Backbone**
+	- AKS
+	- Apps Service
+	- Blob Storage
+	- SQL DB + Cosmos
+	- API Management
+- **DevOps**
+	- Azure DevOps or GitHub Actions
+- **Monitoring and logs**
+	- Azure Monitor
+	- Application Insights
+- **Automation**
+	- Logic Apps + Functions
+- **Security**
+	- Entra ID (Identification)
+	- Sentinel (Threat Detection)
