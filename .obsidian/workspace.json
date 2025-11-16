@@ -11,10 +11,12 @@
             "id": "a9bb698cfe8efd85",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "Obsidian/The Vault/DBMS/Database Notes/ADBMS/Notes 3 Prakhar.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Notes 3 Prakhar"
             }
           }
         ]
@@ -218,6 +220,10 @@
   },
   "active": "a9bb698cfe8efd85",
   "lastOpenFiles": [
+    "Obsidian/The Vault/DBMS/Database Notes/ADBMS/Notes 2.md",
+    "Obsidian/The Vault/DBMS/Database Notes/ADBMS/Notes 1.md",
+    "Obsidian/The Vault/DBMS/Database Notes/Mongo DB Notes.md",
+    "Obsidian/The Vault/DBMS/Database Notes/SQL.md",
     "KPMG Prep.md",
     "Untitled 1.md",
     "Obsidian/The Vault/AI-ML-DL/Soft Computing/Notes 3.md",
@@ -241,11 +247,7 @@
     "Obsidian/The Vault/Concepts/Cryptography and network security/Cipher (5).md",
     "Warehouse_layout.md",
     "Companies and positions.md",
-    "Obsidian/The Vault/Personal Notes/Imp's/Encryption-Algo/Drawing 2025-09-22 21.51.37.excalidraw.md",
     "Obsidian/The Vault/Personal Notes/Imp's/Encryption-Algo",
-    "Obsidian/The Vault/Concepts/Cryptography and network security/Ciphers (4).md",
-    "Obsidian/The Vault/Concepts/Cryptography and network security/Ciphers (3).md",
-    "Obsidian/The Vault/Concepts/Cryptography and network security/Cipher  (2).md",
     "Obsidian/The Vault/Programming/Untitled.base",
     "Obsidian/The Vault/Finance-Course/Module-7",
     "Obsidian/The Vault/Finance-Course/Module-6",
