@@ -1,4 +1,5 @@
-## Tools and Services : 
+
+## AZURE Tools and Services : 
 #### Core Computing and Hosting :-
 - **_Azure Virtual Machine (VMs)_**
     - **Use when:** You need full control (OS, runtime, configs), or want to lift-and-shift an app.
