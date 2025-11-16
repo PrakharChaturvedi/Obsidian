@@ -128,3 +128,6 @@
 - **Security**
 	- Entra ID (Identification)
 	- Sentinel (Threat Detection)
+
+## SDLC Methodologies 
+- 
