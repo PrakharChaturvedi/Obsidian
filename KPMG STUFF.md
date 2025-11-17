@@ -330,3 +330,5 @@
 	- **gRPC**
 		- gRPC is a high-performance RPC framework that allows a client application to call a method on a server application as if it were a local object.
 		- It uses HTTP/2 for transport and Protocol Buffers for efficient binary serialization, making it ideal for low-latency, internal microservice communication where performance is critical.
+
+
