@@ -112,26 +112,120 @@
         - SIEM + SOAR in one powerful platform
 
 #### Bonus Azur Point
-- **Backbone**
-	- AKS
-	- Apps Service
-	- Blob Storage
-	- SQL DB + Cosmos
-	- API Management
-- **DevOps**
-	- Azure DevOps or GitHub Actions
-- **Monitoring and logs**
-	- Azure Monitor
-	- Application Insights
-- **Automation**
-	- Logic Apps + Functions
-- **Security**
-	- Entra ID (Identification)
-	- Sentinel (Threat Detection)
+- If you need to create an enterprise level application one can go for :-
+
+| Backbone        | DevOps         | Monitoring and logs  | Automation | Security                    |
+| --------------- | -------------- | -------------------- | ---------- | --------------------------- |
+| AKS             | Azure Devops   | Azure Monitor        | Logic Apps | Entra ID (Identification)   |
+| Apps Service    | Github Actions | Application Insights | Functions  | Sentinel (Threat Detection) |
+| Blob Storage    |                |                      |            |                             |
+| SQL DB + Cosmos |                |                      |            |                             |
+| API Management  |                |                      |            |                             |
+
 
 ## SDLC Methodologies 
-- 
+- SDLC is a structured process used to design, develop, test, and deploy software systems.
+- How it works (general phases):
+	- **Requirement Analysis** – gather user/business needs
+	- **System Design** – create architecture and design documents
+	- **Implementation (Coding)** – developers write code
+	- **Testing** – QA team tests the software
+	- **Deployment** – release software to users
+	- **Maintenance** – fix issues, update, improve features
+- Types :
+	- ***Agile Methodology***
+		- Agile is an iterative and incremental SDLC approach focusing on delivering small, usable software pieces quickly with continuous customer involvement.
+		- **How it works:**
+			- Work is divided into **small iterations (2–4 weeks)**
+			- Requirements evolve continuously
+			- Frequent feedback from stakeholders
+			- Focus on adaptability and customer satisfaction
+	- ***Scrum***
+		- A structured Agile framework using fixed-length “**Sprints**.”
+		- **How it works:**
+			- **Sprint Planning** → select work for the sprint
+			- **Daily Scrum** → 15-minute daily sync-up
+			- **Sprint Work** → developers build features
+			- **Sprint Review** → show completed work to stakeholders
+			- **Sprint Retrospective** → reflect and improve
+		- **Key Roles:**
+			- **Product Owner** (defines requirements)
+			- **Scrum Master** (removes blockers, ensures process)
+			- **Development Team**
+	- ***Kanban***
+		- A visual flow-based Agile method focusing on continuous delivery.
+		- Work items move through a **Kanban board** (To Do → In Progress → Done)
+		- Limits on WIP (**Work in Progress**) to avoid overload
+		- No fixed iterations
+		- Continuous improvement and flow optimization
+	- ***Waterfall Model***
+		- A linear, sequential SDLC model where each phase must finish before the next begins.
+		- **How it works:**
+			1. Requirements
+			2. Design
+			3. Implementation
+			4. Testing
+			5. Deployment
+			6. Maintenance
+		- Features 
+			- Rigid and structured
+			- Good for projects with stable requirements
+			- Difficult to change later
+	- ***Spiral Model***
+		- A risk-driven development model combining iterative development and Waterfall principles.
+		- **How it works (4 phases repeated in spirals/loops):**
+			1. **Planning** – requirements like in Waterfall
+			2. **Risk Analysis** – identify and mitigate risks
+			3. **Engineering** – development and testing
+			4. **Evaluation** – customer reviews outcome
+		- Each loop results in a more complete version of the software. Ideal for **large, high-risk projects**.
+	- ***DevOps Model***
+		- An approach combining **development (Dev)** and **operations (Ops)** to enable continuous integration, delivery, deployment, and monitoring.
+		- **How it works:**
+			- **Continuous Integration (CI)** – merge code frequently, automatic builds/tests
+			- **Continuous Delivery/Deployment (CD)** – automate release pipelines
+			- **Infrastructure as Code (IaC)** – automate infrastructure setup
+			- **Monitoring & Feedback** – real-time performance analysis
+			- **Collaboration Between Dev & Ops** – shared pipelines and processes
+		- Focus: **automation, speed, reliability**.
+	- ***XP (Extreme Programming)*** 
+		- An Agile methodology emphasizing **software quality** and **rapid, frequent releases**.
+		- **How it works:**
+			- **Short iterations**
+			- **Pair programming**
+			- **Test-Driven Development (TDD)**
+			- **Continuous integration**
+			- **Refactoring**
+			- **Small, frequent releases**
+			- **Close customer collaboration**
+		- Goal: produce high-quality code with fewer defects.
+	- ***V-Model (Validation & Verification Model)***
+		- An extension of the Waterfall model where testing is planned alongside development in a V-shape.
+		- **How it works:**  
+			- Left side = **Verification**  
+			- Right side = **Validation**
+		- **Verification (Development):**
+			1. Requirements
+			2. System Design
+			3. Architecture Design
+			4. Module Design
+		- ***Validation (Testing):***
+			- User Acceptance Testing ↔ Requirements
+			- System Testing ↔ System Design
+			- Integration Testing ↔ Architecture
+			- Unit Testing ↔ Module Level
+		- Testing is linked directly to its corresponding development stage.
 
+| Model         | Works As                         | Best For                                |
+| ------------- | -------------------------------- | --------------------------------------- |
+| **Waterfall** | Linear & sequential              | Stable requirements                     |
+| **Agile**     | Iterative, incremental           | Changing requirements                   |
+| **Scrum**     | Iteration-based sprints          | Team collaboration                      |
+| **Kanban**    | Continuous flow                  | Support/maintenance work                |
+| **Spiral**    | Risk-driven iterations           | Large, risky projects                   |
+| **DevOps**    | Automated CI/CD + Ops            | Rapid deployment                        |
+| **XP**        | Code-quality focused Agile       | High-quality fast releases              |
+| **V-Model**   | Testing aligned with development | Critical systems (healthcare, aviation) |
 
 ## Networking Protocols 
 - Networking protocols are basically the **rules of communication** between computers. Imagine two devices trying to talk protocols decide _how they speak, what language, how loud, how often,_ everything. They ensure data actually reaches the right place, in the right format, without getting messed up.
