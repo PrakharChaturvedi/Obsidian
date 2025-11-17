@@ -130,6 +130,7 @@
 	- Sentinel (Threat Detection)
 
 ## SDLC Methodologies 
+- 
 
 
 ## Networking Protocols 
@@ -166,4 +167,72 @@
 			- Simple file management
 			- Works even with large files
 			- Still used in DevOps, hosting
-	- 
+	- ***SFTP (Secure File Transfer Protocol)***
+		- Secure version of FTP.
+		- Runs through SSH → fully encrypted.
+		- Used for :
+			- Safe for enterprise file transfers
+			- No chance of data leaks
+			- Standard for server-to-server automation
+	- ***SSH (Secure Shell)***
+		- A secure way to access remote servers.
+		- Creates an encrypted terminal session over the internet.
+		- Developers use it to manage Linux servers
+		- Super secure
+		- Base of DevOps tooling
+	- ***DNS (Domain Name System)***
+		- The “phonebook” of the internet.
+		- When you type google.com → DNS converts it to an IP address (e.g., 142.251.42.238).
+	- ***SMTP (Simple Mail Transfer Protocol)***
+		- Used to send emails.
+		- Your mail server → SMTP server → recipient’s mail server.
+		- **Why it matters:**
+			- Backbone of email systems
+			- Used in notifications, OTPs, etc.
+	- ***DHCP (Dynamic Host Configuration Protocol)***
+		- Automatically assigns IP addresses to devices.
+		- When you connect to WiFi → DHCP gives you IP, gateway, DNS.
+		- Zero manual setup
+		- Network management becomes easy
+		- Used in every LAN/WiFi
+	- ***ARP (Address Resolution Protocol)***
+		- Maps IP address → MAC address.
+		- Your device broadcasts “Who has 192.168.1.4?”. The owner responds with its MAC address.
+		- Devices find each other in LAN
+		- Core of packet routing
+	- ***WebSockets***
+		- Used for real-time continuous communication.
+		- Keeps a single open connection between client and server → instant updates.
+		- Used in:
+			- Live chats
+			- Stock tickers
+			- Multiplayer games
+			- Real-time dashboards
+
+
+## API's
+- **Application Programming Interface**
+- Think of it as a **menu** that a service exposes.
+- You order through the API → the server performs the action → sends back a response. APIs let two applications talk to each other without knowing internal details.
+- **How it works?**
+	- Client sends request (HTTP request GET/POST)
+	- Server processes the request
+	- Server sends response
+	- Client displays the info
+- **Types :**
+	- **REST APIs**
+		- REST APIs use a client-server model to enable communication between different systems over the internet. A client, such as a web or mobile app, sends a request to a server for a specific resource, identified by a URL.
+		- They utilize standard HTTP methods (like GET, POST, PUT, and DELETE) to specify the desired action on a resource. The server then responds with a representation of the resource's current state, most commonly formatted as JSON.
+		- A key principle of REST is statelessness, meaning the server does not store client information between requests. This makes REST APIs highly scalable and lightweight, as each request contains all the necessary information for the server to process it.
+	- **SOAP**
+		- SOAP is a protocol for exchanging structured information in web services, relying on XML as its message format.
+		- It is highly standardized, strictly typed, and platform-agnostic, but its reliance on XML can make its messages larger and more verbose compared to other methods.
+	- **GraphQL**
+		- GraphQL is a query language for APIs that allows clients to request exactly the data they need in a single network request, preventing over-fetching or under-fetching of data.
+		- It operates over a single endpoint, using a strong type system to define a schema that specifies the data and services available, which improves error handling and validation.
+	- **WebSocket**
+		- WebSocket provides a persistent, full-duplex communication channel over a single TCP connection, allowing for real-time, bidirectional data exchange between a client and a server.
+		- Unlike HTTP's request-response cycle, it maintains an open connection, reducing overhead and latency for applications that require continuous, low-latency updates, such as chat or live sports tickers.
+	- **gRPC**
+		- gRPC is a high-performance RPC framework that allows a client application to call a method on a server application as if it were a local object.
+		- It uses HTTP/2 for transport and Protocol Buffers for efficient binary serialization, making it ideal for low-latency, internal microservice communication where performance is critical.
