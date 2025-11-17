@@ -130,4 +130,40 @@
 	- Sentinel (Threat Detection)
 
 ## SDLC Methodologies 
--  
+
+
+## Networking Protocols 
+- Networking protocols are basically the **rules of communication** between computers. Imagine two devices trying to talk protocols decide _how they speak, what language, how loud, how often,_ everything. They ensure data actually reaches the right place, in the right format, without getting messed up.
+- Types of API's :
+	- ***HTTP (Hypertext Transfer Protocol)***
+		- The protocol that powers the web — used when you open websites.
+		- Your browser sends an HTTP request to a server → the server sends back HTML/CSS/JS → your browser displays it.  
+		- It’s **stateless**, meaning each request is fresh; the server doesn’t remember you.
+	- ***HTTPS***
+		- HTTP but encrypted.
+		- Uses **SSL/TLS** certificate to create a secure tunnel. Everything sent between browser and server is scrambled so hackers can't read it.
+	- ***TCP (Transmission Control Protocol)***
+		- A reliable, connection-based protocol used for accurate data transmission.
+		- **How it works:**
+			- Sets up a 3-way handshake (SYN → SYN-ACK → ACK)
+				- SYN : Synchronize, ACK : Acknowledge 
+			- Breaks data into packets
+			- Ensures every packet is delivered (retransmits if needed)	
+		- Used for apps that need accuracy (web, email, files). Guarantees no packet loss.  
+	- ***UDP (User Datagram Protocol)***
+		- A fast, connectionless protocol.
+		- No handshake, no checking — it just throws packets and hopes they arrive.  
+		- Speed > accuracy.
+		- Used in : 
+			- Gaming
+			- Video streaming
+			- Live calls (Zoom, WhatsApp)
+	- ***FTP (File Transfer Protocol)***
+		- Used for transferring files over a network.
+		- Client → Server
+		- You authenticate → browse files → upload/download.
+		- **Why it matters:**
+			- Simple file management
+			- Works even with large files
+			- Still used in DevOps, hosting
+	- 
