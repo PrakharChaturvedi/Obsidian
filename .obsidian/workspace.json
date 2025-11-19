@@ -11,10 +11,14 @@
             "id": "84ac05f7e20b5205",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/VirtueCloud/Notes 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notes 1"
             }
           }
         ]
@@ -216,8 +220,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c37de66e1d10635c",
+  "active": "84ac05f7e20b5205",
   "lastOpenFiles": [
+    "Obsidian/_Index_of_Obsidian.md",
+    "Obsidian/VirtueCloud/Notes 1.md",
     "Obsidian/VirtueCloud",
     "Obsidian/_Index_of_ObsidianNotes.md",
     "Obsidian/The Vault/Personal Notes/Companies and positions.md",
@@ -244,7 +250,6 @@
     "Obsidian/The Vault/Programming/Coding Concepts/Trees.md",
     "Obsidian/The Vault/Programming/Coding Concepts/Stack Queue and Deque.md",
     "Obsidian/The Vault/Programming/Coding Concepts/Recursion Board.md",
-    "Obsidian/The Vault/Programming/Coding Concepts/Rough Board.md",
     "Obsidian/Excalidraw/Pasted image 20250718033427.png",
     "Obsidian/The Vault/Personal Notes/Imp's/Encryption-Algo",
     "Obsidian/The Vault/Programming/Untitled.base",
@@ -258,7 +263,6 @@
     "Obsidian/The Vault/Finance-Course/Module-3",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812020946.png",
     "Obsidian/The Vault/Finance-Course/Module-2",
-    "Obsidian/The Vault/Finance-Course/images",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812020809.png"
   ]
 }
