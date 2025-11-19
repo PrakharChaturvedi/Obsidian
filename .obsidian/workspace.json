@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "KPMG STUFF"
             }
+          },
+          {
+            "id": "de0fd0f3088d7a7f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -222,10 +232,10 @@
   },
   "active": "ffac0df1c2d1c4b3",
   "lastOpenFiles": [
+    "KPMG STUFF.md",
     "Obsidian/The Vault/Concepts/Agile/Agile Notes 1.md",
     "Obsidian/The Vault/Concepts/Agile/Agile MST 3.md",
     "Obsidian/The Vault/Concepts/Agile/Class notes.md",
-    "KPMG STUFF.md",
     "KPMG Prep.md",
     "Untitled 1.md",
     "Obsidian/The Vault/DBMS/Database Notes/ADBMS/Notes 3 Prakhar.pdf",

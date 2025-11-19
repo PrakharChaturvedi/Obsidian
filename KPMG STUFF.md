@@ -1,4 +1,3 @@
-
 ## AZURE Tools and Services : 
 #### Core Computing and Hosting :-
 - **_Azure Virtual Machine (VMs)_**
