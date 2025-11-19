@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c7428416af36c217",
+        "id": "249d8ccba2f2921b",
         "type": "tabs",
         "children": [
           {
-            "id": "ffac0df1c2d1c4b3",
+            "id": "84ac05f7e20b5205",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KPMG STUFF.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "KPMG STUFF"
-            }
-          },
-          {
-            "id": "de0fd0f3088d7a7f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -230,13 +216,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffac0df1c2d1c4b3",
+  "active": "c37de66e1d10635c",
   "lastOpenFiles": [
+    "Obsidian/VirtueCloud",
+    "Obsidian/_Index_of_ObsidianNotes.md",
+    "Obsidian/The Vault/Personal Notes/Companies and positions.md",
+    "Warehouse_layout.md",
     "KPMG STUFF.md",
+    "KPMG Prep.md",
     "Obsidian/The Vault/Concepts/Agile/Agile Notes 1.md",
     "Obsidian/The Vault/Concepts/Agile/Agile MST 3.md",
     "Obsidian/The Vault/Concepts/Agile/Class notes.md",
-    "KPMG Prep.md",
     "Untitled 1.md",
     "Obsidian/The Vault/DBMS/Database Notes/ADBMS/Notes 3 Prakhar.pdf",
     "Obsidian/The Vault/DBMS/Database Notes/ADBMS/Notes 2.md",
@@ -255,10 +245,6 @@
     "Obsidian/The Vault/Programming/Coding Concepts/Stack Queue and Deque.md",
     "Obsidian/The Vault/Programming/Coding Concepts/Recursion Board.md",
     "Obsidian/The Vault/Programming/Coding Concepts/Rough Board.md",
-    "Obsidian/The Vault/Programming/Coding Concepts/Sorting.md",
-    "Obsidian/The Vault/Programming/Flutter/File Structure.md",
-    "Obsidian/The Vault/Finance-Course/Module-1/Lesson 3.md",
-    "Obsidian/The Vault/Personal Notes/Daily Note/2024/08-August/2024-08-08.md",
     "Obsidian/Excalidraw/Pasted image 20250718033427.png",
     "Obsidian/The Vault/Personal Notes/Imp's/Encryption-Algo",
     "Obsidian/The Vault/Programming/Untitled.base",

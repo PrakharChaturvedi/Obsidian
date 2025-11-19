@@ -1,4 +1,0 @@
-- Why kpmg?
-	- I looked into some data before applying for this position, and found an interesting discovery. Kmpg has more revenue than Bain, McKinsey and BCG combined so they server to more client hence chance to serve and work on a diverse range of clients and projects. 
-	- Brand recognition! 
-	- 
