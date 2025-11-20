@@ -6,6 +6,7 @@
       {
         "id": "249d8ccba2f2921b",
         "type": "tabs",
+        "dimension": 64.41018766756032,
         "children": [
           {
             "id": "84ac05f7e20b5205",
@@ -19,6 +20,23 @@
               },
               "icon": "lucide-file",
               "title": "Notes 1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9740e256bebd99f4",
+        "type": "tabs",
+        "dimension": 35.58981233243968,
+        "children": [
+          {
+            "id": "d808475173724389",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -221,10 +239,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84ac05f7e20b5205",
+  "active": "d808475173724389",
   "lastOpenFiles": [
-    "Obsidian/_Index_of_Obsidian.md",
     "Obsidian/VirtueCloud/Notes 1.md",
+    "Obsidian/_Index_of_Obsidian.md",
     "Obsidian/VirtueCloud",
     "Obsidian/_Index_of_ObsidianNotes.md",
     "Obsidian/The Vault/Personal Notes/Companies and positions.md",
