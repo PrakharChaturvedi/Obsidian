@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "Notes 1"
             }
-          },
-          {
-            "id": "35806dd5858657af",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-11-20 18.51.19.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-20 18.51.19.excalidraw"
-            }
           }
         ]
       }
@@ -90,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -234,9 +223,10 @@
   },
   "active": "84ac05f7e20b5205",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-11-25 12.18.32.excalidraw.md",
+    "Obsidian/VirtueCloud/Notes 1.md",
     "Excalidraw/Drawing 2025-11-20 18.51.19.excalidraw.md",
     "Excalidraw/Subnet diagram.md",
-    "Obsidian/VirtueCloud/Notes 1.md",
     "Obsidian/_Index_of_Obsidian.md",
     "Obsidian/VirtueCloud",
     "Obsidian/_Index_of_ObsidianNotes.md",
@@ -261,7 +251,6 @@
     "Excalidraw/Drawing 2025-10-25 00.26.28.excalidraw.md",
     "Freelance Client.md",
     "Obsidian/The Vault/Programming/Coding Concepts/LinkedList.md",
-    "Obsidian/The Vault/Programming/Coding Concepts/Trees.md",
     "Obsidian/Excalidraw/Pasted image 20250718033427.png",
     "Obsidian/The Vault/Personal Notes/Imp's/Encryption-Algo",
     "Obsidian/The Vault/Programming/Untitled.base",
