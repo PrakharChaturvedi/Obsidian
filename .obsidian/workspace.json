@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Notes 1"
             }
+          },
+          {
+            "id": "7b60aaf1163945e8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,7 +234,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84ac05f7e20b5205",
+  "active": "7b60aaf1163945e8",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-11-25 12.18.32.excalidraw.md",
     "Obsidian/VirtueCloud/Notes 1.md",
