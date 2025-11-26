@@ -22,19 +22,16 @@
             }
           },
           {
-            "id": "7b60aaf1163945e8",
+            "id": "e8bad3ba17718c8a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -234,7 +230,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b60aaf1163945e8",
+  "active": "84ac05f7e20b5205",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-11-25 12.18.32.excalidraw.md",
     "Obsidian/VirtueCloud/Notes 1.md",
