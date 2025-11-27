@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "Notes 1"
             }
-          },
-          {
-            "id": "3b6ecb6bcb434387",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-11-27 18.12.04.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-27 18.12.04.excalidraw"
-            }
           }
         ]
       }
@@ -90,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "7ea07aeabdad2555",
