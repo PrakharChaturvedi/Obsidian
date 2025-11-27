@@ -22,13 +22,15 @@
             }
           },
           {
-            "id": "e8bad3ba17718c8a",
+            "id": "3b6ecb6bcb434387",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-11-27 18.12.04.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-27 18.12.04.excalidraw"
             }
           }
         ]
@@ -232,8 +234,9 @@
   },
   "active": "84ac05f7e20b5205",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-11-25 12.18.32.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-27 18.12.04.excalidraw.md",
     "Obsidian/VirtueCloud/Notes 1.md",
+    "Excalidraw/Drawing 2025-11-25 12.18.32.excalidraw.md",
     "Excalidraw/Drawing 2025-11-20 18.51.19.excalidraw.md",
     "Excalidraw/Subnet diagram.md",
     "Obsidian/_Index_of_Obsidian.md",
@@ -259,7 +262,6 @@
     "Obsidian/The Vault/Concepts/Cloud Computing/New Notes.md",
     "Excalidraw/Drawing 2025-10-25 00.26.28.excalidraw.md",
     "Freelance Client.md",
-    "Obsidian/The Vault/Programming/Coding Concepts/LinkedList.md",
     "Obsidian/Excalidraw/Pasted image 20250718033427.png",
     "Obsidian/The Vault/Personal Notes/Imp's/Encryption-Algo",
     "Obsidian/The Vault/Programming/Untitled.base",
