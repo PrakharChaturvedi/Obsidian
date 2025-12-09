@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "249d8ccba2f2921b",
+        "id": "2587ce84462f9a6f",
         "type": "tabs",
         "children": [
           {
-            "id": "84ac05f7e20b5205",
+            "id": "b60e26c12bb27e3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/VirtueCloud/3-Tier Arc.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3-Tier Arc"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -218,14 +213,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "new-3d-graph:Open 3d graph": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "84ac05f7e20b5205",
+  "active": "c37de66e1d10635c",
   "lastOpenFiles": [
-    "Obsidian/VirtueCloud/Notes 1.md",
     "Obsidian/VirtueCloud/3-Tier Arc.md",
-    "Pasted image 20251209105435.png",
+    "Obsidian/VirtueCloud/Notes 1.md",
+    "Obsidian/VirtueCloud/Pasted image 20251209105435.png",
     "Obsidian/VirtueCloud/Notes 2.md",
     "Excalidraw/Drone Interface.md",
     "indexing everything.base",
