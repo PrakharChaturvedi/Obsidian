@@ -11,10 +11,12 @@
             "id": "b60e26c12bb27e3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Obsidian/VirtueCloud/3-tier task.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "3-tier task"
             }
           }
         ]
@@ -74,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -218,12 +221,14 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "c37de66e1d10635c",
+  "active": "b60e26c12bb27e3b",
   "lastOpenFiles": [
     "Obsidian/VirtueCloud/3-Tier Arc.md",
-    "Obsidian/VirtueCloud/Notes 1.md",
-    "Obsidian/VirtueCloud/Pasted image 20251209105435.png",
+    "Obsidian/VirtueCloud/3-tier task.md",
     "Obsidian/VirtueCloud/Notes 2.md",
+    "Obsidian/VirtueCloud/Images",
+    "Obsidian/VirtueCloud/Notes 1.md",
+    "Obsidian/VirtueCloud/Images/Pasted image 20251209105435.png",
     "Excalidraw/Drone Interface.md",
     "indexing everything.base",
     "Excalidraw/Drawing 2025-12-08 22.56.56.excalidraw.md",
@@ -249,7 +254,6 @@
     "Obsidian/The Vault/DBMS/Database Notes/ADBMS/Notes 3 Prakhar.pdf",
     "Obsidian/The Vault/DBMS/Database Notes/ADBMS/Notes 2.md",
     "Obsidian/The Vault/DBMS/Database Notes/ADBMS/Notes 1.md",
-    "Obsidian/The Vault/DBMS/Database Notes/Mongo DB Notes.md",
     "Obsidian/Excalidraw/Pasted image 20250718033427.png",
     "Obsidian/The Vault/Personal Notes/Imp's/Encryption-Algo",
     "Obsidian/The Vault/Programming/Untitled.base",
@@ -259,7 +263,6 @@
     "Obsidian/The Vault/Finance-Course/Module-4",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812145003.png",
-    "Obsidian/The Vault/Finance-Course/Module-3",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812020946.png",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812020809.png"
   ]
