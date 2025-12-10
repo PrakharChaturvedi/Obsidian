@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b60e26c12bb27e3b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Obsidian/VirtueCloud/3-tier task.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "3-tier task"
-            }
-          },
-          {
             "id": "9af8ea904422815d",
             "type": "leaf",
             "state": {
@@ -32,9 +20,20 @@
               "icon": "lucide-file",
               "title": "3-Tier Arc"
             }
+          },
+          {
+            "id": "b60e26c12bb27e3b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Obsidian/VirtueCloud/3-tier task.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "3-tier task"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,10 +236,10 @@
   },
   "active": "9af8ea904422815d",
   "lastOpenFiles": [
+    "Obsidian/VirtueCloud/3-tier task.md",
+    "Obsidian/VirtueCloud/3-Tier Arc.md",
     "Pasted image 20251211005009.png",
     "Obsidian/VirtueCloud/Notes 1.md",
-    "Obsidian/VirtueCloud/3-Tier Arc.md",
-    "Obsidian/VirtueCloud/3-tier task.md",
     "Obsidian/VirtueCloud/Images/Pasted image 20251210234143.png",
     "Obsidian/VirtueCloud/Notes 2.md",
     "Obsidian/VirtueCloud/Images",
