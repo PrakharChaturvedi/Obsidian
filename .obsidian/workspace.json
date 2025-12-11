@@ -18,8 +18,23 @@
               "icon": "excalidraw-icon",
               "title": "3-tier task"
             }
+          },
+          {
+            "id": "db87c79e78241992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/VirtueCloud/3-tier/Details and steps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Details and steps"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,10 +235,11 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "f5a0c933640df67c",
+  "active": "c37de66e1d10635c",
   "lastOpenFiles": [
-    "Obsidian/VirtueCloud/3-tier/Details and steps.md",
+    "Obsidian/VirtueCloud/Images/20251211-0931-35.1519734.mp4",
     "Obsidian/VirtueCloud/3-tier task.md",
+    "Obsidian/VirtueCloud/3-tier/Details and steps.md",
     "Obsidian/VirtueCloud/3-Tier Arc.md",
     "Obsidian/VirtueCloud/3-tier/Drawing 2025-12-11 13.08.48.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
@@ -260,7 +276,6 @@
     "KPMG STUFF.md",
     "KPMG Prep.md",
     "Obsidian/The Vault/Concepts/Agile/Agile Notes 1.md",
-    "Obsidian/The Vault/Concepts/Agile/Agile MST 3.md",
     "Obsidian/The Vault/DBMS/Database Notes/ADBMS/Notes 3 Prakhar.pdf",
     "Obsidian/Excalidraw/Pasted image 20250718033427.png",
     "Obsidian/The Vault/Personal Notes/Imp's/Encryption-Algo",
