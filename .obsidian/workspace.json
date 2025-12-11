@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9af8ea904422815d",
+            "id": "f5a0c933640df67c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/VirtueCloud/3-Tier Arc.md",
+                "file": "Obsidian/VirtueCloud/3-tier/Steps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-Tier Arc"
-            }
-          },
-          {
-            "id": "b60e26c12bb27e3b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Obsidian/VirtueCloud/3-tier task.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "3-tier task"
+              "title": "Steps"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,10 +222,21 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "b60e26c12bb27e3b",
+  "active": "f5a0c933640df67c",
   "lastOpenFiles": [
-    "Obsidian/VirtueCloud/3-Tier Arc.md",
+    "Obsidian/VirtueCloud/3-tier/Drawing 2025-12-11 13.08.48.excalidraw.md",
+    "Obsidian/VirtueCloud/3-tier/Steps.md",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
+    "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
+    "Excalidraw/Scripts/Downloaded/Concatenate lines.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
     "Obsidian/VirtueCloud/3-tier task.md",
+    "Obsidian/VirtueCloud/3-tier",
+    "Obsidian/VirtueCloud/3-Tier Arc.md",
     "Obsidian/VirtueCloud/Images/Pasted image 20251211005009.png",
     "Obsidian/VirtueCloud/Notes 1.md",
     "Obsidian/VirtueCloud/Images/Pasted image 20251210234143.png",
@@ -265,21 +263,13 @@
     "KPMG Prep.md",
     "Obsidian/The Vault/Concepts/Agile/Agile Notes 1.md",
     "Obsidian/The Vault/Concepts/Agile/Agile MST 3.md",
-    "Obsidian/The Vault/Concepts/Agile/Class notes.md",
-    "Untitled 1.md",
     "Obsidian/The Vault/DBMS/Database Notes/ADBMS/Notes 3 Prakhar.pdf",
-    "Obsidian/The Vault/DBMS/Database Notes/ADBMS/Notes 2.md",
-    "Obsidian/The Vault/DBMS/Database Notes/ADBMS/Notes 1.md",
     "Obsidian/Excalidraw/Pasted image 20250718033427.png",
     "Obsidian/The Vault/Personal Notes/Imp's/Encryption-Algo",
     "Obsidian/The Vault/Programming/Untitled.base",
     "Obsidian/The Vault/Finance-Course/Module-7",
-    "Obsidian/The Vault/Finance-Course/Module-6",
-    "Obsidian/The Vault/Finance-Course/Module-5",
-    "Obsidian/The Vault/Finance-Course/Module-4",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812145003.png",
-    "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812020946.png",
-    "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812020809.png"
+    "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812020946.png"
   ]
 }
