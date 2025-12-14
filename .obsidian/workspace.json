@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2587ce84462f9a6f",
+        "id": "613a51d269ab7857",
         "type": "tabs",
         "children": [
           {
-            "id": "f5a0c933640df67c",
+            "id": "fafe9fa4c78bddd5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian/VirtueCloud/3-tier task.md"
+                "file": "Obsidian/The Vault/Finance-Course/Module-1/Lesson 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "3-tier task"
+              "icon": "lucide-file",
+              "title": "Lesson 1"
             }
           }
         ]
@@ -218,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5a0c933640df67c",
+  "active": "fafe9fa4c78bddd5",
   "lastOpenFiles": [
     "Obsidian/VirtueCloud/3-tier task.md",
     "Obsidian/VirtueCloud/3-Tier Arc.md",
