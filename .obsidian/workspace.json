@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/VirtueCloud/React CI-CD pipeline.md",
+                "file": "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React CI-CD pipeline"
+              "title": "Reusable GitHub workflow"
             }
           }
         ],
@@ -238,6 +238,7 @@
   "active": "9807783bceb37ca3",
   "lastOpenFiles": [
     "Obsidian/VirtueCloud/React CI-CD pipeline.md",
+    "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
     "Obsidian/VirtueCloud/3-tier/Details and steps.md",
     "Obsidian/VirtueCloud/3-tier/Commands.md",
     "Obsidian/VirtueCloud/3-tier task.md",
@@ -280,7 +281,6 @@
     "Obsidian/_Index_of_ObsidianNotes.md",
     "Obsidian/The Vault/Personal Notes/Companies and positions.md",
     "Warehouse_layout.md",
-    "KPMG Prep.md",
     "Obsidian/Excalidraw/Pasted image 20250718033427.png",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812145003.png"
