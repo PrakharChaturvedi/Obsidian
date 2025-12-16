@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "Reusable GitHub workflow"
             }
+          },
+          {
+            "id": "02a1aab03458f647",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -220,18 +230,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1fe0cf26b5b59426",
+  "active": "c37de66e1d10635c",
   "lastOpenFiles": [
+    "Obsidian/VirtueCloud/React CI-CD pipeline.md",
+    "Obsidian/VirtueCloud/Notes 2.md",
+    "Obsidian/VirtueCloud/3-tier task.md",
     "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
     "logs.md",
-    "Obsidian/VirtueCloud/React CI-CD pipeline.md",
     "Obsidian/VirtueCloud/3-tier/Details and steps.md",
     "Obsidian/VirtueCloud/3-tier/Commands.md",
-    "Obsidian/VirtueCloud/3-tier task.md",
     "Obsidian/VirtueCloud/3-Tier Arc.md",
     "Obsidian/The Vault/Finance-Course/Module-1/Lesson 1.md",
     "Obsidian/VirtueCloud/3-tier/Drawing 2025-12-11 13.08.48.excalidraw.md",
-    "20251211-1216-58.9753814.mp4",
+    "Obsidian/VirtueCloud/Images/20251211-1216-58.9753814.mp4",
     "Obsidian/VirtueCloud/Images/20251211-1018-43.8804063.mp4",
     "Obsidian/VirtueCloud/Images/20251211-1146-23.4009043.mp4",
     "Obsidian/VirtueCloud/Images/Pasted image 20251211161948.png",
@@ -252,7 +263,6 @@
     "Obsidian/VirtueCloud/Images/Pasted image 20251211005009.png",
     "Obsidian/VirtueCloud/Notes 1.md",
     "Obsidian/VirtueCloud/Images/Pasted image 20251210234143.png",
-    "Obsidian/VirtueCloud/Notes 2.md",
     "Obsidian/VirtueCloud/Images/Pasted image 20251209105435.png",
     "Excalidraw/Drone Interface.md",
     "Excalidraw/Drawing 2025-12-08 22.56.56.excalidraw.md",
