@@ -1,4 +1,3 @@
 - configure filebeat
 - map logs location from /logs to pensearch
 - 
-- 
