@@ -11,26 +11,17 @@
             "id": "d0326b1762246eb1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "571bd1eef17f5605",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-12-16 15.33.39.excalidraw.md"
+                "file": "Obsidian/VirtueCloud/Terraform.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-16 15.33.39.excalidraw"
+              "icon": "lucide-file",
+              "title": "Terraform"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,8 +220,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "571bd1eef17f5605",
+  "active": "d0326b1762246eb1",
   "lastOpenFiles": [
+    "Pasted image 20251216165125.png",
+    "Obsidian/VirtueCloud/Terraform.md",
     "Excalidraw/Drawing 2025-12-16 15.33.39.excalidraw.md",
     "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
     "Obsidian/VirtueCloud/React CI-CD pipeline.md",
@@ -273,8 +266,6 @@
     "Excalidraw/Drawing 2025-11-25 12.18.32.excalidraw.md",
     "Excalidraw/Drawing 2025-11-20 18.51.19.excalidraw.md",
     "Excalidraw/Subnet diagram.md",
-    "Obsidian/_Index_of_Obsidian.md",
-    "Obsidian/_Index_of_ObsidianNotes.md",
     "Obsidian/Excalidraw/Pasted image 20250718033427.png",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812145003.png"
