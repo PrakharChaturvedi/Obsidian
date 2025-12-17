@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/VirtueCloud/Terraform.md",
+                "file": "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terraform"
+              "title": "Reusable GitHub workflow"
             }
           }
         ]
@@ -222,11 +222,11 @@
   },
   "active": "d0326b1762246eb1",
   "lastOpenFiles": [
-    "Pasted image 20251216165125.png",
+    "Obsidian/VirtueCloud/React CI-CD pipeline.md",
     "Obsidian/VirtueCloud/Terraform.md",
+    "Pasted image 20251216165125.png",
     "Excalidraw/Drawing 2025-12-16 15.33.39.excalidraw.md",
     "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
-    "Obsidian/VirtueCloud/React CI-CD pipeline.md",
     "Obsidian/VirtueCloud/Notes 2.md",
     "Obsidian/VirtueCloud/3-tier task.md",
     "logs.md",
@@ -267,7 +267,6 @@
     "Excalidraw/Drawing 2025-11-20 18.51.19.excalidraw.md",
     "Excalidraw/Subnet diagram.md",
     "Obsidian/Excalidraw/Pasted image 20250718033427.png",
-    "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png",
-    "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812145003.png"
+    "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png"
   ]
 }
