@@ -8,15 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "08f7c13a844bf71d",
+            "id": "e01c15f4a1a76c96",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Obsidian/VirtueCloud/3-tier/3T-Terraform.md"
+                "file": "Obsidian/VirtueCloud/3-tier/Drawing 2025-12-19 12.52.38.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "3T-Terraform"
+              "title": "Drawing 2025-12-19 12.52.38.excalidraw"
+            }
+          },
+          {
+            "id": "b8ca0ef70617bc52",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Obsidian/VirtueCloud/3-tier task.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "3-tier task"
             }
           }
         ]
@@ -218,22 +230,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08f7c13a844bf71d",
+  "active": "e01c15f4a1a76c96",
   "lastOpenFiles": [
-    "Obsidian/VirtueCloud/3-tier/Details and steps.md",
-    "Obsidian/VirtueCloud/3-tier/3T-Terraform.md",
-    "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
-    "Obsidian/VirtueCloud/React CI-CD pipeline.md",
     "Obsidian/VirtueCloud/3-tier task.md",
-    "Obsidian/VirtueCloud/Terraform.md",
-    "Obsidian/VirtueCloud/3-tier/Drawing 2025-12-11 13.08.48.excalidraw.md",
-    "Obsidian/VirtueCloud/3-tier/Commands.md",
+    "Obsidian/VirtueCloud/3-tier/Drawing 2025-12-19 12.52.38.excalidraw.md",
     "Obsidian/VirtueCloud/Docker Cheat Sheet.md",
-    "Obsidian/VirtueCloud/Notes 1.md",
-    "logs.md",
-    "Pasted image 20251216165125.png",
-    "Excalidraw/Drawing 2025-12-16 15.33.39.excalidraw.md",
     "Obsidian/VirtueCloud/Notes 2.md",
+    "Obsidian/VirtueCloud/Notes 1.md",
+    "Obsidian/VirtueCloud/React CI-CD pipeline.md",
+    "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
+    "Obsidian/VirtueCloud/Terraform.md",
+    "Obsidian/VirtueCloud/3-tier/Details and steps.md",
+    "Obsidian/VirtueCloud/3-tier/Commands.md",
+    "Obsidian/VirtueCloud/3-tier/3T-Terraform.md",
+    "Obsidian/VirtueCloud/3-tier/Drawing 2025-12-11 13.08.48.excalidraw.md",
+    "logs.md",
+    "Obsidian/VirtueCloud/Images/Pasted image 20251216165125.png",
+    "Excalidraw/Drawing 2025-12-16 15.33.39.excalidraw.md",
     "Obsidian/VirtueCloud/3-Tier Arc.md",
     "Obsidian/The Vault/Finance-Course/Module-1/Lesson 1.md",
     "Obsidian/VirtueCloud/Images/20251211-1216-58.9753814.mp4",
@@ -264,7 +277,6 @@
     "Excalidraw/Drawing 2025-11-28 00.37.35.excalidraw.md",
     "Excalidraw/Drawing 2025-11-27 18.12.04.excalidraw.md",
     "Excalidraw/Drawing 2025-11-25 12.18.32.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-20 18.51.19.excalidraw.md",
     "Obsidian/Excalidraw/Pasted image 20250718033427.png",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png"
   ]
