@@ -11,12 +11,14 @@
             "id": "e01c15f4a1a76c96",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian/VirtueCloud/3-tier/Drawing 2025-12-19 12.52.38.excalidraw.md"
+                "file": "Obsidian/VirtueCloud/3-tier/Details and steps.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-19 12.52.38.excalidraw"
+              "icon": "lucide-file",
+              "title": "Details and steps"
             }
           },
           {
@@ -25,13 +27,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Obsidian/VirtueCloud/3-tier task.md"
+                "file": "Obsidian/VirtueCloud/3-tier/Drawing 2025-12-19 12.52.38.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "3-tier task"
+              "title": "Drawing 2025-12-19 12.52.38.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,17 +233,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e01c15f4a1a76c96",
+  "active": "b8ca0ef70617bc52",
   "lastOpenFiles": [
-    "Obsidian/VirtueCloud/3-tier task.md",
+    "Obsidian/VirtueCloud/3-tier/Details and steps.md",
     "Obsidian/VirtueCloud/3-tier/Drawing 2025-12-19 12.52.38.excalidraw.md",
+    "Obsidian/VirtueCloud/3-tier task.md",
     "Obsidian/VirtueCloud/Docker Cheat Sheet.md",
     "Obsidian/VirtueCloud/Notes 2.md",
     "Obsidian/VirtueCloud/Notes 1.md",
     "Obsidian/VirtueCloud/React CI-CD pipeline.md",
     "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
     "Obsidian/VirtueCloud/Terraform.md",
-    "Obsidian/VirtueCloud/3-tier/Details and steps.md",
     "Obsidian/VirtueCloud/3-tier/Commands.md",
     "Obsidian/VirtueCloud/3-tier/3T-Terraform.md",
     "Obsidian/VirtueCloud/3-tier/Drawing 2025-12-11 13.08.48.excalidraw.md",
