@@ -33,7 +33,8 @@
               "title": "Drawing 2025-12-19 12.52.38.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -232,10 +234,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e01c15f4a1a76c96",
+  "active": "b8ca0ef70617bc52",
   "lastOpenFiles": [
-    "Obsidian/VirtueCloud/3-tier/Drawing 2025-12-19 12.52.38.excalidraw.md",
     "Obsidian/VirtueCloud/3-tier/Details and steps.md",
+    "Obsidian/VirtueCloud/3-tier/Drawing 2025-12-19 12.52.38.excalidraw.md",
     "Obsidian/VirtueCloud/3-tier task.md",
     "Obsidian/VirtueCloud/Docker Cheat Sheet.md",
     "Obsidian/VirtueCloud/Notes 2.md",
