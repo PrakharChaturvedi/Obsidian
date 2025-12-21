@@ -25,12 +25,10 @@
             "id": "b8ca0ef70617bc52",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Obsidian/VirtueCloud/3-tier/Drawing 2025-12-19 12.52.38.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-19 12.52.38.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -233,11 +231,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8ca0ef70617bc52",
+  "active": "c37de66e1d10635c",
   "lastOpenFiles": [
+    "Obsidian/VirtueCloud/3-tier/3tier diagram.md",
+    "Obsidian/Excalidraw/Quotations.md",
+    "Obsidian/Excalidraw/Research Intern Sheet.md",
+    "Obsidian/Excalidraw/Drawing 2024-11-16 01.41.58.excalidraw.md",
+    "Obsidian/Excalidraw/Pasted image 20250718033427.png",
+    "Obsidian/Excalidraw/Drawing 2025-03-31 01.13.16.excalidraw.md",
+    "Obsidian/VirtueCloud/3-tier/Drawing 2025-12-11 13.08.48.excalidraw.md",
     "Obsidian/VirtueCloud/Notes 1.md",
     "Obsidian/VirtueCloud/3-tier/Details and steps.md",
-    "Obsidian/VirtueCloud/3-tier/Drawing 2025-12-19 12.52.38.excalidraw.md",
     "Obsidian/VirtueCloud/3-tier task.md",
     "Obsidian/VirtueCloud/Docker Cheat Sheet.md",
     "Obsidian/VirtueCloud/Notes 2.md",
@@ -246,7 +250,6 @@
     "Obsidian/VirtueCloud/Terraform.md",
     "Obsidian/VirtueCloud/3-tier/Commands.md",
     "Obsidian/VirtueCloud/3-tier/3T-Terraform.md",
-    "Obsidian/VirtueCloud/3-tier/Drawing 2025-12-11 13.08.48.excalidraw.md",
     "logs.md",
     "Obsidian/VirtueCloud/Images/Pasted image 20251216165125.png",
     "Excalidraw/Drawing 2025-12-16 15.33.39.excalidraw.md",
@@ -276,11 +279,6 @@
     "Excalidraw/Drone Interface.md",
     "Excalidraw/Drawing 2025-12-08 22.56.56.excalidraw.md",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2025-11-28 01.06.20.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-28 00.37.35.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-27 18.12.04.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-25 12.18.32.excalidraw.md",
-    "Obsidian/Excalidraw/Pasted image 20250718033427.png",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png"
   ]
 }
