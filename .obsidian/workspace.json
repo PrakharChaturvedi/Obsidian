@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -218,10 +219,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8ca0ef70617bc52",
+  "active": "972d2bc899ddf2a5",
   "lastOpenFiles": [
-    "Obsidian/VirtueCloud/3-tier/Details and steps.md",
     "Obsidian/VirtueCloud/3-tier/3tier diagram.md",
+    "Obsidian/VirtueCloud/3-tier/Details and steps.md",
     "Obsidian/Excalidraw/Quotations.md",
     "Obsidian/Excalidraw/Research Intern Sheet.md",
     "Obsidian/Excalidraw/Drawing 2024-11-16 01.41.58.excalidraw.md",
