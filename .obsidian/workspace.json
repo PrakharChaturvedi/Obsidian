@@ -11,12 +11,14 @@
             "id": "b8ca0ef70617bc52",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian/VirtueCloud/3-tier/3tier diagram.md"
+                "file": "Obsidian/VirtueCloud/Notes 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "3tier diagram"
+              "icon": "lucide-file",
+              "title": "Notes 2"
             }
           }
         ]
@@ -220,8 +222,9 @@
   },
   "active": "b8ca0ef70617bc52",
   "lastOpenFiles": [
-    "Obsidian/VirtueCloud/3-tier/3tier diagram.md",
+    "Obsidian/VirtueCloud/Notes 1.md",
     "Obsidian/VirtueCloud/3-tier task.md",
+    "Obsidian/VirtueCloud/3-tier/3tier diagram.md",
     "Obsidian/VirtueCloud/Docker Cheat Sheet.md",
     "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
     "Obsidian/VirtueCloud/3-tier/Details and steps.md",
@@ -231,7 +234,6 @@
     "Obsidian/Excalidraw/Pasted image 20250718033427.png",
     "Obsidian/Excalidraw/Drawing 2025-03-31 01.13.16.excalidraw.md",
     "Obsidian/VirtueCloud/3-tier/Drawing 2025-12-11 13.08.48.excalidraw.md",
-    "Obsidian/VirtueCloud/Notes 1.md",
     "Obsidian/VirtueCloud/Notes 2.md",
     "Obsidian/VirtueCloud/React CI-CD pipeline.md",
     "Obsidian/VirtueCloud/Terraform.md",
