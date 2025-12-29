@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/VirtueCloud/3-tier/Details and steps.md",
+                "file": "Obsidian/VirtueCloud/Node - EC2, Reusable Git & Nginx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Details and steps"
+              "title": "Node - EC2, Reusable Git & Nginx"
             }
           }
         ]
@@ -222,13 +222,14 @@
   },
   "active": "b8ca0ef70617bc52",
   "lastOpenFiles": [
+    "Obsidian/VirtueCloud/3-tier/Details and steps.md",
+    "Obsidian/VirtueCloud/Node - EC2, Reusable Git & Nginx.md",
     "Obsidian/VirtueCloud/3-tier/3tier diagram.md",
     "Obsidian/VirtueCloud/Notes 2.md",
     "Obsidian/VirtueCloud/Notes 1.md",
     "Obsidian/VirtueCloud/3-tier task.md",
     "Obsidian/VirtueCloud/Docker Cheat Sheet.md",
     "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
-    "Obsidian/VirtueCloud/3-tier/Details and steps.md",
     "Obsidian/Excalidraw/Quotations.md",
     "Obsidian/Excalidraw/Research Intern Sheet.md",
     "Obsidian/Excalidraw/Drawing 2024-11-16 01.41.58.excalidraw.md",
@@ -266,7 +267,6 @@
     "Obsidian/VirtueCloud/Images/Pasted image 20251210234143.png",
     "Obsidian/VirtueCloud/Images/Pasted image 20251209105435.png",
     "Excalidraw/Drone Interface.md",
-    "Excalidraw/Drawing 2025-12-08 22.56.56.excalidraw.md",
     "Untitled.canvas",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png"
   ]
