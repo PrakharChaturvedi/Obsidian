@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/VirtueCloud/Node - EC2, Reusable Git & Nginx.md",
+                "file": "Obsidian/VirtueCloud/Notes 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Node - EC2, Reusable Git & Nginx"
+              "title": "Notes 1"
             }
           }
         ]
@@ -220,24 +220,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c37de66e1d10635c",
+  "active": "b8ca0ef70617bc52",
   "lastOpenFiles": [
-    "Obsidian/VirtueCloud/3-tier/Details and steps.md",
+    "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
+    "Obsidian/VirtueCloud/Terraform.md",
     "Obsidian/VirtueCloud/Node - EC2, Reusable Git & Nginx.md",
-    "Obsidian/VirtueCloud/3-tier/3tier diagram.md",
+    "Obsidian/VirtueCloud/Docker Cheat Sheet.md",
+    "Obsidian/VirtueCloud/React CI-CD pipeline.md",
     "Obsidian/VirtueCloud/Notes 2.md",
     "Obsidian/VirtueCloud/Notes 1.md",
+    "Obsidian/VirtueCloud/3-tier/Details and steps.md",
+    "Obsidian/VirtueCloud/3-tier/3tier diagram.md",
     "Obsidian/VirtueCloud/3-tier task.md",
-    "Obsidian/VirtueCloud/Docker Cheat Sheet.md",
-    "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
     "Obsidian/Excalidraw/Quotations.md",
     "Obsidian/Excalidraw/Research Intern Sheet.md",
     "Obsidian/Excalidraw/Drawing 2024-11-16 01.41.58.excalidraw.md",
     "Obsidian/Excalidraw/Pasted image 20250718033427.png",
     "Obsidian/Excalidraw/Drawing 2025-03-31 01.13.16.excalidraw.md",
     "Obsidian/VirtueCloud/3-tier/Drawing 2025-12-11 13.08.48.excalidraw.md",
-    "Obsidian/VirtueCloud/React CI-CD pipeline.md",
-    "Obsidian/VirtueCloud/Terraform.md",
     "Obsidian/VirtueCloud/3-tier/Commands.md",
     "Obsidian/VirtueCloud/3-tier/3T-Terraform.md",
     "logs.md",
