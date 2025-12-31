@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Notes 1"
             }
+          },
+          {
+            "id": "f53250d19e96d00e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-01 00.13.46.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-01 00.13.46.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -220,15 +234,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8ca0ef70617bc52",
+  "active": "f53250d19e96d00e",
   "lastOpenFiles": [
+    "Obsidian/VirtueCloud/Notes 1.md",
+    "Excalidraw/Drawing 2026-01-01 00.13.46.excalidraw.md",
     "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
     "Obsidian/VirtueCloud/Terraform.md",
     "Obsidian/VirtueCloud/Node - EC2, Reusable Git & Nginx.md",
     "Obsidian/VirtueCloud/Docker Cheat Sheet.md",
     "Obsidian/VirtueCloud/React CI-CD pipeline.md",
     "Obsidian/VirtueCloud/Notes 2.md",
-    "Obsidian/VirtueCloud/Notes 1.md",
     "Obsidian/VirtueCloud/3-tier/Details and steps.md",
     "Obsidian/VirtueCloud/3-tier/3tier diagram.md",
     "Obsidian/VirtueCloud/3-tier task.md",
@@ -266,7 +281,6 @@
     "Obsidian/VirtueCloud/Images/Pasted image 20251211005009.png",
     "Obsidian/VirtueCloud/Images/Pasted image 20251210234143.png",
     "Obsidian/VirtueCloud/Images/Pasted image 20251209105435.png",
-    "Excalidraw/Drone Interface.md",
     "Untitled.canvas",
     "Obsidian/The Vault/Finance-Course/images/Pasted image 20250812154323.png"
   ]
