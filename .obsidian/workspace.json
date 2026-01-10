@@ -25,12 +25,14 @@
             "id": "f53250d19e96d00e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-01 00.13.46.excalidraw.md"
+                "file": "Obsidian/VirtueCloud/Docker Cheat Sheet.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-01 00.13.46.excalidraw"
+              "icon": "lucide-file",
+              "title": "Docker Cheat Sheet"
             }
           }
         ],
@@ -91,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -234,7 +235,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86a264851c497d1c",
+  "active": "f53250d19e96d00e",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-01-01 00.13.46.excalidraw.md",
     "Obsidian/VirtueCloud/Notes 1.md",
