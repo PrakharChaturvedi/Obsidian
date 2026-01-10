@@ -1,223 +1,129 @@
-### RBAC Table
-
-| Action              | OWNER | ADMIN | RECEPTION | STAFF |
-| ------------------- | ----- | ----- | --------- | ----- |
-| Register hotel      | ✅     | ❌     | ❌         | ❌     |
-| Create staff        | ✅     | ✅     | ❌         | ❌     |
-| Check-in guest      | ❌     | ❌     | ✅         | ❌     |
-| Check-out guest     | ❌     | ❌     | ✅         | ❌     |
-| Create ticket       | ❌     | ❌     | ✅         | ❌     |
-| Update ticket       | ❌     | ❌     | ❌         | ✅     |
-| Verify ticket       | ❌     | ❌     | ✅         | ❌     |
-| View memory         | ❌     | ❌     | ❌         | ✅     |
-| RAG query           | ❌     | ❌     | ✅         | ❌     |
-| Logout all sessions | ✅     | ❌     | ❌         | ❌     |
-
-### 🔐 AUTH & HOTEL SETUP
-
-##### 1️⃣ Register Hotel + Owner
-**POST** `http://localhost:3000/auth/register-hotel`
-**Body :**
-`{   "hotel_name": "Grand Palace Hotel",   "hotel_email": "admin@grandpalace.com",   "email": "owner@grandpalace.com",   "password": "StrongPassword@123" }`
-✅ Expect:
-`{   "success": true,   "hotel_id": "UUID" }`
-
-##### 2️⃣ Login as OWNER
-**POST** `http://localhost:3000/auth/login`
-**Body**
-`{   "email": "owner@grandpalace.com",   "password": "StrongPassword@123" }`
-✅ Save in Postman environment:
-`OWNER_JWT = token HOTEL_ID  = decoded.hotel_id`
-
----
-
-### 🛎️ STAFF & RECEPTION
-
-##### 3️⃣ Register Reception
-**POST** `http://localhost:3000/api/reception/register`
-**Headers**
-`Authorization: Bearer {{OWNER_JWT}}`
-**Body**
-`{   "email": "reception@grandpalace.com",   "password": "Reception@123" }`
-
-##### 4️⃣ Login Reception
-**POST** `http://localhost:3000/auth/login`
-**Body**
-`{   "email": "reception@grandpalace.com",   "password": "Reception@123" }`
-Save:
-`RECEPTION_JWT`
 
-##### 5️⃣ Register Staff
-**POST** `http://localhost:3000/api/staff/register`
-**Headers**
-`Authorization: Bearer {{OWNER_JWT}}`
-**Body**
-`{   "name": "Ramesh",   "email": "ramesh.staff@grandpalace.com",   "password": "StaffPass@123",   "role": "housekeeping" }`
+[[Sequence Diagram]]
+#### 🧩 Hotel Manager Backend — API Structure Table
+
+> **Base URL**: `http://localhost:3000`  
+> **Auth**: JWT (Bearer)  
+> **Hotel-scoped**: ✅ (JWT + RLS)
+
+##### AUTH & SESSION APIs
+
+| #   | Method | Endpoint               | Auth | Role   | Purpose                           |
+| --- | ------ | ---------------------- | ---- | ------ | --------------------------------- |
+| 1   | POST   | `/auth/register-hotel` | ❌    | Public | Create hotel + owner              |
+| 2   | POST   | `/auth/login`          | ❌    | Public | Login (Owner / Staff / Reception) |
+| 3   | POST   | `/auth/refresh`        | ❌    | Public | Refresh JWT using refresh token   |
+| 4   | POST   | `/auth/logout`         | ✅    | Any    | Logout (revoke refresh token)     |
+##### HOTEL / ADMIN APIs
+
+| #   | Method | Endpoint                | Auth | Role          | Purpose                |
+| --- | ------ | ----------------------- | ---- | ------------- | ---------------------- |
+| 5   | GET    | `/api/admin/audit-logs` | ✅    | OWNER / ADMIN | Fetch hotel audit logs |
+##### STAFF MANAGEMENT APIs
+
+| #   | Method | Endpoint              | Auth | Role          | Purpose                       |
+| --- | ------ | --------------------- | ---- | ------------- | ----------------------------- |
+| 6   | POST   | `/api/staff/register` | ✅    | OWNER / ADMIN | Register hotel staff          |
+| 7   | GET    | `/api/staff/tickets`  | ✅    | STAFF         | Get tickets assigned to staff |
+##### RECEPTION APIs
+
+| #   | Method | Endpoint                  | Auth | Role          | Purpose                 |
+| --- | ------ | ------------------------- | ---- | ------------- | ----------------------- |
+| 8   | POST   | `/api/reception/register` | ✅    | OWNER / ADMIN | Register reception user |
+##### TICKET MANAGEMENT APIs
+
+| #   | Method | Endpoint                         | Auth | Role        | Purpose                         |
+| --- | ------ | -------------------------------- | ---- | ----------- | ------------------------------- |
+| 9   | POST   | `/api/tickets`                   | ✅    | RECEPTION   | Create service ticket           |
+| 10  | GET    | `/api/tickets`                   | ✅    | RECEPTION   | List all tickets (hotel-scoped) |
+| 11  | GET    | `/api/tickets/:ticket_id`        | ✅    | Any (hotel) | Get ticket by ID                |
+| 12  | GET    | `/api/tickets/room/:room_number` | ✅    | Any         | Tickets by room                 |
+| 13  | GET    | `/api/tickets/floor/:floor`      | ✅    | Any         | Tickets by floor                |
+| 14  | GET    | `/api/tickets/filter`            | ✅    | Any         | Filter tickets (floor/role)     |
+| 15  | PATCH  | `/api/tickets/:ticket_id/status` | ✅    | STAFF       | Update ticket status            |
+| 16  | PATCH  | `/api/tickets/:ticket_id/verify` | ✅    | RECEPTION   | Verify resolution               |
+| 17  | DELETE | `/api/tickets/:ticket_id`        | ✅    | ADMIN       | Delete ticket                   |
+##### ROOM MEMORY APIs
+
+| #   | Method | Endpoint                   | Auth | Role      | Purpose                   |
+| --- | ------ | -------------------------- | ---- | --------- | ------------------------- |
+| 18  | POST   | `/api/memory`              | ✅    | RECEPTION | Add room memory           |
+| 19  | GET    | `/api/memory/:room_number` | ✅    | STAFF     | Read room memory          |
+| 20  | DELETE | `/api/memory/:room_number` | ✅    | SYSTEM    | Delete memory on checkout |
+##### ROOM LIFECYCLE APIs (CHECK-IN / CHECK-OUT)
+
+| #   | Method | Endpoint              | Auth | Role      | Purpose           |
+| --- | ------ | --------------------- | ---- | --------- | ----------------- |
+| 21  | POST   | `/api/rooms/checkin`  | ✅    | RECEPTION | Check-in guest    |
+| 22  | POST   | `/api/rooms/checkout` | ✅    | RECEPTION | Checkout guest    |
+| 23  | GET    | `/api/rooms/active`   | ✅    | RECEPTION | List active rooms |
+##### CHAT / RAG APIs
+
+| #   | Method | Endpoint        | Auth | Role              | Purpose             |
+| --- | ------ | --------------- | ---- | ----------------- | ------------------- |
+| 24  | POST   | `/api/ask`      | ✅    | Guest / Reception | Ask hotel assistant |
+| 25  | POST   | `/api/chat/ask` | ✅    | Guest             | Guest-only chat     |
+##### GUEST TOKEN / QR ACCESS
+
+| #   | Method | Endpoint                  | Auth | Role   | Purpose              |
+| --- | ------ | ------------------------- | ---- | ------ | -------------------- |
+| 26  | POST   | `/api/rooms/token`        | ✅    | SYSTEM | Generate guest token |
+| 27  | POST   | `/api/rooms/token/revoke` | ✅    | SYSTEM | Revoke guest access  |
+##### SYSTEM / HEALTH
+
+| #   | Method | Endpoint  | Auth | Role   | Purpose      |
+| --- | ------ | --------- | ---- | ------ | ------------ |
+| 28  | GET    | `/health` | ❌    | Public | Health check |
+##### SECURITY & ENFORCEMENT (GLOBAL)
+
+| Feature         | Status |
+| --------------- | ------ |
+| JWT Auth        | ✅      |
+| Refresh Tokens  | ✅      |
+| Rate Limiting   | ✅      |
+| RBAC            | ✅      |
+| Hotel Isolation | ✅      |
+| Postgres RLS    | ✅      |
+| Audit Logging   | ✅      |
+#### HOW THIS ALL FITS TOGETHER (MENTAL MODEL)
+- **Auth layer** → JWT + refresh tokens
+- **RBAC middleware** → role-based access
+- **Hotel isolation** → JWT + `app.hotel_id`
+- **RLS** → DB enforces isolation even if code fails
+- **Audit logs** → every critical action recorded
+- **Room lifecycle** → check-in → memory → checkout → auto cleaning ticket
+
+
+#### 🧾 RBAC MATRIX
+
+| Action / API           | OWNER | ADMIN | RECEPTION | STAFF | GUEST | SYSTEM |
+| ---------------------- | ----- | ----- | --------- | ----- | ----- | ------ |
+| Register hotel         | ✅     | ❌     | ❌         | ❌     | ❌     | ❌      |
+| Login                  | ✅     | ✅     | ✅         | ✅     | ❌     | ❌      |
+| Refresh token          | ✅     | ✅     | ✅         | ✅     | ❌     | ❌      |
+| Logout                 | ✅     | ✅     | ✅         | ✅     | ❌     | ❌      |
+| View audit logs        | ✅     | ✅     | ❌         | ❌     | ❌     | ❌      |
+| Register staff         | ✅     | ✅     | ❌         | ❌     | ❌     | ❌      |
+| Register reception     | ✅     | ✅     | ❌         | ❌     | ❌     | ❌      |
+| Check-in room          | ❌     | ❌     | ✅         | ❌     | ❌     | ❌      |
+| Check-out room         | ❌     | ❌     | ✅         | ❌     | ❌     | ❌      |
+| Create ticket          | ❌     | ❌     | ✅         | ❌     | ❌     | ❌      |
+| View all tickets       | ❌     | ❌     | ✅         | ❌     | ❌     | ❌      |
+| View assigned tickets  | ❌     | ❌     | ❌         | ✅     | ❌     | ❌      |
+| Update ticket status   | ❌     | ❌     | ❌         | ✅     | ❌     | ❌      |
+| Verify ticket          | ❌     | ❌     | ✅         | ❌     | ❌     | ❌      |
+| Add room memory        | ❌     | ❌     | ✅         | ❌     | ❌     | ❌      |
+| Read room memory       | ❌     | ❌     | ❌         | ✅     | ❌     | ❌      |
+| Delete room memory     | ❌     | ❌     | ❌         | ❌     | ❌     | ✅      |
+| Generate guest token   | ❌     | ❌     | ❌         | ❌     | ❌     | ✅      |
+| Use guest token        | ❌     | ❌     | ❌         | ❌     | ✅     | ❌      |
+| Create cleaning ticket | ❌     | ❌     | ❌         | ❌     | ❌     | ✅      |
+##### 🔑Key RBAC Principles You Implemented (Correctly)
+- **Least privilege** (staff cannot see hotel-wide data)
+- **No guest write access**
+- **Reception = orchestrator**
+- **System role only used internally**
+- **Owner/Admin only for sensitive ops**
+This is **exactly how hotel PMS systems do it**.
 
-##### 6️⃣ Login Staff
-**POST** `http://localhost:3000/auth/login`
-**Body**
-`{   "email": "ramesh.staff@grandpalace.com",   "password": "StaffPass@123" }`
-Save:
-`STAFF_JWT`
 
-
----
-### 🏨 ROOM CHECK-IN / CHECK-OUT FLOW
-
-##### 7️⃣ Room Check-In
-**POST** `http://localhost:3000/api/rooms/checkin`
-**Headers**
-`Authorization: Bearer {{RECEPTION_JWT}}`
-**Body**
-`{   "room_number": 203,   "guest_name": "Mr. John Doe" }`
-✅ Expect:
-`{   "session": { "session_id": "UUID" },   "guest_token": "GUEST_JWT" }`
-Save:
-`GUEST_JWT`
-
----
-## 8️⃣ Guest Uses Chat (Guest Token)
-
-**POST** `http://localhost:3000/api/ask`
-**Headers**
-`Authorization: Bearer {{GUEST_JWT}}`
-**Body**
-`{   "question": "I need fresh towels",   "room_number": 203,   "role": "guest" }`
-✅ This should **create a ticket automatically**
-
----
-### 🎫 TICKETS
-
-##### 9️⃣ List Tickets (Hotel-Scoped)
-**GET** `http://localhost:3000/api/tickets`
-**Headers**
-`Authorization: Bearer {{RECEPTION_JWT}}`
-Save:
-`TICKET_ID`
-
-##### 🔟 Staff Marks Ticket “On It”
-**PATCH**  
-`http://localhost:3000/api/tickets/{{TICKET_ID}}/status`
-**Headers**
-`Authorization: Bearer {{STAFF_JWT}}`
-**Body**
-`{ "status": "on_it" }`
-
-##### 1️⃣1️⃣ Staff Completes Ticket
-`{ "status": "done" }`
-
-##### 1️⃣2️⃣ Reception Verifies
-**PATCH**  
-`/verify`
-
-`{   "feedback": "Yes, everything is perfect" }`
-
----
-
-# 🧠 ROOM MEMORY
-
----
-
-## 1️⃣3️⃣ Add Room Memory
-
-**POST** `http://localhost:3000/api/memory`
-
-**Headers**
-
-`Authorization: Bearer {{RECEPTION_JWT}}`
-
-`{   "room_number": 203,   "message": "Guest is allergic to peanuts",   "role": "health" }`
-
----
-
-## 1️⃣4️⃣ Get Room Memory (Staff)
-
-**GET**  
-`http://localhost:3000/api/memory/203`
-
-**Headers**
-
-`Authorization: Bearer {{STAFF_JWT}}`
-
----
-
-# 🚪 ROOM CHECK-OUT (CRITICAL TEST)
-
----
-
-## 1️⃣5️⃣ Check-Out Room
-
-**POST** `http://localhost:3000/api/rooms/checkout`
-
-`{   "room_number": 203 }`
-
-✅ This MUST:
-
-- ❌ Delete room memory
-    
-- ❌ Revoke guest token
-    
-- ✅ Create **cleaning ticket**
-    
-
----
-
-## 1️⃣6️⃣ Guest Token Should FAIL
-
-Retry **Step 8** with same `GUEST_JWT`
-
-❌ Expect:
-
-`{ "error": "Invalid or expired token" }`
-
----
-
-# 📋 AUDIT LOGS
-
----
-
-## 1️⃣7️⃣ Fetch Audit Logs
-
-**GET** `http://localhost:3000/api/admin/audit-logs`
-
-**Headers**
-
-`Authorization: Bearer {{OWNER_JWT}}`
-
-✅ You should see:
-
-- check-in
-    
-- ticket creation
-    
-- staff updates
-    
-- checkout
-    
-- memory deletion
-    
-
----
-
-# 🧨 SECURITY TESTS
-
----
-
-## 1️⃣8️⃣ Cross-Hotel Access
-
-Use JWT from another hotel → fetch ticket
-
-❌ Expect:
-
-`{ "error": "Not found" }`
-
----
-
-## 1️⃣9️⃣ Rate-Limit Test
-
-Spam login 6× in <1 hour
-
-❌ Expect:
-
-`{ "error": "Too many login attempts. Try again later." }`
