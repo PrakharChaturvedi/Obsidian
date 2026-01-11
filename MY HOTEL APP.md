@@ -127,3 +127,20 @@
 This is **exactly how hotel PMS systems do it**.
 
 
+|Table Name|Attributes|
+|---|---|
+|**audit_logs**|action, actor_id, actor_role, audit_id, created_at, entity_id, entity_type, hotel_id, ip_address, metadata, user_agent|
+|**hotel_menu_info**|category, hotel_id, is_available, item_name, menu_id, price|
+|**hotel_room_info**|beds, floor, hotel_id, is_available, price_per_night, room_id, room_number, view|
+|**hotel_staff**|email, hotel_id, is_active, is_busy, last_assigned_at, name, password_hash, phone, role, staff_id|
+|**hotels**|address, created_at, email, hotel_id, is_active, name, phone|
+|**inventory**|hotel_id, inventory_id, item_name, quantity, unit|
+|**knowledge_base**|content, embedding, hotel_id, id, source_id, source_type|
+|**other_details**|category, description, detail_id, room_number|
+|**reception_users**|created_at, email, hotel_id, is_active, password_hash, reception_id|
+|**refresh_tokens**|created_at, expires_at, hotel_id, revoked, role, token_id, user_id|
+|**room_memory**|created_at, hotel_id, memory_id, message, role, room_number|
+|**room_sessions**|active, checkin_at, checkout_at, guest_name, hotel_id, room_number, session_id|
+|**room_staff_mapping**|hotel_id, id, room_id, staff_id|
+|**service_tickets**|assigned_staff, closed_at, created_at, description, floor, hotel_id, location, priority, role, room_number, sla_deadline, status, ticket_id, ticket_type, updated_at|
+|**users**|created_at, email, failed_attempts, hotel_id, is_active, last_login, locked_until, password_hash, role, user_id|
