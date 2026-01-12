@@ -11,14 +11,12 @@
             "id": "dd79dd492a5c7a5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "MY HOTEL APP.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian/Excalidraw/Sequence Diagram.md"
               },
-              "icon": "lucide-file",
-              "title": "MY HOTEL APP"
+              "icon": "excalidraw-icon",
+              "title": "Sequence Diagram"
             }
           }
         ]
@@ -222,13 +220,13 @@
   },
   "active": "dd79dd492a5c7a5f",
   "lastOpenFiles": [
+    "MY HOTEL APP.md",
     "Obsidian/Excalidraw/Sequence Diagram.md",
     "Excalidraw/Drawing 2026-01-12 12.14.31.excalidraw.md",
     "Obsidian/Excalidraw/Tracker.md",
     "Obsidian/Excalidraw/Research Intern Sheet.md",
     "Obsidian/Excalidraw/Quotations.md",
     "Obsidian/Excalidraw/Pasted image 20250718033427.png",
-    "MY HOTEL APP.md",
     "KPMG STUFF.md",
     "Obsidian/VirtueCloud/Notes 1.md",
     "Obsidian/VirtueCloud/Docker Cheat Sheet.md",
