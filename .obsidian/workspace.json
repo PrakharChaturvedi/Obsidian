@@ -11,12 +11,14 @@
             "id": "dd79dd492a5c7a5f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian/Excalidraw/Sequence Diagram.md"
+                "file": "MY HOTEL APP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Sequence Diagram"
+              "icon": "lucide-file",
+              "title": "MY HOTEL APP"
             }
           }
         ]

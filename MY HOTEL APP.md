@@ -93,54 +93,49 @@
 - **Audit logs** → every critical action recorded
 - **Room lifecycle** → check-in → memory → checkout → auto cleaning ticket
 
+| Action / API                        | OWNER | ADMIN | RECEPTION | STAFF |
+| ----------------------------------- | ----- | ----- | --------- | ----- |
+| Register hotel                      | ✅     | ❌     | ❌         | ❌     |
+| Login / Refresh / Logout self       | ✅     | ✅     | ✅         | ✅     |
+| Logout all sessions                 | ✅     | ❌     | ❌         | ❌     |
+| Create staff                        | ✅     | ✅     | ❌         | ❌     |
+| Disable / activate staff            | ✅     | ✅     | ❌         | ❌     |
+| View hotel overview dashboard       | ✅     | ❌     | ❌         | ❌     |
+| View audit logs                     | ✅     | ❌     | ❌         | ❌     |
+| **Room check-in**                   | ❌     | ❌     | ✅         | ❌     |
+| **Room check-out**                  | ❌     | ❌     | ✅         | ❌     |
+| Assign staff to room                | ❌     | ❌     | ✅         | ❌     |
+| View room sessions                  | ✅     | ❌     | ✅         | ❌     |
+| Create service ticket               | ❌     | ❌     | ✅         | ❌     |
+| Create **restaurant order ticket**  | ❌     | ❌     | ✅         | ❌     |
+| Auto ticket on checkout (cleaning)  | ⚙️    | ⚙️    | ⚙️        | ⚙️    |
+| View all hotel tickets              | ✅     | ❌     | ❌         | ❌     |
+| View assigned-role tickets          | ❌     | ❌     | ❌         | ✅     |
+| Update ticket status (on_it / done) | ❌     | ❌     | ❌         | ✅     |
+| Escalate ticket                     | ❌     | ❌     | ❌         | ✅     |
+| Verify / close ticket               | ❌     | ❌     | ✅         | ❌     |
+| Add room memory                     | ❌     | ❌     | ✅         | ❌     |
+| View room memory                    | ❌     | ❌     | ❌         | ✅     |
+| Delete room memory (checkout)       | ⚙️    | ⚙️    | ⚙️        | ⚙️    |
+| RAG query (guest context)           | ❌     | ❌     | ✅         | ❌     |
+| RAG internal ops query              | ❌     | ❌     | ❌         | ❌     |
+| **Add menu item**                   | ✅     | ❌     | ❌         | ❌     |
+| **Remove menu item**                | ✅     | ❌     | ❌         | ❌     |
+| **Toggle menu availability**        | ✅     | ❌     | ✅         | ✅     |
+| View menu                           | ✅     | ✅     | ✅         | ✅     |
+| Receive restaurant tickets          | ❌     | ❌     | ❌         | ✅     |
+| Update restaurant order ticket      | ❌     | ❌     | ❌         | ✅     |
+|                                     |       |       |           |       |
+Legend:
+- ✅ Allowed
+- ❌ Not allowed    
+- ⚙️ System-triggered (no JWT actor)
 
-#### 🧾 RBAC MATRIX
-
-| Action / API           | OWNER | ADMIN | RECEPTION | STAFF | GUEST | SYSTEM |
-| ---------------------- | ----- | ----- | --------- | ----- | ----- | ------ |
-| Register hotel         | ✅     | ❌     | ❌         | ❌     | ❌     | ❌      |
-| Login                  | ✅     | ✅     | ✅         | ✅     | ❌     | ❌      |
-| Refresh token          | ✅     | ✅     | ✅         | ✅     | ❌     | ❌      |
-| Logout                 | ✅     | ✅     | ✅         | ✅     | ❌     | ❌      |
-| View audit logs        | ✅     | ✅     | ❌         | ❌     | ❌     | ❌      |
-| Register staff         | ✅     | ✅     | ❌         | ❌     | ❌     | ❌      |
-| Register reception     | ✅     | ✅     | ❌         | ❌     | ❌     | ❌      |
-| Check-in room          | ❌     | ❌     | ✅         | ❌     | ❌     | ❌      |
-| Check-out room         | ❌     | ❌     | ✅         | ❌     | ❌     | ❌      |
-| Create ticket          | ❌     | ❌     | ✅         | ❌     | ❌     | ❌      |
-| View all tickets       | ❌     | ❌     | ✅         | ❌     | ❌     | ❌      |
-| View assigned tickets  | ❌     | ❌     | ❌         | ✅     | ❌     | ❌      |
-| Update ticket status   | ❌     | ❌     | ❌         | ✅     | ❌     | ❌      |
-| Verify ticket          | ❌     | ❌     | ✅         | ❌     | ❌     | ❌      |
-| Add room memory        | ❌     | ❌     | ✅         | ❌     | ❌     | ❌      |
-| Read room memory       | ❌     | ❌     | ❌         | ✅     | ❌     | ❌      |
-| Delete room memory     | ❌     | ❌     | ❌         | ❌     | ❌     | ✅      |
-| Generate guest token   | ❌     | ❌     | ❌         | ❌     | ❌     | ✅      |
-| Use guest token        | ❌     | ❌     | ❌         | ❌     | ✅     | ❌      |
-| Create cleaning ticket | ❌     | ❌     | ❌         | ❌     | ❌     | ✅      |
-##### 🔑Key RBAC Principles You Implemented (Correctly)
-- **Least privilege** (staff cannot see hotel-wide data)
-- **No guest write access**
-- **Reception = orchestrator**
-- **System role only used internally**
-- **Owner/Admin only for sensitive ops**
-This is **exactly how hotel PMS systems do it**.
-
-
-|Table Name|Attributes|
-|---|---|
-|**audit_logs**|action, actor_id, actor_role, audit_id, created_at, entity_id, entity_type, hotel_id, ip_address, metadata, user_agent|
-|**hotel_menu_info**|category, hotel_id, is_available, item_name, menu_id, price|
-|**hotel_room_info**|beds, floor, hotel_id, is_available, price_per_night, room_id, room_number, view|
-|**hotel_staff**|email, hotel_id, is_active, is_busy, last_assigned_at, name, password_hash, phone, role, staff_id|
-|**hotels**|address, created_at, email, hotel_id, is_active, name, phone|
-|**inventory**|hotel_id, inventory_id, item_name, quantity, unit|
-|**knowledge_base**|content, embedding, hotel_id, id, source_id, source_type|
-|**other_details**|category, description, detail_id, room_number|
-|**reception_users**|created_at, email, hotel_id, is_active, password_hash, reception_id|
-|**refresh_tokens**|created_at, expires_at, hotel_id, revoked, role, token_id, user_id|
-|**room_memory**|created_at, hotel_id, memory_id, message, role, room_number|
-|**room_sessions**|active, checkin_at, checkout_at, guest_name, hotel_id, room_number, session_id|
-|**room_staff_mapping**|hotel_id, id, room_id, staff_id|
-|**service_tickets**|assigned_staff, closed_at, created_at, description, floor, hotel_id, location, priority, role, room_number, sla_deadline, status, ticket_id, ticket_type, updated_at|
-|**users**|created_at, email, failed_attempts, hotel_id, is_active, last_login, locked_until, password_hash, role, user_id|
+### Important Notes (Very Important)
+- **STAFF includes restaurant staff**  
+    (`hotel_staff.role = 'restaurant'`)
+- Restaurant orders are **just service_tickets** with:
+    `role = 'restaurant' location = 'restaurant' ticket_type = 'order'`
+- Menu availability toggle is **operational**, so staff is allowed
+- Owner-only actions are **destructive or global**
+- RAG never bypasses RBAC — it emits tickets, not actions
