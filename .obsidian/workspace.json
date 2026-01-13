@@ -11,15 +11,30 @@
             "id": "dd79dd492a5c7a5f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian/Excalidraw/Sequence Diagram.md"
+                "file": "MY HOTEL APP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Sequence Diagram"
+              "icon": "lucide-file",
+              "title": "MY HOTEL APP"
+            }
+          },
+          {
+            "id": "401d797f2cfe7f1f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,10 +233,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd79dd492a5c7a5f",
+  "active": "401d797f2cfe7f1f",
   "lastOpenFiles": [
-    "MY HOTEL APP.md",
     "Obsidian/Excalidraw/Sequence Diagram.md",
+    "MY HOTEL APP.md",
     "Excalidraw/Drawing 2026-01-12 12.14.31.excalidraw.md",
     "Obsidian/Excalidraw/Tracker.md",
     "Obsidian/Excalidraw/Research Intern Sheet.md",
