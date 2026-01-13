@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MY HOTEL APP.md",
+                "file": "API document Hotel-AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MY HOTEL APP"
-            }
-          },
-          {
-            "id": "401d797f2cfe7f1f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "title": "API document Hotel-AI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,10 +220,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "401d797f2cfe7f1f",
+  "active": "dd79dd492a5c7a5f",
   "lastOpenFiles": [
-    "Obsidian/Excalidraw/Sequence Diagram.md",
     "MY HOTEL APP.md",
+    "API document Hotel-AI.md",
+    "Obsidian/Excalidraw/Sequence Diagram.md",
     "Excalidraw/Drawing 2026-01-12 12.14.31.excalidraw.md",
     "Obsidian/Excalidraw/Tracker.md",
     "Obsidian/Excalidraw/Research Intern Sheet.md",
@@ -262,7 +250,6 @@
     "logs.md",
     "Obsidian/VirtueCloud/Images/Pasted image 20251216165125.png",
     "Excalidraw/Drawing 2025-12-16 15.33.39.excalidraw.md",
-    "Obsidian/VirtueCloud/3-Tier Arc.md",
     "Obsidian/VirtueCloud/Images/20251211-1216-58.9753814.mp4",
     "Obsidian/VirtueCloud/Images/20251211-1018-43.8804063.mp4",
     "Obsidian/VirtueCloud/Images/20251211-1146-23.4009043.mp4",
