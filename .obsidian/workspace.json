@@ -11,14 +11,12 @@
             "id": "dd79dd492a5c7a5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "API document Hotel-AI.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian/VirtueCloud/3-tier/3tier diagram.md"
               },
-              "icon": "lucide-file",
-              "title": "API document Hotel-AI"
+              "icon": "excalidraw-icon",
+              "title": "3tier diagram"
             }
           }
         ]
@@ -222,14 +220,18 @@
   },
   "active": "dd79dd492a5c7a5f",
   "lastOpenFiles": [
-    "MY HOTEL APP.md",
+    "Obsidian/VirtueCloud/3-tier/3tier diagram.md",
+    "Obsidian/VirtueCloud/3-tier/Commands.md",
+    "Obsidian/VirtueCloud/3-tier/Details and steps.md",
+    "Obsidian/Excalidraw/Pasted image 20250718033427.png",
+    "Obsidian/Excalidraw/Drawing 2024-11-16 01.41.58.excalidraw.md",
     "API document Hotel-AI.md",
+    "MY HOTEL APP.md",
     "Obsidian/Excalidraw/Sequence Diagram.md",
     "Excalidraw/Drawing 2026-01-12 12.14.31.excalidraw.md",
     "Obsidian/Excalidraw/Tracker.md",
     "Obsidian/Excalidraw/Research Intern Sheet.md",
     "Obsidian/Excalidraw/Quotations.md",
-    "Obsidian/Excalidraw/Pasted image 20250718033427.png",
     "KPMG STUFF.md",
     "Obsidian/VirtueCloud/Notes 1.md",
     "Obsidian/VirtueCloud/Docker Cheat Sheet.md",
@@ -239,17 +241,12 @@
     "Obsidian/VirtueCloud/Node - EC2, Reusable Git & Nginx.md",
     "Obsidian/VirtueCloud/React CI-CD pipeline.md",
     "Obsidian/VirtueCloud/Notes 2.md",
-    "Obsidian/VirtueCloud/3-tier/Details and steps.md",
-    "Obsidian/VirtueCloud/3-tier/3tier diagram.md",
     "Obsidian/VirtueCloud/3-tier task.md",
-    "Obsidian/Excalidraw/Drawing 2024-11-16 01.41.58.excalidraw.md",
     "Obsidian/Excalidraw/Drawing 2025-03-31 01.13.16.excalidraw.md",
     "Obsidian/VirtueCloud/3-tier/Drawing 2025-12-11 13.08.48.excalidraw.md",
-    "Obsidian/VirtueCloud/3-tier/Commands.md",
     "Obsidian/VirtueCloud/3-tier/3T-Terraform.md",
     "logs.md",
     "Obsidian/VirtueCloud/Images/Pasted image 20251216165125.png",
-    "Excalidraw/Drawing 2025-12-16 15.33.39.excalidraw.md",
     "Obsidian/VirtueCloud/Images/20251211-1216-58.9753814.mp4",
     "Obsidian/VirtueCloud/Images/20251211-1018-43.8804063.mp4",
     "Obsidian/VirtueCloud/Images/20251211-1146-23.4009043.mp4",
