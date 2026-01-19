@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "MY HOTEL APP"
             }
+          },
+          {
+            "id": "15fcf3b31a0533d5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Hotel AI Redis integration.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Hotel AI Redis integration"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,10 +233,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd79dd492a5c7a5f",
+  "active": "15fcf3b31a0533d5",
   "lastOpenFiles": [
-    "KPMG STUFF.md",
     "MY HOTEL APP.md",
+    "Excalidraw/Hotel AI Redis integration.md",
+    "KPMG STUFF.md",
     "API document Hotel-AI.md",
     "Obsidian/The Vault/Personal Notes/Topics to cover.md",
     "Obsidian/The Vault/Personal Notes/Emails.md",
@@ -247,7 +261,6 @@
     "Excalidraw/Drawing 2025-10-25 00.26.28.excalidraw.md",
     "Excalidraw/Drawing 2025-08-19 00.29.56.excalidraw.md",
     "Excalidraw/Drawing 2025-05-27 23.46.25.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-28 23.58.42.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
