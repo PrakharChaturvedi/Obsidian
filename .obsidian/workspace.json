@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd79dd492a5c7a5f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-04-28 23.58.42.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-28 23.58.42.excalidraw"
-            }
-          },
-          {
             "id": "15fcf3b31a0533d5",
             "type": "leaf",
             "state": {
@@ -30,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Hotel AI Redis integration"
             }
+          },
+          {
+            "id": "e37ed8bdfb40450b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,7 +231,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd79dd492a5c7a5f",
+  "active": "a83544a62358f911",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-04-28 23.58.42.excalidraw.md",
     "MY HOTEL APP.md",
