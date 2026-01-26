@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "hotel",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -67,6 +67,6 @@
   "repelStrength": 6.09562982005141,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.4391829517287628,
+  "scale": 0.6523056682468855,
   "close": false
 }
