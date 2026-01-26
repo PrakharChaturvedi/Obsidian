@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Hotel AI Redis integration.md"
+                "file": "Excalidraw/Drawing 2026-01-23 13.21.23.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Hotel AI Redis integration"
+              "title": "Drawing 2026-01-23 13.21.23.excalidraw"
             }
           }
         ]
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -219,10 +218,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "522495ac59cce2f6",
+  "active": "15fcf3b31a0533d5",
   "lastOpenFiles": [
-    "Excalidraw/Hotel AI Redis integration.md",
     "Excalidraw/Drawing 2026-01-23 13.21.23.excalidraw.md",
+    "Excalidraw/Hotel AI Redis integration.md",
     "Excalidraw/Drawing 2025-04-28 23.58.42.excalidraw.md",
     "MY HOTEL APP.md",
     "KPMG STUFF.md",
