@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "07848f6be1422e8e",
+        "id": "2ab60d7257f7c07c",
         "type": "tabs",
         "children": [
           {
-            "id": "15fcf3b31a0533d5",
+            "id": "0d09b2793be4823c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-23 13.21.23.excalidraw.md"
+                "file": "Obsidian/VirtueCloud/3-tier/Issues.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-23 13.21.23.excalidraw"
+              "icon": "lucide-file",
+              "title": "Issues"
             }
           }
         ]
@@ -218,8 +220,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15fcf3b31a0533d5",
+  "active": "0d09b2793be4823c",
   "lastOpenFiles": [
+    "Obsidian/VirtueCloud/3-tier/Issues.md",
+    "Obsidian/VirtueCloud/Arlo",
     "Excalidraw/Drawing 2026-01-23 13.21.23.excalidraw.md",
     "Excalidraw/Hotel AI Redis integration.md",
     "Excalidraw/Drawing 2025-04-28 23.58.42.excalidraw.md",
@@ -245,7 +249,6 @@
     "Excalidraw/Drawing 2025-11-28 00.37.35.excalidraw.md",
     "Excalidraw/Drawing 2025-11-25 12.18.32.excalidraw.md",
     "Excalidraw/Drawing 2025-11-20 18.51.19.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-25 00.26.28.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
@@ -261,7 +264,6 @@
     "Obsidian/VirtueCloud/Images/20251211-1032-19.2117852.mp4",
     "Obsidian/VirtueCloud/Images/20251211-0931-35.1519734.mp4",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
     "Obsidian/VirtueCloud/Images/Pasted image 20251211005009.png",
     "Obsidian/VirtueCloud/Images/Pasted image 20251210234143.png",
     "Obsidian/VirtueCloud/Images/Pasted image 20251209105435.png",
