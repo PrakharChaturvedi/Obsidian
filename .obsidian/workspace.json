@@ -11,30 +11,25 @@
             "id": "234349fb5e5ab60f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Obsidian/The Vault/Concepts/Cloud Computing/Notes 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian/VirtueCloud/3-tier/3tier diagram.md"
               },
-              "icon": "lucide-file",
-              "title": "Notes 1"
+              "icon": "excalidraw-icon",
+              "title": "3tier diagram"
             }
           },
           {
-            "id": "014a644095175ff7",
+            "id": "ddc71267251f21c9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -233,8 +229,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "014a644095175ff7",
+  "active": "234349fb5e5ab60f",
   "lastOpenFiles": [
+    "Obsidian/VirtueCloud/3-tier task.md",
+    "Obsidian/VirtueCloud/Terraform.md",
+    "Obsidian/VirtueCloud/Docker Cheat Sheet.md",
+    "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
+    "Obsidian/VirtueCloud/React CI-CD pipeline.md",
+    "Obsidian/VirtueCloud/Notes 2.md",
+    "Obsidian/VirtueCloud/Notes 1.md",
+    "Obsidian/VirtueCloud/Node - EC2, Reusable Git & Nginx.md",
+    "Obsidian/The Vault/Concepts/Cloud Computing/Notes 1.md",
     "Obsidian/The Vault/Programming/Projects/kuru/Kuru.md",
     "Obsidian/The Vault/Programming/Projects/kuru/Drawing 2025-03-21 01.06.29.excalidraw.md",
     "Obsidian/The Vault/Programming/Projects/ScoringApp/Features.md",
@@ -253,15 +258,6 @@
     "Obsidian/VirtueCloud/Arlo",
     "Excalidraw/Drawing 2026-01-23 13.21.23.excalidraw.md",
     "Excalidraw/Hotel AI Redis integration.md",
-    "Excalidraw/Drawing 2025-04-28 23.58.42.excalidraw.md",
-    "KPMG STUFF.md",
-    "API document Hotel-AI.md",
-    "Obsidian/The Vault/Personal Notes/Topics to cover.md",
-    "Obsidian/The Vault/Personal Notes/Emails.md",
-    "Obsidian/The Vault/Personal Notes/To-do list.md",
-    "Obsidian/The Vault/Personal Notes/Imp's/Acumen Decisions.md",
-    "Excalidraw/Drone Interface.md",
-    "Excalidraw/Subnet diagram.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
