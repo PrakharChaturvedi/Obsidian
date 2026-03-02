@@ -49,12 +49,14 @@
             "id": "ebdde3d239c4a1eb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-02 10.55.54.excalidraw.md"
+                "file": "Obsidian/The Vault/Finance-Course/Module-3/Lesson 9.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-02 10.55.54.excalidraw"
+              "icon": "lucide-file",
+              "title": "Lesson 9"
             }
           }
         ],
@@ -115,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -260,8 +261,10 @@
   },
   "active": "ebdde3d239c4a1eb",
   "lastOpenFiles": [
-    "hello.md",
+    "Obsidian/The Vault/Finance-Course/Module-1/Lesson 2.md",
+    "Obsidian/The Vault/Finance-Course/Module-1/Lesson 1.md",
     "Excalidraw/Drawing 2026-03-02 10.55.54.excalidraw.md",
+    "hello.md",
     "Obsidian/The Vault/AI-ML-DL/Artificial intelligence/My notes 1.md",
     "Obsidian/The Vault/Concepts/Cryptography and network security/Cipher (5).md",
     "Obsidian/VirtueCloud/React CI-CD pipeline.md",
@@ -284,8 +287,6 @@
     "Obsidian/The Vault/Personal Notes/Imp's/Self driving Car.md",
     "Obsidian/The Vault/Personal Notes/Imp's/Gate Syllabus.md",
     "Obsidian/The Vault/AI-ML-DL/Machine learning/My notes 1.md",
-    "Obsidian/The Vault/AI-ML-DL/Soft Computing/Notes 2.md",
-    "Obsidian/The Vault/AI-ML-DL/Soft Computing/Notes 3.md",
     "Obsidian/VirtueCloud/Arlo",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
