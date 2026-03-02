@@ -11,25 +11,28 @@
             "id": "234349fb5e5ab60f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian/VirtueCloud/3-tier/3tier diagram.md"
+                "file": "Obsidian/The Vault/AI-ML-DL/Artificial intelligence/My notes 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "3tier diagram"
+              "icon": "lucide-file",
+              "title": "My notes 1"
             }
           },
           {
-            "id": "ddc71267251f21c9",
+            "id": "f9694c6a6d851e8a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -208,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -229,14 +231,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "234349fb5e5ab60f",
+  "active": "f9694c6a6d851e8a",
   "lastOpenFiles": [
+    "Obsidian/The Vault/AI-ML-DL/Artificial intelligence/My notes 1.md",
+    "Obsidian/The Vault/Concepts/Cryptography and network security/Cipher (5).md",
+    "Obsidian/VirtueCloud/React CI-CD pipeline.md",
     "Obsidian/VirtueCloud/3-tier/3tier diagram.md",
     "Obsidian/VirtueCloud/3-tier task.md",
     "Obsidian/VirtueCloud/Terraform.md",
     "Obsidian/VirtueCloud/Docker Cheat Sheet.md",
     "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
-    "Obsidian/VirtueCloud/React CI-CD pipeline.md",
     "Obsidian/VirtueCloud/Notes 2.md",
     "Obsidian/VirtueCloud/Notes 1.md",
     "Obsidian/VirtueCloud/Node - EC2, Reusable Git & Nginx.md",
@@ -255,9 +259,7 @@
     "Obsidian/The Vault/AI-ML-DL/Soft Computing/Notes 3.md",
     "Obsidian/The Vault/AI-ML-DL/Soft Computing/Notes 1.md",
     "Obsidian/VirtueCloud/Arlo/HOTEL AI Table.md",
-    "MY HOTEL APP.md",
     "Obsidian/VirtueCloud/Arlo",
-    "Excalidraw/Drawing 2026-01-23 13.21.23.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
