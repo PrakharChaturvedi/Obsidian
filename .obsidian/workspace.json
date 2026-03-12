@@ -58,9 +58,21 @@
               "icon": "lucide-file",
               "title": "Lesson 9"
             }
+          },
+          {
+            "id": "9953da57e026d639",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -259,7 +271,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebdde3d239c4a1eb",
+  "active": "9953da57e026d639",
   "lastOpenFiles": [
     "Obsidian/The Vault/Finance-Course/Module-1/Lesson 2.md",
     "Obsidian/The Vault/Finance-Course/Module-1/Lesson 1.md",
