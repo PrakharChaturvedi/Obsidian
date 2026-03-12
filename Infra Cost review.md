@@ -1,0 +1,7 @@
+- Our role is to optimize the costing
+- Where to start 
+	- Look at the bill for account 
+		- Tools like cost explorer can be used (AWS Inbuilt)
+	- Let's suppose RDS is highest
+		- If it's serverless service, the charge increases.... 
+		- Billing is changed 
