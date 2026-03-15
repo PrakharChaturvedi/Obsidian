@@ -84,9 +84,21 @@
               "icon": "lucide-file",
               "title": "Infra Cost review"
             }
+          },
+          {
+            "id": "b76a4916e545e39a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-15 23.12.27.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-15 23.12.27.excalidraw"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -285,9 +297,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dba87b2a9ca8cd4f",
+  "active": "b76a4916e545e39a",
   "lastOpenFiles": [
     "Infra Cost review.md",
+    "Excalidraw/Drawing 2026-03-15 23.12.27.excalidraw.md",
     "Obsidian/The Vault/Finance-Course/Module-1/Lesson 2.md",
     "Obsidian/The Vault/Finance-Course/Module-1/Lesson 1.md",
     "Excalidraw/Drawing 2026-03-02 10.55.54.excalidraw.md",
@@ -312,7 +325,6 @@
     "Obsidian/The Vault/Personal Notes/Imp's/Encryption-Algo/Drawing 2025-09-22 21.51.37.excalidraw.md",
     "Obsidian/The Vault/Personal Notes/Imp's/Self-Driving Car.md",
     "Obsidian/The Vault/Personal Notes/Imp's/Self driving Car.md",
-    "Obsidian/The Vault/Personal Notes/Imp's/Gate Syllabus.md",
     "Obsidian/VirtueCloud/Arlo",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
