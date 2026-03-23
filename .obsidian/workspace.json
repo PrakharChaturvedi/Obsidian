@@ -11,12 +11,14 @@
             "id": "dc4cb4187f4d7461",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian/VirtueCloud/3-tier task.md"
+                "file": "Obsidian/VirtueCloud/Arlo/HOTEL AI Table.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "3-tier task"
+              "icon": "lucide-file",
+              "title": "HOTEL AI Table"
             }
           }
         ]
@@ -220,13 +222,16 @@
   },
   "active": "dc4cb4187f4d7461",
   "lastOpenFiles": [
+    "Obsidian/VirtueCloud/3-tier/Commands.md",
+    "Obsidian/VirtueCloud/3-tier/3tier diagram.md",
+    "Obsidian/VirtueCloud/3-tier/Details and steps.md",
+    "Obsidian/VirtueCloud/Terraform.md",
     "Obsidian/VirtueCloud/3-tier task.md",
     "Obsidian/VirtueCloud/Docker Cheat Sheet.md",
     "Obsidian/VirtueCloud/Node - EC2, Reusable Git & Nginx.md",
     "Obsidian/VirtueCloud/Notes 1.md",
     "Obsidian/VirtueCloud/Notes 2.md",
     "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
-    "Obsidian/VirtueCloud/Terraform.md",
     "Obsidian/VirtueCloud/React CI-CD pipeline.md",
     "Obsidian/The Vault/AI-ML-DL/Artificial intelligence/My notes 1.md",
     "hello.md",
@@ -237,15 +242,12 @@
     "Obsidian/The Vault/Finance-Course/Module-1/Lesson 1.md",
     "Excalidraw/Drawing 2026-03-02 10.55.54.excalidraw.md",
     "Obsidian/The Vault/Concepts/Cryptography and network security/Cipher (5).md",
-    "Obsidian/VirtueCloud/3-tier/3tier diagram.md",
     "Obsidian/The Vault/Concepts/Cloud Computing/Notes 1.md",
     "Obsidian/The Vault/Programming/Projects/kuru/Kuru.md",
     "Obsidian/The Vault/Programming/Projects/kuru/Drawing 2025-03-21 01.06.29.excalidraw.md",
     "Obsidian/The Vault/Programming/Projects/ScoringApp/Features.md",
     "Obsidian/The Vault/Personal Notes/Imp's/Path.md",
     "Obsidian/The Vault/Personal Notes/Imp's/Internships Summer 25.md",
-    "Obsidian/The Vault/Personal Notes/Imp's/Encryption-Algo/Drawing 2025-09-22 21.51.37.excalidraw.md",
-    "Obsidian/The Vault/Personal Notes/Imp's/Self-Driving Car.md",
     "Obsidian/VirtueCloud/Arlo",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
