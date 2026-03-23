@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "S3",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -67,6 +67,6 @@
   "repelStrength": 6.09562982005141,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.2588147186176174,
+  "scale": 0.4221685625379065,
   "close": true
 }
