@@ -11,12 +11,14 @@
             "id": "dc4cb4187f4d7461",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian/VirtueCloud/3-tier/3tier diagram.md"
+                "file": "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "3tier diagram"
+              "icon": "lucide-file",
+              "title": "Reusable GitHub workflow"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -221,18 +222,18 @@
   },
   "active": "dc4cb4187f4d7461",
   "lastOpenFiles": [
-    "Obsidian/VirtueCloud/3-tier/3tier diagram.md",
+    "Obsidian/VirtueCloud/React CI-CD pipeline.md",
+    "Obsidian/VirtueCloud/Notes 2.md",
+    "Obsidian/VirtueCloud/Notes 1.md",
     "Obsidian/VirtueCloud/3-tier task.md",
+    "Obsidian/VirtueCloud/Docker Cheat Sheet.md",
+    "Obsidian/VirtueCloud/Node - EC2, Reusable Git & Nginx.md",
+    "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
+    "Obsidian/VirtueCloud/3-tier/3tier diagram.md",
     "Obsidian/VirtueCloud/Arlo/HOTEL AI Table.md",
     "Obsidian/VirtueCloud/3-tier/Commands.md",
     "Obsidian/VirtueCloud/3-tier/Details and steps.md",
     "Obsidian/VirtueCloud/Terraform.md",
-    "Obsidian/VirtueCloud/Docker Cheat Sheet.md",
-    "Obsidian/VirtueCloud/Node - EC2, Reusable Git & Nginx.md",
-    "Obsidian/VirtueCloud/Notes 1.md",
-    "Obsidian/VirtueCloud/Notes 2.md",
-    "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
-    "Obsidian/VirtueCloud/React CI-CD pipeline.md",
     "Obsidian/The Vault/AI-ML-DL/Artificial intelligence/My notes 1.md",
     "hello.md",
     "Obsidian/The Vault/Finance-Course/Module-3/Lesson 9.md",
