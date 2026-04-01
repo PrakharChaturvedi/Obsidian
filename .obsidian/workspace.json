@@ -25,12 +25,12 @@
             "id": "a327aefff069c441",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Obsidian/VirtueCloud/3-tier/3tier diagram.md"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "excalidraw-icon",
+              "title": "3tier diagram"
             }
           }
         ],
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -233,19 +234,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a327aefff069c441",
+  "active": "9eef30bda4526e99",
   "lastOpenFiles": [
+    "Obsidian/VirtueCloud/3-tier/3tier diagram.md",
+    "Obsidian/VirtueCloud/3-tier/Commands.md",
+    "Obsidian/VirtueCloud/3-tier/Details and steps.md",
+    "Obsidian/VirtueCloud/3-tier task.md",
+    "Obsidian/VirtueCloud/Docker Cheat Sheet.md",
+    "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
     "Obsidian/VirtueCloud/React CI-CD pipeline.md",
     "Obsidian/VirtueCloud/Notes 2.md",
     "Obsidian/VirtueCloud/Notes 1.md",
-    "Obsidian/VirtueCloud/3-tier task.md",
-    "Obsidian/VirtueCloud/Docker Cheat Sheet.md",
     "Obsidian/VirtueCloud/Node - EC2, Reusable Git & Nginx.md",
-    "Obsidian/VirtueCloud/Reusable GitHub workflow.md",
-    "Obsidian/VirtueCloud/3-tier/3tier diagram.md",
     "Obsidian/VirtueCloud/Arlo/HOTEL AI Table.md",
-    "Obsidian/VirtueCloud/3-tier/Commands.md",
-    "Obsidian/VirtueCloud/3-tier/Details and steps.md",
     "Obsidian/VirtueCloud/Terraform.md",
     "Obsidian/The Vault/AI-ML-DL/Artificial intelligence/My notes 1.md",
     "hello.md",
