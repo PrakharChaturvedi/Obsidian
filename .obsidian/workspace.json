@@ -32,9 +32,21 @@
               "icon": "excalidraw-icon",
               "title": "3tier diagram"
             }
+          },
+          {
+            "id": "7991621de92a1c16",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-01 13.05.47.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-01 13.05.47.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,9 +246,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9eef30bda4526e99",
+  "active": "7991621de92a1c16",
   "lastOpenFiles": [
     "Obsidian/VirtueCloud/3-tier/3tier diagram.md",
+    "Excalidraw/Drawing 2026-04-01 13.05.47.excalidraw.md",
     "Obsidian/VirtueCloud/3-tier/Commands.md",
     "Obsidian/VirtueCloud/3-tier/Details and steps.md",
     "Obsidian/VirtueCloud/3-tier task.md",
@@ -261,7 +274,6 @@
     "Obsidian/The Vault/Programming/Projects/kuru/Kuru.md",
     "Obsidian/The Vault/Programming/Projects/kuru/Drawing 2025-03-21 01.06.29.excalidraw.md",
     "Obsidian/The Vault/Programming/Projects/ScoringApp/Features.md",
-    "Obsidian/The Vault/Personal Notes/Imp's/Path.md",
     "Obsidian/VirtueCloud/Arlo",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
