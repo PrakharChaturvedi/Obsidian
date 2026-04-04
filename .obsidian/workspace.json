@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "7ea07aeabdad2555",
@@ -248,8 +247,8 @@
   },
   "active": "7991621de92a1c16",
   "lastOpenFiles": [
-    "Obsidian/VirtueCloud/3-tier/3tier diagram.md",
     "Excalidraw/Drawing 2026-04-01 13.05.47.excalidraw.md",
+    "Obsidian/VirtueCloud/3-tier/3tier diagram.md",
     "Obsidian/VirtueCloud/3-tier/Commands.md",
     "Obsidian/VirtueCloud/3-tier/Details and steps.md",
     "Obsidian/VirtueCloud/3-tier task.md",
